@@ -1,0 +1,132 @@
+METADATA_SOURCE: Court Records\Davies v. Indyke, No. 119-cv-10788 (S.D.N.Y. 2019)
+METADATA_FILENAME: 036.pdf
+----------------------------------------
+Troutman Sanders LLP 
+875 Third Avenue 
+New York, New York  10022 
+troutman.com 
+Bennet J. Moskowitz 
+D: 212-704-6000 
+bennet.moskowitz@troutman.com 
+April 10, 2020 
+ELECTRONIC COURT FILING 
+Hon. Debra Freeman 
+Daniel Patrick Moynihan 
+United States Courthouse 
+500 Pearl Street 
+New York, New York 10007-1312 
+Re: 
+Teala Davies v. Darren K. Indyke and Richard D. Kahn, as Executors of the Estate 
+of Jeffrey E. Epstein, 1:19-cv-10788 (GHW) (DCF) 
+Dear Judge Freeman: 
+We represent Defendants Darren K. Indyke and Richard D. Kahn, Co-Executors of the 
+Estate of Jeffrey E. Epstein (together, the “Co-Executors”), in the above-referenced action. We 
+write in response to Plaintiff Teala Davies’ (“Plaintiff”) April 8, 2020 letter (ECF No. 35) seeking 
+to strike an argument from the Co-Executors’ reply brief in support of their motion to dismiss 
+Plaintiff’s claims based on torts that allegedly occurred over fifteen years ago. Plaintiff’s 
+counsel filed their letter, without first conferring with us, incorrectly claiming that the Co-
+Executors raised a new legal argument in their reply, and supplying new argument themselves, 
+in a rushed attempt at a do-over following their failure to avoid the correct version of the statute 
+of limitations applicable to Plaintiff’s claims based on conduct that allegedly occurred in New 
+Mexico in 2002. The Court should reject Plaintiff’s request for at least five reasons.  
+First, there is no “new” argument here. Plaintiff’s counsel argues that the Co-Executors’ 
+reply brief “attempts for the first time to suggest that a different legal standard applies.” (ECF 
+No. 35 at 2.) That is wrong. The Co-Executors contended from the outset, and continue to 
+contend, that Plaintiff’s New Mexico claims are time-barred. The Co-Executors argued this in 
+both their motion to dismiss and their reply. (ECF No. 27 at 4; ECF No. 34 at 4.) And Plaintiff’s 
+counsel concedes that the Co-Executors “correctly identified the applicable New Mexico law.” 
+(ECF No. 35 at 1). Plaintiff has thus been aware since day one that the Co-Executors are 
+moving to dismiss her claims as time-barred and was apprised of the legal bases for that 
+motion. 
+Even where an argument in a party’s reply brief is deemed an “extension” of an 
+argument made in its moving brief, the argument is not “new.” Niv v. Hilton Hotels Corp., 710 F. 
+Supp. 2d 328, 338 n.4 (S.D.N.Y. 2008). In Niv, the court rejected plaintiff’s letter request to 
+disregard defendants’ argument that Israel was an adequate alternative forum on the ground it 
+Case 1:19-cv-10788-GHW-DCF     Document 36     Filed 04/10/20     Page 1 of 3
+troutmariP 
+sanders 
+
+April 10, 2020 
+Page 2 
+was newly raised in defendants’ reply. Id. The Niv court held that the argument was not new, as 
+defendants’ motion argued that New York was not an adequate forum, and thus the contention 
+that Israel was an adequate forum was simply an extension of this argument. Id. 
+There is also no unfair surprise1 warranting the Court’s disregard of the Co-Executors’ 
+legal arguments. See Ruggiero v. Warner-Lambert Co., 424 F.3d 249, 252 (2d Cir. 2005) 
+(finding plaintiff could not claim she was “blind-sided” by defendants’ reliance on a particular 
+argument that was raised, albeit more generally, in defendants’ moving papers).  
+Second, even if an argument is deemed “new,” where, as here, it is reasonable to expect 
+that argument, it is not prejudicial for the Court to consider it. Niv, 710 F. Supp. 2d at 338 n.4 
+(“[E]ven if considered a new argument, the Court believes that it was reasonable to expect this 
+argument and therefore it is not prejudicial to plaintiffs to consider those materials.”). 
+Third, even if the Co-Executors supplied a new argument in their reply brief—they did 
+not—the Court has the discretion to and should consider it in the interest of justice. See Am. 
+Hotel Int’l Grp. Inc. v. OneBeacon Ins. Co., 611 F. Supp. 2d 373, 375 (S.D.N.Y. 2009) (“[T]he 
+Second Circuit has made it abundantly clear that a district court has discretion to consider a 
+belatedly-raised argument.”); Niv, 710 F. Supp. 2d at 338 n.4 (holding a court may consider a 
+new argument raised in reply where “in the interest of justice”). The correct version of the statute 
+applicable to Plaintiff’s New Mexico claims is a potentially dispositive legal issue this Court must 
+determine. This Court should not be precluded from considering that version merely because 
+Plaintiff failed to consider it. That is especially so where, as here, Plaintiff does not contend that 
+she has been unfairly prejudiced or surprised. 
+Fourth, Plaintiff’s substantive argument—that, even under the correct version of the 
+statute, her claims arising from alleged acts in New Mexico are timely—is incorrect. The 
+applicable version of the statute of limitations required her to commence an action by the later 
+of: (1) the first instant of the person’s twenty-fourth birthday (“Prong One”); or (2) three years 
+from the date of the time that a person knew or had reason to know of the childhood sexual 
+abuse and that the childhood sexual abuse resulted in an injury to the person, as established 
+by competent medical or psychological testimony (“Prong Two”). Kevin J. v. Sager, 2000-
+NMCA-012, ¶ 7, 128 N.M. 794, 796-97, 999 P.2d 1026, 1028-29 (citing the correct version of 
+N.M. Stat. § 37-1-30, emphasis added). Plaintiff alleges in her Complaint that she “still has not 
+disclosed her abuse to a licensed medical or mental health care provider in the context of 
+receiving health care from that provider.” (ECF No. 1 ¶ 67.) Because there is no date under 
+Prong Two, Plaintiff must have filed her claims by the date established in Prong One. Because 
+Plaintiff’s Complaint establishes conclusively that she knew she was abused and injured in New 
+Mexico in 2002, and that she turned twenty-four in 2009, her claims expired under Prong One 
+10 years ago. (ECF No. 1 ¶¶ 34, 42-45.)  
+Plaintiff’s reliance on Kevin J. v. Sager is misplaced. In Kevin J., plaintiff saw a licensed 
+counselor who helped plaintiff understand the abuse he had suffered and established the date 
+upon which this understanding occurred. 128 N.M. at 795. Here, Plaintiff concedes she has not 
+seen a licensed medical or mental health care provider.   
+1 Plaintiff does not claim she was surprised or unfairly prejudiced by the so-called “new argument.” 
+Case 1:19-cv-10788-GHW-DCF     Document 36     Filed 04/10/20     Page 2 of 3
+troutman1' 
+sanders 
+
+April 10, 2020 
+Page 3 
+Fifth, Plaintiff continues to ignore that, under New York’s borrowing statute, CPLR § 202, 
+which is applicable to federal diversity actions such as this,2 her claim must be timely under the 
+statute of limitations of both New York and the jurisdiction where the claim accrued. Thus, even 
+if Plaintiff’s claims were timely under New Mexico law—they are not—they still fail because they 
+are untimely under New York law. At the time Plaintiff was allegedly sexually assaulted in 2002, 
+New York’s statute of limitations required a plaintiff sexually assaulted as a minor to file her 
+cause of action one year after reaching the age of 18. (CPLR 208; CPLR 215(c).) According to 
+the Complaint, Plaintiff turned 18 sometime in 2003. Accordingly, her claims for alleged torts 
+occurring in New Mexico while she was a minor expired in 2004.3
+In sum, Plaintiff has not demonstrated that the Co-Executors rely on a new argument in 
+their reply and concedes the Co-Executors have always argued that Plaintiff’s New Mexico 
+claims were untimely under N.M. Stat. § 37-1-30. Nor has Plaintiff established any unfair 
+prejudice or surprise warranting disregard of the Co-Executors’ legal arguments. Finally, Plaintiff 
+is incorrect on the merits, as her claims are untimely.  
+The real issue here is that Plaintiff failed to plead around the correct version of N.M. Stat 
+§ 37-1-30 in her Complaint or to address it in her opposition brief. The version she (erroneously) 
+attempted to invoke is inapplicable to her claims because it became effective years after those 
+claims expired. That Plaintiff missed this important legal issue and did not address the proper 
+version of the statute in her Complaint or opposition brief is not a basis on which to disregard 
+the Co-Executors’ arguments, nor to permit Plaintiff to offer new argument by de facto sur-reply 
+brief submitted without leave of the Court. The Court should reject Plaintiff’s letter motion and 
+grant the Co-Executors’ motion to dismiss Plaintiff’s Complaint (ECF. No. 27). 
+Respectfully submitted, 
+s/Bennet J. Moskowitz 
+Bennet J. Moskowitz 
+2 “In diversity cases in New York, federal courts apply … C.P.L.R. § 202.” Commerzbank AG v. Deutsche 
+Bank Nat'l Tr. Co., 234 F. Supp. 3d 462, 467 (S.D.N.Y. 2017) (citation omitted). 
+3 Plaintiff’s New Mexico claims were not revived by CPLR § 214-g, the “Child Victim’s Act,” as they do not 
+state a claim for a violation of New York’s Penal Law § 130, a necessary predicate for application of the 
+Child Victim’s Act. (Applying to claims for “injury or condition suffered as a result of conduct which would 
+constitute a sexual offense as defined in article one hundred thirty of the penal law committed against a 
+child less than eighteen years of age… .”)
+Case 1:19-cv-10788-GHW-DCF     Document 36     Filed 04/10/20     Page 3 of 3
+troutman1' 
+sanders 

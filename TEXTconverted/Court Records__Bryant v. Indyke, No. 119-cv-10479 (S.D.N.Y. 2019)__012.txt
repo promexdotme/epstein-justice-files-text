@@ -1,0 +1,153 @@
+METADATA_SOURCE: Court Records\Bryant v. Indyke, No. 119-cv-10479 (S.D.N.Y. 2019)
+METADATA_FILENAME: 012.pdf
+----------------------------------------
+Troutman Sanders LLP 
+875 Third Avenue 
+New York, New York  10022 
+troutman.com 
+Bennet J. Moskowitz 
+bennet.moskowitz@troutman.com 
+January 24, 2020 
+ECF 
+Hon. Andrew L. Carter Jr. 
+Thurgood Marshall 
+United States Courthouse 
+40 Foley Square 
+New York, NY 10007 
+Re: 
+Juliette Bryant v. Darren K. Indyke and Richard D. Kahn, in their capacities as 
+executors of the Estate of Jeffrey E. Epstein, 1:19-cv-10479-ALC-DCF
+Dear Judge Carter: 
+We represent Defendants Darren K. Indyke and Richard D. Kahn, Co-Executors of the Estate of 
+Jeffrey E. Epstein (together, the “Co-Executors”), in the above-referenced action.  We write 
+pursuant to Your Honor’s Individual Practice § 2(A) to set forth the bases for the Co-Executors’ 
+anticipated motion pursuant to Fed. R. Civ. P. 12(b)(6) to dismiss the time-barred claims and 
+punitive damages demand in Plaintiff Juliette Bryant’s (“Plaintiff”) Complaint (ECF No. 1). 
+1. Plaintiff is a South African resident who alleges Decedent committed torts against 
+her from 2002 to 2004 when she was an adult, in various jurisdictions.  
+Plaintiff, who claims South African citizenship and residency, alleges that, from 2002 (when she 
+was 20) to 2004, Mr. Epstein (“Decedent”), now deceased, committed various sexual offenses 
+against her in the U.S. Virgin Islands (“USVI”), France, Florida, New Mexico and New York. 
+(Compl. ¶¶ 16, 38, 50, 55.)  Plaintiff asserts two causes of action -- battery and intentional 
+infliction of emotional distress -- and demands punitive damages. (Id. ¶¶ 54-64, p. 15.) 
+2. Plaintiff’s causes of action are time-barred. 
+CPLR § 202 provides that, when a non-N.Y. resident such as Plaintiff sues on causes of action 
+accruing outside N.Y., the complaint must be timely under the statute of limitations (“SOL”) of 
+both N.Y. and the jurisdiction where the claim accrued.1  Plaintiff’s causes of action expired by: 
+2006 per the USVI’s 2-year SOL (5 V.I.C. § 31(5)(A)); 2008 per FL’s 4-year SOL (Fla. Stat. § 
+95.11 (3)(O)); 2007 per N.M.’s 3-year SOL (N.M. Stat. § 37-1-8); and 2005 or 2007 per N.Y.’s 1- 
+or 3-year SOL (CPLR §§ 214(5), 215(3)).  
+3. Plaintiff’s attempts to plead around the statutes of limitations fail. 
+Plaintiff erroneously alleges her claims are timely per CPLR § 213-c or § 215(8)(a), her claims 
+were equitably tolled, and that the Co-Executors are equitably estopped from asserting an SOL 
+defense (Compl. ¶¶ 12-15). Each of these arguments fails as a matter of law.   
+1 “In diversity cases in New York, federal courts apply … C.P.L.R. § 202.” Commerzbank AG v. Deutsche 
+Bank Nat'l Tr. Co., 234 F. Supp. 3d 462, 467 (S.D.N.Y. 2017) (citation omitted). 
+Case 1:19-cv-10479-ALC-DCF   Document 12   Filed 01/24/20   Page 1 of 4
+troutmariP 
+sanders 
+
+Hon. Andrew L. Carter Jr. 
+January 24, 2020 
+Page 2
+First, neither CPLR § 213-c nor § 215(8)(a) applies here. The 20 year SOL in CPLR § 213-c 
+became effective as of September 18, 2019; the SOL was 5 years as of 2006 and 1 year before 
+then. (L. 2006, ch 3, § 5(b).) However, the 20-year SOL does not apply retroactively except 
+“where the applicable [SOL] in effect on the date of such act or omission has not yet expired.” L. 
+2019, ch. 315, §4. Therefore, CPLR § 213-c cannot revive Plaintiff’s claims arising from torts 
+committed in N.Y.  
+Separately, CPLR § 215(8)(a) provides: “Whenever it is shown that a criminal action against the 
+same defendant has been commenced with respect to the event or occurrence from which a 
+claim governed by this section arises, the plaintiff shall have at least one year from the 
+termination of the criminal action …  to commence the civil action” (emphasis added). 
+Decedent’s criminal indictment (the “Indictment”) attached to Plaintiff’s Complaint does not 
+concern Plaintiff’s allegations.  Rather, the indictment charges Decedent sexually abused “minor 
+girls” (Compl., Ex. A at ¶ 1), stating throughout that it concerns sex trafficking of “minors.” (Id., 
+Ex. A at ¶¶2 - 4, 6, 8, 11- 15, 18 - 20, 22.) Because Plaintiff alleges she was an adult when 
+Decedent abused her, her action and the Indictment arise from different occurrences. 
+New York courts apply CPLR § 215(8)(a) narrowly. See Christodoulou v. Terdeman, 262 AD2d 
+595, 596 (2d Dept. 1999) (CPLR § 215(8)(a) applied only to claims based on events of February 
+26, 1993 and December 28, 1993, because it was only in connection with events of those two 
+days that a criminal prosecution was commenced against defendant); Gallina v. Thatcher, No. 
+2017-52980, 2018 N.Y. Misc. LEXIS 8435 (Sup. Ct. Dutchess Cnty. Oct. 23, 2018) (CPLR § 
+215(8)(a) inapplicable where incidents charged in criminal action and those alleged in civil 
+action occurred on different dates); McElligott v. City of N.Y., 15-cv-7107 (LGS), 2017 U.S. Dist. 
+LEXIS 201829, at *13 (S.D.N.Y. Dec. 7, 2017) (CPLR § 215(8)(a) inapplicable to claims against 
+civil defendants not charged as co-defendants in criminal action, notwithstanding same events 
+gave rise to both actions).  Plaintiff alleges a far more tenuous connection to the Indictment than 
+the criminal-civil links unsuccessfully asserted in those cases.   
+Second, even if CPLR § 213-c and § 215(8)(a) apply, which they do not, Plaintiff’s claims for 
+torts committed outside N.Y. are still untimely per the limitations periods of those jurisdictions 
+and CPLR § 202.  While Plaintiff alleges Decedent raped her within 20 years of filing her 
+Complaint (Compl. ¶13), she does not allege that occurred in N.Y. Plaintiff’s claims for torts 
+outside N.Y. are untimely.  
+Third, Plaintiff fails to meet her burden to allege extraordinary circumstances sufficient to justify 
+tolling or equitable estoppel. Equitable tolling is only applied where a plaintiff is “prevented in 
+some extraordinary way from exercising h[er] rights.” Viti v. Guardian Life Ins. Co. of Am., 10-cv-
+2908 (ALC) (MHD), 2012 U.S. Dist. LEXIS 189633, at *30 (S.D.N.Y. Oct. 5, 2012), adopted by, 
+2013 U.S. Dist. LEXIS 174145 (S.D.N.Y. Dec. 11, 2013) (emphasis added) (citations omitted).   
+Under this doctrine, a court may, “under compelling circumstances, make narrow exceptions to 
+the statute of limitations … ‘to prevent inequity.’” Id. (emphasis added) (citations omitted).  “That 
+the doctrine is to be employed only sparingly -- in ‘extraordinary’ and ‘compelling’ circumstances 
+-- is reflected in the fact that the plaintiff bears the burden of persuasion to show that tolling is 
+justified.” Id. (emphasis added) (citing Boos v. Runyon, 201 F.3d 178, 185 (2d Cir. 2000)).  A 
+late-filing party seeking equitable tolling must also demonstrate she acted with “reasonable 
+Case 1:19-cv-10479-ALC-DCF   Document 12   Filed 01/24/20   Page 2 of 4
+troutman1' 
+sanders 
+
+Hon. Andrew L. Carter Jr. 
+January 24, 2020 
+Page 3
+diligence” in pursuing her claims during the period she seeks to toll.  Id. at *32 (citation omitted). 
+Equitable estoppel only applies where a plaintiff knows her cause of action exists but the 
+defendant’s conduct causes her to delay in bringing her lawsuit. Yesh, 2010 U.S. Dist. LEXIS 
+101744, at *5 (citation omitted). Equitable estoppel requires a plaintiff to show: (i) the defendant 
+made a definite misrepresentation of fact and had reason to believe the plaintiff would rely on it; 
+and (ii) the plaintiff reasonably relied on the misrepresentation to her detriment. Id. (citation 
+omitted).  Tolling is inappropriate where, as here, a plaintiff fails to articulate any acts by a 
+defendant that prevented her from timely commencing suit. Id. at *6 (citation omitted).   
+Plaintiff’s threadbare allegations of “deception,” “threats” and the like (Compl. ¶14) do not 
+establish “extraordinary” circumstances justifying tolling.  Nor has Plaintiff alleged (i) that 
+Decedent made a misrepresentation to her and had reason to believe she would rely on it, or (ii) 
+that Plaintiff reasonably relied on it to her detriment.   
+4. Plaintiff’s claim for punitive damages fails as a matter of law.2
+Plaintiff’s punitive damages claim must be dismissed as a matter of law because none of the 
+jurisdictions where the alleged torts occurred permits punitive damages against a decedent 
+tortfeasor’s estate. See Poindexter v. Zacharzewski, 18-14155, 2018 U.S. Dist. LEXIS 189861, 
+at *6 (Nov. 5, 2018 S.D. Fla.) (“Florida law prohibits recovery of punitive damages from the 
+estate of a wrongdoer who is deceased.”); Jaramillo v. Providence Wash. Ins. Co., 117 N.M. 
+337, 346 (N.M. 1994) (“punishment and deterrence are not accomplished by enabling recovery 
+of punitive damages from the estate”); NY EPTL § 11-3.2 (a)(1) (“an action may be brought or 
+continued against the personal representative of the decedent, but punitive damages shall not 
+be awarded nor penalties adjudged in any such action brought to recover damages for personal 
+injury.”); Powell v. Chi-Co’s Distrib., ST-13-TOR-14, 2014 V.I. LEXIS 21, at *5 n.13 (U.S.V.I. 
+Super. Ct. Apr. 3, 2014) (Restat. §908(2) “reflects the common law of this jurisdiction”).3 That is 
+the law in most jurisdictions, as reflected in the Restatement.  See Restat. (Second) Of Torts § 
+908 cmt. a (punitive damages not available against representatives of deceased tortfeasor).4
+2 Courts in this District regularly dismiss punitive damages claims.  See The Cookware Co. (USA), LLC v. 
+Austin, 15-5796, 2016 U.S. Dist. LEXIS 177691, at *17 (S.D.N.Y. Dec. 8, 2016) (dismissing punitive 
+damages claim without leave to replead); SJB v. N.Y.C. Dep’t of Educ., 03-6653, 2004 U.S. Dist. LEXIS 
+13227, at *25-26 (S.D.N.Y. Jul. 14, 2004) (dismissing punitive damages claims not statutorily available). 
+3 To determine common law, USVI courts consider: (1) whether USVI courts previously adopted a rule; 
+(2) the position taken by a majority of other jurisdictions; and (3) which approach is the soundest for the 
+USVI.  Gov’t of Virgin Islands v. Connor, No. S. CT. CIV. 2013-0095, 2014 WL 702639, at *1 (V.I. Feb. 
+24, 2014).  These factors favor the Co-Executors: (1) pre-Banks, USVI courts expressed approval for 
+Restat. § 908 (see Hamilton v. Dowson Holding Co., 51 V.I. 619, 628 (D.V.I. 2009) (considering the 
+inverse issue)); (2) a majority of other jurisdictions preclude punitive damages against a tortfeasor’s 
+estate (2 Linda L. Schlueter, Punitive Damages § 20.4 (7th ed. 2015)); and (3) post-Banks, USVI courts 
+have held § 908 is the soundest rule (Powell, supra.).   
+4 France does not recognize punitive damages. Punitive Damages, supra., at § 22.4 (citation omitted). 
+Case 1:19-cv-10479-ALC-DCF   Document 12   Filed 01/24/20   Page 3 of 4
+troutman1' 
+sanders 
+
+Hon. Andrew L. Carter Jr. 
+January 24, 2020 
+Page 4
+Respectfully submitted, 
+s/Bennet J. Moskowitz 
+Bennet J. Moskowitz 
+Case 1:19-cv-10479-ALC-DCF   Document 12   Filed 01/24/20   Page 4 of 4
+troutman1' 
+sanders 

@@ -1,0 +1,130 @@
+METADATA_SOURCE: Court Records\Doe v. Epstein, No. 908-cv-80804 (S.D. Fla. 2008)
+METADATA_FILENAME: 007.pdf
+----------------------------------------
+1
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF FLORIDA
+NO. 08-80804-CIV-MARRA/JOHNSON
+JANE DOE a/k/a
+JANE DOE NO. 1,
+Plaintiff,
+v.
+JEFFREY EPSTEIN, HALEY
+ROBSON, and SARAH
+KELLEN,
+Defendants.
+___________________________/
+ORDER DENYING MOTION TO STAY
+THIS CAUSE comes before the Court on Defendants Jeffrey Epstein and Sarah Kellen’s
+Motion to Stay, filed under seal on July 25, 2008.  The Court has carefully considered the motion
+and is otherwise fully advised in the premises.
+Defendant Jeffrey Epstein (“Defendant”) seeks a stay of this civil action under a federal
+statute which reads, in pertinent part, as follows:
+If, at any time that a cause of action for recovery of compensation for
+damage or injury to the person of a child exists, a criminal action is
+pending which arises out of the same occurrence and in which the child is
+the victim, the civil action shall be stayed until the end of all phases of the
+criminal action and any mention of the civil action during the criminal
+proceeding is prohibited. As used in this subsection, a criminal action is
+pending until its final adjudication in the trial court.
+18 U.S.C. § 3509 (k).  In his motion, Defendants cite a federal case, In re Grand Jury, No. FGJ
+Case 9:08-cv-80804-KAM   Document 7   Entered on FLSD Docket 08/06/2008   Page 1 of 5
+
+Defendant attempts to argue that the fact that grand jury subpoenas are still
+1
+“outstanding” and “in abeyance” and that the grand jury will not be dismissed until Defendant
+completes his obligations under the state plea agreement means that a “criminal action” is
+“pending.”  (Def. Mot. 4.)  Defendant misunderstands the purpose of a grand jury.  A grand jury,
+as Blackstone writes, is composed of citizens who “inquire, upon their oaths, whether there be
+sufficient cause to call upon the party to answer” the charge of criminal activity.  Beavers v.
+Henkel, 194 U.S. 73, 84 (1904) (quoting William Blackstone, 4 Commentaries *303).  The grand
+jury’s sole purpose is to inquire into whether there is probable cause to bring an individual before
+a tribunal to determine his guilt or innocence of an alleged crime.  Id.  The grand jury is simply
+an investigative body.  See U.S. v. Alred, 144, F.3d 1405, 1413 (11  Cir. 1998).  A “criminal
+th
+action” is not instigated by the calling of a grand jury, because a grand jury is convened “to
+determine whether a crime has been committed and whether criminal proceedings should be
+instituted against any person.”  U.S. v. Calandra, 414 U.S. 338, 344 (1974).   An “action” is
+commenced against a person after the grand jury actually finds probable cause to make an
+individual answer specific charges and renders a bill of indictment against that individual.  Until
+a grand jury’s investigation is complete and there has been a determination by a lawful authority
+that probable cause exists, there can be no criminal action.
+2
+07-103(WPB) (S.D. Fla.), that arises out of the same occurrence as this civil action and is
+pending so that a stay of this civil case is mandated.  The federal “case,” according to Defendant,
+involves a “deferred-prosecution” agreement whereby the U.S. Attorney agreed to suspend its
+investigation of Defendant while “retaining the right to reactivate the grand jury.”  (Def. Mot. 2.) 
+Defendant essentially reasons, because the U.S. Attorney could bring criminal charges against
+Defendant, that a criminal action is “pending.”  The Court rejects this definition of a “pending
+criminal action.” 
+When interpreting the text of a statute, the Court begins with the plain meaning of the
+text.  In re Hedrick, 524 F.3d 1175, 1186 (11  Cir. 2008).  If the plain meaning of a statute is
+th
+clear, the Court should not deviate from that interpretation.  Id.  Pending is defined as “remaining
+undecided” and “awaiting decision.”  Blacks Law Dictionary (8  ed. 2004).   Likewise, an
+th
+1
+“action” is defined as a “criminal judicial proceeding.”  Id.  Because the U.S. Attorney has not
+filed an indictment or an information against Defendant, the Court fails to see how there is an
+Case 9:08-cv-80804-KAM   Document 7   Entered on FLSD Docket 08/06/2008   Page 2 of 5
+
+In fact, Congress made this intent clear by stating that this broader definition of a
+2
+“criminal action” applied only “in this subsection.”
+3
+undecided judicial proceeding in federal court against Defendant. 
+Defendant argues that this statute should be read to include the definition of “criminal
+action” used in 18 U.S.C. § 1595(b)(2), which reads as follows: “In this subsection, a ‘criminal
+action’ includes investigation and prosecution and is pending until final adjudication in the trial
+court.”  Defendant argues that “Congress specifically intended that the term ‘criminal action’
+would be applied extremely broadly” under § 1595, so Congress “took pains to ensure that courts
+would give it the broadest possible construction” and defined “criminal action” as including
+investigatory stages.  (Def. Reply 9.)  Defendants argue that the Court should borrow this
+definition.
+The Court disagrees.  The Court believes that Congress’s inclusion of this broader
+definition under § 1595 evinces Congressional intent to depart from the normal meaning of the
+term “criminal action.”   This addition to the text suggests that Congress knows the plain
+2
+meaning of the term “criminal action” and that Congress decided, under § 1595, that the
+definition of “criminal action” should be broader.  In contrast, Congress could have made such an
+addition to § 3509 had it intended the mandatory stay provision to apply to pre-indictment
+investigations, but it did not.  In other words, by not broadening the definition of “criminal
+action” § 3509, Congress intended that the term should only have its ordinary meaning: that an
+indictment or information has been filed naming a specific defendant.  Instead, it seems clear that
+Congress intended that these two statutory provisions should each have a different scope. 
+Defendant’s argument of statutory construction fails.
+Case 9:08-cv-80804-KAM   Document 7   Entered on FLSD Docket 08/06/2008   Page 3 of 5
+
+4
+The single case cited by Defendant in support of his motion is not on point.  In Doe 1 v.
+Francis, No. 5:03CV260/MCR/WCS, 2005 WL 517847 (N.D. Fla. Feb. 10, 2005), the stay was
+entered because criminal charges had been filed against the defendant in a state court several
+months earlier (i.e., the defendants had been indicted by the state attorney).  See Memorandum in
+Support of Motion to Stay Proceedings Pending Outcome of Parallel Criminal Proceedings at 3,
+Doe 1 v. Francis, No. 5:03CV260/MCR/WCS (N.D. Fla. Dec. 2, 2003).  The Court agrees with
+Defendant that a stay under § 3509(k) is mandatory when a criminal action is pending; the Court
+simply disagrees that the “deferred-prosecution agreement” constitutes a pending criminal action.
+The Court also does not believe a discretionary stay is warranted.  Defendant did not seek
+this relief in his motion; including such a request in the reply brief is inappropriate.  Further, the
+Court sees no reason to delay this litigation for the next thirty-three months.  After all, Defendant
+is in control of his own destiny – it is up to him (and him alone) whether the plea agreement
+reached with the State of Florida is breached.  If Defendant does not breach the agreement, then
+he should have no concerns regarding his Fifth Amendment right against self-incrimination.  The
+fact that the U.S. Attorney (or other law enforcement officials) may object to some discovery in
+these civil cases is not, in an of itself, a reason to stay the civil action.  Any such issues shall be
+resolved as they arise in the course of this litigation.
+Accordingly, it is ORDERED AND ADJUDGED as follows:
+1.  Defendant’s Motion to Stay is DENIED.  
+Case 9:08-cv-80804-KAM   Document 7   Entered on FLSD Docket 08/06/2008   Page 4 of 5
+
+5
+2.  Defendant’s Motion for Hearing (DE 2) is DENIED AS MOOT.  
+DONE AND ORDERED in Chambers at West Palm Beach, Palm Beach County,
+Florida, this 5   day of August, 2008.
+th
+___________________________________
+KENNETH A. MARRA
+United States District Judge
+Copies furnished to:
+all counsel of record
+Case 9:08-cv-80804-KAM   Document 7   Entered on FLSD Docket 08/06/2008   Page 5 of 5

@@ -1,0 +1,551 @@
+METADATA_SOURCE: Court Records\Helm v. Indyke, No. 119-cv-10476 (S.D.N.Y. 2019)
+METADATA_FILENAME: 035.pdf
+----------------------------------------
+Troutman Sanders LLP 
+875 Third Avenue 
+New York, New York  10022 
+troutman.com 
+Bennet J. Moskowitz 
+bennet.moskowitz@troutman.com 
+April 28, 2020 
+VIA ELECTRONIC COURT FILING 
+Hon. Paul G. Gardephe 
+Thurgood Marshall 
+United States Courthouse 
+40 Foley Square 
+New York, NY 10007 
+Re: 
+Teresa Helm, 1:19-cv-10476 (PGG) (DCF)
+Dear Judge Gardephe: 
+We represent Defendants Darren K. Indyke and Richard D. Kahn, Co-Executors of the Estate of 
+Jeffrey E. Epstein (together, the “Co-Executors”), in the above-referenced action.  We write to 
+supplement the Co-Executors’ pending motion to dismiss (ECF Doc. 26) with the enclosed copy 
+of the Opinion & Order entered today by The Hon. Paul A. Engelmayer in another personal 
+injury action against the Co-Executors (Mary Doe v. Darren K. Indyke and Richard D. Kahn, as 
+executors of the Estate of Jeffrey E. Epstein, and Sarah Vickers, 19-civ-10758 (PAE) (DCF)).  In 
+His Honor’s Opinion & Order, Judge Engelmayer grants the Co-Executors’ motion to dismiss the 
+plaintiff’s punitive damages claim against them as a matter of law on grounds applicable to 
+Plaintiff’s claim for punitive damages in this action.   
+Respectfully submitted, 
+s/Bennet J. Moskowitz 
+Bennet J. Moskowitz 
+cc: Counsel of Record (via ECF) 
+Case 1:19-cv-10476-PGG-DCF   Document 35   Filed 04/28/20   Page 1 of 1
+troutmariP 
+sanders 
+
+ 
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ 
+ 
+MARY DOE, 
+ 
+Plaintiff,  
+-v-  
+ 
+DARREN K. INDYKE and RICHARD D. KAHN, 
+as Executors of the Estate of Jeffrey E. Epstein, 
+and SARAH VICKERS, 
+ 
+Defendants. 
+ 
+ 
+ 
+ 
+19 Civ. 10758 (PAE) 
+ 
+OPINION & ORDER 
+ 
+ 
+ 
+PAUL A. ENGELMAYER, District Judge:  
+In this diversity action, plaintiff Mary Doe1 brings tort claims under New York law 
+against, inter alia, Darren K. Indyke and Richard D. Kahn, the executors of the estate of Jeffrey 
+Epstein (“Indyke and Kahn” or “the executor defendants”).  The executor defendants now move 
+to dismiss Doe’s claim against them for punitive damages, on the grounds that, as a matter of 
+New York law, such damages are categorically unavailable in a personal injury action against the 
+personal representative of an estate.2  For the reasons that follow, the Court grants that motion.  
+I. 
+Background 
+A. 
+Doe’s Complaint 
+Doe’s Complaint, filed on November 20, 2019, alleges a horrific course of sexual and 
+psychological abuse at Epstein’s hands during 2004 and 2005.  Cmplt. ¶¶ 1–15 (summary 
+account); id. ¶¶ 38–106 (detailed account).  It alleges that Doe came to the United States with her 
+                                               
+1 Doe has been granted leave to proceed pseudonymously.  Dkt. 21. 
+ 
+2 Doe also sues Sarah Vickers, who is alleged to have served as Epstein’s scheduler and assistant.  
+See Dkt. 1 (Complaint, or “Cmplt.”) ¶ 19.  Doe’s bid for punitive damages against Vickers is not 
+implicated by this motion.  
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 1 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 1 of 17
+
+ 
+2 
+ 
+parents as a young refugee from a war-torn country, and was working in pursuit of a promising 
+career as a model when, in 2004, at age 16, she met Epstein through another model.  Id. ¶ 2.  
+Epstein made clear to Doe how important and powerful he was and promised to help her with her 
+modeling career and college admissions.  Id. ¶ 3.  Doe, in turn, “believed she could trust him” 
+and “that he could change her life.”  Id. ¶ 4.  Epstein, however, “used his power over Mary to 
+sexually abuse her, viciously and repeatedly.”  Id. ¶ 5.  Aided by defendant Sarah Vickers, 
+Epstein’s scheduler and assistant, Epstein “would summon Mary to his Manhattan townhouse, 
+order her to give him massages, and then subject her to sexual acts, the severity of which 
+increased over time.”  Id.; see also id. ¶ 19.  The Complaint graphically chronicles Epstein’s acts 
+of sexual abuse in the townhouse, which included forcing Doe to perform oral sex on him and 
+later raping her.  Id. ¶¶ 7–9; 56–105.  
+In late 2005, the Complaint alleges, Doe—as a result of an incident at the townhouse—
+“suddenly saw the truth: she was not even a human being to Epstein, she was an object,” and 
+Epstein was treating her as a prostitute, “one of many girls he treated as sexual objects.”  Id. 
+¶ 11.  Doe had a breakdown, almost immediately thereafter left New York City, returned to her 
+parents’ home across the country, and never saw Epstein again.  Id. ¶ 12.  Epstein’s abuse caused 
+Doe to abandon her modeling career and left her humiliated, angry, and suicidal, with debilitating 
+panic attacks and “dramatic psychological scars.”  Id. ¶¶ 13–14.  Epstein’s arrest in July 2019 
+gave Doe “brief[] hope that he might finally face consequences,” but his death in August 2019 at 
+a federal jail in Manhattan “left Mary with the desolate sense that he has evaded justice yet 
+again.”  Id. ¶ 15. 
+In this action, Doe brings claims, under New York law, of battery, id. ¶¶ 108–13, assault, 
+id. ¶¶ 114–19, and the intentional infliction of emotional distress, id. ¶¶ 120–27, against Indyke 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 2 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 2 of 17
+
+ 
+3 
+ 
+and Kahn, solely in their capacities as executors of Epstein’s estate, id. ¶ 18, and against Vickers, 
+for her “integral role in operating Epstein’s operation of sex trafficking Mary and other girls,” id. 
+¶ 19.  As its basis for personal jurisdiction over the executors, it alleges that “Epstein was subject 
+to personal jurisdiction at the time of his death,” id. ¶ 22, “because the tortious acts giving rise to 
+Plaintiff’s claims took place in New York State,” id. ¶ 23.  The Complaint seeks, in addition to 
+compensatory damages and attorneys’ fees and costs, “punitive damages in an amount to be 
+determined at trial.”  Id. p. 19. 
+B. 
+The Executors’ Partial Motion to Dismiss 
+ On January 21, 2020, the executor defendants filed a partial motion to dismiss, Dkt. 17, 
+and a supporting memorandum of law, Dkt. 18 (“Def. Mem.”).  It sought dismissal of the prayer 
+for punitive damages on the ground that such damages cannot, as a matter of New York law, be 
+sought against the personal representatives of an estate.  On March 3, 2020, Doe filed a 
+memorandum of law in opposition, Dkt. 28 (“Doe Opp’n”), and a supporting declaration by 
+Daniel Mullkoff, Esq., Dkt. 29 (“Mullkoff Decl.”), which attached Epstein’s will.  On March 20, 
+2020, the executor defendants filed a reply.  Dkt. 33 (“Def. Reply”). 
+II. 
+Applicable Legal Standards Under Rule 12(b)(6)  
+To survive a motion to dismiss under Rule 12(b)(6), a complaint must plead “enough 
+facts to state a claim to relief that is plausible on its face.”  Bell Atl. Corp. v. Twombly, 
+550 U.S. 544, 570 (2007).  A claim will only have “facial plausibility when the plaintiff pleads 
+factual content that allows the court to draw the reasonable inference that the defendant is liable 
+for the misconduct alleged.”  Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009).  A complaint is 
+properly dismissed where, as a matter of law, “the allegations in a complaint, however true, 
+could not raise a claim of entitlement to relief.”  Twombly, 550 U.S. at 558.  When resolving a 
+motion to dismiss, the court must accept as true all well-pled factual allegations in the complaint 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 3 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 3 of 17
+
+ 
+4 
+ 
+and draw all reasonable inferences in the plaintiff’s favor.  Steginsky v. Xcelera Inc., 
+741 F.3d 365, 368 (2d Cir. 2014).  That tenet, however, “is inapplicable to legal conclusions.”  
+Iqbal, 556 U.S. at 678.  Pleadings that offer only “labels and conclusions” or “a formulaic 
+recitation of the elements of a cause of action will not do.”  Twombly, 550 U.S. at 555. 
+III. 
+Discussion 
+ In moving to dismiss Doe’s prayer for punitive damages against them, the executor 
+defendants argue that New York law applies to this personal injury action and categorically 
+prohibits an award of punitive damages against the personal representatives of an estate.  
+Specifically, they note, § 11-3.2(a)(1) of New York’s Estates, Powers and Trusts Law (“EPTL”) 
+provides: 
+No cause of action for injury to person or property is lost because of the death of 
+the person liable for the injury.  For any injury, an action may be brought or 
+continued against the personal representative of the decedent, but punitive 
+damages shall not be awarded nor penalties adjudged in any such action brought 
+to recover damages for personal injury. 
+EPTL § 11-3.2(a)(1) (emphasis added).  
+Applying this statute, courts have held punitive damages unavailable in personal injury 
+actions against executors or administrators of estates.  These include federal courts determining 
+the damages available for constitutional-tort claims under New York law, see, e.g., Graham v. 
+Henderson, 224 F.R.D. 59, 63 (N.D.N.Y. 2004) (precluding, based on EPTL § 11-3.2(a)(1), 
+punitive damages claims in § 1983 action against estate administrators, and noting that New 
+York law is “very clear” on this point); Blissett v. Eisensmidt, 940 F. Supp. 449, 457 (N.D.N.Y. 1996) 
+(overturning, based on EPTL § 11-3.2(a)(1), jury’s punitive damages award in § 1983 case 
+against estate, and noting “strong policy against the assessment of punitive damages against an 
+estate on account of wrongful conduct of the decedent”), and state courts in personal injury 
+actions governed by New York law, see, e.g., Gordon v. Nathan, 352 N.Y.S.2d 464, 464 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 4 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 4 of 17
+
+ 
+5 
+ 
+(1st Dep’t. 1974) (affirming dismissal of punitive damages claim because, under EPTL 
+§ 11-3.2(a)(1), defendant’s death precluded recovery of punitive damages from personal 
+representatives of estate); cf. Flaum v. Birnbaum, 582 N.Y.S.2d 853, 857 (4th Dep’t. 1992) 
+(affirming denial of punitive damages in case against deceased executor; citing EPTL 
+§ 11-3.2(a)(1) and the “strong policy against the assessment of punitive damages against an 
+estate on account of the wrongful conduct of the decedent”).   
+The law of a majority of states is in accord with EPTL § 11-3.2(a)(1), as reflected in the 
+Restatement (Second) of Torts.  See Restatement (Second) of Torts § 908 cmt. a (1979) (“Punitive 
+damages are not awarded against the representatives of a deceased tortfeasor[.]”); see also Doe 
+Opp’n at 12 (acknowledging that “a majority of states do not permit punitive damages against 
+estates”).  This majority rule aligns with “[t]he general rule under federal common law,” that “an 
+action survives the death of a party insofar as it is remedial[,] and not penal[,] in nature.”  See, e.g., 
+Official Comm. of Unsecured Creditors of Exeter Holdings, Ltd. v. Haltman, No. 13 Civ. 5475 
+(JS) (AKT), 2017 WL 9485707, at *7 (E.D.N.Y. Aug. 3, 2017) (collecting cases), report and 
+recommendation adopted, 2017 WL 3981299 (E.D.N.Y. Sept. 11, 2017).   
+The justification commonly given for precluding punitive damage awards against estates 
+is that punishment and deterrence—the recognized bases for imposing punitive damages on a 
+tortfeasor—are not advanced by imposing punitive damages on his or her estate.  As the New 
+Mexico Supreme Court explained in adopting the majority rule:  “[P]unishment and deterrence 
+are not accomplished by enabling recovery of punitive damages from the estate of deceased 
+tortfeasors”; “[w]hen the tortfeasor cannot be punished for his culpable behavior, punitive 
+damages no longer have the desired effect and, therefore, the victim loses the legal entitlement to 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 5 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 5 of 17
+
+ 
+6 
+ 
+recover those damages.”  Jaramillo v. Providence Wash. Ins. Co., 871 P.2d 1343, 1351 
+(N.M. 1994) (canvassing laws of other states). 
+ Doe does not dispute that EPTL § 11-3.2(a)(1) precludes punitive damages in a personal 
+injury action under New York law.  Instead, Doe makes three arguments: (1) that defendants’ 
+motion is premature, Doe Mem. at 4; (2) that defendants’ motion is improperly styled as a 
+motion to dismiss, id. at 3; and (3) that the law of the United States Virgin Islands (“USVI”), not 
+New York law, applies, and permits punitive damages against an estate, id. at 4–13. 
+Doe’s first argument is quickly dispatched.  Doe cites cases where courts have declined 
+to resolve motions to dismiss aimed at prayers for relief, finding such motions premature.  See id. 
+at 4 (citations omitted).  But a review of these cases reflects that the motions in those cases were 
+not based on categorical preclusions of punitive damages.  In contrast, where punitive damages 
+have been unavailable as a matter of law, courts have not hesitated to dismiss prayers for such 
+damages at the threshold.  See, e.g., Murtha v. N.Y. State Gaming Comm’n, No. 17 Civ. 10040 
+(NSR), 2019 WL 4450687, at *19 (S.D.N.Y. Sept. 17, 2019) (dismissing demand for punitive 
+damages under the New York State Human Rights Law (“NYSHRL”) because it “does not 
+provide for punitive damages”); Rosen v. N.Y.C. Dep’t of Educ., No. 18 Civ. 6670 (AT), 
+2019 WL 4039958, at *9 (S.D.N.Y. Aug. 27, 2019) (granting motion to dismiss demand for 
+punitive damages under the Age Discrimination in Employment Act and the New York City 
+Human Rights Law (“NYCHRL”) where neither statute permitted a plaintiff to recover punitive 
+damages); Talarico v. Port Auth. of N.Y. & N.J., 367 F. Supp. 3d 161, 172 (S.D.N.Y. 2019) 
+(dismissing demand for punitive damages against Port Authority where “the Third Circuit and 
+the overwhelming majority of district courts within this Circuit have held that punitive damages 
+are not available against” that defendant (internal quotation marks and citation omitted)); Canete 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 6 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 6 of 17
+
+ 
+7 
+ 
+v. Metro. Transp. Auth., No. 17 Civ. 3961 (PAE), 2018 WL 4538897, at *9 
+(S.D.N.Y. Sept. 20, 2018) (dismissing demand for punitive damages where such relief was 
+“precluded as a matter of law”); Roman Catholic Diocese of Rockville Ctr. v. Gen. Reins. Corp., 
+No. 16 Civ. 2063 (CM), 2016 WL 5793996, at *6 (S.D.N.Y. Sept. 23, 2016) (“In this case, the 
+circumstances surrounding the denial of the insurance indemnification claim do not warrant the 
+rare exception provided for punitive damages under a breach of contract claim.  For this reason, 
+the Court grants Defendant’s motion to dismiss the punitive damages claim.”); SJB ex rel. Berkhout 
+v. N.Y.C. Dep’t of Educ., No. 03 Civ. 6653 (NRB), 2004 WL 1586500, at *8 (S.D.N.Y. July 
+14, 2004) (dismissing punitive damages claim because such damages are unavailable in § 1983 
+actions against municipalities).  Provided that New York law applies to this action, this case, too, 
+involves a categorical preclusion of such damages, under EPTL § 11-3.2(a)(1), that can be 
+adjudicated at the threshold. 
+Doe’s second argument is that the defendant-executors’ challenge is improperly brought 
+as a motion to dismiss.  Doe Mem. at 3 & n.3.  There is divided case authority on this point.  
+Courts, including in the cases cited above, have granted motions to dismiss prayers for such 
+relief.  But others have declined to entertain such motions, stating that, “[b]ecause punitive 
+damages are a form of damages, not an independent cause of action, a motion to dismiss a prayer 
+for relief in the form of punitive damages is ‘procedurally premature.’”  Farina v. Metro. Transp. 
+Auth., 409 F. Supp. 3d 173, 220 (S.D.N.Y. 2019) (quoting Hunter v. Palisades Acquisition XVI, 
+LLC, No. 16 Civ. 8779 (ER), 2017 WL 5513636, at *9 (S.D.N.Y. Nov. 16, 2017)); see also, e.g., 
+Wiederman v. Spark Energy, Inc., No. 19 Civ. 4564 (PGG), 2020 WL 1862319, at *9–10 
+(S.D.N.Y. Apr. 14, 2020); Jones v. City of New York, No. 18 Civ. 1937 (VSB), 2020 WL 1644009, 
+at *17 (S.D.N.Y. Apr. 2, 2020); Range v. 535 Broadway Grp. LLC, No. 17 Civ. 423 (WHP), 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 7 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 7 of 17
+
+ 
+8 
+ 
+2019 WL 4182966, at *7 n.4 (S.D.N.Y. Nov. 16, 2017); Okyere v. Palisades Collection, LLC, 
+961 F. Supp. 2d 522, 536 (S.D.N.Y. 2013).   
+The Court has no occasion to resolve this conceptual debate, because the executors’ 
+motion to dismiss under Rule 12(b)(6) alternatively can be treated as a motion to strike under 
+Federal Rule of Civil Procedure 12(f).  See C. Wright & A. Miller, 5C Federal Practice and 
+Procedure § 1380 (3d ed.) (“[T]he technical name given to a motion challenging a pleading is of 
+little importance inasmuch as prejudice to the nonmoving party hardly can result from treating a 
+motion that has been inaccurately denominated a motion to strike as a motion to dismiss the 
+complaint.”).  And under Rule 12(f), on a motion or sua sponte, a court may strike from a 
+pleading an “insufficient defense or any redundant, immaterial, impertinent, or scandalous 
+matter.”  Fed. R. Civ. P. 12(f).  Although motions to strike under Rule 12(f) are generally 
+“disfavored and granted only if there is a strong reason to do so,” Anderson News, L.L.C. v. Am. 
+Media, Inc., No. 09 Civ. 2227 (PAC), 2013 WL 1746062, at *3 (S.D.N.Y. Apr. 23, 2013) 
+(internal quotation marks omitted) (citing Roe v. City of New York, 151 F. Supp. 2d 495, 510 
+(S.D.N.Y. 2001)); see also Lipsky v. Commonwealth United Corp., 551 F.2d 887, 893 (2d 
+Cir. 1976)), ample authority permits striking prayers for punitive damages where such relief is 
+unavailable as a matter of law.  See, e.g., In re Merrill Lynch Auction Rate Sec. Litig., 
+851 F. Supp. 2d 512, 544 (S.D.N.Y. 2012) (granting motion to strike sections of complaint 
+asserting punitive damages, because pleadings did not meet high bar for punitive damages in 
+non-fraud case of breach of fiduciary duty), aff’d sub nom. La. Pac. Corp. v. Merrill Lynch & Co., 
+571 F. App’x 8 (2d Cir. 2014); Cerveceria Modelo, S.A. de C.V. v. USPA Accessories LLC, 
+No. 07 Civ. 7998 (HB), 2008 WL 1710910, at *5–9 (S.D.N.Y. Apr. 10, 2008) (granting motion 
+to strike prayer for punitive damages for failure to allege level of high moral culpability 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 8 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 8 of 17
+
+ 
+9 
+ 
+necessary to sustain punitive damages award in case involving fraud and deceit); Ladenburg 
+Thalmann & Co. v. Imaging Diagnostic Sys., Inc., 176 F. Supp. 2d 199, 207 (S.D.N.Y. 2001) 
+(granting motion to strike punitive damages because complaint did not allege, inter alia, egregious 
+conduct sufficient to sustain such an award); Brady v. Port. Auth. of N.Y. & N.J., No. 93 Civ. 1679 
+(NG) (CLP), 1998 WL 724061, at *2–3 (E.D.N.Y. Oct. 15, 1998) (granting motion to strike 
+punitive damages claims on grounds that Port Authority was immune from such damages); Nash v. 
+Coram Healthcare Corp., No. 96 Civ. 0298 (LMM), 1996 WL 363166, at *4 (S.D.N.Y. June 28, 1996) 
+(granting motion to strike prayer for punitive damages because complaint did not allege facts 
+sufficient to support such damages in breach of contract case).   
+Here, there is practical wisdom in treating defendant’s motion as one to strike, if doing so 
+is necessary to enable the Court to resolve at the jump the viability of Doe’s prayer for punitive 
+damages.  With numerous personal injury actions pending against the Epstein estate as a result of 
+the recent enactment of the New York Child Victims Act, there is value in clarifying—for the 
+parties and settlors—the damages available in actions where the law permits a sure answer on 
+this point. 
+Doe’s final argument is that USVI, not New York, law governs whether punitive 
+damages are available.  Because this Court sits in New York, it applies a New York choice of 
+law analysis to that question.  See Klaxon Co. v. Stentor Elec. Mfg. Co., 313 U.S. 487, 496 
+(1941); Md. Cas. Co. v. Cont’l Cas. Co., 332 F.3d 145, 151 (2d Cir. 2003) (“A federal court 
+sitting in diversity applies the choice-of-law rules of the forum state.”).  “Where, as here, the 
+claims sound in tort, New York courts apply an ‘interest analysis’ to determine choice-of-law 
+issues.”  Golden v. Wyeth, Inc., No. 04 Civ. 2841 (JS), 2013 WL 4500879, at *1 (E.D.N.Y. 
+Aug. 20, 2013).  Under that analysis, punitive damages are considered to be conduct-regulating, 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 9 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 9 of 17
+
+ 
+10 
+ 
+and “the law of the jurisdiction where the tort occurred will generally apply.” See, e.g., Starr 
+Indem. & Liab. Co. v. Am. Claims Mgmt., Inc., No. 14 Civ. 0463 (JMF), 2015 WL 2152816, *3 
+(S.D.N.Y. May 7, 2015) (quoting Guidi v. Inter-Cont’l Hotels Corp., No. 95 Civ. 9006 (LAP), 
+2003 WL 1907901, at *1 (S.D.N.Y. Apr. 16, 2003)); Bauta v. Greyhound Lines, Inc., No. 14 Civ. 3725 
+(RER), 2019 WL 8060183, at *10 (E.D.N.Y. Jan. 4, 2019).  Here, the torts alleged occurred 
+entirely in New York.  The personal injury claims which Doe’s Complaint brings arise from 
+sexual assaults and related conduct that, as alleged, occurred exclusively within New York 
+City—in and around Epstein’s Manhattan townhouse.  
+Doe counters by noting that, while this rule applies as a general matter, it may be overcome 
+if there is good reason not to apply it.  Doe Mem. at 5 (citing Nat’l Jewish Democratic Council v. 
+Adelson, 417 F. Supp. 3d 416, 424–25 (S.D.N.Y. 2019)).  In arguing that there is reason not to 
+apply New York law to the punitive damages question here, Doe relies on the doctrine of dépeçage, 
+under which courts may treat the choice of law analysis for one (or more) issues in a case––in 
+this instance, the availability of punitive damages––as distinct from the rest of its analysis, here 
+the applicability of New York law to Doe’s tort claims for compensatory damages.  Id.; see also 
+2002 Lawrence R. Buchalter Alaska Tr. v. Phila. Fin. Life Assurance Co., 96 F. Supp. 3d 182, 
+200 (S.D.N.Y. 2015); Fed. Hous. Fin. Agency v. Ally Fin. Inc., No. 11 Civ. 7010 (DLC), 
+2012 WL 6616061, at *5 (S.D.N.Y. Dec. 19, 2012).   
+Doe argues that, although New York may have the greater interest in resolving issues 
+relating to compensatory damages, the USVI, where the executors are domiciled and where 
+Epstein’s will is to be probated, has the greater interest as to punitive damages, which, unlike 
+compensatory damages, are defendant-focused.  Doe Mem. at 7–8.  Doe does not argue that the 
+executor-defendants themselves merit punishment or are in need of deterrence.  Instead, Doe 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 10 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 10 of 17
+
+ 
+11 
+ 
+argues that Epstein’s decision to alter his will shortly before his suicide to provide that it would 
+be probated in the USVI was strategically motivated.  She argues that his executors “should not 
+be permitted to selectively avail themselves of certain benefits of USVI law but avoid those 
+aspects of USVI law that they do not like.”  Id. at 7. 
+The Court is unpersuaded.  Whatever benefits Epstein envisioned for his estate by virtue 
+of probating his will in the USVI, Doe does not articulate any relevant to this litigation.  Other 
+than conclusorily, Doe does not argue that the decision to probate Epstein’s will in the USVI will 
+have any adverse bearing on a personal injury action brought against the estate in New York that 
+involves tortious conduct in New York.  Doe does not argue, for example, that the probating of 
+Epstein’s will in the USVI stands to insulate his assets from recovery from such a plaintiff, or 
+otherwise impede her or others victimized in New York from recovering on meritorious claims.  
+Doe’s point that the estate may prosper from being probated in the USVI is disconnected from 
+her claims.3   
+More fundamentally, Doe does not articulate any concrete interest that the USVI has in 
+either vindicating the rights of a victim sexually abused in a Manhattan townhouse in 2004 and 
+2005 or, specially relevant to punitive damages, in assuring that the perpetrator of that abuse is 
+adequately punished and deterred.  In contrast, the Second Circuit has noted the strong interest 
+that New York has with respect to “conduct-regulating” rules, including regarding damages, with 
+respect to unlawful behavior within its borders: 
+“If conflicting conduct-regulating laws are at issue, the law of the jurisdiction 
+where the tort occurred will generally apply because that jurisdiction has the 
+greatest interest in regulating behavior within its borders.”  Cooney v. Osgood 
+                                               
+3 If anything, the probating of the estate in the USVI may stand to benefit the estate’s creditors, 
+and thereby potentially Doe, to the extent that an estate probated in the USVI may avoid the high 
+estate-tax rates imposed by New York State. 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 11 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 11 of 17
+
+ 
+12 
+ 
+Mach., Inc., 81 N.Y.2d 66, 72 (1993).  In Licci ex rel. Licci v. Lebanese Canadian 
+Bank, SAL[,] . . . we observed that, under New York law, when the jurisdictions of 
+the conduct and injury are distinct, “it is the place of the allegedly wrongful 
+conduct that generally has superior ‘interests in protecting the reasonable 
+expectations of the parties who relied on the laws of that place to govern their 
+primary conduct and in the admonitory effect that applying its law will have on 
+similar conduct in the future.’”  [739 F.3d 45, 50–51 (2d Cir. 2013)] (quoting 
+Schultz [v. Boy Scouts of Am., Inc., 65 N.Y.2d 189, 198 (1985)]) (alterations 
+omitted).  Here, the allegedly wrongful conduct . . .  took place in New York . . . .  
+We therefore conclude that New York’s rules on fraud damages and negligent 
+misrepresentation apply. 
+AHW Inv. P’ship, MFS v. Citigroup, Inc., 661 F. App’x 2, 5 (2d Cir. 2016).  New York’s interest 
+is also reinforced by the fact that Doe’s suit is timely only by virtue of the state’s recent 
+enactment of the New York Child Victims Act, which temporarily revived time-barred suits.  See 
+Cmplt. ¶ 107. 
+That New York law governs the availability of punitive damages is further reinforced by 
+Doe’s having sued the executor defendants under EPTL § 11-3.2(a)(1).  It is problematic for her 
+to cherrypick within that provision, invoking the part that authorizes a personal injury suit 
+against an executor while disclaiming the balance, which delimits the recovery available in such 
+a suit.4  See Blissett, 940 F. Supp. at 457 (“[I]t would be an anomalous situation indeed if 
+plaintiff were allowed to proceed with this [§] 1983 action against the estate of Casey because of 
+[§] 11-3.2(a)(1), while at the same time he was allowed to recover relief in the form of punitive 
+damages, which clearly is beyond the scope of relief which that statute authorizes.”).  Such a 
+result is also inconsistent with the doctrine of dépeçage, where one forum’s law is “applied to 
+regulate certain issues arising from a given transaction or occurrence, while those of another 
+system regulate the other issues.”  Schwartz v. Twin City Fire Ins. Co., 492 F. Supp. 2d 308, 328 
+                                               
+4 Doe’s claims undisputedly all qualify as personal injury claims.  See N.Y. Gen. Constr. Law 
+§ 37-a. (defining “personal injury” as including “an assault, battery, false imprisonment, or other 
+actionable injury to the person either of the plaintiff, or of another”).  Doe does not argue 
+otherwise.   
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 12 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 12 of 17
+
+ 
+13 
+ 
+n.11 (S.D.N.Y. 2007) (emphasis added), aff’d sub nom. Schwartz v. Liberty Mut. Ins. Co., 
+539 F.3d 135 (2d Cir. 2008).  Here, Doe, in selectively drawing upon EPTL § 11-3.2(a)(1), seeks 
+to invoke dépeçage to apply two different sets of laws to a single issue.  The doctrine does not 
+invite such a result. 
+Finally, Adelson, on which Doe relies in claiming that USVI law governs punitive 
+damages, is inapposite.  Adelson had brought an earlier action in this District for defamation, in 
+breach of Nevada law, against the National Jewish Democratic Council and its chair (together, 
+“NJDC”).   Adelson, 417 F. Supp. 3d at 420–21.  That action had been dismissed pursuant to 
+Nevada’s anti-SLAPP statute.  NJDC then sued Adelson, seeking punitive damages under that 
+same Nevada statute.  Id.  On Adelson’s motion to dismiss the punitive damages prayer, Judge 
+Oetken held that Nevada’s interest was stronger than New York’s as to punitive damages, 
+because Adelson had brought the initial suit under Nevada law and because it had been 
+dismissed under the Nevada SLAPP statute on which the NJDC now pursued punitive damages.  
+He reasoned that “because the litigant has attempted to use Nevada’s defamation law to chill 
+First Amendment rights, Nevada has a corresponding interest in punishing the litigant for 
+maliciously invoking Nevada law and in deterring future litigants from doing the same.”  
+Adelson, 417 F. Supp. 3d at 426 (citing Schultz, 65 N.Y.2d at 198).  Noting that “[p]unitive 
+damages are designed to punish the defendant, not to compensate the plaintiff,” Judge Oetken 
+explained that “the choice-of-law inquiry for punitive damages provisions is necessarily 
+defendant-focused” in this way.  Id. (internal quotation marks omitted) (citing Golden, 
+2013 WL 4500879, at *3).  By contrast, Judge Oetken concluded that New York’s interest in the 
+dispute was “relatively attenuated” and effectively limited to the fact that the suit was filed in 
+federal district court in Manhattan where, notably, the claims were brought under Nevada 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 13 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 13 of 17
+
+ 
+14 
+ 
+defamation law.  “After all, New York lacks a particularized interest either in protecting 
+defendants from liability under Nevada defamation law or in controlling the behavior of litigants 
+who file in the federal courts.  And where the locus jurisdiction has a merely fortuitous 
+relationship with the case, that jurisdiction’s interest in the case is minimal.”  Id. at 426–27 
+(internal quotation marks and alterations omitted).  Doe’s case in this District, in contrast to 
+Adelson, does not build on a prior litigation in, or based on the law of, the USVI. 
+In any event, the choice of law debate here appears academic.  That is because, while the 
+USVI does not have a statute on point and USVI courts have not squarely resolved the issue, it is 
+likely that USVI common law would not permit an award of punitive damages against an estate.  
+In 2011, the USVI Supreme Court instructed courts to apply what it terms a “Banks analysis” to 
+determine USVI common law.  This entails consideration of “three non-dispositive factors”: 
+(1) whether any USVI court has previously adopted a particular rule; (2) the position taken by a 
+majority of courts of other jurisdictions; and (3) most importantly, which rule represents the 
+soundest rule for the USVI.  See Gov’t of Virgin Islands v. Connor, 60 V.I. 597, 600 (2014); 
+Matthew v. Herman, 56 V.I. 674, 680 (2012); Banks v. Int’l Rental & Leasing Corp., 55 V.I. 967, 
+979 (2011).  The parties differ as to how these factors apply, but the executors’ assessment is the 
+more persuasive. 
+As to the first Banks factor, USVI courts have repeatedly cited the Restatement (Second) 
+of Torts § 908 favorably.  Twice, albeit in dicta, they have expressly quoted the language in 
+comment (a) to § 908 that bars an award of punitive damages against the estate of a decedent 
+tortfeasor.  See Hamilton v. Dowson Holding Co., 51 V.I. 619, 628 (D.V.I. 2009) (“Punitive 
+damages are not awarded against the representatives of a deceased tortfeasor nor, ordinarily, in 
+an action under a death statute.” (quoting Restatement (Second) of Torts § 908 cmt. a (1979)) 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 14 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 14 of 17
+
+ 
+15 
+ 
+(citing Boyd v. Atlas Motor Inn, Inc., 16 V.I. 367, 368–69 (D.V.I. 1979) (interpreting the Virgin 
+Island’s wrongful death statue, 5 V.I.C. § 76, to preclude punitive damages)); Booth v. Bowen, 
+Civ. No. 2006-217 (CVG), 2008 WL 220067, at *5 (D.V.I. Jan. 10, 2008) (same)5; see also 
+Pappas v. Hotel on the Cay Time-Sharing Ass’n, 69 V.I. 3, 15 n.8 (V.I. Super. Ct. 2015) (applying 
+Banks analysis to hold that USVI courts would adopt Restatement (Second) of Torts § 908, and 
+citing five USVI cases in accord); Powell v. Chi-Co’s Distrib. Inc., No. ST-13-TOR-14, 
+2014 WL 1394183, at *2 n.13 (V.I. Super. Ct. Apr. 3, 2014) (“Applying a Banks analysis, the 
+Court finds that Restatement (Second) of Torts § 908(2) reflects the common law of this 
+jurisdiction . . . .  [C]onsidering the longstanding application of the Restatement (Second) of 
+Torts § 908(2) in this jurisdiction and the apparent widespread application of this rule in a 
+majority of jurisdictions, the Court finds that the Restatement (Second) of Torts § 908(2) 
+represents the soundest rule for the Virgin Islands, and is in accord with local public policy.”).  
+Doe has not cited any contrary authority. 
+As to the second Banks factor, the parties agree that, consistent with the Restatement, 
+most U.S. jurisdictions do not permit an award of punitive damages against a tortfeasor’s estate.  
+See, e.g., Crabtree ex rel. Kemp v. Estate of Crabtree, 837 N.E.2d 135, 138 (Ind. 2005) (“[t]he 
+majority view denies punitive damages” from a deceased tortfeasor’s estate); Jay Zitter, Annotation, 
+Claim for punitive damages in tort action as surviving death of tortfeasor or person wronged, 30 
+A.L.R. 4th 707 (2020); 1 Punitive Damages: Law and Prac. 2d § 9:8 (2019 ed.) (“The prevailing 
+view appears to be that punitive damages may not be recovered against the estate of a deceased 
+wrongdoer.”).  Doe notes that some jurisdictions (like New York) have adopted this result by 
+                                               
+5 The decisions in Hamilton and Booth were dicta on this point, because the executor in each 
+case was the plaintiff, not the defendant. 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 15 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 15 of 17
+
+ 
+16 
+ 
+statute while others have done so by court decision.  Doe Mem. at 12.  This distinction, however, 
+does not appear germane to the Banks inquiry. 
+As to the third Banks factor, the parties have not cited any evidence—beyond USVI 
+courts having repeatedly cited Restatement § 908 with favor, including in the course of a Banks 
+analysis—as to which rule would most soundly fit the USVI’s interests.  Beyond recognizing 
+that USVI courts appear comfortable with the majority rule, the Court therefore cannot assign 
+significant independent weight to this factor.  Doe notes that the USVI’s attorney general, in a 
+separate lawsuit, is pursuing punitive damages against the Epstein estate based on alleged 
+predations by Epstein in the USVI.  See Mullkoff Decl. Ex. B ¶¶ 307–10.  Doe further argues 
+that because the only heir listed in Epstein’s will—his brother Mark Epstein—allegedly knew or 
+had constructive knowledge of Epstein’s pattern of sexual abuse, it is just to deny him recovery 
+from the estate by exposing the estate to punitive damages awards in cases such as hers.  Doe 
+Mem. at 11.  But the decision by a government lawyer to attempt to obtain such damages in a 
+high-profile case involving allegations of extreme conduct, or the alleged guilty knowledge of an 
+heir in this case, do not speak to the question that the third Banks factor assays: which rule of law 
+best durably serves the USVI’s interests.  The Court therefore has no basis to treats this Banks 
+factor as countervailing, let alone outweighing, the first two. 
+CONCLUSION 
+For the reasons above, the Court grants the defendant-executors’ motion to dismiss the 
+prayer for punitive damages against them.  The Clerk of Court is respectfully directed to 
+terminate the motion pending at docket 17.   
+ 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 16 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 16 of 17
+
+ 
+17 
+ 
+SO ORDERED. 
+____________________________ 
+Paul A. Engelmayer 
+United States District Judge 
+ 
+Dated: April 28, 2020 
+ 
+New York, New York 
+Case 1:19-cv-10758-PAE-DCF   Document 38   Filed 04/28/20   Page 17 of 17
+Case 1:19-cv-10476-PGG-DCF   Document 35-1   Filed 04/28/20   Page 17 of 17
+PaJA.

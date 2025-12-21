@@ -1,0 +1,1099 @@
+METADATA_SOURCE: Court Records\Operating Engineers Construction Industry and Miscellaneous Pension Fund v. Dimon, No. 123-cv-03903 (S.D.N.Y. 2023)
+METADATA_FILENAME: 031-01.pdf
+----------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT 1 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 1 of 37
+
+#2013-002 
+UNITED STATES OF AMERICA  
+DEPARTMENT OF THE TREASURY  
+COMPTROLLER OF THE CURRENCY  
+) 
+In the Matter of: 
+) 
+) 
+AA-EC-13-04 
+JPMorgan Chase Bank, N.A. 
+) 
+Columbus, OH 
+) 
+) 
+JPMorgan Bank and Trust Company, N.A., San 
+) 
+Francisco, CA 
+) 
+) 
+Chase Bank USA, N.A., 
+) 
+Newark, DE 
+) 
+) 
+) 
+CONSENT ORDER 
+WHEREAS, the Comptroller of the Currency of the United States of America 
+(“Comptroller”), through his national bank examiners and other staff of the Office of the 
+Comptroller of the Currency (“OCC”), has conducted examinations of JPMorgan Chase 
+Bank, N.A., Columbus, Ohio; JPMorgan Bank and Trust Company, N.A., San Francisco, 
+California; and Chase Bank USA, N.A., Newark, Delaware (collectively referred to as 
+“Bank”). The OCC has identified deficiencies in the Bank’s overall program for Bank 
+Secrecy Act/Anti-Money Laundering (“BSA/AML”) compliance and has informed the 
+Bank of the findings resulting from the examinations. 
+WHEREAS, the Bank, by and through its duly elected and acting Boards of 
+Directors (collectively referred to as “Board”), has executed a “Stipulation and Consent 
+to the Issuance of a Consent Order,” dated January__14___, 2013, that is accepted by the 
+Page 1 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 2 of 37
+
+Comptroller (“Stipulation”).  By this Stipulation and Consent, which is incorporated by 
+reference, the Bank has consented to the issuance of this Consent Cease and Desist Order 
+(“Order”) by the Comptroller, pursuant to 12 U.S.C. § 1818(b).  The Bank has begun 
+corrective action, and has committed to taking all necessary and appropriate steps to 
+remedy the deficiencies identified by the OCC, and to enhance the Bank’s BSA/AML 
+compliance program. 
+ARTICLE I 
+COMPTROLLER’S FINDINGS 
+The Comptroller finds, and the Bank neither admits nor denies, the following: 
+(1) 
+The OCC’s examination findings establish that the Bank has deficiencies 
+in its BSA/AML compliance program.  These deficiencies have resulted in the failure to 
+correct a previously reported problem and a BSA/AML compliance program violation 
+under 12 U.S.C. § 1818(s) and its implementing regulation, 12 C.F.R. § 21.21 (BSA 
+Compliance Program).  In addition, the Bank has violated 12 C.F.R. § 21.11 (Suspicious 
+Activity Report Filings). 
+(2) 
+The Bank has failed to adopt and implement a compliance program that 
+adequately covers the required BSA/AML program elements due to an inadequate system 
+of internal controls, and ineffective independent testing.  The Bank did not develop 
+adequate due diligence on customers, particularly in the Commercial and Business 
+Banking Unit, a repeat problem, and failed to file all necessary Suspicious Activity 
+Reports (“SARs”) related to suspicious customer activity. 
+(3) 
+The Bank failed to correct previously identified systemic weaknesses in 
+the adequacy of customer due diligence and the effectiveness of monitoring in light of the 
+Page 2 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 3 of 37
+
+customers’ cash activity and business type, constituting a deficiency in its BSA/AML 
+compliance program and resulting in a violation of 12 U.S.C. § 1818(s)(3)(B). 
+(4) 
+Some of the critical deficiencies in the elements of the Bank’s BSA/AML 
+compliance program, resulting in a violation of 12 U.S.C. § 1818(s)(3)(A) and 12 C.F.R. 
+§ 21.21, include the following: 
+(a)  
+The Bank has an inadequate system of internal controls and 
+independent testing. 
+(b)  
+The Bank has less than satisfactory risk assessment processes that 
+do not provide an adequate foundation for management’s efforts to 
+identify, manage, and control risk.  
+(c)  
+The Bank has systemic deficiencies in its transaction monitoring 
+systems, due diligence processes, risk management, and quality 
+assurance programs. 
+(d)  
+The Bank does not have enterprise-wide policies and procedures to 
+ensure that foreign branch suspicious activity involving customers 
+of other bank branches is effectively communicated to other 
+affected branch locations and applicable AML operations staff.   
+The Bank also does not have enterprise-wide policies and 
+procedures to ensure that on a risk basis, customer transactions at 
+foreign branch locations can be assessed, aggregated, and 
+monitored. 
+Page 3 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 4 of 37
+
+(e)  
+The Bank has significant shortcomings in SAR decision-making 
+protocols and an ineffective method for ensuring that referrals and 
+alerts are properly documented, tracked, and resolved. 
+(5) 
+The Bank failed to identify significant volumes of suspicious activity and 
+file the required SARs concerning suspicious customer activities, in violation of 
+12 C.F.R. § 21.11. In some of these cases, the Bank self-identified the issues and is 
+engaged in remediation. 
+(6) 
+The Bank’s internal controls, including filtering processes and 
+independent testing, with respect to Office of Foreign Asset Control (“OFAC”) 
+compliance are inadequate. 
+NOW, THEREFORE, IT IS ORDERED that: 
+ARTICLE II  
+COMPLIANCE COMMITTEE  
+(1) 
+The Board shall appoint and maintain a Compliance Committee of at least 
+three (3) directors, of which a majority may not be employees or officers of the Bank or 
+any of its subsidiaries or affiliates.  The names of the initial members of the Compliance 
+Committee shall be submitted in writing to the Examiner-in-Charge for a written 
+determination of no supervisory objection.  In the event of a change of the membership, 
+the name of any new member shall be submitted in writing to the Examiner-in-Charge at 
+the Bank (“Examiner-in-Charge”) for a written determination of no supervisory 
+objection. The Compliance Committee shall be responsible for coordinating and 
+Page 4 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 5 of 37
+
+monitoring the Bank’s adherence to the provisions of this Order.  The Compliance 
+Committee shall meet at least monthly and maintain minutes of its meetings. 
+(2) 
+Within ninety (90) days of this Order, and quarterly thereafter, the 
+Compliance Committee shall submit a written progress report to the Board setting forth 
+in detail the actions taken to comply with each Article of this Order, and the results and 
+status of those actions, including improvements to the BSA/AML Program. 
+(3) 
+The Board shall forward a copy of the Compliance Committee’s report, 
+with any additional comments by the Board, to the Deputy Comptroller for Large Bank 
+Supervision (“Deputy Comptroller”) and the Examiner-in-Charge within ten (10) days of 
+receiving such report. 
+ARTICLE III  
+COMPREHENSIVE BSA/AML ACTION PLAN  
+(1) 
+Within sixty (60) days of this Order, the Bank shall submit to the Deputy 
+Comptroller and the Examiner-in-Charge a plan containing a complete description of the 
+actions that are necessary and appropriate to achieve full compliance with Articles IV 
+through XI of this Order (“BSA/AML Action Plan”).  The Bank shall implement the 
+BSA/AML Action Plan upon the Deputy Comptroller’s issuance of a written 
+determination of no supervisory objection.  In the event the Deputy Comptroller requires 
+the Bank to revise the plan, the Bank shall promptly make and the Board shall approve 
+necessary and appropriate revisions and resubmit the BSA/AML Action Plan to the 
+Deputy Comptroller and Examiner-in-Charge for review and determination of no 
+supervisory objection. Following implementation, the Bank shall not take any action that 
+Page 5 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 6 of 37
+
+will cause a significant deviation from, or material change to, the BSA/AML Action Plan 
+unless and until the Bank has received a prior written determination of no supervisory 
+objection from the Deputy Comptroller. 
+(a)  
+The Board shall ensure that the Bank achieves and thereafter 
+maintains compliance with this Order, including, without 
+limitation, successful implementation of the BSA/AML Action 
+Plan. The Board shall further ensure that, upon implementation of 
+the BSA/AML Action Plan, the Bank achieves and maintains an 
+effective BSA/AML compliance program, in accordance with the 
+BSA and its implementing regulations. In each instance in this 
+Order in which the Board is required to ensure adherence to or 
+undertake to perform certain obligations of the Bank, it is intended 
+to mean that the Board shall: Authorize and adopt such actions on 
+behalf of the Bank as may be necessary for the Bank to perform its 
+obligations and undertakings. 
+(b)  
+Require the timely reporting by Bank management of such actions 
+directed by the Board to be taken under this Order;  
+(c)  
+Require corrective action be taken in a timely manner for any non­
+compliance with such actions; and  
+(d)  
+Follow-up on any non-compliance with such actions in a timely 
+and appropriate manner. 
+(2) 
+The BSA/AML Action Plan must specify timelines for completion of each 
+of the requirements of Articles IV through XI of this Order.  The timelines in the 
+Page 6 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 7 of 37
+
+BSA/AML Action Plan shall be consistent with any deadlines set forth in these Articles, 
+unless modified by written agreement with the Deputy Comptroller or the Examiner-in-
+Charge. 
+(3) 
+Upon request by the Deputy Comptroller or the Examiner-in-Charge, the 
+Bank shall modify the BSA/AML Action Plan to address any Matters Requiring 
+Attention concerning BSA/AML matters, or citations of violations of law concerning 
+BSA/AML matters, which the OCC may issue to the Bank following the effective date of 
+this Order. 
+(4) 
+The Bank shall ensure that it has sufficient processes, personnel, and 
+control systems to implement and adhere to this Order.  The BSA/AML Action Plan must 
+specify in detail budget outlays and staffing, including aggregated staff compensation 
+information in a format acceptable to the Examiner-in-Charge, that are necessary to 
+achieve and maintain full compliance with Articles IV through XI of this Order. 
+(5) 
+Any independent consultant or auditor engaged by the Bank or the Board 
+to assist in the assessment of the BSA/AML Action Plan or other compliance with this 
+Order must have demonstrated and specialized experience with the BSA/AML matters 
+that are the subject of the engagement, and must not be subject to any conflict of interest 
+affecting the consultant’s or auditor’s independence.  
+(6) 
+Within ten (10) days of this Order, the Bank shall designate an officer to 
+be responsible for coordinating and submitting to the OCC the written plans, reports, and 
+other documents required to be submitted under the terms and conditions of this Order. 
+Page 7 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 8 of 37
+
+ARTICLE IV  
+MANAGEMENT AND ACCOUNTABILITY  
+(1) 
+The Bank shall ensure there are clear lines of authority and responsibility 
+for BSA/AML and OFAC compliance with respect to lines of business and corporate 
+functions, and that competent and independent compliance management is in place on a 
+full-time basis.  
+(2) 
+The Bank shall ensure that compliance staff has the appropriate level of 
+authority to implement the BSA/AML Compliance Program and, as needed, question 
+account relationships and business plans. Compliance staff shall maintain independence 
+from the business line.  The Bank shall follow any applicable guidance addressing 
+independence issued by the OCC or the FFIEC. 
+(3) 
+The Bank shall ensure that senior management and line of business 
+management are accountable for effectively implementing bank policies and procedures, 
+and fulfilling BSA/AML/OFAC obligations.  The Bank shall incorporate BSA/AML and 
+OFAC compliance into the performance evaluation process for senior and line of 
+business management.  Additionally, written Bank policies and procedures shall clearly 
+outline the BSA/AML/OFAC responsibilities of senior management and relevant 
+business line employees, including, but not limited to, relationship managers, business 
+banking, commercial banking, correspondent banking and private banking personnel, and 
+legal and business development staff.   
+(4) 
+The Bank shall develop appropriate objectives and means to measure the 
+effectiveness of compliance management officers and compliance management personnel 
+within each line of business and for those with responsibilities across lines of business. 
+Page 8 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 9 of 37
+
+(5) 
+The Board shall not permit any other party, including but not limited to the 
+Bank’s holding company, to perform any act on behalf of the Bank which is the subject 
+of this Order, unless the Bank requires that party to perform such act in the manner and 
+under safeguards and controls as least as stringent as required by the Bank under the 
+terms of this Order as implemented by the Bank. 
+ARTICLE V 
+BSA/AML AND OFAC COMPLIANCE PROGRAM EVALUATION 
+AND RISK ASSESSMENT 
+(1) 
+Within 60 days of this Order, the Bank shall provide an action plan for the 
+completion of an evaluation of the Bank’s BSA/AML and OFAC Compliance Programs 
+to the Examiner-in-Charge for no supervisory objection.  If the Examiner-in-Charge 
+recommends changes to the evaluation, the Bank shall incorporate those changes or 
+suggest alternatives that are acceptable to the Examiner-in-Charge. 
+(2) 
+The evaluation required pursuant to Paragraph (1) of this Article shall be 
+completed and submitted to the Examiner-in-Charge within 90 days following the non-
+objection of the Examiner-in-Charge to the action plan referred to in Article V(1). This 
+evaluation shall include assessments of the BSA/AML and OFAC Compliance Programs’ 
+organizational structure, enterprise-wide effectiveness, competency of management, 
+accountability, staffing requirements, internal controls, customer due diligence processes, 
+risk assessment processes, suspicious activity monitoring systems, audit/independent 
+testing, and training. The evaluation shall include recommendations for enhancements 
+needed to achieve remediation of any deficiencies identified in the evaluation. 
+Page 9 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 10 of 37
+
+(3) 
+This evaluation shall also include a comprehensive assessment of the 
+Bank’s BSA/AML risk, including detailed quantification of risk to accurately assess the 
+level of risk and the adequacy of controls.  The comprehensive assessment shall include: 
+(a)  
+An assessment of the AML risk associated with each line of 
+business, and an enterprise-wide assessment of AML risk.  This 
+evaluation shall include, but not be limited to, an assessment of the 
+risk associated with correspondent banking, pre-paid cards and 
+mobile banking, cash-intensive businesses, remote deposit capture, 
+business, commercial, and private banking, and other higher risk 
+products, services, customers, or geographies.  The purpose of the 
+enterprise-wide assessment is to identify systemic AML risk that 
+may not be apparent in a risk assessment focused on line of 
+business or assessment units;      
+(b)  
+Evaluation of the Bank’s current methodology for identifying and 
+quantifying the level of BSA/AML risk associated with categories 
+of customers and for specific customers.  The methodology should 
+ensure that the relationships are reviewed holistically, across lines 
+of business, taking into consideration the risk within the Bank.  
+This evaluation shall result in the development of a comprehensive 
+approach to quantifying BSA/AML risk for new and existing 
+customers.  The quantification of risk shall encompass a 
+customer’s entire relationship with the Bank, include the purpose 
+of the account, actual or anticipated activity in the account (e.g., 
+Page 10 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 11 of 37
+
+type, volume, and value (number and dollar) of transaction activity 
+engaged in), nature of the customer’s business or occupation, 
+customer location (e.g., customers’ geographic location, where 
+they transact business, and have significant operations), types of 
+products and services used by the customer, material changes in 
+the customer’s relationship with the Bank, as well as other factors 
+discussed within the FFIEC BSA/AML Examination Manual; 
+(c)  
+The identification of specific lines of business, geographies, 
+products or processes where controls are not commensurate with 
+the level of AML risk exposure; 
+(d)  
+The risk assessment shall be refreshed periodically, the timeframe 
+for which shall not exceed twelve months, or whenever there is a 
+significant change in AML risk within the Bank or line of business.  
+The AML risk assessments shall also be independently reviewed 
+by the Bank’s internal audit function for the adequacy of 
+identification of risk; control plan to manage identified risks; gap 
+analyses where controls are not sufficient; and action plans to 
+address gaps; and 
+(e)  
+The aggregation of the Bank’s enterprise-wide AML risk shall be 
+logical and clearly supported in the work papers.  The work papers 
+and supporting documentation shall be readily accessible for   
+OCC review. 
+Page 11 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 12 of 37
+
+(4) 
+OFAC risk shall be included within the BSA/AML risk assessment, using 
+the same criteria as described above in paragraphs 2(a) through (e) of this Article.  
+ARTICLE VI  
+CUSTOMER DUE DILIGENCE  
+(1) 
+Within 90 days of this Order, the Bank shall ensure that appropriate 
+customer due diligence policies, procedures, and processes are developed.  These controls 
+shall be implemented and applied on a Bank-wide basis.  Minimum corporate standards 
+shall provide general guidance, and individual lines of business and AML compliance 
+management shall develop standards based on their client base, products, services, 
+geographic risk, and other AML risk factors.  Customer due diligence shall be 
+commensurate with the customer’s risk profile, and sufficient for the bank to develop an 
+understanding of normal and expected activity for the customer’s occupation or business 
+operations. The customer due diligence process shall include the following items: 
+(a)  
+Information regarding the client’s/customer’s relationships with 
+the Bank, all lines of business within the Bank, and all Bank 
+subsidiaries or affiliates (that are subject to management control by 
+the Banks’ holding company).  This includes accounts within other 
+lines of business, regions, and countries (as permitted by 
+jurisdiction).  The relationship includes its owners, principals, 
+signers, subsidiaries, affiliates, and parties with the ability to 
+manage or control the account or client; 
+Page 12 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 13 of 37
+
+(b)  
+An electronic due diligence database, which includes information 
+specified in subparagraph (a) above, that is readily accessible to 
+the relationship manager or other parties responsible for the 
+customer relationship, AML compliance personnel, suspicious 
+activity monitoring alert analysts and investigators, and quality 
+control and assurance personnel; 
+(c)  
+Customer due diligence shall be periodically updated to reflect 
+changes in the customer’s behavior, activity profile, derogatory 
+information, periodic reviews of the customer relationship, or other 
+factors that impact the AML risk for the client and shall include 
+any remediation required by the standards required by the Article. 
+The frequency of the periodic update of due diligence shall be 
+based on risk with the update performed at least annually for high-
+risk relationships, triennially for low-risk business relationships, 
+and as appropriate for low-risk individuals.  The periodic updates 
+shall be documented, and subject to quality assurance processes; 
+(d)  
+The client relationship AML risk shall be detailed in the customer 
+due diligence record, along with the supporting factors, including 
+transaction activity, geographies involved, and suspicious activity 
+monitoring alert and filing history, among others; 
+(e)  
+Specialized or enhanced due diligence for higher risk clients and/or 
+products and services shall be implemented enterprise-wide.  
+These due diligence standards shall comply with the FFIEC 
+Page 13 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 14 of 37
+
+BSA/AML Examination Manual, the Interagency Guidance on 
+Beneficial Ownership Information (OCC 2010-11), as well as 
+industry standards; and 
+(f)  
+Management processes to periodically review, based on the 
+relationship risk, the type, volume, and value of customer activities 
+in relation to normal and expected levels.  The purpose of these 
+reviews shall be to determine if the customer’s activity is 
+reasonable, that customer due diligence is current and complete, 
+and the customer risk rating is accurate.  These reviews shall be 
+documented and quality assurance processes must ensure the 
+reviews are comprehensive and accurate.  Standards and processes 
+shall be established for elevating reviews for additional 
+management consideration regarding increased monitoring, 
+additional due diligence, or account closure/   
+(2) 
+The Bank shall submit its policies and procedures for customer due 
+diligence to the Examiner-in-Charge for prior no supervisory objection.  If the Examiner­
+in-Charge recommends changes to the policies or procedures, the Bank shall incorporate 
+those changes or suggest alternatives that are acceptable to the Examiner-in-Charge. 
+ARTICLE VII  
+SUSPICIOUS ACTIVITY IDENTIFICATION AND REPORTING  
+(1) 
+Within 60 days of this Order, the Bank shall develop and thereafter shall 
+maintain a written program of policies and procedures to ensure, pursuant to 12 C.F.R. 
+Page 14 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 15 of 37
+
+§ 21.11, the timely and appropriate review and disposition of suspicious activity alerts, 
+and the timely filing of Suspicious Activity Reports (“SARs”). 
+(2) 
+Within 30 days of this Order, the Bank shall retain or continue an existing 
+or newly revised relationship with one or more independent consultants acceptable to the 
+Examiner-in-Charge to evaluate its suspicious activity identification processes to ensure 
+they are effective and provide comprehensive coverage to the Bank.  This evaluation 
+shall include an assessment of the capabilities of any surveillance and transaction 
+monitoring systems used; the scope of coverage provided by the systems; and the 
+management of those systems.  Upon completion, the Bank shall submit this evaluation 
+to the Examiner-in-Charge for no supervisory objection.  The evaluation shall address, 
+but not be limited to, the following issue: 
+(a)  
+An assessment of the functionality of automated transaction 
+monitoring systems used to determine if the systems are 
+sufficiently robust to provide for the timely identification of 
+potentially suspicious activity.  A comprehensive listing of 
+weaknesses or deficiencies in the system and the risks presented by 
+these deficiencies shall be highlighted for management 
+consideration; 
+(3) 
+Management’s implementation of each surveillance and transaction 
+monitoring system shall ensure the following: 
+(a)  
+The integrity of data feeding the transaction monitoring systems; 
+(b)  
+The system has been sufficiently tailored to the Bank’s risk profile 
+and operations; 
+Page 15 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 16 of 37
+
+(c)  
+The system’s functionality is being utilized to appropriately 
+address risk, including the ability to aggregate data across 
+platforms, lines of business, and relationships; and 
+(d)  
+The business logic units, parameters, rules, or other factors 
+selected for automated monitoring are appropriate and effective in 
+identifying client activity that is unreasonable or abnormal given 
+the nature of the client’s occupation or business and expected 
+activity. In addition, there shall be:  
+(i)  
+Sufficient management information and metrics to manage 
+and adjust the system, as necessary; and 
+(ii)  
+Statistically valid processes to validate and optimize 
+monitoring system settings and thresholds, and to measure 
+the effectiveness of the automated system and individual 
+scenarios, where appropriate.  
+(4) 
+Management implementation of the alert investigation processes shall 
+ensure the following: 
+(a)  
+The adequacy of staffing to investigate and clear alerts;   
+(b)  
+The quality and completeness of information available to analysts 
+working transaction monitoring alerts and conducting 
+investigations;   
+(c)  
+The standards for dispositioning different types of alerts are 
+reasonable, communicated in writing to relevant staff, and are 
+adhered to by the alert investigators;     
+Page 16 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 17 of 37
+
+(d)  
+Adequate documentation is maintained to support the disposition 
+of alerts; 
+(e)  
+The availability and adequacy of information to investigate 
+potentially suspicious activity, including, if applicable, information 
+from multiple lines of business a customer transacts with or 
+information from bank subsidiaries or affiliates (that are subject to 
+management control by the Banks’ holding company), and 
+information concerning foreign suspicious activity reports 
+involving United States customers;  
+(f)  
+Standards that ensure accounts with high volumes of alerts are 
+identified, elevated, and properly categorized as high risk, and 
+subject to enhanced due diligence and monitoring; and 
+(g)  
+Sufficient quality control processes to ensure the surveillance and 
+transaction monitoring system, alert management process, and 
+SAR decisioning and filing are working effectively and according 
+to internal standards. 
+ARTICLE VIII 
+SUSPICIOUS ACTIVITY REPORT REVIEW (“SAR LOOK-BACK”) 
+(1) 
+Within 30 days of this Order, the Banks shall provide to the Examiner-in-
+Charge for prior no supervisory objection an action plan to review the quality of SAR 
+filings (“SAR look-back”).  The purpose of the SAR look-back is to review the quality of 
+SARs filed and determine whether corrections or amendments are necessary to ensure 
+Page 17 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 18 of 37
+
+that the suspicious activity identified was accurately reported in accordance with 12 
+C.F.R. § 21.11, and whether additional SARs should be filed on additional subjects or for 
+continuing suspicious activity. 
+(2) 
+The SAR look-back must be supervised and certified by independent 
+consultant(s) acceptable to the Examiner-in-Charge with expertise in conducting look-
+back reviews for large institutions. 
+(3) 
+Upon completion of the SAR look-back: (i) the Bank shall ensure that 
+SARs have been filed, in accordance with 12 C.F.R. § 21.11, for any previously reported 
+suspicious activity identified during this review; (ii) the written findings shall be reported 
+to the Board; and (iii) the Bank will provide the Examiner-in-Charge with a report, 
+containing relevant information, including the number of modified or amended SARs and 
+any additional or continuing activity SARs filed as a result of the review.   
+(4) 
+Based upon the results of the SAR look-back, the OCC may expand the 
+scope of the independent review or require a longer SAR look-back period.  If an 
+additional SAR look-back is deemed appropriate by the OCC, the Bank shall complete 
+the SAR look-back in accordance with this Article.  
+ARTICLE IX  
+ACCOUNT/TRANSACTION ACTIVITY AND SUSPICIOUS ACTIVITY REPORT  
+REVIEW (“ACCOUNT AND TRANSACTION LOOK-BACK”)  
+(1) 
+Within 30 days of this Order, the Bank shall provide to the Examiner-in-
+Charge for prior no supervisory objection an action plan to conduct an independently 
+supervised review of account and transaction activity (“account and transaction look-
+Page 18 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 19 of 37
+
+back”) covering non-bank financial institutions, as defined in the FFIEC BSA/AML 
+Examination Manual.  
+(2) 
+The purpose of the account and transaction look-back is to determine 
+whether suspicious activity was timely identified by the Bank, and, if appropriate to do 
+so, was then timely reported by the Bank in accordance with 12 C.F.R. § 21.11. 
+(3) 
+The account and transaction look-back must be supervised and certified by 
+independent consultant(s) with expertise in conducting look-back reviews for large 
+institutions. The account and transaction look-back shall be risk-based, including the 
+risks identified in the Bank’s risk assessment as revised under Article V, and shall 
+identify the sampling, software screening, or analytical techniques used to identify 
+transactions that are subject to review for suspicious activity. 
+(4) 
+Upon completion of the account and transaction look-back: (i) the Bank 
+shall ensure that SARs have been filed, in accordance with 12 C.F.R. § 21.11, for any 
+previously unreported suspicious activity identified during this review; (ii) the written 
+findings shall be reported to the Board; and (iii) the Bank will provide the Examiner-in-
+Charge with a report, containing relevant information, identifying any SARs filed as a 
+result of previously unreported suspicious activity.   
+(5) 
+Based upon the results of the account and transaction look-back, the OCC 
+may expand the scope of the independent review or require a longer account and 
+transaction look-back period. If an additional account and transaction look-back is 
+deemed appropriate by the OCC, the Bank shall complete the account and transaction 
+look-back in accordance with this Article.  
+Page 19 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 20 of 37
+
+ARTICLE X  
+INDEPENDENT TESTING AND AUDIT  
+(1) 
+Within 90 days of this Order, the Bank shall develop and maintain an 
+effective program to audit the Bank’s BSA/AML and OFAC Compliance Programs 
+(“Audit Program”).  The Audit Program shall include, at a minimum: 
+(a)  
+A formal process to track and report upon Bank management’s 
+remediation efforts to strengthen the Bank’s BSA/AML/OFAC 
+compliance program; 
+(b)  
+Testing of the adequacy of internal controls designed to ensure 
+compliance with BSA and OFAC, and their implementing 
+regulations; 
+(c)  
+A risk-based approach that focuses transactional testing on higher-
+risk clients, products, geographies, and significant relationships; 
+and 
+(d)  
+A requirement for prompt management response and follow-up to 
+audit exceptions or other recommendations of the Bank’s auditor. 
+(2) 
+The Audit Program shall evaluate internal controls and effectively and 
+timely identify non-compliance with policy, laws, rules, and regulations across lines of 
+business and within each line of business.  At least annually, the Audit Program shall 
+evaluate the adequacy of the Bank’s BSA Program based on the results of the 
+independent testing, and considering changes in the quantity of AML risk or AML risk 
+management. 
+Page 20 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 21 of 37
+
+(3) 
+The Bank’s audit function shall be adequately staffed with respect to 
+experience level, specialty expertise regarding BSA/AML and OFAC, and number of the 
+individuals employed. 
+(4) 
+The Bank’s Audit Program shall report all internal audit- and OCC-
+identified deficiencies to the Compliance Committee, the Bank’s Audit Committee, and 
+to senior compliance management.  The reports shall indicate the severity of the 
+deficiencies, the risks, the corrective actions, and timeframes.  Corrective actions must be 
+followed-up by internal audit within a reasonable period of time until closed.  Monthly 
+status reports on corrective action status shall be provided to the Compliance Committee 
+and the Bank’s Audit Committee. 
+(5) 
+The Board and senior compliance management shall receive adequately 
+detailed information about the Bank’s compliance management program in light of their 
+respective obligations to oversee the Bank and to fulfill their fiduciary responsibilities 
+and other responsibilities under law. Deficiencies in the program shall be identified and 
+highlighted along with the risks. 
+(6) 
+Within 90 days of this Order, the Bank shall submit the Audit Program to 
+the Examiner-in-Charge for prior no supervisory objection.  If the Examiner-in-Charge 
+recommends changes to the Audit Program, the Bank shall incorporate those changes or 
+suggest alternatives that are acceptable to the Examiner-in-Charge. 
+Page 21 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 22 of 37
+
+ARTICLE XI  
+NEW ACCOUNTS, PRODUCTS, SERVICES, OR MARKET  
+SEGMENTS/INDUSTRIES  
+(1) 
+The Bank shall ensure that new products and services are subject to senior 
+level compliance review and approval.  These reviews must consider the quantity of 
+BSA/AML and OFAC risk of the new product or service as well as the quality of risk 
+management.  At a minimum, these reviews must assess the ability of the Bank’s 
+compliance program to manage the risk, the anticipated growth in both the business and 
+the compliance function, and the ability of alert investigators’ to manage any anticipated 
+increase in alert volume as a result of the new business. 
+(2) 
+The Bank shall not enter into a new high-risk (inherent quantity) market 
+segment/industry, enter into new or expand existing high-risk (inherent quantity) lines of 
+business, without conducting a risk assessment, a determination of compliance staffing 
+impact, and without providing prior notification of at least 30 days to the Examiner-in-
+Charge of such proposed actions. 
+ARTICLE XII  
+APPROVAL, IMPLEMENTATION AND REPORTS  
+(1) 
+The Bank shall submit the written plans, programs, policies and 
+procedures required by this Order for review and determination of no supervisory 
+objection to the Deputy Comptroller and the Examiner-in-Charge within the applicable 
+time periods set forth in Articles III through XI.  The Board shall approve the submission 
+and cause the Bank to submit the plans, programs, policies and procedures to the Deputy 
+Page 22 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 23 of 37
+
+Comptroller and Examiner-in-Charge for prior written determination of no supervisory 
+objection. In the event the Deputy Comptroller asks the Bank to revise the plans, 
+programs, policies or procedures, the Board shall promptly make necessary and 
+appropriate revisions and resubmit the materials to the Deputy Comptroller and 
+Examiner-in-Charge for review and determination of no supervisory objection.  Upon 
+receiving written notice of no supervisory objection from the Deputy Comptroller, the 
+Board promptly shall adopt the plans, programs, policies and procedures and direct and 
+cause the Bank to implement and thereafter adhere to the plans, programs, policies and 
+procedures. Following implementation of the plans, programs, policies and procedures, 
+the Board shall ensure that the Bank does not take any action that will cause a significant 
+deviation from, or material change to the plans, programs, policies and procedures, unless 
+and until the Board has received prior written determination of no supervisory objection 
+from the Deputy Comptroller. 
+(2) 
+During the term of this Order, the Bank shall revise the required plans, 
+programs, policies and procedures as necessary to incorporate new, or changes to, 
+applicable legal requirements and supervisory guidelines following the procedures above.   
+(3) 
+The Board shall ensure that the Bank has processes, personnel, and control 
+systems to ensure implementation of and adherence to the plans, programs, policies and 
+procedures required by this Order. 
+(4) 
+Within thirty (30) days after the end of each calendar quarter following the 
+date of this Order, the Bank shall submit to the OCC a written progress report detailing 
+the form and manner of all actions taken to secure compliance with the provisions of this 
+Order and the results thereof. The progress report shall include information sufficient to 
+Page 23 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 24 of 37
+
+validate compliance with this Order, based on a testing program acceptable to the OCC 
+that includes, if required by the OCC, validation by third-party independent consultants 
+acceptable to the OCC. The OCC may, in writing, discontinue the requirement for 
+progress reports or modify the reporting schedule. 
+(5) 
+All communication regarding this Order shall be sent to: 
+ 
+ 
+ 
+Sally G. Belshaw 
+Deputy Comptroller 
+Large Bank Supervision 
+Office of the Comptroller of the Currency 
+250 E Street, SW 
+Washington, DC 20219 
+Scott N. Waterhouse 
+Examiner-in-Charge 
+National Bank Examiners 
+1166 Avenue of the Americas, 21st Floor 
+New York, NY 10036 
+or such other individuals or addresses as directed by the OCC. 
+ARTICLE XIII  
+CLOSING  
+(1) 
+Although this Order requires the Bank to submit certain actions, plans, 
+programs, policies and procedures for the review or prior written determination of no 
+supervisory objection by the Deputy Comptroller or the Examiner-in-Charge, the Board 
+has the ultimate responsibility for proper and sound management of the Bank. 
+(2) 
+If, at any time, the Comptroller deems it appropriate in fulfilling the 
+responsibilities placed upon him by the several laws of the United States to undertake any 
+action affecting the Bank, nothing in this Order shall in any way inhibit, estop, bar or 
+otherwise prevent the Comptroller from so doing. 
+Page 24 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 25 of 37
+
+(3) 
+This Order constitutes a settlement of the cease and desist proceeding 
+against the Bank contemplated by the Comptroller, based on the unsafe or unsound 
+practices and violations of law or regulation described in the Comptroller’s Findings set 
+forth in Article I of this Order. The OCC releases and discharges the Bank from all 
+potential liability for a cease and desist order that has been or might have been asserted 
+by the OCC based on the practices and violations described in the Comptroller’s Findings 
+set forth in Article I of the Order, to the extent known to the OCC as of the effective date 
+of the Order. Provided, however, that nothing in the Stipulation or this Order shall 
+prevent the Comptroller from instituting other enforcement actions against the Bank or 
+any of its institution-affiliated parties, including, without limitation, assessment of civil 
+money penalties, based on the findings set forth in this Order, or any other findings, and 
+nothing in the Stipulation or this Order shall preclude or affect any right of the OCC to 
+determine and ensure compliance with the terms and provisions of the Stipulation or this 
+Order. 
+(4) 
+This Order is and shall become effective upon its execution by the 
+Comptroller, through his authorized representative whose hand appears below.  The 
+Order shall remain effective and enforceable, except to the extent that, and until such 
+time as, any provision of this Order shall be amended, suspended, waived, or terminated 
+in writing by the Comptroller. 
+(5) 
+Any time limitations imposed by this Order shall begin to run from the 
+effective date of this Order, as shown below, unless the Order specifies otherwise.  The 
+time limitations may be extended in writing by the Deputy Comptroller for good cause 
+upon written application by the Board.  Any request to extend any time limitation shall 
+include a statement setting forth in detail the special circumstances that prevent the Bank 
+Page 25 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 26 of 37
+
+from complying with the time limitation, and shall be accompanied by relevant 
+supporting documentation.  The Deputy Comptroller’s decision regarding the request is 
+final and not subject to further review. 
+(6) 
+The terms and provisions of this Order apply to JPMorgan Chase Bank, 
+N.A., Columbus, OH; JPMorgan Bank and Trust Company, N.A., San Francisco, CA; 
+and Chase Bank USA, N.A., Newark, DE and all their subsidiaries, even though those 
+subsidiaries are not named as parties to this Order.  The Bank shall integrate any 
+activities done by a subsidiary into its plans, policies, programs and processes required by 
+this Order.  The Bank shall ensure that its subsidiaries comply with all terms and 
+provisions of this Order. 
+(7) 
+This Order is intended to be, and shall be construed to be, a final order 
+issued pursuant to 12 U.S.C. § 1818(b), and expressly does not form, and may not be 
+construed to form, a contract binding the Comptroller or the United States.  Without 
+limiting the foregoing, nothing in this Order shall prevent any action against the Bank or 
+its institution-affiliated parties by a bank regulatory agency, the United States Department 
+of Justice, or any other law enforcement agency. 
+(8) 
+The terms of this Order, including this paragraph, are not subject to 
+amendment or modification by any extraneous expression, prior agreements, or prior 
+arrangements between the parties, whether oral or written. 
+IT IS SO ORDERED, this  14 day of Jan , 2013. 
+/s/ 
+Sally G. Belshaw 
+Deputy Comptroller for Large Bank Supervision 
+Office of the Comptroller of the Currency 
+Page 26 of 26 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 27 of 37
+
+UNITED STATES OF AMERICA  
+DEPARTMENT OF THE TREASURY  
+COMPTROLLER OF THE CURRENCY  
+) 
+In the Matter of: 
+) 
+) 
+AA-EC-13-04 
+JPMorgan Chase Bank, N.A. 
+) 
+Columbus, OH 
+) 
+) 
+JPMorgan Bank and Trust Company, N.A. 
+) 
+San Francisco, CA 
+) 
+) 
+Chase Bank USA, N.A. 
+) 
+Newark, DE 
+) 
+) 
+) 
+STIPULATION AND CONSENT TO THE ISSUANCE 
+OF A CONSENT ORDER 
+WHEREAS, the Comptroller of the Currency of the United States of America 
+(“Comptroller”), based upon information derived from the exercise of his regulatory and 
+supervisory responsibilities, intends to issue a cease and desist order to JPMorgan Chase Bank, 
+N.A., Columbus, Ohio; JPMorgan Bank and Trust Company, N.A., San Francisco, California; 
+and Chase Bank USA, N.A., Newark, Delaware, and their subsidiaries (collectively referred to as 
+“Bank”), pursuant to 12 U.S.C. § 1818(b), for violations of 12 U.S.C. § 1818(s), and Bank 
+Secrecy Act regulations, 12 C.F.R. §§ 21.11 and 21.21; 
+WHEREAS, in the interest of cooperation and to avoid additional costs associated with 
+administrative and judicial proceedings with respect to the above matter, the Bank, through its 
+duly elected and acting Boards of Directors (collectively referred to as “Board”), has agreed to 
+Page 1 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 28 of 37
+
+execute this Stipulation and Consent to the Issuance of a Consent Order (“Stipulation”), that is 
+accepted by the Comptroller, through his duly authorized representative; 
+NOW, THEREFORE, in consideration of the above premises, it is stipulated by the 
+Bank that: 
+ARTICLE I 
+JURISDICTION 
+(1) 
+The Bank is a national banking association chartered and examined by the 
+Comptroller pursuant to the National Bank Act of 1864, as amended, 12 U.S.C. § 1 et seq. 
+(2) 
+The Comptroller is “the appropriate Federal banking agency” regarding the Bank 
+pursuant to 12 U.S.C. §§ 1813(q) and 1818(b). 
+(3) 
+The Bank is an “insured depository institution” within the meaning of 12 U.S.C. 
+§ 1818(b)(1). 
+ARTICLE II  
+CONSENT  
+(1) 
+The Bank, without admitting or denying any wrongdoing, consents and agrees to 
+issuance of the accompanying Consent Order by the Comptroller.   
+(2) 
+The terms and provisions of the Consent Order apply to JPMorgan Chase Bank, 
+N.A., Columbus, OH; JPMorgan Bank and Trust Company, N.A., San Francisco, CA; and Chase 
+Bank USA, N.A., Newark, DE and all their subsidiaries, even though those subsidiaries are not 
+named as parties to the Consent Order. 
+(3) 
+The Bank consents and agrees that the Consent Order shall be deemed an “order 
+issued with the consent of the depository institution” pursuant to 12 U.S.C. § 1818(h)(2), will 
+Page 2 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 29 of 37
+
+become effective upon its execution by the Comptroller through his authorized representative, 
+and will be fully enforceable by the Comptroller pursuant to 12 U.S.C. § 1818(b).   
+(4) 
+Notwithstanding the absence of mutuality of obligation, or of consideration, or of 
+a contract, the Comptroller may enforce any of the commitments or obligations herein 
+undertaken by the Bank under his supervisory powers, including 12 U.S.C. § 1818(b), and not as 
+a matter of contract law.  The Bank expressly acknowledges that neither the Bank nor the 
+Comptroller has any intention to enter into a contract.   
+(5) 
+The Bank declares that no separate promise or inducement of any kind has been 
+made by the Comptroller, or by his agents or employees, to cause or induce the Bank to consent 
+to the issuance of the Consent Order and/or execute this Stipulation. 
+(6) 
+The Bank expressly acknowledges that no officer or employee of the Comptroller 
+has statutory or other authority to bind the United States, the United States Treasury Department, 
+the Comptroller, or any other federal bank regulatory agency or entity, or any officer or 
+employee of any of those entities to a contract affecting the Comptroller’s exercise of his 
+supervisory responsibilities. 
+(7) 
+The Consent Order constitutes a settlement of the cease and desist proceeding 
+against the Bank contemplated by the Comptroller, based on the unsafe or unsound practices and 
+violations of law or regulation described in the Comptroller’s Findings set forth in Article I of 
+the Consent Order. The OCC releases and discharges the Bank from all potential liability for a 
+cease and desist order that has been or might have been asserted by the OCC based on the 
+practices and violations described in the Comptroller’s Findings set forth in Article I of the 
+Consent Order, to the extent known to the OCC as of the effective date of the Order.  Provided, 
+however, that nothing in this Stipulation or the Consent Order shall prevent the Comptroller from 
+Page 3 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 30 of 37
+
+instituting other enforcement actions against the Bank or any of its institution-affiliated parties, 
+including, without limitation, assessment of civil money penalties, based on the findings set forth 
+in the Consent Order, or any other findings, and nothing in the Consent Order shall preclude or 
+affect any right of the OCC to determine and ensure compliance with the terms and provisions of this 
+Stipulation or the Consent Order. 
+(8) 
+The terms and provisions of the Stipulation and the Consent Order shall be 
+binding upon, and inure to the benefit of, the parties hereto and their successors in interest.  
+Nothing in this Stipulation or the Consent Order, express or implied, shall give to any person or 
+entity, other than the parties hereto, and their successors hereunder, any benefit or any legal or 
+equitable right, remedy or claim under this Stipulation or the Consent Order. 
+ARTICLE III  
+WAIVERS  
+(1) 
+The Bank, by executing this Stipulation and consenting to the Consent Order, 
+waives: 
+(a)  
+Any and all rights to the issuance of a Notice of Charges pursuant to 
+12 U.S.C. § 1818(b); 
+(b)  
+Any and all procedural rights available in connection with the issuance of 
+the Consent Order; 
+(c)  
+Any and all rights to a hearing and a final agency decision pursuant to 12 
+U.S.C. §§ 1818(b) and (h), and 12 C.F.R. Part 19; 
+(d)  
+Any and all rights to seek any type of administrative or judicial review of 
+the Consent Order; 
+Page 4 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 31 of 37
+
+(e)  
+Any and all claims for fees, costs or expenses against the Comptroller, or 
+any of his agents or employees, related in any way to this enforcement 
+matter or the Consent Order, whether arising under common law or under 
+the terms of any statute, including, but not limited to, the Equal Access to 
+Justice Act, 5 U.S.C. § 504 and 28 U.S.C. § 2412; 
+(f)  
+Any and all rights to assert this proceeding, this Stipulation, consent to the 
+issuance of the Consent Order, and/or the issuance of the Consent Order, 
+as the basis for a claim of double jeopardy in any pending or future 
+proceeding brought by the United States Department of Justice or any 
+other governmental entity; and 
+(g)  
+Any and all rights to challenge or contest the validity of the Consent 
+Order. 
+ARTICLE IV 
+ELIGIBLE BANK – OTHER PROVISIONS 
+(1)  
+As a result of the Consent Order: 
+(a)  
+The Bank is an “eligible bank” pursuant to 12 C.F.R. § 5.3(g)(4) for the 
+purposes of 12 C.F.R. Part 5 regarding rules, policies and procedures for 
+corporate activities, unless otherwise informed in writing by the OCC; 
+(b)  
+The Bank is not subject to the limitation of 12 C.F.R. § 5.51(c)(6)(ii) for 
+the purposes of 12 C.F.R. § 5.51 requiring OCC approval of a change in 
+directors and senior executive officers, unless otherwise informed in 
+writing by the OCC; 
+Page 5 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 32 of 37
+
+(c)  
+The Bank is not subject to the limitation on golden parachute and 
+indemnification payments provided by 12 C.F.R. § 359.1(f)(1)(ii)(C) and 
+12 C.F.R. § 5.51(c)(6)(ii), unless otherwise informed in writing by the 
+OCC; 
+(d)  
+The Bank’s status as an “eligible bank” remains unchanged pursuant to 12 
+C.F.R. § 24.2(e)(4) for the purposes of 12 C.F.R. Part 24 regarding 
+community and economic development, unless otherwise informed in 
+writing by the OCC; and 
+(e)  
+The Consent Order shall not be construed to be a “written agreement, 
+order, or capital directive” within the meaning of 12 C.F.R. § 6.4, unless 
+the OCC informs the Bank otherwise in writing.   
+ARTICLE V  
+CLOSING  
+(1) 
+The provisions of this Stipulation and the Consent Order shall not inhibit, estop, 
+bar, or otherwise prevent the Comptroller from taking any other action affecting the Bank if, at 
+any time, it deems it appropriate to do so to fulfill the responsibilities placed upon it by the 
+several laws of the United States of America. 
+(2) 
+Nothing in this Stipulation or the Consent Order shall preclude any proceedings 
+brought by the Comptroller to enforce the terms of the Consent Order, and nothing in this 
+Stipulation or the Consent Order constitutes, nor shall the Bank contend that it constitutes, a 
+release, discharge, compromise, settlement, dismissal, or resolution of any actions, or in any way 
+affects any actions, that may be or have been brought by any other representative of the United 
+Page 6 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 33 of 37
+
+States or an agency thereof, including, without limitation, the United States Department of 
+Justice. 
+(3) 
+The terms of this Stipulation, including this paragraph, and of the Consent Order 
+are not subject to amendment or modification by any extraneous expression, prior agreements or 
+prior arrangements between the parties, whether oral or written. 
+IN TESTIMONY WHEREOF, the undersigned, as the duly elected and acting Board of 
+Directors of JPMorgan Chase Bank, N.A., Columbus, OH, have hereunto set their hands on 
+behalf of the Bank. 
+/s/ 
+01/14/13 
+Frank J. Bisignano 
+Date 
+/s/ 
+01/14/13 
+James S. Crown 
+Date 
+/s/ 
+01/14/13 
+James Dimon 
+Date 
+/s/ 
+01/14/13 
+Laban P. Jackson, Jr. 
+Date 
+/s/ 
+01/14/13 
+Marianne Lake 
+Date 
+Page 7 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 34 of 37
+
+IN TESTIMONY WHEREOF, the undersigned, as the duly elected and acting Board of 
+Directors of JPMorgan Bank and Trust Company, N.A., San Francisco, CA, have hereunto set 
+their hands on behalf of the Bank. 
+/s/__________________________________________ 
+Brent L. Barton 
+01/14/2013______________ 
+Date 
+/s/ 
+____________________________________________ 
+John J. Hyland 
+01/14/2013 
+________________________ 
+Date 
+/s/ 
+____________________________________________ 
+Kelly A. Mathieson 
+01/14/2013 
+________________________ 
+Date 
+/s/ 
+____________________________________________ 
+Jennifer A. Piepszak 
+01/14/2013 
+________________________ 
+Date 
+/s/ 
+____________________________________________ 
+Daniel J. Riner 
+01/14/2013 
+________________________ 
+Date 
+Page 8 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 35 of 37
+
+IN TESTIMONY WHEREOF, the undersigned, as the duly elected and acting Board of 
+Directors of Chase Bank USA, N.A., Newark, DE, have hereunto set their hands on behalf of the 
+Bank. 
+/s/ 
+01/14/2013 
+Raymond Fischer 
+Date 
+/s/ 
+01/14/2013 
+Catherine M. Hogan 
+Date 
+/s/ 
+01/14/2013 
+Matthew Kane 
+Date 
+/s/ 
+01/14/2013 
+James K. Paterson  
+Date 
+/s/ 
+01/14/2013 
+Keith W. Schuck 
+Date 
+/s/ 
+01/14/2013 
+Eileen M. Serra 
+Date 
+/s/ 
+01/14/2013 
+John C. Marion 
+Date 
+Page 9 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 36 of 37
+
+Accepted by: 
+THE COMPTROLLER OF THE CURRENCY 
+By: 
+/s/ 
+_______________________________________ 
+_____01/14/2013____________________ 
+Sally G. Belshaw 
+Date 
+Deputy Comptroller for Large Bank Supervision 
+Office of the Comptroller of the Currency 
+Page 10 of 10 
+Case 1:23-cv-03903-JSR     Document 31-1     Filed 07/20/23     Page 37 of 37

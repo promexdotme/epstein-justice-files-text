@@ -1,0 +1,396 @@
+METADATA_SOURCE: Court Records\Davies v. Indyke, No. 119-cv-10788 (S.D.N.Y. 2019)
+METADATA_FILENAME: 027.pdf
+----------------------------------------
+41603298v2
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+TEALA DAVIES, 
+Plaintiff,  
+   v. 
+DARREN K. INDYKE and RICHARD D. KAHN, as 
+executors of the ESTATE OF JEFFREY E. EPSTEIN,
+Defendants.
+ Case No. 1:19-cv-10788 (GHW) (DCF)
+DEFENDANTS’ MEMORANDUM OF LAW IN SUPPORT 
+OF THEIR MOTION TO DISMISS PLAINTIFF’S COMPLAINT 
+TROUTMAN SANDERS LLP 
+875 Third Avenue 
+New York, New York 10022 
+Tel: 212-704-6000 
+Fax: 212-704-6288 
+Attorneys for Defendants
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 1 of 14
+
+TABLE OF CONTENTS
+Page
+41603298v2
+-i-
+PRELIMINARY STATEMENT ................................................................................................... 1 
+STATEMENT OF ALLEGED FACTS ......................................................................................... 2 
+A. 
+Plaintiff Alleges Torts Occurring Over 15 Years Ago In New York And 
+Other Jurisdictions, Starting When She Was Age Seventeen ................................ 2 
+ARGUMENT ................................................................................................................................. 2 
+A. 
+Legal Standard: Plaintiff’s Legal Conclusions, Labels And Formulaic 
+Recitations Of The Elements Of Her Causes Of Action Are Insufficient To 
+State A Claim ......................................................................................................... 2 
+B. 
+Most Of Plaintiff’s Claims Expired Many Years Ago........................................... 3 
+C. 
+Plaintiff’s Claim For Punitive Damages Fails As A Matter Of Law ..................... 4 
+1. 
+Banks factor one: previously, USVI courts favorably cited the 
+Restatement section that precludes punitive damages against 
+estates. ........................................................................................................ 7 
+2. 
+Banks factor two: a majority of U.S. jurisdictions do not permit an 
+award of punitive damages based on the wrongful acts of a 
+decedent. .................................................................................................... 7 
+3. 
+Banks factor three: Post-Banks, USVI courts have favorably 
+applied Restatement Section 908 to questions regarding punitive 
+damages...................................................................................................... 8 
+CONCLUSION .............................................................................................................................. 9 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 2 of 14
+
+ii 
+41603298v2
+TABLE OF AUTHORITIES 
+ 
+Page(s) 
+Cases 
+Ashcroft v. Iqbal, 
+556 U.S. 662 (2009) ...................................................................................................................2 
+Banks v. Int’l Rental & Leasing Corp., 
+55 V.I. 967 (V.I. 2011) ......................................................................................................6, 7, 8 
+Bell Atl. Corp. v. Twombly, 
+550 U.S. 544 (2007) ...................................................................................................................2 
+Blissett v. Eisensmidt, 
+940 F. Supp. 449 (N.D.N.Y. 1996) ............................................................................................6 
+Booth v. Bowen, 
+No. CIV. 2006-217, 2008 WL 220067 (D.V.I. Jan. 10, 2008) ..................................................7 
+Brandy v. Flamboyant Inv. Co., Ltd., 
+24 V.I. 249 (V.I. Terr. Ct. 1989) ................................................................................................8 
+Crabtree v. Estate of Crabtree, 
+837 N.E.2d 135 (Ind. 2005) .......................................................................................................7 
+Davis v. Christian, 
+46 V.I. 557 (D.V.I. App. Div. 2005) ..........................................................................................8 
+Gov’t of Virgin Islands v. Connor, 
+No. S. CT. CIV. 2013-0095, 2014 WL 702639 (V.I. Feb. 24, 2014) ........................................6 
+Graham v. Henderson, 
+224 F.R.D. 59 (N.D.N.Y. 2004).................................................................................................6 
+Hamilton v. Dowson Holding Co., 
+51 V.I. 619 (D.V.I. 2009)...........................................................................................................7 
+Isaac v. Crichlow, 
+63 V.I. 38, 2015 V.I. LEXIS 15 (V.I. Super. Ct. 2015) .............................................................8 
+Jaramillo v. Providence Wash. Ins. Co., 
+117 N.M. 337 (N.M. 1994) ........................................................................................................6 
+Kunica v. St. Jean Fin., 
+No. 97 Civ. 3804, 1998 U.S. Dist. LEXIS 11867 (S.D.N.Y. July 29, 1998) 
+(Sweet, J.)...................................................................................................................................4 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 3 of 14
+
+iii 
+41603298v2
+Lohr v. Byrd, 
+522 So. 2d 845 (Fla. 1988).........................................................................................................6 
+Pappas v. Hotel on the Cay Time-Sharing Ass’n, 
+69 V.I. 3 (U.S.V.I. Super. Ct. 2015) ..........................................................................................8 
+Poindexter v. Zacharzewski, 
+No. 18-14155, 2018 U.S. Dist. LEXIS 189861 (Nov. 5, 2018 S.D. Fla.) .................................6 
+Powell v. Chi-Co’s Distrib., 
+No. ST-13-TOR-14, 2014 V.I. LEXIS 21 (U.S.V.I. Super. Ct. Apr. 3, 2014) ..........................8 
+Purdy v. Consumers Distrib. Co., 
+648 F. Supp. 980 (S.D.N.Y. 1986) (Cedarbaum, J.) ..................................................................4 
+Simons v. Marriott Corp., 
+No. 92 Civ. 3762 (SWK), 1993 U.S. Dist. LEXIS 14365 (S.D.N.Y. Oct. 12, 
+1993) ..........................................................................................................................................5 
+SJB v. N.Y.C. Dep’t of Educ., 
+No. 03 Civ. 6653, 2004 U.S. Dist. LEXIS 13227 (S.D.N.Y. July 14, 2004) 
+(Buchwald, J.) ............................................................................................................................4 
+St. Thomas House, Inc. v. Barrows, 
+15 V.I. 435 (V.I. Terr. Ct. 1979) ................................................................................................8 
+Starr Indem. & Liab. Co. v. Am. Claims Mgmt., 
+No. 14-cv-0463-JMF, 2015 U.S. Dist. LEXIS 60272 (S.D.N.Y. May 7, 2015)........................5 
+The Cookware Co. (USA), LLC v. Austin, 
+No. 15 Civ. 5796, 2016 U.S. Dist. LEXIS 177691 (S.D.N.Y. Dec. 8, 2016) 
+(Batts, J.) ....................................................................................................................................4 
+Thomas v. Rijos, 
+780 F. Supp. 2d 376 (D.V.I. 2011) ............................................................................................8 
+Whitley v. Bowden, 
+No. 17-CV-3564 (KMK), 2018 WL 2170313 (S.D.N.Y. May 9, 2018) ...................................3 
+Statutes 
+EPTL § 11-3.2 (a)(1)........................................................................................................................5 
+Fla. Stat. § 95.11 (3)(O) ...................................................................................................................4 
+Fla. Stat. § 95.11(7)..........................................................................................................................4 
+N.M. Stat. § 37-1-8 ..........................................................................................................................4 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 4 of 14
+
+iv 
+41603298v2
+N.M. Stat. § 37-1-30 ........................................................................................................................4 
+New York Estates, Powers and Trusts Law .....................................................................................5 
+New York General Construction Law § 37-a ..................................................................................6 
+New York’s Child Victims Act........................................................................................................1 
+Other Authorities 
+Alec A. Beech, Adding Insult to Death: Why Punitive Damages Should Not Be 
+Imposed Against a Deceased Tortfeasor’s Estate in Ohio, 49 Akron L. Rev. 
+553 (2016) ..................................................................................................................................7 
+CPLR § 202......................................................................................................................................3 
+CPLR § 214(5) .................................................................................................................................3 
+CPLR § 214-g ..................................................................................................................................1 
+CPLR § 215(3) .................................................................................................................................3 
+Federal Rule of Civil Procedure 12(b)(6) ........................................................................................1 
+2 Linda L. Schlueter, Punitive Damages § 20.4 (7th ed. 2015) .......................................................7 
+Restatement of Torts Section 908 ....................................................................................................8 
+Restatement (Second) of Torts.........................................................................................................7 
+Restatement (Second) of Torts (1965) .............................................................................................8 
+Restatement (Second) of Torts § 908(2) ......................................................................................7, 8 
+Rouhette, The Availability of Punitive Damages in Europe: Growing Trend or 
+Nonexistent Concept ..................................................................................................................6 
+Timothy R. Robicheaux and Brian H. Bornstein, Punished, Dead Or Alive: 
+Empirical Perspectives on Awarding Punitive Damages Against Deceased 
+Defendants .................................................................................................................................8 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 5 of 14
+
+1 
+Defendants Darren K. Indyke and Richard D. Kahn, as Co-Executors of the Estate of 
+Jeffrey E. Epstein (the “Co-Executors”), submit this memorandum of law in support of their 
+motion pursuant to Federal Rule of Civil Procedure 12(b)(6) to dismiss Plaintiff’s Complaint (ECF 
+No. 1) to the extent it is time-barred and Plaintiff’s claim for punitive damages because it is 
+prohibited as a matter of law. 
+PRELIMINARY STATEMENT 
+This action is largely time-barred. Plaintiff alleges that Jeffrey E. Epstein (“Decedent”), 
+now deceased, sexually assaulted her from 2002, when she was 17, to 2004, in Florida, New 
+Mexico, New York, the U.S. Virgin Islands (“USVI”), and France. (Compl. ¶¶ 4, 12, 17, 29, 34, 
+59-61.) Plaintiff alleges causes of action for battery, assault, and intentional infliction of emotional 
+distress. (Id. ¶¶ 71–82.) Plaintiff seeks, among other things, “punitive damages in an amount to be 
+determined.” (Id. p. 12.)  
+Excluding Plaintiff’s alleged torts occurring in New York when she was 17 and thus subject 
+to New York’s Child Victims Act (“CVA”),1 Plaintiff’s claims expired many years ago. Under 
+New York law, for example, Plaintiff’s claims arising from her alleged sexual abuse as an adult 
+expired in 2007 at the latest. Therefore, all of the Plaintiff’s non-CVA claims must be dismissed.  
+Plaintiff’s demand for punitive damages must also be dismissed as a matter of law. Each 
+jurisdiction where the alleged torts occurred bars recovery of punitive damages from a decedent 
+tortfeasor’s estate—i.e., exactly what Plaintiff seeks here. 
+1The CVA created a one-year window period, commencing in August 2019, in which civil claims alleging damages 
+“suffered as a result of conduct which would constitute a sexual offense as defined in article one hundred thirty of the 
+penal law committed against a child less than eighteen years of age” may be filed, despite the statute of limitations 
+having already run. CPLR § 214-g (emphasis added).   
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 6 of 14
+
+2 
+STATEMENT OF ALLEGED FACTS 
+A.
+Plaintiff Alleges Torts Occurring Over 15 Years Ago In New York And 
+Other Jurisdictions, Starting When She Was Age Seventeen 
+Plaintiff, who claims Arizona residency, alleges that in 2002, when she was 17, her sister, 
+who is five years older, introduced Plaintiff to Decedent, describing him as generous and desiring 
+to help Plaintiff attend college. (Compl. ¶¶ 32, 34.) Plaintiff further alleges that, starting in 2002 
+and ending in 2004, Decedent sexually assaulted her in Florida, New Mexico, New York, the 
+USVI, and France. (Id. ¶¶ 4, 12, 17, 29, 34, 59-61.) Although Plaintiff suggests she is only suing 
+on claims based on torts that occurred while she was still a minor (id. ¶ 69), she also alleges 
+Decedent abused her “for years” (id. ¶ 29). Plaintiff largely fails to articulate which alleged torts 
+happened when and in which jurisdictions.  
+Plaintiff asserts three causes of action: battery (First Cause of Action); assault (Second 
+Cause of Action); and intentional infliction of emotional distress (Third Cause of Action). (Id. ¶¶ 
+71–82.) As noted above, Plaintiff seeks punitive damages in an unspecified amount. (Id. p. 12.)  
+ARGUMENT 
+A.
+Legal Standard: Plaintiff’s Legal Conclusions, Labels And Formulaic 
+Recitations Of The Elements Of Her Causes Of Action Are Insufficient To 
+State A Claim 
+ “To survive a motion to dismiss, a complaint must contain sufficient factual matter, 
+accepted as true, to state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 
+662, 678 (2009). While a Court must normally accept as true all well-pleaded factual allegations 
+in a complaint and draw all inferences in a plaintiff’s favor, those principles are “inapplicable to 
+legal conclusions.” Id. at 678 (2009) (citing Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 556 
+(2007)). Thus, a pleading that offers only “labels and conclusions” or “a formulaic recitation of 
+the elements of a cause of action will not do.” Twombly, 550 U.S. at 555 (2007).  Nor is the Court 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 7 of 14
+
+3 
+required to reconcile Plaintiff’s contradictory allegations concerning whether she is suing only for 
+alleged torts that occurred when she was 17, or for sexual abuse allegedly committed when she 
+was an adult. See Whitley v. Bowden, No. 17-CV-3564 (KMK), 2018 WL 2170313, at *11 
+(S.D.N.Y. May 9, 2018) (“‘a court is neither obligated to reconcile nor accept the contradictory 
+allegations in the pleadings as true in deciding a motion to dismiss.’” (citation omitted)). 
+B.
+Most Of Plaintiff’s Claims Expired Many Years Ago 
+CPLR § 202 provides that, when a non-New York resident such as Plaintiff sues on a cause 
+of action accruing outside New York, the complaint must be timely filed under the applicable 
+statutes of limitations of both New York and the jurisdiction where the cause of action accrued. A 
+claim that is untimely under one or both of the two jurisdictions must be dismissed.  
+Plaintiff turned 18 at some point in 2003. (Compl. ¶ 34.) Plaintiff alleges she was sexually 
+assaulted by Decedent until 2004, i.e., when Plaintiff was an adult. (Id. ¶¶ 34, 59-61.) Excluding 
+Plaintiff’s alleged torts subject to the CVA (i.e., torts occurring in New York when she was under 
+18), Plaintiff’s causes of action sounding in battery must be commenced within one year of accrual 
+(CPLR § 215(3)); or, if Plaintiff’s claims sound in personal injury, within three years (CPLR § 
+214(5)). Therefore, under New York law, Plaintiff’s non-CVA claims arising from her alleged 
+sexual abuse expired in 2007 at the latest. 
+Plaintiff’s claims based on alleged torts occurring outside New York also expired long ago 
+under the laws of those jurisdictions, including non-New York torts that occurred while she was a 
+minor (if any), as follows: (Florida) for torts occurring while she was a minor, the later of within 
+7 years after she reached the age of majority (i.e., by 2010), within 4 years after she left Decedent’s 
+dependency (2008 at the latest),2 or within 4 years from the time she discovered both the injury 
+2 Plaintiff alleges Decedent “cast her out” in 2004. (Compl. ¶¶ 59-61.) Therefore, Plaintiff could not have depended 
+on him after that time. 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 8 of 14
+
+4 
+and the causal relationship between that injury and the alleged abuse (Fla. Stat. § 95.11(7));3 and, 
+after Plaintiff reached age of majority, within 4 years (i.e., sometime in 2007) (Fla. Stat. § 95.11 
+(3)(O)); (New Mexico) for torts occurring while she was a minor, the later of the “first instant” of 
+Plaintiff’s 24th birthday (i.e., sometime in 2009) or 3 years from the date that Plaintiff first 
+disclosed her childhood sexual abuse to a licensed medical or mental health care provider in the 
+context of receiving health care (N.M. Stat. § 37-1-30) (Plaintiff alleges she never made such a 
+disclosure (Compl. ¶ 67)); and, after Plaintiff reached age of majority, 3 years (i.e., in 2006) (N.M. 
+Stat. § 37-1-8); (USVI) when Plaintiff turned 23 (i.e., sometime in 2008) (5 V.I.C. §§ 31(5)(A), 
+36(a)(1)).  
+C.
+Plaintiff’s Claim For Punitive Damages Fails As A Matter Of Law 
+Plaintiff’s claim for punitive damages fails as a matter of law because it is barred by the 
+law of each potentially applicable jurisdiction. Courts in this District regularly grant motions to 
+dismiss legally deficient claims for punitive damages. See, e.g., The Cookware Co. (USA), LLC v. 
+Austin, No. 15 Civ. 5796, 2016 U.S. Dist. LEXIS 177691, at *17 (S.D.N.Y. Dec. 8, 2016) (Batts, 
+J.) (granting motion to dismiss claim for punitive damages without leave to replead because 
+allegations regarding defendant’s bad-faith conduct were conclusory and did not rise to the 
+required level of malice); SJB v. N.Y.C. Dep’t of Educ., No. 03 Civ. 6653, 2004 U.S. Dist. LEXIS 
+13227, at *25-26 (S.D.N.Y. July 14, 2004) (Buchwald, J.) (granting motion to dismiss punitive 
+damages claims because punitive damages were not statutorily available); Kunica v. St. Jean Fin., 
+No. 97 Civ. 3804, 1998 U.S. Dist. LEXIS 11867, at *26 (S.D.N.Y. July 29, 1998) (Sweet, J.) 
+(granting motion to dismiss claim for punitive damages because, even if conduct alleged in 
+complaint was true, it did not rise to the level necessary to award punitive damages); Purdy v. 
+3 Plaintiff’s allegation that she is only now beginning to “process” her injuries (Compl. ¶¶ 65, 68) is not equivalent to 
+alleging her belated discovery of such injuries. She makes no such allegation. 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 9 of 14
+
+5 
+Consumers Distrib. Co., 648 F. Supp. 980, 981, 984 (S.D.N.Y. 1986) (Cedarbaum, J.) (granting 
+motion to dismiss claim for punitive damages). 
+When determining what law applies, the Court looks to the choice-of-law rules of the forum 
+state. Simons v. Marriott Corp., No. 92 Civ. 3762 (SWK), 1993 U.S. Dist. LEXIS 14365, at *15 
+(S.D.N.Y. Oct. 12, 1993). Under New York law, the law of the state where a tort occurs generally 
+applies to punitive damages. See Starr Indem. & Liab. Co. v. Am. Claims Mgmt., No. 14-cv-0463-
+JMF, 2015 U.S. Dist. LEXIS 60272, *7 (S.D.N.Y. May 7, 2015) (“Because punitive damages are 
+conduct-regulating, ‘the law of the jurisdiction where the tort occurred will generally apply.’” 
+(quoting Deutsch v. Novartis Pharms. Corp., 723 F. Supp. 2d 521, 524 (E.D.N.Y. 2010)); Guidi 
+v. Inter-Continental Hotels Corp., No. 95-CV-9006 (LAP), 2003 U.S. Dist. LEXIS 6390, at *1 
+(S.D.N.Y. Apr. 16, 2003)).  
+Here, Plaintiff alleges tortious conduct occurring in New York, Florida, New Mexico, the 
+USVI, and France. (Compl. ¶¶ 40, 42.) None of these jurisdictions permits recovery of punitive 
+damages against a deceased tortfeasor’s estate. That is unsurprising given that is the law in most 
+jurisdictions, as reflected in the Restatement. See Restat. (Second) of Torts § 908 cmt. a (punitive 
+damages not available against representatives of deceased tortfeasor). Each of these jurisdictions 
+is addressed below in turn. 
+New York: New York Estates, Powers and Trusts Law provides: “No cause of action for 
+injury to person or property is lost because of the death of the person liable for the injury. For any 
+injury, an action may be brought or continued against the personal representative of the decedent, 
+but punitive damages shall not be awarded nor penalties adjudged in any such action brought 
+to recover damages for personal injury.” NY EPTL § 11-3.2 (a)(1) (emphasis added). “Also, 
+‘there is a strong policy against the assessment of punitive damages against an estate on account 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 10 of 14
+
+6 
+of wrongful conduct of the decedent.’” Graham v. Henderson, 224 F.R.D. 59, 63 (N.D.N.Y. 2004) 
+(quoting Blissett v. Eisensmidt, 940 F. Supp. 449, 457 (N.D.N.Y. 1996)). 
+New York General Construction Law § 37-a defines “personal injury” as including “an 
+assault, battery, false imprisonment, or other actionable injury to the person either of the plaintiff, 
+or of another.” Here, Plaintiff seeks to recover damages for personal injuries. Accordingly, 
+Plaintiff may not recover punitive damages against the Co-Executors based on alleged torts that 
+occurred in New York. 
+Florida: “Florida law prohibits recovery of punitive damages from the estate of a 
+wrongdoer who is deceased.” Poindexter v. Zacharzewski, No. 18-14155, 2018 U.S. Dist. LEXIS 
+189861, at *6 (Nov. 5, 2018 S.D. Fla.) (citing Lohr v. Byrd, 522 So. 2d 845 (Fla. 1988)).  
+New Mexico: The Supreme Court of New Mexico has unequivocally held that “punishment 
+and deterrence are not accomplished by enabling recovery of punitive damages from the estate of 
+deceased tortfeasors.” Jaramillo v. Providence Wash. Ins. Co., 117 N.M. 337, 346 (N.M. 1994). 
+France: French law does not recognize punitive damages. See 2 Linda L. Schlueter, 
+Punitive Damages § 22.4 (7th ed. 2015) (citing Rouhette, The Availability of Punitive Damages in 
+Europe: Growing Trend or Nonexistent Concept, 74 Def. Coun. J. 320 (2007)). 
+USVI:  In 2011, the Supreme Court of the USVI effectively instructed USVI courts to 
+apply what is now known as a “Banks analysis” to determine U.S.V.I. common law.  Banks v. Int’l 
+Rental & Leasing Corp., 55 V.I. 967, 979 (V.I. 2011).  The Banks analysis includes consideration 
+of three non-dispositive factors: (1) whether any USVI courts have previously adopted a particular 
+rule; (2) the position taken by a majority of courts of other jurisdictions; and (3) most importantly, 
+which approach represents the soundest rule for the USVI.  Gov’t of Virgin Islands v. Connor, No. 
+S. CT. CIV. 2013-0095, 2014 WL 702639, at *1 (V.I. Feb. 24, 2014). 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 11 of 14
+
+7 
+Applying the Banks factors here demonstrates that USVI courts would adopt the rule in the 
+Restatement (Second) of Torts—which is also followed in the majority of United States 
+jurisdictions, including New York, Florida and New Mexico—and hold that punitive damages are 
+not available against a deceased tortfeasor’s estate. 
+1.
+Banks factor one: previously, USVI courts favorably cited the 
+Restatement section that precludes punitive damages against estates. 
+USVI courts have favorably recited the Restatement’s rule precluding punitive damages 
+against a decedent tortfeasor’s estate.  See, e.g., Hamilton v. Dowson Holding Co., 51 V.I. 619, 
+628 (D.V.I. 2009); Booth v. Bowen, No. CIV. 2006-217, 2008 WL 220067, at *5 (D.V.I. Jan. 10, 
+2008).  In these cases, the U.S. District Court of the Virgin Islands considered the inverse of the 
+issue here, i.e., whether the personal representatives of an estate may obtain punitive damages in 
+an action arising from the decedent’s wrongful death.  In determining that punitive damages were 
+not available under such circumstances, the courts cited the Restatement, which provides that 
+“[p]unitive damages are not awarded against the representatives of a deceased tortfeasor nor, 
+ordinarily, in an action under a death statute.”  Restat. (Second) of Torts § 908 cmt. a (emphasis 
+added).  Accordingly, this Banks factor favors the Co-Executors. 
+2.
+Banks factor two: a majority of U.S. jurisdictions do not permit an 
+award of punitive damages based on the wrongful acts of a decedent. 
+This Banks factor overwhelmingly supports the Co-Executors’ position.  The majority of 
+U.S. jurisdictions do not permit an award of punitive damages against the personal representatives 
+of an estate based on the actions of the deceased tortfeasor.  See Crabtree v. Estate of Crabtree, 
+837 N.E.2d 135, 138 (Ind. 2005) (“The majority view denies punitive damages.”); 2 Linda L. 
+Schlueter, Punitive Damages § 20.4 (7th ed. 2015) (“[A] majority of jurisdictions will not award 
+punitive damages against a deceased tortfeasor’s estate.” (citing Alec A. Beech, Adding Insult to 
+Death: Why Punitive Damages Should Not Be Imposed Against a Deceased Tortfeasor’s Estate in 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 12 of 14
+
+8 
+Ohio, 49 Akron L. Rev. 553 (2016))); Timothy R. Robicheaux and Brian H. Bornstein, Punished, 
+Dead Or Alive: Empirical Perspectives on Awarding Punitive Damages Against Deceased 
+Defendants, 16 Psych. Pub. Pol. and L. 393, 398 (2010) (“The Restatement (Second) of Torts 
+(1965) is one authority stating that punitive damages should not follow the death of a wrongdoer, 
+and the majority of courts considering the issue have provided rulings consistent with this 
+position.”). 
+3.
+Banks factor three: Post-Banks, USVI courts have favorably applied 
+Restatement Section 908 to questions regarding punitive damages. 
+The third Banks factor weighs strongly in favor of the Co-Executors as well.  Post-Banks, 
+USVI Courts have already found that Section 908 of the Restatement is “the soundest rule for the 
+Virgin Islands with respect to the imposition of an award of punitive damages.”  Pappas v. Hotel 
+on the Cay Time-Sharing Ass’n, 69 V.I. 3, 15 n.8 (U.S.V.I. Super. Ct. 2015) (citing Davis v. 
+Christian, 46 V.I. 557 (D.V.I. App. Div. 2005), Isaac v. Crichlow, 63 V.I. 38, 2015 V.I. LEXIS 
+15 (V.I. Super. Ct. 2015), St. Thomas House, Inc. v. Barrows, 15 V.I. 435 (V.I. Terr. Ct. 1979), 
+Brandy v. Flamboyant Inv. Co., Ltd., 24 V.I. 249 (V.I. Terr. Ct. 1989), and Thomas v. Rijos, 780 
+F. Supp. 2d 376, 380 (D.V.I. 2011)); Powell v. Chi-Co’s Distrib., No. ST-13-TOR-14, 2014 V.I. 
+LEXIS 21, at *5 n.13 (U.S.V.I. Super. Ct. Apr. 3, 2014) (“Applying a Banks analysis, the Court 
+finds that Restatement (Second) of Torts § 908(2) reflects the common law of this jurisdiction.”). 
+Therefore, every Banks factor favors the Co-Executors: (1) pre-Banks, USVI courts 
+expressed approval for the general rule that punitive damages cannot be recovered against a 
+wrongdoer’s estate; (2) the majority of courts from other jurisdictions preclude punitive damages 
+against a wrongdoer’s estate; and (3) post-Banks, USVI courts have held that Section 908 of the 
+Restatement of Torts (Second) represents the soundest rule for the USVI with respect to the 
+availability of punitive damages.  
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 13 of 14
+
+9 
+*** 
+In conclusion, even if any of Plaintiff’s claims survive, her claim for punitive damages 
+must be dismissed in its entirety.  
+CONCLUSION 
+For the reasons stated above, Defendants respectfully request that the Court dismiss 
+Plaintiff’s Complaint to the extent it is time-barred and Plaintiff’s claim for punitive damages, 
+together with such other and further relief as the Court deems just and proper. 
+Dated: New York, New York 
+February 28, 2020 
+By: /s/ Bennet J. Moskowitz
+ Bennet J. Moskowitz 
+ TROUTMAN SANDERS LLP 
+ 875 Third Avenue 
+ New York, New York 10022 
+Attorney for Defendants
+96367540_2 
+Case 1:19-cv-10788-GHW-DCF     Document 27     Filed 02/28/20     Page 14 of 14

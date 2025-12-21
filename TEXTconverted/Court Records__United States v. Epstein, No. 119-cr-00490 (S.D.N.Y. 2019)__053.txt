@@ -1,0 +1,4796 @@
+METADATA_SOURCE: Court Records\United States v. Epstein, No. 119-cr-00490 (S.D.N.Y. 2019)
+METADATA_FILENAME: 053.pdf
+----------------------------------------
+1
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+------------------------------x 
+ 
+UNITED STATES OF AMERICA,                
+ 
+           v.                           19 CR 490 (RMB) 
+ 
+JEFFREY EPSTEIN, 
+ 
+               Defendant. 
+ 
+------------------------------x 
+ 
+                                        New York, N.Y. 
+                                        August 27, 2019 
+                                        10:30 a.m. 
+ 
+ 
+Before: 
+ 
+HON. RICHARD M. BERMAN, 
+ 
+                                        District Judge 
+ 
+ 
+APPEARANCES 
+ 
+GEOFFREY S. BERMAN 
+     United States Attorney for the 
+     Southern District of New York 
+BY:  MAURENE R. COMEY  
+     ALISON MOE 
+     Assistant United States Attorneys 
+ 
+MARTIN G. WEINBERG, PC 
+     Attorney for Defendant  
+BY:  MARTIN G. WEINBERG 
+ 
+STEPTOE & JOHNSON, LLP 
+     Attorneys for Defendant    
+BY:  REID WEINGARTEN      
+     MICHAEL MILLER 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 1 of 86
+
+2
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+(Case called) 
+THE COURT:  Good morning, everybody.  Please be
+seated.
+So just some housekeeping.  We have a podium here for
+both attorneys and others who may be speaking, and so we would
+like you, attorneys and others who are speaking, to come up to
+the podium.  This room is a little cavernous.  We thought the
+podium over there would be more comfortable.
+For starters, and for this you don't have to go up to
+the podium, if you could just indicate your names.  This table
+in front to my left, your right, are defense counsel, and that
+table to my right, your left, are government attorneys.
+If we could just ask the attorneys to introduce 
+themselves. 
+MS. COMEY:  Good morning, your Honor.  Maureen Comey
+and Alison Moe for the government.  Joining us at counsel table
+are Special Agent Amanda Young of the FBI and Detective Paul
+Byrne of the NYPD.
+MR. WEINGARTEN:  Good morning, your Honor.  
+Reid Weingarten. 
+MR. WEINBERG:  Martin Weinberg.  
+Good morning, your Honor. 
+THE COURT:  Good morning.
+MR. MILLER:  Good morning, your Honor.
+Michael Miller from Steptoe & Johnson on behalf of the 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 2 of 86
+
+3
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+defendant. 
+THE COURT:  Great.
+Again, good morning to all of you.  This hearing that 
+we're having today considers the government's motion to dismiss 
+the indictment in this case.   
+I must add that it also serves as the opportunity for 
+me to thank all of you, the attorneys and the victims who are 
+here today, among others, for your very hard work and 
+dedication in this case. 
+We also have here today the U.S. Attorney for the
+Southern District of New York, Geoffrey Berman, who has also
+been very helpful and indispensable in this matter.
+The news on August 10, 2019, that Jeffrey Epstein had
+been found dead in his cell at the Metropolitan Correctional
+Center, at the MCC, was certainly shocking.  Most of you, and
+myself for that matter, were anticipating that the next steps
+in this case would be defense motion practice, including a
+motion to dismiss, followed by a trial on the merits before a
+jury, if the motions were not successful, and through which the
+accusers and the accused would come face to face, allowing
+everyone to get their day in court.  Mr. Epstein's death
+obviously means that a trial in which he is a defendant cannot
+take place.  It is a rather stunning turn of events.
+The government's motion to dismiss the indictment
+because of Jeffrey Epstein's death on August 10, 2019, is
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 3 of 86
+
+4
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+relatively straightforward.  In my view, a public hearing
+clearly is nevertheless the preferred vehicle for its
+resolution.
+Incidentally, while I'm on this subject, I got some
+help today from the New York Law Journal from two professors
+who write that a hearing is -- let me tell you exactly what
+they said.  They say, in part, that this is an odd moment for
+transparency in a criminal case.  I think that is an odd
+sentence to hear about, transparency in a criminal case.
+They go on to say that normally, if a prosecutor seeks 
+to dismiss an indictment for such an obviously worthy reason, 
+the court would simply grant the request.  As to that 
+statement, I respectfully say it is incorrect as a matter of 
+law. 
+They go on to say the judge would not schedule a
+hearing and he definitely would not allow the victims to speak.
+If he did hold a hearing, whatever informational interests the
+victims may have would be served by affording them a chance to
+attend the hearing, not by giving them a speaking role.
+I read it.  It was incredulous.  I'm still
+incredulous.  I don't quite understand at all.  There is a
+suggestion in the article that the reason they are making these
+suggestions has to do with minimization of drama in this case.
+In the Jeffrey Epstein case, there has not been much a
+minimization of drama, and what little drama might happen
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 4 of 86
+
+5
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+today, I don't think it would be very significant.
+On a somewhat more serious note, don't quote me on
+this, but it is my understanding that one of the authors of
+that article is himself counsel in one of the Epstein-related
+cases.  I was surprised to learn that very recently.  I'm
+certain it is true.  I was also surprised that that aspect was
+not disclosed in the Law Journal.
+But in any event, I think you know where I'm heading.
+I respectfully disagree with the Law Journal piece.  I was
+saying that the government's motion is relatively
+straightforward, and in my view, a public hearing is clearly,
+nevertheless, the preferred vehicle for its resolution.  I'm
+still convinced of that.
+A few may differ on this, but public hearings are
+exactly what judges do.  Hearings promote transparency and they
+provide the court with insights and information which the court
+may not otherwise be aware of.
+The victims have been included in the proceeding today
+both because of their relevant experiences and because they
+should always be involved before rather than after the fact.
+Indictment 19 CR 490 charges Jeffrey Epstein with sex 
+trafficking and with conspiracy to commit sex trafficking.  The 
+U.S. Attorney, on August 19, 2019, requested that the court 
+approve the government's proposed order of nolle prosequi.  I 
+think that's a rough justice.  That means nolle prosequi, 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 5 of 86
+
+6
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+discontinuance by the prosecutor of all or of a part of the 
+case that he or she has commenced. 
+The government in its motion concludes that Epstein's
+death abates these proceedings.  In accordance with Federal
+Rule of Criminal Procedure 57(b), I determined to hold a public
+hearing and I notified the victims that they would be given the
+opportunity to be heard before any final action on the motion.
+That is the purpose also of today's proceeding.  I would do
+that every time.
+Also, recognized that Epstein, Mr. Epstein died before
+any judgment of conviction against him had been obtained, and
+that the government's proposed order appears, in form and
+substance, to be appropriate.
+Federal Rule of Criminal Procedure 48(a) codifies the
+nolle prosequi process.  It is entitled dismissal, and it
+states in relevant part that the government may, with leave of
+the court, dismiss an indictment, information, or complaint,
+and that leave of the court proviso, you should know, was added
+as an amendment to the original draft of Rule 48, which had
+originally provided for automatic dismissal upon the motion of
+the government.
+This proviso, in my judgment, is clearly directed 
+toward an independent judicial assessment of the public 
+interest in dismissing the indictment.  Thus, even whereas, in 
+this case, the standard of court review is deferential, the 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 6 of 86
+
+7
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+court must still make its own independent determination.  A 
+conclusory statement from the government that dismissal is 
+appropriate does not satisfy the court's obligations. 
+It is also, in my view, required that the court
+consider the views of the victims in the case at the hearing
+and before deciding whether to grant the motion.  This is being
+done here both as a matter of law and as a measure of respect
+that we have for the victims' difficult decisions to come
+forward in this matter.
+In a case called United States v. Heaton,
+H-e-a-t-o-n-, the government filed a Rule 48 motion for leave
+to dismiss a charge against a defendant who allegedly committed
+a sexual offense against a young victim.  Although I should
+point out, very importantly, that that defendant was still
+alive, which distinguishes it from our case.  
+Nevertheless, I think it is irrelevant because in 
+evaluating the Rule 48 motion, then district Judge Paul G. 
+Cassell -- who is now a law professor at the University of Utah 
+and is regarded to be a noted expert in victims' rights -- 
+concluded that under the Crime Victims' Rights Act, victims 
+have broad rights that extend to a court's decision whether to 
+grant a government motion to dismiss under Rule 48. 
+I completely share that viewpoint in these
+circumstances, even though the facts of our case, as I said,
+are somewhat different from those in Heaton.  I believe it is
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 7 of 86
+
+8
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+the court's responsibility, and manifestly within its purview,
+to ensure that the victims in this case are treated fairly and
+with dignity.
+The fundamental substantive principle which applies in
+considering the government's motion is termed the rule of
+abatement.  This principle originated in the English common
+law.  It was adopted by most U.S. federal courts, but more
+recently, it has faced some appropriate criticism.  The rule of
+abatement is best explained in the Second Circuit case of
+U.S. v. Wright.
+In that Wright case, two defendants had pled guilty to 
+embezzlement and tax evasion.  Both defendants appealed, but 
+one of the defendants died while his appeal was pending in the 
+Second Circuit.  The Court of Appeals rule that under the rule 
+of abatement, the judgment of conviction against the deceased 
+defendant was required to be vacated and the indictment was to 
+be dismissed.  The Wright court held that when a convicted 
+defendant dies while his direct appeal as of right is pending, 
+his death abates not only the appeal, but also proceedings had 
+during the course of the prosecution. 
+The Second Circuit incidentally has also held that
+when a criminal conviction abates upon the death of a
+defendant, any restitution ordered as a result of that
+conviction must also abate, and it is also ruled the same with
+respect to associated forfeiture orders.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 8 of 86
+
+9
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+This latter application of the rule of abatement
+regarding forfeiture has not been universally accepted among
+federal courts, but it certainly is the law in this circuit.
+Some of you may be interested to know that some United States
+courts, state courts, have criticized the rule of abatement,
+particularly in the face of growing recognition of victims'
+rights in the criminal justice system, including the Crime
+Victims' Rights Act.
+It has been written and contended in the Brooklyn Law
+Review -- I can give you the cite later -- that when courts
+abate criminal convictions, they reimpose a burden on victims
+that legislatures intended to alleviate through these victim
+rights statutes.  The state Supreme Court has even concluded
+that the expansion and codification of victims' rights provides
+the changed conditions needed for overruling the rule of
+abatement.  It has also been stated that Alaska's statute and
+its constitution now require the criminal justice system to
+accommodate the rights of crime victims.  Further, that the
+abatement of criminal convictions has important implications
+for these rights.
+But coming back to our case, which is what you are
+concerned about and I am as well, it is appropriate to conclude
+that if the rule of abatement applies to a convicted defendant
+as in the Wright case, it should also apply a fortiori in the
+Epstein case, which was still in the pretrial phase when
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 9 of 86
+
+10
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+Mr. Epstein died, when there had been no conviction.
+So that's just some background I wanted to share with
+you.  At this point in time, I would like to turn to the
+government prosecutors to hear from them in support of their
+Rule 48 application to dismiss the Epstein indictment.
+MS. COMEY:  Thank you, your Honor.
+Would you like me to address the court from the 
+podium? 
+THE COURT:  If you wouldn't mind.
+MS. COMEY:  Thank you, your Honor.
+I believe your Honor has accurately summarized the
+state of the law, as set forth in our papers, in light of the
+clear Second Circuit law, that upon the death of a defendant
+before a final entry of a judgment of conviction, all
+proceedings must be abated.
+In light of that clear law, the government is legally 
+obligated to seek dismissal of the pending indictment against 
+Jeffrey Epstein, and we respectfully submit, likewise, that the 
+entry of the proposed order is similarly required by law. 
+A few notes to make about that, though, your Honor.
+To be very clear, dismissal of this indictment as to Jeffrey
+Epstein in no way prohibits or inhibits the government's
+ongoing investigation into other potential coconspirators, nor
+does it prevent the bringing of a new case in the future or the
+prosecution of new defendants.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 10 of 86
+
+11
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+It also does nothing to prevent the government from
+continuing to explore the possibility of seeking civil
+forfeiture of any assets that were used to facilitate the
+crimes charged in this indictment.  Indeed, as has been stated
+publicly, investigations into those matters have been ongoing,
+remain ongoing, and will continue following dismissal of the
+indictment here.
+I would also like to note that, as the government has
+previously mentioned, this dismissal in no way lessens the
+government's resolve to stand up for the victims in this case,
+both those who have come forward and those who have yet to do
+so.  We agree with your Honor's sentiment that those victims
+should be respected, and we appreciate your Honor's recognition
+of that.
+One housekeeping matter that I did want to reference
+for your Honor.  The protective order in this case requires
+destruction or return of any and all discovery material upon
+conclusion of the case.  We have been in communication with
+defense counsel, who have confirmed that they have returned all
+physical copies that they have of discovery that the government
+has produced to date, and they are in the process of deleting
+any copies that they may have made.  So the parties are in
+compliance with the protective order.
+Finally, I just wanted to say a word about the victims
+in this case, and particularly those who are here in court
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 11 of 86
+
+12
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+today.  I'll note that in light of the court's order indicating
+that the victims and their counsel would be permitted to be
+heard in court here today, the government has endeavored to
+provide notice to all known victims of today's proceeding.  We
+did so either directly where a victim was not represented by
+counsel or through counsel where a victim is represented by an
+attorney.
+The government does not know exactly how many victims
+or their attorneys are here today and we do not know how many
+of them or their counsel would like to speak.  To the extent
+any individuals do wish to speak, we do not know the substance
+of what they would like to say.  We have left that entirely up
+to the individual decisions of the victims and their attorneys.
+I will note, though, that throughout this case, the
+government has endeavored and done our utmost to fulfill our
+obligations under the Crimes Victims' Rights Act.  We have done
+so by trying to keep as many victims as we are aware of up to
+date about the ongoing case and about any developments in the
+case.
+We will continue to provide services and offer 
+services to any of the victims in this case, even after the 
+indictment is dismissed.  Both the U.S. Attorney's office and 
+the FBI have been in touch with all known victims or have 
+attempted to be in touch with all known victims, either again 
+directly where victims are not represented by counsel or 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 12 of 86
+
+13
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+through counsel where they have attorneys.  We have expressed 
+to them that services are available for those who wish to take 
+advantage of them. 
+Unless the court has any questions for me, the
+government will otherwise rest on its papers.
+THE COURT:  I just have one question.
+The protective order, is that self-executing or do I 
+need to do something? 
+MS. COMEY:  It is self-executing, your Honor.
+THE COURT:  Thanks very much, Ms. Comey.
+MS. COMEY:  Thank you, your Honor.
+THE COURT:  Yes.
+I'll turn to counsel for the defense at this time.
+Mr. Weingarten, I'm happy to hear from you.
+MR. WEINGARTEN:  Thank you.
+Your Honor, I think it is an understatement of the
+year to say the world looks and feels differently today than it
+did the last time I was before you.  For us, the elephant in
+the room is what happened to our client.  I would like to tell
+you how we see the world and where we are on that subject.
+We start with the Attorney General's statements,
+public statements, that there were very serious improprieties
+in the jail.  We obviously read the press.  We see that the
+warden has been taken out.  We see that the guards on duty at
+the time have been put on leave.  We understand guards are
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 13 of 86
+
+14
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+refusing to cooperate with the investigation.  We have heard
+allegations that people at the time who had responsibility for
+protecting our client falsified information.  We understand
+that there were orders out there that Jeffrey Epstein was never
+to be left alone and that the orders were ignored by many of
+the employees of the prison.
+In a word, yikes.  In addition, obviously we followed
+the medical examiner's report, or we haven't followed the
+report, we haven't seen it, but heard conclusions, initially
+not enough evidence to come to a conclusion, wanted to see
+more.  We assumed she was talking about the videotapes, but
+then came to the conclusion that it was suicide.
+We report to the court that -- 
+THE COURT:  Suicide by hanging --
+MR. WEINGARTEN:  Yes.
+THE COURT:  -- was her conclusion?
+MR. WEINGARTEN:  Yes.  
+And we report to the court that we had a doctor there 
+at the time, and we also have been in receipt of a tremendous 
+amount of medical and scientific evidence volunteered to us 
+opining that the injuries suffered, as reported, were far more 
+consistent with assault than with suicide, and we are happy to 
+supply the court with all the information that we have. 
+Now, in addition, as the court noted, we were underway
+with our pretrial motions, and as the court obviously
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 14 of 86
+
+15
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+understands, the NPA and the role of the NPA was going to be
+critically important.  And I would simply like to report that
+we went pretty far along.
+We interviewed all of the relevant lawyers on the 
+defense side who participated in the NPA, and we were satisfied 
+that we had a very strong argument that every one of those 
+lawyers believed with an objective basis that the deal was 
+global.  That is, at the time -- 
+THE COURT:  I'm sorry, that?
+MR. WEINGARTEN:  The deal of the NPA was global.  That
+is, more specifically, at the time, the Florida prosecutors and
+agents knew of conduct in New York, and that no competent
+defense counsel negotiating in good faith with the prosecutors
+would have ever agreed to a deal back then that allowed New
+York prosecutors to indict for precisely the same conduct in
+the future, which, of course, is what happened.
+In addition, we have come up with very powerful
+evidence, we believe, that Florida prosecutors, who
+participated in the deal, steered the victims and the alleged
+victims to New York on more than one occasion because they did
+not want to suffer the sleights of attacks against them.  So we
+have advanced the ball on this very subject and we are prepared
+to completely report to the court as to where we are and what
+we've done.
+Another point.  We obviously had contact with our
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 15 of 86
+
+16
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+client at or around the time of his death, and obviously the
+attorney-client privilege survives death and we are not going
+to forfeit the privilege, but we will report to the court, with
+as much specificity as the court may want, that at or around
+the time of his death, we did not see a despairing, despondent
+suicidal person.  Details to follow, if the court wishes.
+The 800-pound gorilla, for us, of course, are the
+video surveillance tapes.  Obviously we assume there is a tape
+that leads directly to the door where Jeffrey Epstein was
+housed.  If that tape reports for 12 hours before his death
+that no one went in and out of that room, then the suggestion
+that there was something other than a suicide seems
+preposterous.
+But there is no such evidence that has surfaced to 
+date.  Just the opposite.  We have heard, and we actually read 
+in the press, that the tapes were either corrupted or not 
+functioning.  Talk about a yikes.  If, in fact, the system was 
+broken for six months before Jeffrey Epstein was housed, I 
+mean, that would be stunning incompetence.  If it was allowed 
+to continue to be inoperative when Jeffrey Epstein was housed, 
+it would be incompetence times ten.  But what if the tapes only 
+broke down or were inoperative or were corrupted on the day he 
+was killed or the day he died?  Then we're in a completely 
+different situation. 
+So where does this lead?  I think where it leads,
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 16 of 86
+
+17
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+Judge, is there are incredibly important questions that remain
+open.  The public interest in this matter is obvious from this
+courtroom.  There are conspiracy theories galore.  We are all
+for finding the truth.  We believe this court has an
+indispensable role to play.
+Whether or not this indictment is dismissed, I think
+this court has the inherent authority to find out what happened
+on its watch.  Obviously, when the court detained Jeffrey
+Epstein, the court did not anticipate that weeks later he would
+be dead in his cell.  I think given the inherent authority of
+the court, the court should make inquiry.
+This could come in many forms.  Obviously the court 
+made inquiry as to what happened in the first incident.  When 
+there was an allegation of an attempted suicide, the court made 
+inquiry.  The court obviously was interested. 
+I recall your language.  You talked about that being
+one of the several open questions indicating an interest on the
+court for the others as well.  Obviously, the ultimate question
+is what happened to the client.
+THE COURT:  You're talking about the July 23, 2019
+incident?
+MR. WEINGARTEN:  Yes.
+The court obviously could hold hearings.  The court
+could assign a lawyer to help the court.  I think this is an
+area where there is intense public interest.  We have complete
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 17 of 86
+
+18
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+confidence in the prosecutors in the Southern District and the
+FBI to do a competent investigation.  But these are allegations
+against serious components of the United States Department of
+Justice.  Sometimes the appearance of justice is just as
+important as justice itself.
+I think the court supervising, or at least keeping an
+interest in this proceeding, is incredibly important for the
+public to have confidence in the ultimate findings, and
+certainly for us to have confidence in the ultimate findings.
+One more issue, Judge.  The conditions of the jail, in
+a word, they were dreadful.  Not just for Jeffrey Epstein, but
+for many of the prisoners over there.  This is a prison within
+the shadows of this courthouse.  The situation is rife with
+vermin.  The abuse and the conditions in that prison, in a
+word, are a disgrace and everybody knows it.
+A person with authority told us, someone with 
+knowledge, that the prisoners in Guantanamo -- and he spoke 
+with personal knowledge -- are treated better than the 
+prisoners right across the way.  The feds certainly know how to 
+run a disciplined, clean prison.  I've been in 20 of them.  
+They know how to do it just fine.  And the question is, why in 
+the world does it not happen down the road?  I think that is a 
+perfectly legitimate subject for the court to make inquiry.   
+In a word, we want the court to help us find out what 
+happened.  The court has a role to play.  It is the institution 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 18 of 86
+
+19
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+that most people have confidence in in these very troubled 
+times.   
+So whether or not you dismiss the indictment, to us, 
+is beside the point.  We want you to stay on the case, we want 
+you to conduct an investigation, and we want to know what 
+happened here. 
+Thank you, your Honor.
+THE COURT:  Just so it is clear, so your view on the
+motion directly on its merits of the nolle prosequi order and
+application by the U.S. Attorney, do you have a view on that?
+MR. WEINGARTEN:  I think if the court felt that the
+case had to stay alive for the court to continue, we would
+oppose it.  I think --
+THE COURT:  I'm sorry, if what?
+MR. WEINGARTEN:  If the issue, if you took the
+position for you to conduct the investigation or lead the
+investigation or participate in the investigation, then we
+want, the role we want you to play, if the indictment has to be
+alive, we would oppose the motion.
+I don't think you need to do that.  I think you can
+dismiss the indictment.
+THE COURT:  So you're suggesting that you support the
+government's motion, just viewed in the context of --
+MR. WEINGARTEN:  Yes, of course.
+THE COURT:  Great.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 19 of 86
+
+20
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+MR. WEINBERG:  Judge, if I can just supplement?
+THE COURT:  Absolutely.
+MR. WEINBERG:  Thank you, sir.
+Thank you, as an out-of-town lawyer for the privilege
+to appear in front of you, your Honor.
+THE COURT:  It's my pleasure.
+MR. WEINBERG:  First, as to the conditions, we think
+your Honor trusted the government, the Bureau of Prisons, to
+keep our client safe and keep him in civilized conditions.  The
+government will again ask, as to other defendants, that they be
+detained at the MCC, some subset of them will end up in the SHU
+unit.
+It is a horrific.  I've called it medieval.  There's
+vermin on the floor.  There is wet from the plumbing.  There is
+no sunlight.  There is limited exercise.  It is simply
+conditions that no pretrial detainee -- and I would go farther
+as a criminal defense lawyer -- no United States defendant
+should be subjected to.
+Certain judges have taken views of the conditions.  We 
+would urge your Honor, the government talks about and we talk 
+about transparency, to see what kind of conditions there exist 
+within 50 or 100 yards of one of the great United States 
+district courts. 
+Second, in terms, we have a profound problem with the
+conclusions of the medical examiner.  There are for three
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 20 of 86
+
+21
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+reasons, your Honor.
+One is the timing of Mr. Epstein's demise.  It was on
+August 10.  On August 12, a bail pending appeal motion was
+being filed in the Second Circuit.  On August 12 or 13, the
+United States Attorneys were going to respond to our request
+for the preservation and production of documents that would
+have facilitated and furthered our efforts to demonstrate
+communications between the Southern District of Florida, the
+Northern District of Georgia, which was standing in the shoes
+of the Southern District of Florida main justice and the
+Southern District.
+In other words, we were beginning the process 
+discharging our responsibilities.  There had been no new 
+evidence that Mr. Epstein had committed any offense against a 
+minor after 2005.  The subject matter of the New York 
+prosecution was squarely within the heartland of the Florida 
+NPA.  We had a significant motion to dismiss.  This was not a 
+futile, you know, defeatist attitude. 
+Third, we had all the discovery motions that your
+Honor had scheduled.  So the timing for a pretrial detainee to
+commit suicide on August 10, when his bail pending appeal
+motion is being filed on August 12, strikes us as implausible.
+Second, we had an independent doctor who was present
+at the autopsy which occurred on August 11.  On August 11, the
+city medical examiner's findings were inconclusive.  We are
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 21 of 86
+
+22
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+told by a very experienced forensic pathologist that the broken
+bones in Mr. Epstein's neck, in his larynx, are more consistent
+with external pressure, with strangulation, with homicide, if
+you will, than with suicide.  It doesn't exclude suicide, but
+the pure medical forensic evidence creates profound issues
+about what happened to him.
+Also the time of death.  Our medical examiner's
+opinion is it occurred at least 45 minutes and probably hours
+before 6:30 a.m. on August 10, when he was first found, if you
+will, according to the reports.  Yet he was moved, something
+that is not ordinary in these circumstances.
+I would also --
+THE COURT:  Excuse me.  He was moved?
+MR. WEINBERG:  Instead of having the cell in the
+condition it was found, if he had been dead for 45 minutes or
+two hours or four hours, there were efforts to move him and,
+therefore, make it more difficult to reconstruct whether or not
+he died of suicide or some other cause.
+I spoke to Stacey Richmond, who is a responsible
+member of this court who represents the family of Mr. Epstein.
+She spoke to the medical examiner on the Friday after
+Mr. Epstein's death and asked why, if the conclusion was made
+late in the afternoon on Friday that week.  She specifically
+asked about what extrinsic nonmedical evidence caused the
+medical examiner to go from uncertain to suicide, and she was
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 22 of 86
+
+23
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+told that the medical examiner had seen nine minutes of one
+video which was on a stairwell between floors at the MCC.  She
+was told that the principal video that would have showed the
+whole hall was corrupted.  It was in DC with the FBI to see if
+they can reconstruct it.  
+And I asked the same questions that my co-counsel did, 
+you know, was the dysfunction of the critical pivotal video, in 
+the most secure prison east of Florence, out in Colorado known 
+to the MCC before August 10, or was this corruption occurring 
+on August 10, which would again cause us to be skeptical of the 
+servitude of the medical examiner's conclusions that this was 
+suicide rather than some other cause. 
+So with my co-counsel, we ask your Honor, it is not a
+question of trust or not trust.  They ask you to detain people
+and you trust the Bureau of Prisons.  And it is within your
+inherit authority, your Honor, to find out what happened to our
+client.
+We are angry about the conditions he was held in.  And 
+we're also angry, quite frankly, your Honor, that the only 
+source of information that we get as to what happened to him is 
+through the media rather than through the United States 
+Attorney's office.  We've made requests informal.  We have 
+made Touhy requests.  We've been told there is a pending 
+investigation.   
+But we trust your Honor and the judiciary, and with 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 23 of 86
+
+24
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+all due respect, we believe there is an inherent and central 
+role, a pivotal role in your Honor to find out what happened to 
+a defendant in a case before the court, whether or not the 
+court grants the nolle pros today or whether it holds it 
+pending an investigation into Mr. Epstein's death. 
+We're not here without significant doubts regarding
+the conclusion of suicide.  We are not here to say what
+happened.  We don't know what happened.  But we deeply want to
+know what happened to our client.
+Thank you, sir.
+THE COURT:  And you, as Mr. Weingarten, have the same
+view of the nolle prosequi motion?
+MR. WEINBERG:  Yes, your Honor.
+THE COURT:  OK.
+MS. COMEY:  Your Honor, may I respond to some of those
+points?
+THE COURT:  Sure.
+MS. COMEY:  Thank you, your Honor.
+Just briefly.  With the exception of the noting that
+the defense does not have an objection to the government's
+motion, virtually everything else that defense counsel just
+argued, respectfully is completely irrelevant to the purposes
+of today's proceeding and to the motion that is pending before
+your Honor.
+As an initial matter, the question --
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 24 of 86
+
+25
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+THE COURT:  Well, it may be.  Well, I don't know.  You
+say irrelevant.
+It is a public hearing, and I think it is fair game 
+for defense counsel to raise its concerns. 
+MS. COMEY:  Certainly, your Honor.  But it is
+irrelevant to whether or not the motion should be granted.
+THE COURT:  Right.  I get that.
+MS. COMEY:  I would also note that the question of
+Mr. Epstein's death is the subject of an ongoing and active
+investigation, as has been publicly noted, by a separate team
+of Assistant United States Attorneys from the Southern District
+of New York, separate from the team who is handling this
+prosecution, as well as a separate team of FBI agents.
+There is an ongoing and active grand jury 
+investigation into the circumstances surrounding Mr. Epstein's 
+death.  It is the function of a grand jury and of the Federal 
+Bureau of Investigation to investigate crimes in the federal 
+court system.  It is not the purview, respectfully, of the 
+court to conduct an investigation into uncharged matters. 
+So respectfully, we disagree with defense counsel's
+suggestion that the court has some authority to conduct an
+independent investigation.  To the extent any other defendants
+who are detained in the MCC have concerns about the conditions
+or believe that the conditions are relevant to a future or
+current bail determination, it is for those defendants and
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 25 of 86
+
+26
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+their counsel to raise those arguments and for the judges
+hearing those arguments to evaluate those claims.  It is not
+relevant to today's proceedings.
+Thank you, your Honor. 
+THE COURT:  In those other cases, Ms. Comey, judges do
+have authority to investigate, but don't here?
+MS. COMEY:  Not to investigate, your Honor, but to
+hear arguments about the conditions of confinement in the MCC
+as they may relate to any bail determination.  I believe that
+was the argument that was made.
+The bigger picture here, your Honor, is that the focus
+of today's proceeding, as we understand it, is to allow the
+victims who have gathered here today to be heard and to comment
+upon the case and to comment upon the motion that is pending,
+and to bring this case to a close.
+THE COURT:  Got it.
+MR. WEINGARTEN:  May I?
+THE COURT:  Sure.
+MR. WEINGARTEN:  We obviously saw this as, perhaps,
+the last opportunity to be before you, and we wanted to take
+advantage of the opportunity to say our peace and thank you for
+allowing us.
+There is precedent here.  Ted Stevens, the Senator
+from Alaska case in Washington, DC, Judge Emmet Sullivan
+ordered an independent investigation by a private lawyer when
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 26 of 86
+
+27
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+he was deeply troubled by the alleged Brady violations.  I
+represented the prosecutors in that case, so I'm very, very
+familiar with it.
+It is analogous.  It is a situation where there was
+tremendous controversy over what happened in the case and
+whether or not the prosecutors went off the reservation.  Judge
+Sullivan -- and there were three or four independent -- not
+independent, DOJ inquiries into the very same matter.  But
+Judge Sullivan wanted his own opportunity to make a judgment
+with his own independent investigation.
+THE COURT:  OK.
+MR. WEINBERG:  If I could just add one precedent, your
+Honor.  
+The Chief judge in the District of Massachusetts or 
+the Chief Judge at the time, Judge Wolf, in a case called 
+U.S. v. Fleming, when the conditions at Walpole, which is a 
+state prison where federal prisoners were being held -- we 
+don't have a federal MCC in Boston -- went to the prison, 
+stayed in the prison to determine whether or not the complaints 
+about the conditions were authentic.   
+I think your Honor has the inherent authority to go to 
+the ninth floor and see how the MCC houses pretrial detainees.   
+Thank you. 
+THE COURT:  Are you saying that whether or not the
+motion is granted that is pending before us?
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 27 of 86
+
+28
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+MR. WEINBERG:  Yes, your Honor.
+I think, like when appeals are taken, bail issues
+remain before the district court.  Jurisdiction is not
+completely divested.  Your Honor issued a pretrial detention
+order and your Honor has the power, the inherent authority,
+they are not going to refuse to allow you to go look at the
+ninth floor.  They are going to count on you to make decisions
+in the future.
+I just trust that the executive branch is not going to 
+prevent the judicial branch from looking into the death of 
+Jeffrey Epstein or the conditions in the SHU unit at the MCC, 
+sir. 
+THE COURT:  Great.  Thank you.
+MS. COMEY:  May I, your Honor?
+Just very briefly, your Honor.  I would note that upon
+the dismissal of the indictment, which I believe the parties
+agree is appropriate in this case, there would be no case.
+There would be no jurisdiction for the court to conduct any
+sort of inquiry, even if the court had such authority.
+THE COURT:  Right.
+OK.  I think we've heard enough.
+It is at this point in the hearing that I would like
+to call upon victims' counsel, plural, for any remarks they may
+have and they may wish to make.  Also, to introduce their
+clients, those of them who wish to be heard.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 28 of 86
+
+29
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+It would be helpful if, in doing that, if counsel --
+Mr. Edwards and I see and I see Mr. Boise as well -- I know
+they are counsel to several, at least several of the victims.
+It would be helpful if whoever is speaking, both Mr. Edwards
+and Mr. Boise, would indicate to the court whether or not they
+have discussed the pending motion with their clients, that is
+to say and the rule of abatement, etc., etc. with them prior to
+today's hearing.
+Are we going to hear from Mr. Edwards first, is that
+right?
+MR. EDWARDS:  Thank you, your Honor.
+THE COURT:  You bet.
+It would be helpful, Mr. Edwards, if you would state
+and spell your name for the court reporter.
+If you are going to introduce someone else, which I 
+trust that you are, if you could state and spell their name as 
+well. 
+MR. EDWARDS:  Yes, your Honor.
+May it please the court.  Brad Edwards, B-r-a-d 
+E-d-w-a-r-d-s, with the law firm of Edwards Pottinger. 
+I have in the courtroom today 15 victims that I
+represent and have represented over the years.  There are at
+least 20 more who didn't make this hearing today for a
+multitude of reasons, some out of fear of public exposure,
+others because the way in which this case ended will never
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 29 of 86
+
+30
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+bring full justice, and they decided it was best for them not
+to talk today.
+Some of my clients are going to address the court that
+are here today.  Others are not.  Some are going to use their
+names, and have in the past, and others wish to remain
+anonymous.  And I have instructed each of them to inform the
+court reporter that they will be proceeding as Jane Doe so that
+the court reporter can take them down.
+THE COURT:  For those who wish to remain anonymous?
+MR. EDWARDS:  Exactly, your Honor.
+THE COURT:  And that is satisfactory, as far as I am
+concerned.
+MR. EDWARDS:  Before we do that, I would like to
+address a couple of the things that have occurred this morning.
+First of all, whether relevant or not, I personally, 
+and on behalf of my clients, do appreciate the presentation 
+that Mr. Weingarten made and Mr. Marty Weinberg made.   
+I have tremendous respect for Mr. Weinberg.  I've 
+worked with him through this and related cases for years, and I 
+understand the reason why they made the presentation that they 
+made. 
+There is two things of interest to our clients in that
+respect.  One is, because of the tragic ending, that none of my
+clients wanted, nor did I, nor did anyone else, if there is
+some civil rights violation and there is some civil remedy for
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 30 of 86
+
+31
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+Mr. Epstein that goes to the estate, certainly the victims are
+interested in that as they might help to repair the damage
+done.
+Second, Mr. Epstein's untimely death, the timing is
+curious to us.  But more so, it makes it absolutely impossible
+for the victims to ever get the day in court that they wanted
+in court and to get full justice.  That now can never happen.
+I know that Mr. Epstein's attorneys say he wanted it, and they
+know, we did too.  And there are a lot of people here today
+that are very sad by the way that this ended for both
+Mr. Epstein and the fact that full justice was robbed from
+them, once again.
+The second issue I wanted to address was the Law
+Review or the Law Journal article that your Honor referenced,
+which is troubling because the opinion seems to say that
+transparency is not appropriate in the criminal system and is
+not appropriate at this point in time.
+That's tough to swallow, especially in this case, 
+given the long history of this case.  Personally, it is tough 
+to swallow, and on behalf of my clients, I can say that is very 
+concerning.  Transparency is the only way that the justice 
+system works.  We know this because there was a similar 
+investigation of Mr. Epstein many years ago, from 2005 to 2008.   
+My personal involvement in this case was because a 
+young female came into my office named Courtney Wild, and she 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 31 of 86
+
+32
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+came to me not asking to file a lawsuit against Jeffrey 
+Epstein, but simply asking for the government to talk to her.  
+She was cooperating in an FBI investigation and wanted the 
+government to speak with her, and I thought that was going to 
+be an easy task.   
+It was only a few months later that we learned that 
+this investigation that was represented to my client in written 
+form, that it would be a long investigation, and to be patient.  
+Basically, to hang tight.  It was resolved by way of a secret 
+deal that never allowed any of the more than 30 victims who had 
+been identified of Mr. Epstein's abuse in Florida to ever 
+participate in a single hearing.  There was a hearing.  They 
+were never notified. 
+I then went on to represent many of them in civil
+cases and also in extensive pro bono work.  And I can tell your
+Honor that while Jeffrey Epstein's abuse of them hurt them and
+harmed them for many years, the feelings they had was
+aggravated exponentially by the facts that they had no rights
+in the criminal justice system, by the fact that they were
+treated as if they didn't matter.  They were not allowed their
+rights under the Crime Victims' Rights Act to meaningfully
+confer with prosecutors, to be treated with fairness, to be
+treated with dignity.  That is what this is supposed to be
+about, and to have notice of hearings.
+So I do want to thank your Honor, and especially the 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 32 of 86
+
+33
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+prosecutors who have worked this investigation and this case, 
+which is very different in experience for all of my clients and 
+the other Epstein victims in this case, because they were 
+allowed to be a part of the process.  While some of them 
+elected not to be here today, that opportunity should always be 
+allowed for them. 
+In 2008, we filed that case under the Crime Victims'
+Rights Act because our clients' rights were violated, and as
+your Honor knows, a federal judge has ruled in our clients'
+favor that their rights were violated.  So this hearing today
+means a lot to them.  The fact that they may never get their
+chance to speak in court, they may never get complete closure,
+and all of us have to wonder, if their rights had been afforded
+them the first time, would any of us be here right now.  Or
+wouldn't it more likely be the case that everyone, including
+Jeffrey Epstein, would have turned out better for it?
+Today, I have not only represented, but met and become
+very close with many of these victims.  Many of these
+survivors.  They are very strong people.  They are people who
+have persevered through a lot of adversity.  It's been a roller
+coaster of emotions that has led us to where we are today.  And
+while they have all been cast over the years because of the
+secrecy of the first investigation, in the shadow as victims,
+you can't put them all in one bucket and say one size fits all.
+They are each individual people who were harmed differently and
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 33 of 86
+
+34
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS1                           
+distinctly through not only the abuse, but the system.
+And on behalf of all of them, I would like to thank 
+your Honor for the fairness with which they've been treated, 
+and the United States Attorney's office for the way in which 
+you have handled this investigation, and especially how you 
+have treated the victims in this case. 
+Like I said, I have many who want to speak.  Some that
+can't.  This is a very difficult day for them.  But we
+appreciate the opportunity and the invitation.
+The first client that I have that is going to address
+your Honor is the one who walked into my office in 2008 asking
+just to be heard, Courtney Wild.
+THE COURT:  Hold on one second.  Did you all want to
+be seated?
+You don't need to be standing.  Whatever is more 
+comfortable until you're ready to give some comments.  It's up 
+to you.   
+Ms. Wild, if you could spell your name for the court 
+reporters, please. 
+MS. WILD:  Courtney, C-o-u-r-t-n-e-y, last name Wild,
+W-i-l-d.
+(Continued on next page)
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 34 of 86
+
+35
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+MS. WILD:  My name is Courtney Wild, and I'm a victim
+of Jeffrey Epstein.  Jeffrey Epstein sexually abused me for
+years, robbing me of my innocence and mental health.  Jeffrey
+Epstein has done nothing but manipulate our justice system,
+where he has never been held accountable for his actions, even
+to this day.
+Jeffrey Epstein robbed myself and all the other 
+victims of our day in court to confront him one by one, and for 
+that he is a coward.   
+I want to thank the U.S. Attorney's for seeking 
+justice that has been long over due, and most importantly, 
+given us, the victims, our day in court to speak our peace and 
+find some sort of closure.  I feel very angry and sad that 
+justice has never been served in this case.  Thank you. 
+THE COURT:  Thanks very much.
+MR. EDWARDS:  I believe my next client who is going to
+speak is probably going to speak as Jane Doe.
+JANE DOE NO. 1:  Yes, Jane Doe.
+THE COURT:  We'll say Jane Doe No. 1, just for the
+record.
+JANE DOE NO. 1:  Okay.  Thank you for allowing us to
+speak today.  I've shifted what I want to say in hearing
+what's already been said, and just about the question of
+Jeffrey's death.  I don't know what the relevance is to this
+hearing, but I do know that it is profoundly relevant to my
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 35 of 86
+
+36
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+life, as a victim.  I don't like that word, but I still feel
+like I am learning the ways that he's impacted me as a complex
+situation, but he was also a major part of my life.  As
+destructive as that relationship was and as much of a villain
+as we have created him to be -- based on facts we've created
+him to be a villain -- he's a complex villain and actually all
+of that is irrelevant.  Anybody deserves -- an investigation is
+the right thing to do.  Like, we do need to know how he died.
+It felt like a whole new trauma all over again, and I 
+don't know why, you know, because I -- I'm trying to defend 
+myself against him at this point in my life, but it still does 
+not feel good.  It didn't feel good to wake up that morning and 
+find out that he had allegedly committed suicide.  Okay.  But I 
+also wanted to say to the press, I'm reading -- I read my story 
+in the paper.  I read so many other girls' stories that are so 
+similar to my own, and everything that's been focused on is not 
+the most important part of it.   
+There was -- the problem with focusing on these, the 
+facts of the situation, that were out of the ordinary and like 
+because he was such a grand person, and it was just a unique 
+situation.  I know that that's the more interesting side of the 
+story, but I don't want to be used as entertainment.  And the 
+problem, the fundamental problem of the whole situation is the 
+element of exploitation and coercion, and these are things that 
+so many girls can relate to.   
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 36 of 86
+
+37
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+And even though this Jeffrey Epstein brought it to a 
+grand scale, on some level, a lot of girls could relate to the 
+trauma that we are talking about, and even though this whole 
+situation sucks, I would like to think that it may be possibly 
+a catalyst for change because, obviously, as we're seeing with 
+the "Me Too" movement, change needs to happen and it's -- what 
+I'm seeing in the papers is not a common story, but it's so 
+much more common than you realize.  That's all.  Thank you. 
+THE COURT:  Thank you very much.
+MR. EDWARDS:  I believe that the next client is going
+to also be a Jane Doe; so I think for the purposes of the
+record it will be Jane Doe 2.
+THE COURT:  Yes.
+JANE DOE NO. 2:  Good morning, your Honor.
+THE COURT:  Good morning.  How are you?
+JANE DOE NO. 2:  Doing okay.  I hadn't prepared any
+words to speak today, but there is something that was on my
+mind this morning when I got here.  It's been on my mind in
+reading through the press and through the people that I've
+spoken to about it, friends, family.  It's something that's
+bothered me because I think it has a lot of blame in it, as
+well, a little bit of what my friend, who was up here, was
+speaking about.
+I think that a lot of people asked why we spent so 
+much time, why we stayed.  It's an experience that's really 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 37 of 86
+
+38
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+hard to explain to people who haven't gone through it.  I think 
+there's a writer, Thomas Nagel, who wrote an essay called "What 
+is it like to be a bat?"  And I think that he touches on it 
+pretty strongly and if you haven't experienced something, it's 
+very hard to fully understand why someone makes the decisions 
+they do and what the circumstances were.   
+I don't want to speak for all of the victims.  I think 
+each of us has a different story and different circumstances 
+for why we stayed in it, but for me, I think he was really 
+strategic in how he approached each of us.  Things happened 
+slowly over time.  We didn't -- it almost was like, putting it 
+like that analogy of a frog being in a pan of water and slowly 
+turning the flame up.  You didn't realize it was happening, and 
+it just -- I don't think anyone can fully understand the 
+experience, but I just -- the blame feels very strong.   
+There's a lot of support as well, but I just want 
+people to try and understand that we aren't bad people.  We 
+weren't trying to -- it wasn't a situation where we were trying 
+to extort money from someone.  A lot of us were in very 
+vulnerable situations and in extreme poverty, circumstances 
+where we didn't have anyone on our side, to speak on our 
+behalf, and that's really scary.   
+You start to blame yourself because, at first, you 
+don't tell anyone what's happening, and it becomes your deep, 
+dark secret that you tried to keep from everyone.  And I didn't 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 38 of 86
+
+39
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+even know I was a victim until I spoke with my lawyers.  I had 
+no idea.  I had so much self-hatred and doubt and just guilt 
+for everything.  I still do.  I still don't feel like I deserve 
+to say I'm a victim, and I think that's a big problem with our 
+society right now, that people are still blaming victims, and I 
+think that does need to change.   
+I hope that today people understand that each of us 
+has a story, has a past, has a family and just give us a chance 
+to -- you know, that's basically all I just wanted to say. 
+THE COURT:  Thank you so much.
+JANE DOE NO. 2:  Thank you so much.
+THE COURT:  Okay.
+MR. EDWARDS:  Okay.  I think that the next person who
+is going to speak is also going to be speaking as Jane Doe; so
+for the purpose of the record, Jane Doe No. 3.
+JANE DOE NO. 3:  Thank you for allowing us to speak
+today.  I came to New York City 15 years ago to pursue modeling
+from a small town.  I signed on with an agency and was excited
+to pursue my passion and my dream.  Several months later, I met
+a female who told me about Mr. Epstein.  She portrayed him as
+an amazing man who genuinely cared for people and that he was
+going to be able to help me in a modeling career.
+I was excited to meet him, after hearing her talk 
+about him.  He sounded like an amazing person.  An introduction 
+was made at his New York home, and it is there that I was 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 39 of 86
+
+40
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+sexually assaulted.  I left his home, after he threw me, 
+basically put money on the table, and I was ashamed.  I was 
+embarrassed.  This was not the way I was brought up, and I 
+couldn't believe this had happened to me.   
+I left and my world kind of spiraled after that.  I 
+stopped going on modeling castings.  I gained weight.  I became 
+depressed.  I stopped going out with my friends, and only five 
+months after I had been in New York City to pursue my dream, I 
+left.  I left the modeling industry, and I left New York City, 
+and I totally switched my career paths.   
+I buried this deep within me, and all of the new 
+occurrences that have come up in the media is what brought it 
+back up for me.  And I feel sickened and saddened that it took 
+so many years, and God knows how many victims, for this to 
+finally come out, but I'm thankful it did.  And I'm just angry 
+that he's not alive anymore to have to pay the price for his 
+actions.  So I thank you for your time. 
+THE COURT:  You're very welcome.
+MR. EDWARDS:  Your Honor, Jane Doe No. 4, I believe,
+is going to speak now.
+JANE DOE NO. 4:  Good morning, your Honor.
+THE COURT:  Good morning.
+JANE DOE NO. 4:  I just have something very short to
+say.  I met Jeffrey Epstein at a very vulnerable place in my
+life, and whatever the outcome is with everything, I just
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 40 of 86
+
+41
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+wanted to express that we, the victims, we will always carry
+irreparable damage and pain throughout our lives after this.
+It's something that's never going to go away.
+You know, whoever we marry in our life, whatever 
+future we have in our life, it's always going to be something 
+that's always there for us.  And I'm very nervous right now.  
+And Jeffrey Epstein, he took away the chance I had at having 
+the future I had envisioned for myself as a young girl, and I 
+think many of us here today will never fully heal from that 
+pain and the heartache that we'll continue carrying with us.   
+So I just wanted to say that.  It's something that 
+it's irreparable.  I can't even really use a better word to 
+describe that.  So thank you for hearing us today. 
+THE COURT:  You're very welcome.
+MR. EDWARDS:  Your Honor, Jane Doe No. 5 would like to
+speak.
+JANE DOE NO. 5:  This is a letter that I wrote; so
+it's going to be:  Dear Jeffrey, I think you are a mentally
+disturbed human being.  You used your power to make me believe
+at a young age that I could have my dreams of being a model.
+You paid for your freedom.  You violated my rights.  You should
+have to pay for them, just as anyone else.  You got a plea deal
+that no one else would have been able to get.  You used your
+money to get out of paying the price for your actions.
+Also, as a victim, I never got to see what the 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 41 of 86
+
+42
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+agreement was or why the special treatment got approved.  I 
+think you should have been in jail for several years in 
+population and live like everyone else that is mentally 
+disturbed like you.  You paid for yourself to get special 
+treatment while you were in jail.  I don't even think you spent 
+a day in a jail as a normal human being.   
+You had investigators come to my house and also went 
+to my friend's house to question them.  I will never be able to 
+over -- I will never be able to get over the overwhelming 
+emotions and embarrassment I experienced from that trauma.  I 
+needed therapy several times a week and had high stress and 
+anxiety levels.   
+You paid your way to make the public think that the 
+girls had nothing in life going on for them.  You wanted to try 
+and blame that we were lower class and that was the problem 
+with the girls.  I was from a middle class family and did well 
+in school.  I lived the American girl dream -- or the American 
+girl life.  I went on family vacations around the world, grew 
+up in a good city, and my parents are still married to this 
+day.  Basically, everything you said that we didn't have in our 
+life, I did.   
+It all came down to I was told I was making $200 in an 
+hour.  Being young, that was a lot of money, and I didn't know 
+any better.  Sadly, you were the one with an illness that you 
+should have to go and see a doctor and also have a mentor group 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 42 of 86
+
+43
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+for the sickness you have.  I will continue with writing my 
+book about that secret life, with all the newspaper articles of 
+the case, my high school agenda book of official dates.  I'm 
+basing that proof that I deposited cash after leaving 
+Jeffrey's.  I still have all of the information, articles that 
+I collected over the years.   
+You mentally and physically traumatized me.  I went to 
+therapy, and it was the best thing I did for myself.  If anyone 
+only learns one thing from this case, I hope is that money 
+should not let you buy your way free.  A crime is a crime and a 
+victim is a victim.  Thank you. 
+THE COURT:  Thank you.  Thank you very much.
+MR. EDWARDS:  Your Honor, my next client is Chauntae
+Davies, C-h-a-u-n-t-a-e, Davies, D-a-v-i-e-s.
+MS. DAVIES:  I met Jeffrey Epstein through my first
+massage teacher, a man who took me in as his apprentice to
+teach me a practice I wanted to learn while in desperate search
+to find a cure for a debilitating neurological disorder that I
+have, which manifests into violent vomiting attacks, largely
+triggered by stress.  It's called Cyclic Vomiting Syndrome.  
+I was recruited by Ghislaine Maxwell.  Upon my first 
+meeting of her, I wouldn't know I had been recruited until many 
+years later, when I would read it in a headline.  Ghislaine and 
+Jeffrey took me in.  They sent me to school.  They gave me a 
+job.  They flew me around the world, introduced me to a world I 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 43 of 86
+
+44
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+had only dreamt of and made me feel as though I had become a 
+part of their family, another thing I was desperately searching 
+for.   
+But on my third or fourth time meeting them, they 
+brought me to Jeffrey's island for the first time, and on the 
+first night there, Sarah Kellen came tapping on my door late at 
+night to inform me Jeffrey was ready for another massage.  My 
+instincts told me this didn't feel right, but I got up and 
+followed her to a villa I hadn't yet seen.  Jeffrey and 
+Ghislaine's villa.   
+I began my massage, trying not to let him smell my 
+fear and obvious discomfort, but before I knew what was 
+happening, he grabbed onto my wrist and tugged me towards the 
+bed.  I tried to pull away, but he was unbuttoning my shorts 
+and pulling my body onto his already naked body faster than I 
+could think.  I was searching for words but all I could say was 
+meek, "No, please stop," but that just seemed to excite him 
+more.   
+He continued to rape me, and when he was finished, he 
+hopped off and went to the shower.  I pulled my shorts up, and 
+I ran as fast as I could back to my own villa, my feet bloodied 
+from the rocks.  I cried myself to sleep that night.   
+I spent two weeks vomiting, almost to death, in a 
+Los Angeles hospital after that first encounter.  Jeffrey's 
+abuse would continue for the next three years, and I allowed it 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 44 of 86
+
+45
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+to continue because I had been taken advantage of my entire 
+life and had been conditioned to just accept it.   
+It took me a long time to come forward, too long 
+maybe, and all it took to bring -- and all that it took to 
+bring this man to justice has been robbed by his death.  Every 
+day, every week I've spent in the hospital since, I've suffered 
+and he has won.  Every job offer that's been offered to me and 
+then retracted because of my connection to this case, I have 
+suffered and he has won.  Every public humiliation I have 
+endured, I have suffered and he has won.  Every relationship 
+that I've had to end because of the abuse that I have endured 
+by the hands of this man, I have suffered and he has won.   
+Every woman sitting in this room today, and all of the 
+women who have yet come forward and who have not yet to come 
+forward and whose lives have been affected by Jeffrey Epstein's 
+sick abuse of young girls, we have all suffered, and he is 
+still winning in death.   
+I refuse to let this man win in death.  I couldn't 
+fight back when Jeffrey Epstein sexually abused me because I 
+hadn't yet found my voice.  Well, I have found my voice now, 
+and while Jeffrey may no longer be here to hear it, I will not 
+stop fighting, and I will not be silenced anymore.  I needed 
+him to hear the pain he's caused, what I've gone through 
+because of him.  I wrote a 350-page book of all the pain that I 
+have endured at the hands of this man that I really needed him 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 45 of 86
+
+46
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+to hear.  His death has robbed me of that justice.   
+Please don't rob us of justice again.  Thank you. 
+THE COURT:  Thank you.
+MR. EDWARDS:  Your Honor, I think I have one more
+client that is going to speak today, Anouska De Georgiou.
+THE COURT:  Would you spell that?
+MS. DE GEORGIOU:  Good morning, your Honor.
+THE COURT:  Good morning.
+MS. DE GEORGIOU:  My name is spelled A-n-o-u-s-k-a,
+D-e, space, G-e-o-r-g-i-o-u.
+Thank you, your Honor, for giving us the opportunity 
+to be heard this morning. 
+THE COURT:  Sure.
+MS. DE GEORGIOU:  When I was introduced to Jeffrey
+Epstein, I was young and full of hope and the foolishness of a
+teenager.  I was idealistic, and I saw the good in people.
+Jeffrey Epstein manipulated me, coerced me and sexually abused
+me.
+Something I think is very important to communicate is 
+that loss of innocence, trust and joy is not recoverable.  The 
+abuse, spanning several years, was devaluing beyond measure and 
+affected my ability to form and maintain healthy relationships, 
+both in my work and my personal life.  He could not begin to 
+fathom what he took from us, and I say "us" because I am every 
+girl he did this to, and they're all me.  And today we stand 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 46 of 86
+
+47
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+together, those that are present and those that aren't.   
+I was a victim, and it has taken me many, many years 
+to stand here and say, yes, it was me.  I was a victim, but I 
+will not remain a victim and be silent for one more day.  
+Although I think it's tragic when anybody dies before their 
+time, I'm extremely relieved that Jeffrey Epstein will not be 
+in a position to hurt anymore children or anymore women, and 
+I'm glad to be part of a group of women who are now bonded 
+forever in the trauma that we endured at the hands of this man.  
+Thank you. 
+THE COURT:  Thank you.
+MR. EDWARDS:  Your Honor, we had one client who was
+not able to be here but sent a message through a letter.  Her
+name is Michelle Licata, M-i-c-h-e-l-l-e; last name,
+L-i-c-a-t-a.  And Brittany Henderson, of my office, is going to
+read her letter as instructed.
+THE COURT:  Sure.
+MS. HENDERSON:  Thank you, your Honor.
+THE COURT:  Yup.
+MS. HENDERSON:  What happened to me occurred many
+years ago when I was in high school, but it still effects my
+life.  I was told then that Jeffrey Epstein was going to be
+held accountable, but he was not.  In fact, the government
+worked out a secret deal and didn't tell me about it.  The case
+ended without me knowing what was going on, without him being
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 47 of 86
+
+48
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+held responsible, without any explanation and without a chance
+for my voice to be heard.  I was treated like I did not matter.
+Many years later, he was arrested again.  These 
+investigators and attorneys representing the United States have 
+been completely different.  I am still mad, concerned and 
+confused about how he committed suicide and escaped 
+responsibility again, but I know it is not the fault of the 
+judge or the government attorneys.   
+I was allowed to be a part of the process this time.  
+My attorney was able to tell me what was going on at every 
+stage because they kept him informed.  Thank you for inviting 
+me.  It means more to me than you can ever know.  I was not 
+able to be here this time, but I know that I was allowed to be 
+and I had the chance to attend this hearing, which is helping 
+me in my healing process.  The fact that I mattered this time 
+and the other victims mattered is what counts.  For that, I am 
+grateful. 
+THE COURT:  Thank you.
+MR. EDWARDS:  Your Honor, finally, in 2008 when I
+filed the case under the Crime Victims Rights Act, it wasn't me
+alone.  I did it with Paul Cassell and Jay Howell.  
+Paul Cassell is here today, and I think your Honor 
+even cited to a piece of -- an opinion of his from when he was 
+on the bench, and he has some remarks to make.   
+Once again, your Honor, I really do believe that this 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 48 of 86
+
+49
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+is a model for how victims should be treated in a criminal 
+process, and we really do appreciate it.  Thank you. 
+THE COURT:  Thank you.
+MR. CASSELL:  I'll be very brief because I know there
+are others that want to speak here.  I'm Paul Cassell,
+C-a-s-s-e-l-l, previously served as a federal judge at the
+District of Utah, currently a law professor, where I teach
+crime victims rights at the University of Utah, College of Law.  
+I just wanted to take one minute to address some 
+suggestion that there would be no need for a hearing this 
+morning.  I think, having heard already from these powerful 
+victims and recognizing how important giving those statements 
+will be in the trajectory of their lives, makes clear that your 
+Honor has followed exactly the right path.  Legally, there is 
+one precedent, which is U.S. v. Heaton, a case that you cited 
+that I wrote about a decade ago, and as explained in that 
+opinion, victims have important interests in the criminal 
+justice system that can only be recognized if they're given 
+their day in court.   
+With all due respect to other law professors that have 
+recently written an article, I think transparency is one of the 
+overriding objectives in our criminal justice system, and the 
+one substantive action that I would urge your Honor to take 
+today is to publish your remarks as a published opinion.  The 
+Heaton case is, to my knowledge, the only reported decision on 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 49 of 86
+
+50
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+this particular issue, even though it's more than a decade old 
+and, yet, we can see today that these problems recur in many 
+other cases.  Your remarks today, I think, should be published 
+so that they can serve as a guide for other judges around the 
+country.   
+I would encourage you to add into your remarks a 
+reference to the Crime Victims Rights Act.  The Crime Victims 
+Right Act promises victims the right to be treated with 
+fairness, dignity and respect, and the process that we see 
+unfolding this morning is a clear example of how victims can be 
+treated with fairness, dignity and respect.   
+So I know that your Honor is wondering what is the 
+appropriate action here.  Unfortunately, it seems like there 
+are no other legal options, but there was a legal option for 
+you to decide to exercise, which was to allow these victims to 
+come forward.  And if there's been one positive thing that has 
+come out of the tragedies, the abuse, the other events of this 
+case, it's been your decision to allow these victims to be 
+heard this morning, and I encourage you to publish your 
+decision and to encourage other judges to follow what is 
+clearly a model for crime victims rights and is clearly an 
+example that should be followed in other cases down the road. 
+THE COURT:  Thank you very much.  I appreciate your
+being here.  I had no idea that you would be here when I wrote
+the remarks, but it was clear from the literature that you are
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 50 of 86
+
+51
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+the leading expert formerly of the District Court of Utah, I
+believe, and it's a pleasure to have you here today.
+MR. CASSELL:  Thank you, your Honor.
+THE COURT:  Thanks.
+Mr. Boies? 
+MR. BOIES:  Thank you, your Honor.  David Boies of
+Boies Schiller Flexner.  We have with us today five of the
+victims that we represent.  There are a number of additional
+victims who either were unable to attend or are still unwilling
+to come forward publicly.  This has been an enormously
+traumatic aspect of their lives, something that, as you've
+already heard and will hear more today, is something that they
+can never entirely escape from.
+I want to, as prior counsel have, commend both the 
+Court and counsel for the Department of Justice for the 
+consideration and respect and attention that they have paid to 
+the victims.  We believe that that is not only right, as a 
+matter of human dignity, but we think that is exactly what the 
+law requires and intends.   
+I will be more blunt than the Court has been, or 
+Professor Cassell has been about Professor Green's article.  
+That is an article that cites no authority, and I believe there 
+is no authority for his proposition.  I entirely respect his 
+right to advocate on behalf of his client Alan Dershowitz, who 
+has retained him in connection with litigation that we've 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 51 of 86
+
+52
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+brought against Mr. Dershowitz, but I would have expected that 
+the Law Journal or Professor Green himself would have disclosed 
+that connection, which I think is a conflict.   
+But regardless of the appropriateness of his 
+disclosure, or lack of disclosure, I think that his article 
+opposing allowing the victims to have a voice in this 
+proceeding is inconsistent not only with the policy that 
+underlies the Crime Victim Rights Act and the very statute that 
+Mr. Epstein is being prosecuted under, but it ignores the 
+actual language of those statutes, and many other statutes, in 
+which Congress has made clear that the purpose of the criminal 
+law is no longer simply to punish the individual defendant, but 
+it is to find some way of trying to mitigate the damage that 
+has been done to the victims through restitution and economic 
+mitigation, but also through the ability to confront and to 
+have the court system and the justice system and the 
+prosecutors treat these victims as they are victims, as they 
+are human beings, and they are entitled to the respect that our 
+society needs to give every human being.  So I think that this 
+is not only commendable, but I think it is what the law 
+requires. 
+In response to the question the Court asked, I have
+discussed this hearing with my clients.  I have told them that,
+under the applicable law, the government has no alternative but
+to move to dismiss this case, and I believe under the
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 52 of 86
+
+53
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+applicable law in this circuit, the Court has no alternative
+but to grant that motion.
+I think the current law is outdated, as the Court 
+suggested in some of its remarks.  I think there will come a 
+time when either an Appellate court or the Congress will make 
+clear that, just as it's possible to continue civil cases 
+against someone after they have deceased, it is possible, at 
+least for purposes of things like restitution, to continue 
+criminal cases, but we are not there now.  And, fortunately, in 
+this case, there are other ways and perhaps even more efficient 
+ways to vindicate the interests of the victims here.   
+We greatly appreciate the remarks of the 
+representative of the Department of Justice today, and we, too, 
+on behalf of the victims, are not going to stop when we walk 
+out of this courtroom.  We are going to continue to seek 
+vindication against Mr. Epstein's estate and, in some senses, 
+perhaps even more important, against the people who worked with 
+him and enabled him.   
+As you have already heard, and will hear more, 
+Mr. Epstein did not act alone.  He could not have done what he 
+did, on the scope and the scale of what he did, for as many 
+years as he did it without the activities and support and the 
+co-conspirator activity of a number of other key individuals, 
+and those individuals also need to bear their share of 
+responsibility, and those people need to have a reckoning as 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 53 of 86
+
+54
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+well.   
+My partner Sig McCawley, who's been working with me 
+for more than five years on this case, is going to, with the 
+Court's permission, introduce five of our clients who will 
+speak briefly to your Court.  Thank you very much. 
+THE COURT:  Thank you very much, Mr. Boies.  Pleasure
+to have you here.
+ 
+MS. McCAWLEY:  Thank you, your Honor, the first victim
+that would like to speak today is Theresa J. Helm.
+THE COURT:  Can we have the spelling of your name?
+MS. McCAWLEY:  Sure.  Sigrid, S-i-g-r-i-d, and the
+last name is M-c-C-a-w-l-e-y, and I'm a partner at Boies
+Schiller Flexner.
+THE COURT:  Thank you.
+MS. HELM:  Good morning.
+THE COURT:  Good morning.
+MS. HELM:  Thank you, prosecutors and Judge, and the
+Court.  My name is Theresa Helm.  I note today I do feel
+respected and listened to; so I appreciate that, and I have to
+say that I commend the boldness of the New York prosecutors for
+pursuing a man that has, you know -- and others, that have
+clearly taken a lot from a lot of people.
+17 years ago I knew him only as "Jeffrey."  I was 
+recruited and brought from California to New York, and that 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 54 of 86
+
+55
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+experience for the last 17 years has been a dark corner in my 
+story, in my life, in my life story and that has been 
+definitely made worse by my own self-shame and that -- and 
+anger for normalizing all of the red flags.  I feel like we are 
+conditioned to do that, and that's something that needs to 
+change.   
+So I'm here today, you know, I'm coming forward 
+because it is time to bring light to that darkness, and it's 
+time to replace that darkness with light.  And I am a survivor 
+of this, and I do aim to progress further from being a 
+survivor, you know.  I feel I've worked hard, quite hard, to 
+get to where I'm at now, and I'm definitely at a place in my 
+life where I will no longer cover up.  I'll no longer cover up 
+what needs to be brought to light.   
+Jeffrey is no longer here, and the women that helped 
+him are, Ghislaine Maxwell.  My experience is with Ghislaine 
+Maxwell and Sarah Kellen, and they definitely need to be held 
+accountable for helping him, helping themselves, helping one 
+another carry on this huge, almost like a system.  So they need 
+to be held accountable, all of them, and I would like to see 
+that, certainly on behalf of myself and for everyone here.  
+Thank you. 
+THE COURT:  Thanks so much.
+MS. McCAWLEY:  Our next client, who is going to speak
+this morning, is Virginia Roberts Giuffre.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 55 of 86
+
+56
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+MS. GIUFFRE:  Good morning, your Honor.
+THE COURT:  Good morning.  How are you?
+MS. GIUFFRE:  Okay.  Thank you.  My name is Virginia
+Roberts Giuffre, that's V-i-r-g-i-n-i-a, Roberts,
+R-o-b-e-r-t-s, Giuffre, G-i-u, double F, for Fred, -r-e.
+I am a victim of Jeffrey Epstein and Ghislaine Maxwell 
+in the dark and cruel and criminal acts they committed against 
+me and hundreds of other girls and young women for years and 
+years and years, unstopped.   
+Thank you for allowing me to address the Court and 
+speak the truth.  I commend the prosecutors from the Southern 
+District of New York for the ongoing investigation and its 
+pursuit of justice for us victims.  It has given me hope, and I 
+will not let go of that hope. 
+When I was recruited by Ghislaine Maxwell at
+Mar-a-Lago, just before I was 17, I thought I was given a big
+break, and I'd be able to reset my life and become an actual
+real massage therapist.  My hopes were quickly dashed, and my
+dreams were stolen.  Jeffrey Epstein is no longer alive, but
+this is not about how he died.  This is about how he lived.
+He will not have his day in court, but the reckoning 
+of accountability has begun, supported by the voices of these 
+brave and beautiful women in this courtroom today.  The 
+reckoning must not end.  It must continue.  He did not act 
+alone and we, the victims, know that.  We trust the government 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 56 of 86
+
+57
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+is listening and that the others will be brought to justice.  
+Thank you, your Honor. 
+THE COURT:  Thank you very much.
+MS. McCAWLEY:  The next client of ours that will be
+speaking this morning is Sarah Ransome.
+MS. RANSOME:  Thank you, your Honor.  My name is Sarah
+Ransome, R-a-n-s-o-m-e.  I'm a victim of Jeffrey Epstein and
+Ghislaine Maxwell's international sex trafficking ring.
+I would like to thank the Court for the dignity and 
+the respect you are showing me here today, as well as the other 
+victims.  I would also like to acknowledge and extend my 
+gratitude to the prosecutors from the Southern District of 
+New York for pursuing justice on behalf of the victims.  
+Please, please finish what you have started.  I struggled to 
+find the words to adequately say how important your work is to 
+us.   
+For a very long time Jeffrey Epstein gamed the system 
+at every level, and when he realized he couldn't do that any 
+longer, he showed the world what a depraved and cowardly human 
+being he is by taking his own life.  But we, the victims, are 
+still here, prepared to tell the truth, and we all know he did 
+not act alone.  We are survivors, and the pursuit of justice 
+should not abate.  Thank you, your Honor. 
+THE COURT:  You're very welcome.
+MS. McCAWLEY:  Our next client who is going to be
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 57 of 86
+
+58
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+speaking this morning is Annie Farmer.
+MS. FARMER:  Good morning, your Honor.
+THE COURT:  Good morning.
+MS. FARMER:  Annie, A-n-n-i-e, Farmer, F-a-r-m-e-r.
+I had the opportunity to speak at Jeffrey Epstein's
+bail hearing, and I really appreciate that you heard me and
+listened to me that day.  I am so sorry that others will not
+have the opportunity to stand before him the way that I did.
+But I'm here today to speak on behalf of my sister, Maria
+Farmer, who could not be here.
+Jeffrey Epstein, Ghislaine Maxwell not only assaulted 
+her, but as we're hearing from so many of these brave women 
+here today, they stole her dreams and her livelihood.  She 
+risked her safety in 1996, so many years ago, to report them, 
+to no avail, and it is heartbreaking to her and to me that all 
+this destruction has been wrought since that time.   
+We were deeply disappointed and disturbed by Epstein's 
+death and the fact that that was allowed to happen while he was 
+in the government's custody, and I'm encouraged to hear that 
+there will be a full investigation as to how that was allowed 
+to happen.   
+But it is extremely important, as others are saying, 
+that he did not act alone and that the other people that were a 
+part of what he did are held accountable and that that 
+investigation continues.   
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 58 of 86
+
+59
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+I believe that we have a real problem in this country 
+with perpetrators of sexual abuse and sexual assault being held 
+accountable.  There are so many roadblocks to victims being 
+heard, to cases being investigated thoroughly, and then to 
+those cases being prosecuted.  And so I think this is a really 
+important signal to send a message to victims out there that 
+people will take you seriously, people will follow through, and 
+that even those in power, as we have unfortunately seen, that 
+has not been often are able to escape that, that even those in 
+power will be held accountable.  Thank you. 
+THE COURT:  Thanks so much.
+MS. McCAWLEY:  Our next client, who's going to address
+the Court is Marijke Chartouni.  She says it much more
+beautifully than I do; so I'll let her say it.
+MS. CHARTOUNI:  My first name is spelled,
+M-a-r-i-j-k-e; last name is C-h-a-r-t-o-u-n-i.
+My name is Marijke Chartouni, and I am a victim of
+Jeffrey Epstein and the sophisticated sex trafficking operation
+he ran, where he allegedly was to be a financier.
+I was 20 and previously modeled and was living in the 
+West Village.  I met a young woman named Rena through a mutual 
+friend.  We were friends for a few months.  She was an amazing 
+artist and liked to party.  One day she called me and asked if 
+I was interested in meeting a friend of hers.  She told me he 
+wanted to meet me and really liked blonds, and I thought he was 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 59 of 86
+
+60
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+our age and liked to do the same things we did at that age; so 
+I agreed.   
+On a sunny, crisp day, we took the train together to 
+the Upper East Side.  She then began to talk a little bit about 
+him on our way to his house.  I was at his house.  I was 
+sexually assaulted by both Rena and Jeffrey Epstein in his 
+mansion.  It left me feeling both disgusted and betrayed.   
+As we walked home to the subway afterwards, she 
+continued to tell me about the man who had just abused me with 
+her participation.  She seemed exhilarated from the horrific 
+experience.  I was shocked and in a daze.  This is a few things 
+that she had told me.  She told me he went to Cooper Union.  He 
+was a mathematical genius.  That he had favorite girls that he 
+would take to Chanel for 15-minute, all-you-can-buy shopping 
+trips.  She told me his right-hand person had connection to the 
+arts and the fashion world, and she could help me.   
+This is not my complete story.  I'll stop here.  I'm 
+in a good, stable place in my life, and I had decided to come 
+forward to be a voice to the victims who may not be able to 
+tell their story, or at least not yet.  I feel like I am a 
+survivor.   
+Thank you, Judge Berman, for inviting victims to speak 
+today before you.  We hope the government is listening very 
+closely to the words we are saying. 
+THE COURT:  Thank you very much.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 60 of 86
+
+61
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+MR. BOIES:  Your Honor, just very briefly.
+THE COURT:  Sure.
+MR. BOIES:  I would like to express to the Court how
+proud I am of all of these women who have come forward.  It's
+taken an enormous amount of strength and courage for them to do
+so.  Thank you.
+THE COURT:  Thanks, Mr. Boies.  Hold on one second.
+(Pause)
+MS. LERNER:  Thank you, your Honor.  My name is
+Kimberly Lerner, of Lerner and Lerner, and your Honor, with
+your permission, I would like my client, Jennifer Aroz, to
+stand next to me.
+THE COURT:  Sure.
+MS. LERNER:  Would that be okay?
+THE COURT:  Absolutely.
+MS. LERNER:  Your Honor, I would like to begin by
+saying that I am in awe of all of these beautiful women.  I
+just want to let you know, on behalf of Jennifer and myself, we
+admire you, we respect you, and we applaud you, and you are
+brave survivors.  And Jennifer's heart is with all of you, and
+we thank you so much for coming forward.
+Jennifer, when she went public, she thought she was 
+one of the only ones, and to see all of these faces is, I know, 
+amazing for her. 
+Jeffrey Epstein was a predator, a pedophile and a sick
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 61 of 86
+
+62
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+individual.  However, he was also a thief.  He stole Jennifer's
+childhood dreams, her innocence and her self-confidence.  She
+was 14 years old.  What he could not buy, he forcibly took.
+Why?  Because he surrounded himself with a network of powerful
+people who not only looked the other way, but also actively
+facilitated and participated in his sexual abuse of children.
+Jeffrey Epstein thought he was above the law, and 
+essentially he was until now.  The system let Jennifer and the 
+other victims down, but it does not have to end here.  We ask 
+the U.S. Attorney's Office and the FBI to bring all of 
+Epstein's enablers and co-conspirators to justice.   
+It has taken Jennifer 18 years to find her voice, and 
+again, Jeffrey Epstein has tried to silence her.  While she 
+will never have her chance to face him in court, he no longer 
+has any power over her.  Today, this brave survivor will be 
+heard.   
+MS. AROZ:  Thank you for allowing me to be able to
+have my chance in court today, to be able to tell you what this
+horrific man did to my life.  You can't even imagine how much
+it affected my childhood, all the way through my adult life.
+He robbed me of my dreams.  He robbed me of my chance to pursue
+a career I always adored.  He stole my chance at really feeling
+love because I was so scared to trust anyone for so many years
+that I had such severe anxiety.  I didn't want to leave my
+house let alone my bed.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 62 of 86
+
+63
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+The fact that he felt entitled to take away my 
+innocence, the fact that he felt that he could do whatever he 
+wanted, regardless of the laws, hurts me so very much.  It took 
+me years to tell anyone what Epstein did to me because I was so 
+ashamed and embarrassed at what people would say or think of me 
+until I found out there were other victims, girls just like me.  
+I knew I could no longer keep my silence no matter how ruthless 
+and powerful Epstein was, and still is even after his death.   
+The fact I will never have a chance to face my 
+predator in court eats away at my soul.  Even in death, Epstein 
+is trying to hurt me.  I had hoped to at last get an apology, 
+but this evil man had no remorse or caring for what he did to 
+anyone.  I felt let down by the people who were supposed to 
+watch him in prison.  They let this man kill himself and kill 
+the chance of justice for so many others in the process, taking 
+away our ability to speak.   
+Out of all the damages and side effects that Epstein 
+caused by his heartless and selfish acts, it's very hard to put 
+my feelings and emotions into words, trying to let his 
+horrendous actions go and attempting to forgive him, has been 
+so difficult for me.  Yet, as hard as it's been to come so 
+publicly forward, I refuse to let Epstein take me as a victim 
+anymore.   
+I am a survivor.  The many that stand before me here 
+today that have shared the horrific experiences with this 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 63 of 86
+
+64
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+deplorable human being, because even though this weak, evil 
+coward tried to steal all of our childhoods, tried to steal all 
+of our innocence and tried to steal all of our means of 
+justice, he will never steal our inner strength, and he will 
+never, ever, ever steal our voice.  Thank you so much. 
+THE COURT:  You're welcome.
+MS. GIBBS:  Good morning, your Honor.  Teri Gibbs,
+T-e-r-i, G-i-b-b-s.  For the record, I am a California
+attorney.  I'm not admitted to the New York State bar.  I am
+here to make a statement on behalf of New York attorney, Lisa
+Bloom.  I work for her firm, The Bloom Firm.
+Lisa Bloom represents four of Jeffrey Epstein's 
+victims, Jane Doe 6, for the record, Jane Doe 7 and Jane Doe 8.  
+I am so proud of all of you victims who are here today and are 
+able to voice yourselves today.  I will not and cannot comment 
+on the criminal case, or Ms. Bloom's communications with her 
+clients.   
+Ms. Bloom would like to share three of her client's 
+statements for the record.  Here are the statements.  Statement 
+of Jane Doe 6.   
+To the Honorable Richard M. Berman.  Jeffrey Epstein 
+stole my innocence.  He gave me a life sentence of guilt and 
+shame.  I do not consider myself a victim.  I see myself a 
+survivor.  The abuse that I endured cannot continue.  Let's 
+stop this before it happens to other young women.  Jane Doe. 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 64 of 86
+
+65
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+Statement of Jane Doe 7.  To the Honorable Richard M.
+Berman.  I used to be relatively carefree, inquisitive, hopeful
+and excited about life, but my life changed because of Jeffrey
+Epstein.  My perspective on life became very dark when I was
+unknowingly recruited by one of his agents.  Jeffrey Epstein
+ruined me.  His recruiter ruined me.  The far-reaching
+consequences of that day ruined my family's lives.
+I've chosen to remain anonymous in order to protect my 
+family from unwanted media attention.   
+I was just trying to figure out my path in life when I 
+encountered Jeffrey Epstein in his New York City mansion.  I 
+cannot even begin to summarize the many detriments this 
+experience of sexual assault has had on my life.  Immediately 
+following the incident, I was unable to function and be around 
+other people.  My parents had to rescue me and bring me home, 
+where I became a recluse for years.   
+I was changed forever and buried my assault deep down, 
+where the darkness couldn't hurt me anymore, but of course, it 
+has always been here, lingering and affecting me unconsciously.  
+At the time, I was mired in shame, guilt and humiliation.  I 
+had somehow tricked myself into thinking that I had allowed the 
+assault to happen, that I did it to myself, that I don't 
+deserve to be alive or to be loved.  I believed that I was a 
+disgusting, shameful person who does not deserve to ever be 
+happy.  These are the thoughts I've lived with on a daily 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 65 of 86
+
+66
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+basis.   
+Furthermore, because I couldn't tell anyone, out of 
+fear of judgment, blame or retaliation, keeping this secret 
+completely hindered my ability to uncover why these issues 
+existed for me, which could have led to a path of healing over 
+the years.   
+It is time for those of power to do the right thing.  
+It is time for compassion toward our fellow human beings to 
+reign over money, power and greed.  We need to protect our most 
+vulnerable to allow them a chance at a normal life, and nothing 
+should come in the way of that.  I believe that for future 
+generations, including my own children, this case will set a 
+precedent that victims must no longer suffer in silence on our 
+own or be shamed for coming forward to seek protection.   
+This case should demonstrate to those who want to harm 
+others that there will be a reckoning, and they will pay dearly 
+for the harm they inflict on innocent people.  Judge Berman, I 
+thank you for from the bottom of my heart for this forum and 
+opportunity.   
+To all of those survivors who came before me, I 
+commend your bravery.  There is no way I could have done this 
+without you.   
+Thank you to the public following this story, for your 
+outrage and desire for answers, which will hopefully move this 
+case forward so that victims can stop having to relive their 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 66 of 86
+
+67
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RPEPS2                 
+experiences every day and move on to begin to heal.   
+God bless the victims, their families, the 
+investigators and public servants working so diligently to find 
+those answers and to right all these wrongs.  Jane Doe 7. 
+(Continued on next page) 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 67 of 86
+
+68
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+THE COURT:  Thanks very much.
+MS. GIBBS:  One more.  Statement of Jane Doe 8.
+In the past few weeks, I have had to reflect on my 
+interaction with Jeffrey Epstein and realized that, though I 
+have yet to put it all behind me, I am still a victim.  I say 
+this because I have to come to terms with it in an effort to 
+truly get past the abuse I suffered at the hands of Epstein. 
+Pursuing criminal penalties against him and having an
+opportunity to address the egregious crimes he committed
+against me and other young woman would have helped my recovery
+process.  This all came to an abrupt halt when he took his own
+life.  This point of disclosure is lost.
+I cannot say that I am pleased he committed suicide,
+but I am at peace knowing he will not be able to hurt anyone
+else.  However, a sad truth remains.  I, along with other
+people, will never have an answer as to why.  I will never have
+an apology for the wrongdoing.  And most importantly, Epstein
+will not be justly sentenced for his crimes.  Now I sit in my
+home questioning the well-being of those girls like myself.  In
+choosing death, Epstein denied everyone justice.
+Any efforts made to protect Epstein's name and legacy
+send a message to the victims that he wins and that he is
+untouchable.  I understand his case may be dismissed or closed,
+but this makes me feel as though I, and anyone else who fell
+pry to his hands, simply do not matter.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 68 of 86
+
+69
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+I ask that you very seriously consider the final
+decision, because it will undoubtedly affect all other facets
+of this case, including any future charges brought against the
+recruiters or third parties to his crimes.  I do not want the
+narrative to be, Those poor girls.  I want to send a message to
+anyone who would consider engaging in similar acts to think
+twice beforehand.  I want some sort of closure for those of us
+who relive those horrible moments where we were assaulted,
+abused, and taken advantage of by Epstein.
+You have the opportunity to help us seek that closure.
+I appreciate your time and consideration and ask for your
+continued support in dealing with this case to illustrate that
+we, Epstein's victims, do matter.
+Sincerely, Jane Doe 8. 
+On behalf of Lisa Bloom and The Bloom Firm, thank you,
+your Honor.
+THE COURT:  Thank you, Ms. Gibbs.
+Did we have any other victim's counsel or victims?
+Ms. Allred. 
+MS. ALLRED:  Good morning, your Honor.
+THE COURT:  Good morning.  How are you?
+MS. ALLRED:  Fine.  Thank you.
+Allred, Maroko & Goldberg by Gloria Allred,
+G-l-o-r-i-a A-l-l-r-e-d.
+Your Honor, thank you so much for this opportunity to
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 69 of 86
+
+70
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+afford the victims their voice, because many of them have never
+spoken before.  They never spoke in Florida.  They never spoke
+anywhere.  They never told their mother.  They never told their
+father.  They never told their family members.  This is an
+opportunity for them to be heard.  We thank you for that.
+Your Honor, for 43 years my firm has been the leading
+women's rights private law firm in the United States.  We have
+helped thousands of victims.  And I, as an officer of the
+court, and as a believer in the system, have tried to encourage
+the victims to have confidence in the system that should
+provide them access to justice that should help them to assert
+and vindicate their rights in a court of law.  It has been
+increasingly difficult in this case for me to say to my clients
+that they should have confidence in the system of justice given
+what has occurred in this case, People v. Jeffrey Epstein.  
+Having said that, I am encouraged by the fact that 
+this court, essentially, in an unprecedented situation where 
+the defendant is deceased, is still affording these victims an 
+opportunity to be heard.  So we thank you for that.  It is some 
+encouragement. 
+Your Honor, you also asked do our clients wish to be
+heard in reference to some of the issues that have been raised
+this morning, including what should happen into this case.
+Your Honor, there has been a suggestion that the court should
+investigate the circumstances of the death of Mr. Epstein.  I'm
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 70 of 86
+
+71
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+not going to repeat the arguments made by counsel, but I would
+say that if there is jurisdiction, and I know that is a legal
+issue which has been previously argued, that certainly it would
+increase the confidence of my clients.  Not just my clients,
+but victims all over, and some are, by the way, located in
+other parts of the world, to have the court oversee the
+investigation.
+We are encouraged by the sensitivity of the attorneys 
+for the United States Attorney's office for the Southern 
+District of New York and the investigation that is going on 
+with the separate team.  However, and, of course, the defense 
+is also conducting its own investigation.  But I do think the 
+greatest confidence would be if the court in some way would be 
+able to oversee an investigation because the court is a neutral 
+party.  And although the court certainly has a stake in finding 
+out what happened to defendants who are in the custody of the 
+federal system and who should be there to face the prosecutors 
+and the charges against them, but now are not because clearly 
+the system has failed. 
+And the United States Attorney has admitted that, and
+even before he admitted that, everybody knows the system
+failed.  Failed the victims, failed the court, failed everyone.
+In any event, your Honor, having seen so many
+thousands of victims of gender violence, sex harassment, sexual
+assault, I've dealt with child sex trafficking, child
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 71 of 86
+
+72
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+molesters, I mean, this is a unique case because there are so
+many victims and so many failures of the system.  At this
+point, what we would really ask for is not just words, but
+words have been helpful, but deeds, and that is very important.
+In addition, I would like to say, throughout this case
+is the running theme of the betrayal of trust.  Betrayal of
+trust by Jeffrey Epstein.  Betrayal of trust by the system.
+And betrayal of trust to the victims who had a right to
+justice.  And the Crime Victims' Act should not just be words,
+it should have meaning and it should be enforced.
+In essence, we are asking, although you may need to,
+of course, grant this motion to dismiss, I think because the
+court has shown sensitivity to victims and victims' needs, if
+there is a way to at least keep the record open so that victims
+who have not been able to be physically present in the
+courtroom today and who have not been able to submit to the
+court any letters, victim impact, and who have not been able to
+secure attorneys or speak to attorneys yet -- so, for example,
+I'll still hearing from victims who I have not been able to
+meet with yet because they just recently are now contacting
+me -- so if they could submit, at least for the record, their
+victim impact statements, that, I think, would be a very
+important assistance to them.  So that would be, at least they
+would know that what they are sharing is on the record.
+So, in summary, I would say that they are looking
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 72 of 86
+
+73
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+forward to the very serious investigation by the United States
+Attorney of who may have conspired in this case, and that is
+very hopeful, and we're hoping that everyone who may have a
+role to this criminal prosecution will submit that evidence.
+This is about power.  This is about many victims 
+having lived in fear -- fear of the rich, the powerful, the 
+famous, fear that the system will not afford them justice.  So 
+fear of not coming forward.  And fear, of course, is a weapon 
+that the rich, powerful, famous, and sexual predators used to 
+silence the victims.  But that is gone for a lot of victims 
+because they refuse to suffer in silence. 
+Finally, it does take courage to speak truth to power.
+We thank this honorable court for giving these victims a voice.
+We thank them, even after the death of the defendant, for
+showing respect for the victims, allowing them dignity,
+allowing them a voice.  We do want truth, we do want justice,
+we do want accountability, and we do want those conspirators to
+face the justice system.
+Your Honor, right now we have two of our clients who
+would like to address the court.
+THE COURT:  Sure.
+MS. ALLRED:  Then I have a couple of statements on
+victims who do not wish to address the court.
+As they come up, we'll give them the opportunity to
+say either their name or Jane Doe.  
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 73 of 86
+
+74
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+By the way, thank you, your Honor, for allowing some 
+of these victims to be called Jane Doe.  What number the court 
+affords to them, we'll accept whatever that is.   
+Thank you. 
+THE COURT:  We're up to nine.
+MS. ALLRED:  Thank you.
+MS. DAVIES:  Hello.  My name is Teala Davies.  That is
+T-e-a-l-a D-a-v-i-e-s.
+I was going to start this statement by saying that I
+was a victim of Jeffrey Epstein.  But that's not the case.  I'm
+still a victim of Jeffrey Epstein.  I'm still a victim because
+the fear of not being heard stopped me from telling my story
+for so many years.  This lingering fear almost stopped me from
+attending this monumental movement of strength and power.
+I'm still a victim because I am fearful for my 
+daughters and everyone's daughters.  I'm fearful for their 
+future in this world, where there are predators in power, a 
+world where people can avoid justice if their pockets run deep 
+enough. 
+I'm still a victim because the 17-year-old Teala was
+manipulated into thinking she had found someone who cared,
+someone who wanted to help.  Jeffrey knew I had nowhere to go.
+He knew I was vulnerable, and he took advantage of that poor
+girl, who will never be the same.
+I cannot eat at the thought that Jeffrey Epstein -- I
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 74 of 86
+
+75
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+cannot eat at the thought of Jeffrey Epstein not serving the
+time he needed to realize the pain and suffering he caused so
+many vulnerable young girls.  He thought he was untouchable,
+and honestly, so did I.  I thought he was the most powerful
+person I would ever meet.
+But the end is here and here I stand becoming more 
+powerful than he will ever be.  Thank you. 
+THE COURT:  Thank you.
+JANE DOE:  Jane Doe.
+Um, in 2004, when I was 15 years old, I flew on
+Jeffrey Epstein's plane to Zorro Ranch, where I was sexual
+molested by him for many hours.  What I remember most vividly
+was him explaining to me how beneficial the experience was for
+me and how much he was helping me to grow.  Yikes.
+I remember feeling so small and powerless, especially 
+after he positioned me by laying me on his floor so that I was 
+confronted by all the framed photographs on his dresser of him 
+smiling with wealthy celebrities and politicians.   
+After he finished with me, he told me to describe in 
+detail how good my first sexual experience felt.  That was the 
+first of many lies I was forced to carry for him, the weight of 
+which proliferated my trauma.  I felt powerless not merely 
+because one man wanted to strip me of my innocence, but because 
+I was the victim of a system that just enfranchises human 
+beings, making them vulnerable to pedophilic exploitation. 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 75 of 86
+
+76
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+As unjust as what happened to me was, I believe that
+experience to be a symptom of insidious and pathological
+violence that extreme wealth yields, a violence which
+ultimately stays hidden through channels of extreme power that
+serve it.
+I first identified with this feeling the night after I 
+was molested by Epstein, when another girl and I took out two 
+of his ATVs and raised them across the mesa.  I crashed mine 
+and expressed my concern to the other girl of getting in 
+trouble, which she replied to me, Don't worry, no one gets in 
+trouble for anything here. 
+Even as a child, I understood, in a sad and precocious
+way, what I hoped we have the ability of changing now.  Even
+though Epstein is dead, there is still justice to be brought
+for the crimes we felt powerless against concealing for him and
+the system that supported him for all these years.
+Thank you.
+THE COURT:  You're very welcome.
+MS. ALLRED:  Thank you.
+Your Honor, may it please the court.  I would like to
+read a statement for Jane Doe, my client, who is present in
+court, but requested that I read it.
+We only have one opportunity at childhood.  One
+opportunity to develop.  One opportunity to find direction for
+our lives.  Jeffrey Epstein robbed and denied me at each
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 76 of 86
+
+77
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+opportunity he had.
+I came from a small Texas town, not far from the New 
+Mexico border.  My mother died when I was 11, after suffering 
+from cancer for many years.  My father was devastated, as were 
+my siblings and I.  My father was saddled with debt.  My only 
+hope for college was to get a scholarship.   
+When I was 15, I was a blossoming freshman in high 
+school and was trying to carry on my mother's dream.  She 
+wanted me to master the violin.  After school, I would often go 
+to a mall in a nearby city.  A lady approached me and saw I had 
+a violin case with me and asked if I was any good.  We talked 
+about the violin, my family, and why I had clothes that looked 
+like hand-me-downs.   
+The lady told me she works for a very rich man who had 
+a home close by and that he would pay to hear me play.  I was 
+told that if I could get away, she could arrange for 
+transportation to and from his place and have me back before 
+anyone knew I was gone.  After some hesitation, I agreed.  This 
+decision was the beginning of the end of my childhood. 
+The man who only identified himself as J or Jeff had
+asked if I would give him a massage, and over four visits,
+eventually progressed to forced oral copulation.  The money he
+gave me further placed my young soul into a perverse sense of
+hell.
+I was so utterly disgusted with myself and what he did 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 77 of 86
+
+78
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+to me that I stopped going to see him.  I had documented the 
+events with a Texas rape crisis center about the man I know now 
+as Jeffrey Epstein. 
+Epstein targeted and took advantage of me, a young
+girl, whose mother had recently died a horrific death and whose
+family structure had deteriorated.  His actions placed me, a
+young girl, into a downward spiral to the point where I
+purchased a gun and drove myself to an isolated place to end my
+suffering.
+A voice that could only have been from my mother told
+me, quote, I am not the victim, I am the victor, and I dare not
+pull the trigger." I returned the gun days later.
+Epstein is a coward.  He lived his life leaching off
+the souls of inspiring, young girls due to the fact that he
+could never know how it feels inspired to live.  Like a leach,
+once Epstein had his fill, he would unlatch and seek out
+another victim.
+The only sense of justice I had hoped to see was 
+Epstein being sentenced.  However, Epstein died as he lived, 
+taking the easy way out without any responsibility. 
+Your Honor, the next statement is also a statement of
+a Jane Doe.  May it please the court.
+I was a 16-year-old virgin when Jeffrey Epstein first
+raped me.  I was naive and gullable.  He was a pillar of
+finance and a giant in the world that I was an insignificant
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 78 of 86
+
+79
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+part of.  I was so impressed that this great man would even
+talk to me and impart any of his wisdom on me.  I gladly jumped
+at the chance to meet him again, when he told me how impressed
+he was with my personal story and maturity for my age.
+When I was in his presence, he made an effort to call 
+celebrities and influential people on speakerphone, like 
+Academy Award-winning actresses and super models, who always 
+answered his calls.  Sadly, I was impressed.   
+He was friends with former and future heads of states 
+and every other fixture in the New York social scene and 
+beyond.  He knew important people in my own world that I looked 
+up to and revered, but he spoke about them like they were sweet 
+distractions far beneath his stature.  He could easily reach 
+down from his position and influence the people directly 
+involved with my daily life and future prosperity.  I was the 
+perfect victim. 
+My whole life was extremely turbulent.  But one of my
+mother's greatest wishes was that all her children would
+graduate from respectable universities.  He promised me that he
+would write me a letter of recommendation for Harvard if I got
+the grades and scores needed for admission.  His word was worth
+a lot, he assured me, as he was in the midst of funding and
+leading Harvard's studies on the human brain, and the president
+was his friend.
+The fact that all of you already know these next
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 79 of 86
+
+80
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+details, which I'll share, should ignite fire instead of induce
+the complacency they did in the past, when heard repeatedly
+over the years, but yes, an innocent massage turned sexual
+almost immediately.
+"Here, come.  Come help me with a kink in my shoulder
+while we finish our discussion."  A large vibrator and a couple
+of hundred dollars, disgust and dirty secret, more praise and
+imparted wisdom from a godlike figure, a deliberate diabolical
+depression of grooming and submission for his pleasure and
+release.  Even if I resisted, I was no match for him.  I felt
+powerless, ashamed, and embarrassed.  I wanted to vomit
+remembering these moments.
+What I learned in those depraved sessions, staring up
+at the dome ceiling in his private massage room, tore a violent
+hole through any normal sexual awakening.  I'm haunted forever,
+having learned everything there is to know about sex through a
+vile criminal.  Every time a new molestation would bring a new
+lesson, the progressive and constant unwinding.  I was nothing
+more than a teenage prostitute.  I was his slave.
+I had never even kissed a boy before I met him, and
+never throughout the horrific abuse did Jeffrey Epstein kiss me
+even once.  When he stole my virginity, he washed my entire
+body compulsively in the shower and then told me, "If you're
+not a virgin, I will kill you."  And then I wasn't a virgin
+anymore.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 80 of 86
+
+81
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+He forcefully penetrated me.  I was numb.  There was
+pain, but his use of the vibrator and his fingers in previous
+sessions with me had left a black hole-like void between my
+legs.  I protested, but he forced my face into the bed to
+stifle my cries.  That was my first time.
+I got a few hundred dollars, as usual, as he led me
+out of his mansion with assurances that I was on the right path
+guided by him.  I lied to myself and tried to believe him.  I
+became a hollow shell.  If I missed an appointment, he
+threatened me and let me know who was in charge. "Do you know
+how important my time is?  I'll bury you.  I owe this -- I
+won't say the word -- F'ing town."  He would hang up.
+I would stand there frozen in the street, terrified 
+that his assistant would call to reschedule.  I made sure to 
+stay in line and not disobey him.  I was in complete denial.  
+Being paid after every scheduled meeting felt routine and 
+disgusting.  He was the master of the universe and the world 
+bent to his will.   
+He would eventually brag to his assistants about my 
+ability to please him sexually right in front of me, leaving me 
+feeling grotesque and worthless.  Everything in my outside life 
+was falling apart.  I distanced myself from friends and grew 
+further away from my family.  I felt less human after each 
+ordeal.  My psyche broke down completely and wouldn't let me 
+continue.   
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 81 of 86
+
+82
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+One day I walked out of his residence and passed a 
+girl similar to myself.  When I turned around, she was entering 
+Jeffrey's residence.  He no longer even tried to schedule his 
+appointments with other girls in secrecy from me.  Maybe he 
+never did.  I was too stupid to see. 
+My world shattered.  I had been so naive.  I had an
+epiphany in a calvary of desperation.  I realized I was just
+one of many young girls he had in rotation come to perform for
+him for money.  I went into a deep depression and never lifted
+completely.  I wanted to inflict pain on myself.  I was
+humiliated, angry, and suicidal.  I locked myself away from
+everything.  I cut myself off forever from the world I had
+known.
+I endured the daily agony of knowing my life would
+never be the same.  I could never go back to New York City and
+the wonderful life I had taken for granted before I met this
+demon named Jeffrey Epstein.
+This creature had manipulated and outwitted the whole
+system, including some of the most intelligent scientists,
+political people, prosecutors, and power players.  How easy was
+it to manipulate a 16-year-old virgin who never had a boyfriend
+and came from a background of hardship with no parental
+guidance or support.
+I went to therapy and was given antidepressants for 
+severe anxiety and depression.  My only solace, years later, 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 82 of 86
+
+83
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+was my desire to succeed on my own terms.  I emersed myself 
+into my studies and was accepted to every college I applied to, 
+graduating from a top university.  To this day, there is still 
+an ache in my being that I did not apply to Harvard in fear of 
+his influence there.   
+They say you never forget your first.  I'm in a 
+never-ending nightmare trying to do just that.  I'm forever 
+suffering because everything reminds me of that horror.  This 
+new wave of worldwide publicity only worsens my despair.   
+It was only many years later that I was finally 
+intimate with a man again, and those moments were marred by my 
+actions as a child with Jeffrey Epstein.  Even now is 
+impossible to separate his treachery from any care of a good 
+man.   
+For one brief moment there was elation when he was 
+recently arrested.  I would finally get my chance to see him 
+again face to face and show him what I had become, that I had 
+succeeded on my own, that I was worth something in spite of his 
+abuse, and that I had surmounted the monumental obstacles he 
+laid before me throughout my entire life since falling prey to 
+him.   
+I had hoped humanity would prevail, but it seems to me 
+that he outsmarted everyone so far, and his ghost is still 
+laughing at us.  I appeal to all of those just and true that 
+his evil legacy and his death not stand in the way of 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 83 of 86
+
+84
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+resolution and justice for all of his underaged victims. 
+Thank you, your Honor.
+And then just one last one, and this is much shorter.
+Statement of Jane Doe, also my client.
+I was a model in another country when I came to the
+United States.  I was told by a booker that I needed to meet
+with a man named Jeffrey Epstein, who was the owner of
+Victoria's Secret.  The booker told me that Mr. Epstein could
+help me get into Victoria Secret's world.
+It was my childhood dream to be a Victoria's Secret 
+model.  So I went one day in the afternoon and I met 
+Mr. Epstein in his office in his mansion in New York.  A woman 
+introduced herself and suggested to me that I should be 
+extremely nice to Mr. Epstein, because if he liked me, he would 
+probably have photographers shooting photos of me right away.   
+The told me to go upstairs and directed me to Jeffrey 
+Epstein's office.  Mr. Epstein had a white robe on and we 
+chatted very briefly.  I had my portfolio of photos, but he 
+didn't even look at it.  Suddenly, he took his robe off and got 
+close to me.  I got up to leave, but the door was locked.   
+I didn't know what was going on.  It was my first 
+official meeting to be cast in the United States.  I was a 
+young girl and confused.  He got very close to me, and I had a 
+skirt on.  He started to touch my genitals.  I refused him.  
+Then he went to the massage table and showed me the vibrator.  
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 84 of 86
+
+85
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+I took it and threw it at him.   
+At that point, I ran to the door again and figured out 
+how to get out of there.  A girl outside asked me where I was 
+going and she said to be careful.  She said that Mr. Epstein 
+knew a lot of powerful people, including Bill Clinton, and that 
+if I didn't do what Mr. Epstein wanted, I would not be able to 
+have any job in the industry. 
+I was so scared.  I couldn't wait to get out of there,
+and I left.  I took the train home.  I had spent all of my
+savings getting Victoria's Secret lingerie to prepare for what
+I thought would be my audition.  But instead, it seemed like a
+casting call for prostitution.  I felt like I was in hell.
+Thank you, your Honor.
+Thank you.
+THE COURT:  Thank you, Ms. Allred.
+Was there anybody else, any victim's counsel or any of 
+the other victims who have not been heard and wish to be heard? 
+Well, OK then.  All I have to say, really, is thank
+you, all of you, for your participation in today's remarkable
+hearing.  I think everybody has benefited greatly from your
+input, and especially from the testimony of victims here today
+and who have had the courage to come forward.
+We have also benefited throughout these proceedings,
+however brief altogether, from the attorneys' legal advocacy
+and their written and oral submissions.  I'm grateful to them
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 85 of 86
+
+86
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+J8RsEPS3                       
+as well, both for the government and the defense and those
+representing the victims.
+Finally, we're also grateful to the press for their
+very diligent coverage of seemingly every detail of this case.
+That concludes our work for today and we stand 
+adjourned. 
+Thanks.
+(Adjourned)
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 53     Filed 09/03/19     Page 86 of 86

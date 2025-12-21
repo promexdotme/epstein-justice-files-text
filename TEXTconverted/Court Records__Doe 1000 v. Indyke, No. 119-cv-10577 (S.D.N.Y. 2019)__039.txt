@@ -1,0 +1,1003 @@
+METADATA_SOURCE: Court Records\Doe 1000 v. Indyke, No. 119-cv-10577 (S.D.N.Y. 2019)
+METADATA_FILENAME: 039.pdf
+----------------------------------------
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ 
+ 
+JANE DOE 1000, 
+ 
+ 
+ 
+Plaintiff, 
+ 
+ 
+ 
+ 
+CASE NO: 19-cv-10577-LJL 
+ 
+ 
+v. 
+ 
+DARREN K. INDYKE and RICHARD D. KAHN,  
+in their capacities as the executors of the  
+ESTATE OF JEFFREY EDWARD EPSTEIN, 
+ 
+ 
+ 
+ 
+Defendants. 
+ 
+_____________________________________  
+ 
+ 
+ 
+PLAINTIFF’S MEMORANDUM OF LAW IN OPPOSITION TO 
+DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S COMPLAINT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 1 of 32
+
+ii 
+TABLE OF CONTENTS 
+PRELIMINARY STATEMENT .................................................................................................... 1 
+STATEMENT OF FACTS ............................................................................................................. 2 
+ARGUMENT .................................................................................................................................. 4 
+I. Defendants Have Not Met Their Burden of Proving that Plaintiff’s Claims Are Untimely. .... 5 
+A. Plaintiff’s Claims Are Timely Under N.Y. C.P.L.R. § 215(8)(a). ...................................... 5 
+1. The Indictment Was Not Restricted to Minors. ............................................................ 6 
+2. Plaintiff’s Claims Concern the Same Sex-Trafficking Operation that the Indictment 
+Concerned. .................................................................................................................... 7 
+3. Defendants’ Attempts to Narrow the Scope of C.P.L.R. § 215(8)(a) Fail. ................... 9 
+B. Plaintiff’s Claims are Timely Pursuant to N.Y. C.P.L.R. § 213-c .................................... 11 
+C. Defendants Have Not Met Their Burden of Proving that Plaintiff Cannot Invoke 
+Equitable Estoppel. ........................................................................................................... 14 
+D. Defendants Have Not Met Their Burden of Proving that Plaintiff Cannot Invoke 
+Equitable Tolling. ............................................................................................................. 17 
+II. The Court Should Deny the Defendants’ Motion to Dismiss Punitive Damages. .................. 18 
+A. Defendants’ Motion to Dismiss Punitive Damages is Procedurally Improper. ................ 19 
+B. Plaintiff May Recover Punitive Damages in this Case. .................................................... 19 
+1. The Law of the Virgin Islands for Punitive Damages Governs Under New York’s 
+Choice-of-Law Principles. .......................................................................................... 20 
+2. Virgin Islands Law Would Allow for Punitive Damages against Defendants in this 
+Case. ............................................................................................................................ 22 
+a. Banks Factor One: Whether Any Virgin Islands Courts Have Adopted a Rule ... 22 
+b. Banks Factor Two: The Position Taken by a Majority of Courts from Other 
+Jurisdictions .......................................................................................................... 23 
+c. Banks Factor Three: The Soundest Rule for the Virgin Islands ........................... 24 
+CONCLUSION ............................................................................................................................. 25 
+ 
+ 
+ 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 2 of 32
+
+iii 
+TABLE OF AUTHORITIES 
+Cases 
+Amusement Indus., Inc. v. Stern, 
+693 F. Supp. 2d 301 (S.D.N.Y. 2010) ..................................................................................... 19 
+Ashcroft v. Iqbal, 
+556 U.S. 662 (2009) .................................................................................................................. 4 
+Babcock v. Jackson, 
+191 N.E.2d 279 (N.Y. 1963) ................................................................................................... 20 
+Banks v. Int’l Rental & Leasing Corp., 
+55 V.I. 967 (V.I. 2011) ..................................................................................................... 22, 25 
+Brown v. Parkchester S. Condos., 
+287 F.3d 58 (2d Cir. 2002)...................................................................................................... 18 
+Burrows v. Bd. of Assessors for Town of Chatham, 
+98 A.D.2d 250 (3d Dep’t 1983), aff’d, 473 N.E.2d 748 (N.Y. 1984) ..................................... 14 
+Childers v. New York & Presbyterian Hosp., 
+ 
+36 F. Supp. 3d 292 (S.D.N.Y. 2014) ............................................................................. 5, 16, 18 
+Christodoulou v. Terdeman, 
+262 A.D.2d 595 (2d Dep't 1999) ......................................................................................... 9, 10 
+CIT Bank N.A. v. Schiffman, 
+948 F.3d 529, 537 (2d Cir. 2020), certified question accepted, No. 36, 2020 WL 729773 
+(N.Y. Feb. 13, 2020) ............................................................................................................... 25 
+Clemens v. Nealon, 
+202 A.D.2d 747 (3d Dep’t 1994) .............................................................................................. 5 
+Coffman v. Coffman, 
+60 A.D.2d 181 (2d Dep’t 1977) .............................................................................................. 14 
+Crabtree ex. Rel. Kemp v. Estate of Crabtree, 
+837 N.E.2d 135 (Ind. 2005) .................................................................................................... 24 
+Davis v. Jackson, 
+No. 15-cv-5359, 2016 WL 5720811 (S.D.N.Y. Sept. 30, 2016) ............................................ 17 
+Ellis v. Zuck, 
+546 F.2d 643 (5th Cir. 1977) .................................................................................................. 23 
+Estate of Farrell ex rel. Bennett v. Gordon, 
+770 A.2d 517 (Del. 2001) ....................................................................................................... 23 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 3 of 32
+
+iv 
+Flight Sci., Inc. v. Cathay Pac. Airways Ltd., 
+647 F. Supp. 2d 285 (S.D.N.Y. 2009) ..................................................................................... 17 
+Funk v. Belneftekhim, 
+No. 14-cv-0376, 2019 WL 3035124 (E.D.N.Y. July 11, 2019) .............................................. 15 
+Gallina v. Thatcher, 
+No. 2017-52980, 2018 N.Y. Misc. LEXIS 8435 (Sup. Ct. Oct. 23, 2018) ......................... 9, 10 
+Gen. Stencils, Inc. v. Chiappa, 
+219 N.E.2d 169 (N.Y. 1966) ................................................................................................... 15 
+Gotlin v. Lederman, 
+No. 05-CV-1899 (ILG), 2006 WL 1154817 (E.D.N.Y. Apr. 28, 2006) ................................. 16 
+Gov’t of the V.I. v. Connor, 
+60 V.I. 597 (V.I. 2016) ..................................................................................................... 22, 24 
+Guardian Ins. Co. v. Gumbs, 
+No. ST-15-CV-195, 2016 WL 9525609 (V.I. Super. Aug. 22, 2016) .................................... 25 
+Guobadia v. Irowa, 
+103 F. Supp. 3d 325 (E.D.N.Y. 2015) .................................................................................... 18 
+Hamilton v. Dowson Holding Co., 
+51 V.I. 619 (Super. Ct. 2009).................................................................................................. 23 
+Haralson v. Fisher Surveying, Inc., 
+31 P.3d 114 (Ariz. 2001)......................................................................................................... 23 
+Harris v. City of New York, 
+186 F.3d 243 (2d Cir. 1999)...................................................................................................... 5 
+Hofer v. Lavender, 
+679 S.W.2d 470 (Tex. 1984) ................................................................................................... 23 
+Hunter v. Palisades Acquisition XVI, 
+No. 16 Civ. 8779 (ER), 2017 WL 5513636 (S.D.N.Y. Nov. 16, 2017) ................................. 19 
+In re Gleason (Michael Vee, Ltd.), 
+749 N.E.2d 724 (2001)............................................................................................................ 13 
+In re S. African Apartheid Litig., 
+617 F.Supp.2d 228 (S.D.N.Y. 2009) ....................................................................................... 18 
+Kaopuiki v. Kealoha, 
+87 P.3d 910 (Haw. Ct. App. 2003) ......................................................................................... 23 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 4 of 32
+
+v 
+Kashef v. BNP Paribas S.A., 
+925 F.3d 53 (2d Cir. 2019)........................................................................................ 4, 7, 10, 11 
+Klaxon Co. v. Stentor Elec. Mfg. Co., 
+313 U.S. 487 (1941) ................................................................................................................ 20 
+Kosakow v. New Rochelle Radiology Assocs., P.C., 
+274 F.3d 706 (2d Cir. 2001).................................................................................................... 16 
+McElligott v. City of New York, 
+15-cv-7107, 2017 WL 6210840 (S.D.N.Y. Dec. 7, 2017) ...................................................... 10 
+McGuirk v. City Sch. Dist. of Albany, 
+116 A.D.2d 363 (3d Dep’t 1986) ............................................................................................ 12 
+Meegan S. v. Donald T., 
+475 N.E.2d 449 (N.Y. 1984) ............................................................................................. 12, 14 
+Nat’l Jewish Democratic Council v. Adelson, 
+No. 18 Civ. 8787 (JPO), 2019 WL 4805719 (S.D.N.Y. Sept. 30, 2019) .......................... 20, 21 
+Okyere v. Palisades Collection, LLC, 
+961 F. Supp. 2d 522 (S.D.N.Y. 2013) ..................................................................................... 19 
+Ortiz v. Cornetta, 
+867 F.2d 146 (2d Cir. 1989)...................................................................................................... 5 
+Padula v. Lilarn Prop. Corp., 
+644 N.E.2d 1001 (N.Y. 1994) ................................................................................................. 20 
+Pappas v. Hotel on the Cay Time-Sharing Ass’n, Inc., 
+69 V.I. 3 (V.I. Super. 2015) .................................................................................................... 22 
+Perry v. Melton, 
+299 S.E.2d 8 (W. Va. 1982) .................................................................................................... 23 
+Schultz v. Boy Scouts of Am., Inc., 
+65 N.Y.2d 189 (1985) ............................................................................................................. 21 
+Tillett v. Lippert, 
+909 P.2d 1158 (Mont. 1996) ................................................................................................... 23 
+Statutes 
+22 U.S.C. § 7102 ............................................................................................................................. 9 
+N.Y. Penal Law § 130.35 .............................................................................................................. 12 
+N.Y. Penal Law § 130.50 .............................................................................................................. 12 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 5 of 32
+
+vi 
+Rules 
+Fed. R. Civ. P. 12 .......................................................................................................................... 19 
+N.Y. C.P.L.R. § 201 ...................................................................................................................... 13 
+N.Y. C.P.L.R. § 213-c ............................................................................................................ passim 
+N.Y. C.P.L.R. § 215 ............................................................................................................... passim 
+Other Authorities 
+Brief of Defendants-Appellees, Kashef v. BNP Paribas S.A., 
+No. 18-1304 (2d Cir. Aug. 9, 2018), Dkt. 92 .......................................................................... 10 
+Complaint, GVI v. Estate of Jeffrey E. Epstein, 
+No. ST-20-CV-014 (V.I. Sup. Ct. Jan. 15, 2020) ................................................................... 21 
+N.Y. Comm. Rep., 2019 N.Y. S.B. No. 6574, 242nd Legis. Sess. (June 17, 2019) ..................... 13 
+Transcript of Pre-motion Conference, Farmer v. Indyke, et al., 
+No. 19-cv-10475 (LGS) (S.D.N.Y. Mar. 5, 2020), Dkt. 39 .................................................... 17 
+ 
+ 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 6 of 32
+
+ 
+1 
+ 
+Plaintiff Jane Doe 1000, by and through her undersigned attorneys, respectfully submits 
+this Memorandum of Law in Opposition to the Defendants’ Motion to Dismiss Plaintiff’s 
+Complaint.1   
+PRELIMINARY STATEMENT 
+For decades, Jeffrey Epstein and his co-conspirators recruited countless young women to 
+his homes in New York, Florida, and elsewhere, and forced them to give him massages that 
+escalated into sexual assault.  Plaintiff Jane Doe 1000 was just one of many victims that Epstein 
+and his co-conspirators recruited to be a part of their sex-trafficking operation when she was a 
+young woman.  Epstein continuously offered to help Jane Doe with her career, but instead sexually 
+abused her for years. 
+Defendants contend that Jane Doe’s claims are untimely, but wholly ignore the burden that 
+they bear and which they have failed to meet.  First, Jane Doe’s claims are timely under N.Y. 
+C.P.L.R. § 215(8)(a), which provides that when a criminal action is commenced with respect to 
+the same event or occurrence that gives rise to a plaintiff’s civil claims, the plaintiff has at least 
+one year from the termination of the criminal action to file a civil action.  Second, Jane Doe’s 
+claims are timely under N.Y. C.P.L.R. § 213-c, which provides victims of rape or other delineated 
+criminal sexual acts with 20 years to bring a civil action against the perpetrator.  Third, Defendants 
+have failed to meet their burden of showing that Jane Doe will be unable to invoke equitable 
+estoppel and equitable tolling.  Finally, Defendants’ motion to “dismiss” Jane Doe’s demand for 
+punitive damages is not only procedurally improper, but incorrect—punitive damages are available 
+under U.S. Virgin Islands law.  The Court should deny Defendants’ motion to dismiss in full. 
+                                                 
+ 
+ 
+1  
+Plaintiff respectfully requests oral argument pursuant to Individual Rule 2.K.   
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 7 of 32
+
+2 
+STATEMENT OF FACTS 
+Plaintiff Jane Doe 1000’s story echoes the stories of many other victims of Jeffrey Epstein.  
+Jane Doe grew up in extreme poverty and her mother had been homeless at various times 
+throughout her childhood.  Compl. ¶ 37.  Jane Doe did modeling work as a young woman, and 
+after seeing her picture, a man contacted her to ask if she would like to meet someone with 
+connections to various modeling opportunities—Jeffrey Epstein.  Id. ¶ 38.  Because Jane Doe was 
+struggling financially and aspired to be a successful model, Jane Doe agreed to meet Epstein at his 
+New York mansion.  Id.  When they met, Epstein bragged about his friendship with Leslie Wexner, 
+the chief executive of Victoria’s Secret, and offered Jane Doe a modeling job with the lingerie 
+retailer.  Id. ¶ 39.  After identifying Jane Doe’s vulnerabilities, Epstein moved her into his 
+apartment building on 66th Street, where he provided housing to other victims.  Id. ¶ 40.   
+Epstein soon began sexually abusing Jane Doe.  Ghislaine Maxwell, Epstein’s head 
+recruiter, and other recruiters would call Jane Doe several times a week and direct her to give 
+Epstein massages at his New York mansion.  Id. ¶ 40.  Consistent with Epstein’s pattern of abuse 
+of countless other victims, Epstein forced Jane Doe to engage in sex acts during the massages, 
+including by making her use sex toys.  Id. ¶¶ 40–41.  Epstein also flew Jane Doe to his mansion in 
+Palm Beach, Florida, for additional sexual massages.  Id. ¶ 42. 
+Jane Doe’s final encounter with Epstein was particularly harrowing.  On that day, Epstein 
+called Jane Doe to his New York mansion, and when she arrived, Maxwell led her upstairs to 
+Epstein’s master bedroom.  Id. ¶ 46.  Sex toys had been laid out on the bed prior to Jane Doe’s 
+arrival.  Id.  Epstein and Maxwell then simultaneously sexually assaulted Jane Doe by force, and 
+Maxwell penetrated Jane Doe with a sex toy.  Id.  The encounter left Jane Doe distraught and 
+terrified.  She moved out of the 66th Street apartment building and, having nowhere else to go, 
+moved into a Salvation Army housing facility.  Id. 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 8 of 32
+
+3 
+Epstein and his co-conspirators used displays of wealth and power to manipulate, scare, 
+and control their victims.  Id. ¶¶ 3, 27, 44.  For example, after recruiting victims, Epstein and his 
+co-conspirators made sure that victims saw photographs of Epstein with powerful political and 
+social figures and noticed the opulence of his homes.  Id. ¶ 27.  These tactics were meant to ensure 
+that victims knew that there would be consequences if they did not comply with Epstein’s demands 
+or if they reported their abuse to the authorities or the media.  Id.  
+Unsurprisingly, Epstein and his co-conspirators used these tactics on Jane Doe.  Knowing 
+that Jane Doe had struggled financially, Epstein provided her with housing to ensure that she 
+remained loyal to and dependent on him.  Id. ¶ 40.  He also constantly touted his relationship with 
+Wexner and Victoria’s Secret because he knew about her aspirations, and he promised her 
+modeling opportunities every time he abused her.  Id. ¶¶ 39, 45.  Epstein made it so that without 
+him, Jane Doe was homeless, jobless, and without any career prospects.  On one occasion, Epstein 
+forced Jane Doe to meet with a prominent lawyer and law professor, who gathered personal 
+information about her that Epstein later used against her to intimidate her and to keep her quiet.  
+Id. ¶ 43. 
+After decades of escaping appropriate punishment for his extraordinarily far-reaching and 
+disturbing crimes, Epstein was indicted in July 2019 on one count of sex-trafficking conspiracy 
+and one count of sex trafficking.  Compl., Ex. A (the “Indictment”).  The Indictment focused on 
+Epstein’s recruitment of victims to his New York and Palm Beach homes to provide him with 
+massages that became sexual in nature.  Indictment ¶ 7.  The Indictment specifically described 
+how Epstein recruited victims who “were, for various reasons, often particularly vulnerable to 
+exploitation” to come to his New York and Florida mansions to give him massages.  Id. ¶¶ 3, 9, 
+15.  During the massage, Epstein “would escalate the nature and scope of physical contact with his 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 9 of 32
+
+4 
+victims to include, among other things, sex acts such as groping and direct and indirect contact 
+with the victim’s genitals” with his hands or sex toys.  Id.  ¶¶ 9, 15.  Afterwards, Epstein and his 
+associates would continue to contact victims to schedule appointments for additional sexual 
+encounters so that he could continue to abuse them.  Id. ¶ 11, 17.  This pattern described in the 
+Indictment matches Jane Doe’s experience and the experiences of countless other victims. 
+On August 8, 2019, shortly after Epstein’s Indictment, Epstein executed his last will and 
+testament, naming Defendants the executors of his Estate.  Compl. ¶ 30.  Two days later, Epstein 
+was found dead in his jail cell.  Id. ¶ 31.  His last will and testament was filed in the U.S. Virgin 
+Islands on August 15, 2019.  Id. ¶ 32.  The U.S. Attorney’s Office submitted a proposed nolle 
+prosequi order and Judge Richard M. Berman dismissed the indictment on August 29, 2019.  
+Id. ¶ 36.  Plaintiff filed her Complaint shortly thereafter, on November 14, 2019. 
+ARGUMENT 
+Defendants’ motion to dismiss Plaintiff’s claims and Plaintiff’s request for punitive 
+damages should be denied.  “To survive a motion to dismiss, a complaint must contain sufficient 
+factual matter, accepted as true, to state a claim to relief that is plausible on its face. . . . A claim 
+has facial plausibility when the plaintiff pleads factual content that allows the court to draw the 
+reasonable inference that the defendant is liable for the misconduct alleged.”  Ashcroft v. Iqbal, 
+556 U.S. 662, 678 (2009) (internal quotation marks omitted).  The Court must “accept[] all factual 
+allegations in the complaint as true and draw[] all reasonable inferences in the plaintiff’s favor.”  
+Kashef v. BNP Paribas S.A., 925 F.3d 53, 58 (2d Cir. 2019). 
+Drawing all reasonable inferences in Plaintiff’s favor, Defendants have failed to meet their 
+burden of proving that Plaintiff’s claims for battery and intentional infliction of emotional distress 
+are untimely.  Further, Defendants’ argument that the Court should dismiss punitive damages from 
+the Complaint is both procedurally improper and substantively incorrect. 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 10 of 32
+
+5 
+I. 
+Defendants Have Not Met Their Burden of Proving that Plaintiff’s Claims 
+Are Untimely. 
+Because the statute of limitations is an affirmative defense, Defendants bear the burden of 
+proving that Plaintiff’s claims are untimely.  Childers v. New York & Presbyterian Hosp., 36 
+F. Supp. 3d 292, 301 (S.D.N.Y. 2014).  A motion to dismiss based on timeliness “should not be 
+granted unless it appears beyond doubt that the plaintiff can prove no set of facts in support of his 
+claim which would entitle him to relief.”  Ortiz v. Cornetta, 867 F.2d 146, 148 (2d Cir. 1989) 
+(internal quotation marks and citation omitted).  Accordingly, “dismissal is appropriate only if a 
+complaint clearly shows the claim is out of time.”  Harris v. City of New York, 186 F.3d 243, 250 
+(2d Cir. 1999).  In this case, Plaintiff’s factual allegations demonstrate that (A) her claims are 
+timely under N.Y. C.P.L.R. § 215(8)(a), (B) her claims are timely under C.P.L.R. § 213-c, 
+(C) Defendants are equitably estopped from asserting a statute of limitations defense, and (D) the 
+limitations period for bringing her claims was equitably tolled. 
+A. 
+Plaintiff’s Claims Are Timely Under N.Y. C.P.L.R. § 215(8)(a). 
+Plaintiff’s claims fall squarely within N.Y. C.P.L.R. § 215(8)(a), which allowed Plaintiff 
+to file her complaint within a year of the Indictment’s dismissal.  That provision provides that:  
+Whenever it is shown that a criminal action against the same defendant has been 
+commenced with respect to the event or occurrence from which a claim . . . arises, 
+the plaintiff shall have at least one year from the termination of the criminal 
+action . . . in which to commence the civil action . . . . 
+Id.  Section 215(8)(a)’s one-year limitations period has three requirements: “(1) a criminal action 
+has been commenced, (2) against the same defendants, and (3) concerning the same event or 
+transaction from which the civil action arose.”  Clemens v. Nealon, 202 A.D.2d 747, 749 (3d Dep’t 
+1994).  Because Plaintiff filed the Complaint within one year of the termination of the Indictment, 
+her claims are timely.   
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 11 of 32
+
+6 
+Defendants’ only argument to the contrary is that the Indictment did not concern the same 
+event or transaction from which Plaintiff’s civil action arose because the Indictment targeted, 
+according to Defendants, some separate sex trafficking operation that only involved underage girls.  
+Defs.’ Mem. at 5 (“Plaintiff does not allege she was a minor when Decedent sexually assaulted 
+her in or around 1999.  Therefore, this action and the Indictment arise from different 
+occurrences.”).  But Defendants mischaracterize § 215(8)(a), the applicable case law, Plaintiff’s 
+Complaint, and, most egregiously, the vast sex-trafficking operation that the Indictment targeted.   
+1. 
+The Indictment Was Not Restricted to Minors. 
+As an initial matter, the Indictment covered the crimes Defendants committed against 
+Plaintiff, notwithstanding the fact that she did not allege that she was a child when they occurred.  
+Defendants seek to minimize the scope of the abuse alleged in the Indictment by focusing on its 
+reference to “minors.”  Defs.’ Mem. at 5.  But clinging to the use of the word “minors” does not 
+change the nature of the vast and sophisticated operation alleged in the Indictment.  Epstein’s 
+pattern and practice was to recruit and traffic young females with vulnerabilities that he knew he 
+could exploit, and the Indictment spells out that pattern in detail.  Age is not the deciding factor as 
+to whether a female was a victim of the sex-trafficking operation or experienced the precise 
+patterns of recruitment and abuse described in the Indictment.  And the fact that many of the 
+victims were minors does not mean that non-minors were not victimized by Epstein’s sophisticated 
+sex-trafficking operation.  Indeed, the Indictment states that “many” but not “all” of Epstein’s 
+victims were minors, demonstrating that prosecutors were investigating Epstein’s crimes against 
+young women over the age of 18 as well.  Indictment ¶ 11 (“[Epstein] knew that many of his New 
+York victims were underage.”); id. ¶ 17 (“JEFFREY EPSTEIN, the defendant, knew that certain 
+of his victims were underage . . . .”).  The FBI confirmed this understanding of the Indictment’s 
+scope in a press release issued two days after Epstein’s arrest, stating to Epstein’s victims: “We 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 12 of 32
+
+7 
+want to hear from you, regardless of the age you are now, or whatever age you were then, no matter 
+where the incident took place.”  https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-
+manhattan-federal-court-sex-trafficking-minors (last visited March 30, 2020) (emphasis added). 
+The mere fact that Plaintiff did not allege that she was a minor at the time that she was 
+recruited into Epstein’s sex-trafficking scheme does not negate the fact that Plaintiff’s civil claims 
+arise from the acts described in the Indictment.  Plaintiff therefore had one year from August 29, 
+2019, the date on which Judge Berman formally dismissed the Indictment, to file the Complaint.  
+Having filed suit on November 14, 2019, her claims fall well within that limitations period.2 
+2. 
+Plaintiff’s Claims Concern the Same Sex-Trafficking Operation that the 
+Indictment Concerned. 
+Even if the Indictment for some reason was limited to Epstein’s trafficking of minors (to 
+the exclusion of other victims), Plaintiff’s claims would nonetheless arise from the same “event or 
+occurrence” for the purposes of § 215(8)(a).  See, e.g., Kashef, 925 F.3d at 62 (noting that “a New 
+York appellate court explicitly rejected the theory that the tolling provisions of CPLR 215(8) are 
+exclusively for the benefit of the victims of the crime charged in the criminal proceeding” (internal 
+quotation marks omitted)).  Contrary to Defendants’ suggestion, the Court should not construe the 
+Indictment “narrowly,” Defs.’ Mem. at 6, where the Indictment itself describes a pattern of abuse 
+against numerous victims spanning a number of years.  Epstein repeated the same patterns of 
+recruitment and abuse time and time again on countless young females, including Plaintiff.  See, 
+e.g., Indictment ¶ 7 (explaining that Epstein “perpetuated [the] abuse in similar ways” against 
+                                                 
+ 
+ 
+2  
+To the extent Defendants suggest that Epstein’s crimes against Jane Doe are not part of the 
+same “event or occurrence” as those described in the Indictment because they began in 1999 (as 
+opposed to 2002), this argument similarly fails.  See Defs.’ Mem. at 5.  The Indictment itself notes 
+that Epstein’s sex-trafficking conspiracy lasted “from at least in or about 2002,” and it is now 
+apparent that the conspiracy began years earlier.  Indictment ¶ 2 (emphasis added).    
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 13 of 32
+
+8 
+victims).  The Indictment was therefore not limited to neatly categorized events that happened on 
+specified dates—it covered a sprawling sex-trafficking operation that occurred “over the course of 
+many years” and affected an unspecified number of victims.  Id. ¶ 1. 
+Defendants’ contention that the Indictment “does not refer to misconduct of the type that 
+Plaintiff alleges here” is incorrect.  Defs.’ Mem. at 7.  The sex-trafficking operation that the 
+Indictment described is precisely the same sex-trafficking operation that Plaintiff was lured 
+into— the Complaint’s allegations as to the perpetrator, the locations, and the repeated sexual 
+assaults all match the pattern described in the Indictment.  Just as the Indictment alleged that 
+Epstein enticed and recruited “particularly vulnerable” females to engage in sex acts with him in 
+New York and Palm Beach, Indictment ¶¶ 3, 6, Epstein enticed and recruited Plaintiff, a 
+particularly vulnerable young woman, to engage in sex acts with him in New York and Palm 
+Beach.  Compl. ¶¶ 37, 40–42.  Just as the Indictment alleges that the abuse would start out with 
+the victim performing a massage on Epstein, Indictment ¶¶ 9, 15, recruiters initially called Plaintiff 
+to Epstein’s home to give him a massage.  Compl. ¶ 40.  The Indictment alleges that Epstein would 
+escalate the nature and scope of physical contact during the massages to include sex acts, 
+Indictment ¶¶ 9, 15, and Epstein escalated the nature and scope of Plaintiff’s massages to include 
+sex acts.  Compl. ¶¶ 40, 41.  The Indictment alleges that Epstein used sex toys on victims during 
+massages, Indictment ¶¶ 9, 15, and Epstein repeatedly used sex toys on Plaintiff during massages.  
+Compl. ¶ 41.  And, finally, just as Epstein’s associates would call victims by phone to arrange for 
+them to return for additional sexual encounters, Indictment ¶ 11, Epstein’s associates called 
+Plaintiff frequently to schedule more sexual massages.  Compl. ¶¶ 40, 46.  The conduct alleged in 
+the Indictment is precisely the conduct alleged in the Complaint. 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 14 of 32
+
+9 
+Defendants have the audacity to make a stunning contention that Plaintiff does not 
+sufficiently allege that she was a sex-trafficking victim.  Defs.’ Mem. at 7.  Defendants may be 
+unfamiliar with the definition of sex trafficking: “the recruitment, harboring, transportation, 
+provision, obtaining, patronizing, or soliciting of a person for the purpose of a commercial sex 
+act.”  22 U.S.C. § 7102.  Epstein and his co-conspirators recruited Plaintiff and housed her in his 
+apartment building for the sole purpose of sexually abusing her, without ever helping her find a 
+modeling job as he had promised.  Compl. ¶¶ 40, 45, 46.  She is therefore unquestionably a victim 
+of sex trafficking.  Defendants’ desperate attempt at severing Plaintiff’s experience from the vast, 
+sophisticated sex-trafficking operation alleged in the Indictment fails. 
+3. 
+Defendants’ Attempts to Narrow the Scope of C.P.L.R. § 215(8)(a) Fail. 
+Defendants seek to advance a strained interpretation of § 215(8)(a)’s “event or occurrence” 
+requirement, asserting that this Court must “apply C.P.L.R. § 215(8)(a) narrowly” to limit its 
+availability to the specific crimes committed against the specific victims identified in the 
+Indictment.  Defs.’ Mem. at 6.  But the cases that Defendants cite for that proposition are 
+inapposite.  In Christodoulou v. Terdeman, the Second Department held that § 215(8)(a) “applies 
+only to those claims which are based on events of February 26, 1993 and December 28, 1993, 
+because it was only in connection with events of these two days that criminal prosecution was 
+commenced against defendant.”  262 A.D.2d 595, 595 (2d Dep’t 1999).  Similarly, in Gallina v. 
+Thatcher, the court held that the plaintiff could not rely on § 215(8)(a) to file a civil suit for assault 
+and battery that occurred over the course of two years because the indictment “charged [the 
+defendant] for incidents occurring on three (3) specific dates.”  No. 2017-52980, 2018 N.Y. Misc. 
+LEXIS 8435, at *3–4 (Sup. Ct. Oct. 23, 2018). 
+ 
+Christodoulou and Gallina are both readily distinguishable from Plaintiff’s case.  The 
+criminal actions in Christodoulou and Gallina focused on events that occurred on specified dates 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 15 of 32
+
+10 
+(two dates in Christodoulou and three dates in Gallina), and both Christodoulou and Gallina 
+explicitly recognized that the relevant criminal prosecutions were commenced “only in connection 
+with the events of these [specific] days.”  See Christodoulou, 262 A.D.2d at 596; Gallina, 2018 
+N.Y. Misc. LEXIS 8435, at *3–4.  By contrast, the Indictment in this case was not limited to a 
+specific day or discrete event.  Rather, the Indictment covered sexual abuse that occurred “over 
+the course of many years.”  Indictment ¶¶ 1–2, 8, 20, 24.  Further, the Indictment charged Epstein 
+with conspiracy and a broad sex-trafficking scheme, while the criminal actions in Christodoulou 
+and Gallina charged the defendants with crimes stemming from isolated incidents.3 
+In contrast, the Second Circuit’s opinion in Kashef controls and demonstrates why 
+Plaintiff’s claims fall within § 215(8)(a) here.  In Kashef, BNP Paribas (“BNPP”) entered a guilty 
+plea conceding “knowledge of the atrocities being committed in Sudan and of the consequences 
+of providing Sudan access to U.S. financial markets.”  Kashef, 925 F.3d at 56.  The plaintiffs, 
+Sudanese victims of mass rape, torture, deliberate infection with HIV, and other atrocities, filed a 
+complaint against BNPP within a year of the judgment of conviction, contending that their claims 
+were timely under C.P.L.R. § 215(8)(a).  Id. at 57, 62–63.  BNPP attempted to argue—similar to 
+Defendants’ argument here—that § 215(8)(a) did not apply because the plaintiffs “played no role 
+in the proceedings surrounding BNP Paribas’s plea agreement,” the criminal action “required no 
+investigation of or briefing on any injuries sustained by Plaintiffs,” and the facts in the criminal 
+case and the civil case were not “identical.”  Brief of Defendants-Appellees at 51–52, Kashef 
+v. BNP Paribas S.A., No. 18-1304 (2d Cir. Aug. 9, 2018), Dkt. 92. 
+                                                 
+ 
+ 
+3  
+Defendants also cite McElligott v. City of New York, No. 15 CIV. 7107 (LGS), 2017 WL 
+6210840, at *5 (S.D.N.Y. Dec. 7, 2017), but that case is inapplicable because it hinged on whether 
+the defendant in the civil action was the same defendant charged in the criminal action.   
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 16 of 32
+
+11 
+The Second Circuit rejected BNPP’s argument, and instead found that the “event or 
+occurrence” for § 215(8) purposes was more generally “BNPP’s conspiracy with Sudan to violate 
+U.S. sanctions” for humanitarian violations.  925 F.3d at 62–63.  The Court therefore held that the 
+victims of those humanitarian violations could bring timely claims under § 215(8)(a).  Id.  That 
+conspiracy, like the one here, was a broad scheme spanning many years, rather than a single event 
+(such as an assault on a specified date).  Just as BNPP’s conspiracy to violate sanctions was the 
+relevant event or occurrence in Kashef, Epstein’s widespread sex-trafficking scheme is the event 
+or occurrence at issue in Plaintiff’s case for the purposes of applying § 215(8)(a).  Defendants 
+attempt to distinguish Kashef by pointing out that “the civil and criminal actions in that case both 
+arose out of the same conspiracy between BNP and Sudan to violate U.S. sanctions,” Defs.’ Mem. 
+at 8, but that fact only highlights Kashef’s applicability to this case, which also involves a civil and 
+criminal action arising from the same conspiracy.  Defendants have failed to meet their burden of 
+proving that Plaintiff’s claims do not arise from the same event or occurrence as the Indictment, 
+and therefore that § 215(8)(a) does not apply to her claims.4 
+B. 
+Plaintiff’s Claims are Timely Pursuant to N.Y. C.P.L.R. § 213-c  
+Plaintiff’s claims are also timely under N.Y. C.P.L.R. § 213-c.  That provision provides 
+victims of rape or criminal sexual acts (and other delineated sexual offenses) 20 years to bring a 
+civil action for resulting injuries: 
+                                                 
+ 
+ 
+4  
+Defendants argue that a narrow reading of § 215(8)(a) “gives meaning to the statute’s 
+language ‘with respect to the event or occurrence from which a claim governed by this section 
+arises.’”  Defs.’ Mem. at 8.  But Plaintiff is not asking, for example, for the Court to hold that any 
+person with a tangential connection to Epstein’s sex-trafficking operation may avail of § 215(8)(a).  
+Rather, the Court should hold that Plaintiff’s claims in this matter arise from the same “event or 
+occurrence” as the Indictment because the perpetrator is the same, the location is the same, and, 
+most importantly, the pattern of misconduct is the same.   
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 17 of 32
+
+12 
+Notwithstanding any other limitation set forth in this article, . . . all civil claims or 
+causes of action brought by any person for physical, psychological or other injury 
+or condition suffered by such person as a result of conduct which would constitute 
+rape in the first degree as defined in section 130.35 of the penal law, . . . or criminal 
+sexual act in the first degree as defined in section 130.50 of the penal law, . . . may 
+be brought . . . within twenty years.  
+N.Y. C.P.L.R. § 213-c.5  Plaintiff alleges that Epstein sexually assaulted her by forcible 
+compulsion at some point after late 1999, within 20 years of the filing of this lawsuit, and that the 
+assault constituted one or more sex crimes listed in § 213-c.  Compl. ¶¶ 13, 38, 46, 51.  Her claims 
+are therefore timely under § 213-c. 
+ 
+Without citing any case supporting their argument, Defendants contend that the 20-year 
+statute of limitations of § 213-c does not apply to Plaintiff’s claims because it became effective 
+through an amendment on September 18, 2019, and the amendment does not apply retroactively.  
+Defs.’ Mem. at 5.  But New York courts have not adopted any such rigid rule prohibiting the 
+retroactivity of statutory amendments to limitations periods.  Instead, “[c]ourts have employed 
+customary tools of construction to find the requisite intent to give retroactive effect to new laws 
+affecting periods of limitation.”  McGuirk v. City Sch. Dist. of Albany, 116 A.D.2d 363, 365 (3d 
+Dep’t 1986).  Using those tools, New York courts have held that certain amendments to limitations 
+periods apply retroactively.  See, e.g., Meegan S. v. Donald T., 475 N.E.2d 449, 450 (N.Y. 1984) 
+(“[T]he enlargement of the Statute of Limitations for paternity suits is to be applied 
+retroactively.”). 
+                                                 
+ 
+ 
+5  
+“A person is guilty of rape in the first degree when he or she engages in sexual intercourse 
+with another person . . . [b]y forcible compulsion” and “is guilty of criminal sexual act in the first 
+degree when he or she engages in oral sexual conduct or anal sexual conduct with another 
+person . . . [b]y forcible compulsion.”  N.Y. Penal Law §§ 130.35, 130.50.   
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 18 of 32
+
+13 
+ 
+The text and legislative history of § 213-c demonstrate the New York Legislature’s intent 
+for the 20-year limitations period to apply retroactively.  First, the text of the provision itself says 
+that it applies “notwithstanding any other limitation set forth in this article.”  N.Y. C.P.L.R. § 213-c 
+(emphasis added).  “[T]his article” refers to Article 2 of Chapter 8 of the C.P.L.R., which contains 
+New York’s statutes of limitation for civil actions, see N.Y. C.P.L.R. § 201, suggesting that the 
+Legislature intended for no other statute of limitations to apply. 
+Further, the bill’s legislative history highlights the “ticking clock” that the former statute 
+of limitations imposed on victims of sexual abuse:  “For crimes of sexual violence in particular, 
+the clock ticks against the trauma and culture of silence that prevents victims from speaking out.  
+Over the last year, victims who have suffered in silence for decades have bravely spoken about 
+their abuse . . . .”  N.Y. Comm. Rep., 2019 N.Y. S.B. No. 6574, 242nd Legis. Sess. (June 17, 2019).  
+The Legislature’s explicit reference to “victims who have suffered in silence for decades,” like 
+Plaintiff, and victims that have been prevented “from speaking out,” also like Plaintiff, evince an 
+intent for the provision to apply retroactively to victims like Plaintiff.  Governor Cuomo echoed 
+the sentiment behind the provision while signing the bill, explaining that “[f]ive years is an insult 
+to these survivors and today we’re providing them more time to come to terms with the trauma 
+they experienced and to seek justice.”  https://www.governor.ny.gov/news/governor-cuomo-
+joined-leaders-times-movement-signs-legislation-extending-rape-statute (last visited March 30, 
+2020) (emphasis added).  In light of the legislative goals behind the amendment to § 213-c, the 
+Court should hold that it applies retroactively to Plaintiff’s claims. 
+Moreover, “remedial legislation should be given retroactive effect in order to effectuate its 
+beneficial purpose.”  In re Gleason (Michael Vee, Ltd.), 749 N.E.2d 724, 726 (N.Y. 2001).  
+Legislative history establishes that the amendment to § 213-c was remedial in nature—it extended 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 19 of 32
+
+14 
+the statute of limitations for certain sexual offenses in order to correct the injustice that the shorter 
+limitations period imposed on victims.  See Coffman v. Coffman, 60 A.D.2d 181, 188 (2d Dep’t 
+1977) (“Remedial statutes are those designed to correct imperfections in prior law, by generally 
+giving relief to the aggrieved party.”  (internal quotation marks omitted)); see also Meegan S., 475 
+N.E.2d at 450 (finding that amendment extending statute of limitations in paternity suits was 
+remedial legislation); https://www.governor.ny.gov/news/governor-cuomo-joined-leaders-times-
+movement-signs-legislation-extending-rape-statute (last visited March 30, 2020) (“This new law 
+recognizes the injustice that has gone on for far too long . . . .”).  “[I]nsofar as remedial statutes 
+are concerned, the court should consider the mischief sought to be remedied and should favor the 
+construction which will suppress the evil and advance the remedy.”  Burrows v. Bd. of Assessors 
+for Town of Chatham, 98 A.D.2d 250, 253 (3d Dep’t 1983) (internal quotation marks and citations 
+omitted), aff’d, 473 N.E.2d 748 (N.Y. 1984).  The remedial purpose of the amendment to § 213-c, 
+to correct the injustice of providing victims of rape and other criminal sexual acts who were 
+prevented from speaking out by their abusers (like Plaintiff) with only five years to bring actions, 
+would be undermined if the amendment were only applied prospectively.  Plaintiff’s claims are 
+therefore timely under § 213-c’s 20-year limitations period. 
+C. 
+Defendants Have Not Met Their Burden of Proving that Plaintiff 
+Cannot Invoke Equitable Estoppel. 
+Even if the Court were to hold that C.P.L.R. § 215(8)(a) and § 213-c do not apply to 
+Plaintiff’s claims, it should hold that they are still timely under the doctrine of equitable estoppel.  
+The Complaint alleges in detail the methods of intimidation and control that Jeffrey Epstein and 
+his co-conspirators used to deter their victims from seeking justice.  Epstein went to great lengths 
+to threaten and manipulate not only countless victims, but journalists, officials at the highest levels 
+of our government, and others charged with preventing and punishing sex trafficking.  Plaintiff 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 20 of 32
+
+15 
+had every reason to believe that filing this suit during Epstein’s lifetime would have had severely 
+negative (even life-threatening) consequences for her.  She therefore did not take action until after 
+she knew that Epstein was dead, and timely filed her claim approximately three months later.   
+Defendants’ contend that the doctrine of equitable estoppel applies only to situations in 
+which the defendant makes a misrepresentation of fact.  Defs.’ Mem. at 10–11.  But “courts have 
+long had the power, both at law and equity, to bar the assertion of the affirmative defense of the 
+Statute of Limitations where it is the defendant’s affirmative wrongdoing—a carefully concealed 
+crime here—which produced the long delay between the accrual of the cause of action and the 
+institution of the legal proceeding.”  Gen. Stencils, Inc. v. Chiappa, 219 N.E.2d 169, 171 (N.Y. 
+1966).  A defendant is therefore equitably estopped from asserting a statute of limitations defense 
+if the defendant “wrongfully induced the plaintiff to refrain from timely commencing an action by 
+deception, concealment, threats or other misconduct.”  Funk v. Belneftekhim, No. 14-CV-0376 
+(BMC), 2019 WL 3035124, at *2 (E.D.N.Y. July 11, 2019) (citation omitted) (emphasis added). 
+ 
+Assuming the truth of the allegations in Plaintiff’s Complaint and drawing all inferences 
+in her favor, Plaintiff has sufficiently pleaded misconduct that should equitably estop Defendants 
+from asserting a statute of limitations defense.  Plaintiff was terrified of Epstein and his 
+co-conspirators.6  For example, Epstein constantly bragged to Plaintiff about his connections to 
+powerful people like Leslie Wexner and made countless representations about his wealth, power, 
+and connections.  Compl. ¶¶ 39, 40, 44.  Epstein also forced Plaintiff to meet with a powerful 
+lawyer so that the lawyer could gather personal information about Plaintiff.  Id. ¶ 43.  Defendants 
+                                                 
+ 
+ 
+6  
+In fact, Plaintiff is still terrified of Epstein’s powerful co-conspirators, which caused her to 
+file this lawsuit under pseudonym.  See Memorandum of Law in Support of Plaintiff’s Motion for 
+Leave to Proceed Anonymously at 4–5, Dkt. 7 (Nov. 20, 2019).   
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 21 of 32
+
+16 
+discount this allegation because it happened during the time period when Epstein was abusing 
+Plaintiff.  Defs.’ Mem. at 10.  But Defendants conveniently leave out Plaintiff’s allegation that 
+“Epstein later used the information that the lawyer had obtained through his meeting with Jane 
+Doe to intimidate her and to keep her compliant in his sex-trafficking scheme.”  Compl. ¶ 43.  That 
+allegation therefore directly supports Plaintiffs’ equitable estoppel argument.  Epstein also ensured 
+that Plaintiff, who struggled financially for her entire life, became dependent on him so that she 
+would remain compliant and keep quiet about the abuse.  He provided her with things she 
+desperately needed, like housing and the prospect of future employment opportunities.  Compl. 
+¶¶ 37, 39, 40, 45.  This manipulation contributed to Plaintiff’s silence until Epstein’s death. 
+Plaintiff’s allegations are more than sufficient to allow her claims to proceed under an 
+equitable estoppel theory at this early stage of the litigation.  “[A] complaint does not need to 
+anticipate potential affirmative defenses, such as the statute of limitations, and to affirmatively 
+plead facts in avoidance of such defenses.”  Childers, 36 F. Supp. 3d at 315 (internal quotation 
+marks and citation omitted).  Further, “[w]hether equitable estoppel applies in a given case is 
+ultimately a question of fact.”  Kosakow v. New Rochelle Radiology Assocs., P.C., 274 F.3d 706, 
+725 (2d Cir. 2001).  Courts applying New York law have therefore reserved the highly factual 
+issue of equitable estoppel for summary judgment after discovery or for a jury.  See, e.g., Gotlin 
+v. Lederman, No. 05-CV-1899 (ILG), 2006 WL 1154817, at *13 (E.D.N.Y. Apr. 28, 2006) (“A 
+vast majority of the cases on equitable estoppel permit plaintiffs to defeat a motion to dismiss on 
+the pleadings, deferring the question until some discovery can be had.”).7  Defendants have failed 
+                                                 
+ 
+ 
+7  
+In another victim’s action against the Estate, the court recognized that the doctrines of 
+equitable estoppel and equitable tolling are “very fact specific” and accordingly asked Defendants 
+to refrain from filing a motion to dismiss prior to discovery.  Transcript of Pre-Motion Conference 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 22 of 32
+
+17 
+to meet their burden of proving that Plaintiff can prove no set of facts demonstrating her 
+entitlement to equitably estopping Defendants from asserting a statute of limitations defense. 
+D. 
+Defendants Have Not Met Their Burden of Proving that Plaintiff 
+Cannot Invoke Equitable Tolling. 
+Plaintiff’s claims are also timely under the doctrine of equitable tolling.  While equitable 
+estoppel focuses on a defendant’s affirmative misconduct, equitable tolling focuses on the plaintiff 
+and applies as a matter of fairness where the plaintiff has been “prevented in some extraordinary 
+way from exercising [her] rights.”  Flight Sci., Inc. v. Cathay Pac. Airways Ltd., 647 F. Supp. 2d 
+285, 289 (S.D.N.Y. 2009) (internal quotation marks and citations omitted).  In this case, Plaintiff’s 
+fear of retaliation prevented her from filing her claims prior to Epstein’s death.  
+Defendants’ contention that Plaintiff has not alleged any facts supporting equitable tolling 
+is incorrect.  Defs.’ Mem. at 9.  A “reasonable fear of retaliation may be sufficient to constitute 
+extraordinary circumstances warranting equitable tolling, particularly if the person threatening 
+retaliation is a defendant.”  Davis v. Jackson, No. 15-cv-5359, 2016 WL 5720811, at *11 
+(S.D.N.Y. Sept. 30, 2016).  The Davis court’s reasoning also applies in this context.  The court 
+reasoned that fear of retaliation could support equitable tolling in the prison context because 
+“sustained control tends to result in adverse psychological effects that invariably have behavioral 
+consequences” such as, among other things, “interpersonal distrust and suspicion of threat or 
+personal risk; . . . diminished sense of self-worth and personal value; and posttraumatic stress 
+                                                 
+ 
+ 
+at 3:4-8, Farmer v. Indyke, et al., No. 19-cv-10475 (LGS) (S.D.N.Y. Mar. 5, 2020), Dkt. 39 (“[T]he 
+doctrines of equitable estoppel and equitable tolling could, nevertheless, save the claims and make 
+them timely and that is very fact specific, or early in the case I presumed there will be factual 
+issues around those questions . . . .”). 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 23 of 32
+
+18 
+reactions to the pains of imprisonment.  Retaliation and fear of retaliation are natural consequences 
+of this unique psychological environment.”  Id. at *10 (internal quotation marks omitted). 
+Epstein’s pattern of controlling, manipulating, and intimidating his victims caused similar 
+psychological effects in his countless victims, which in turn caused severe fear of retaliation.  And 
+Plaintiff alleges that Epstein’s abuse and psychological manipulation had such effects on her.  
+Compl. ¶¶ 40, 44, 46–48.  The court should therefore extend equitable tolling to reach fear of 
+retaliation in the context of Epstein’s abuse of and control over his victims, including Plaintiff. 
+In any event, as with equitable estoppel, “when plaintiffs raise an equitable tolling 
+argument, a court must deny a motion to dismiss based on the statute of limitations unless all 
+assertions of the complaint, as read with required liberality, would not permit the plaintiffs to prove 
+that this statute was tolled.”  In re S. African Apartheid Litig., 617 F. Supp. 2d 228, 287 (S.D.N.Y. 
+2009).  Plaintiff’s allegations are sufficient to defeat a motion to dismiss and to proceed to 
+discovery on the issue of equitable tolling.  See, e.g., Brown v. Parkchester S. Condos., 287 F.3d 
+58, 60–61 (2d Cir. 2002) (evidentiary hearing appropriate to determine whether limitations period 
+was equitably tolled); Guobadia v. Irowa, 103 F. Supp. 3d 325, 341 (E.D.N.Y. 2015) (equitable 
+tolling “is a question appropriately reserved for a jury” due to “genuine issues of material fact”); 
+Childers, 36 F. Supp. 3d at 315 (holding that plaintiff did not need to plead facts establishing right 
+to equitable tolling).  Defendants have failed to meet their burden of proving that Plaintiff can 
+prove no set of facts demonstrating entitlement to equitable tolling in this case. 
+II. 
+The Court Should Deny the Defendants’ Motion to Dismiss Punitive 
+Damages. 
+Defendants’ argument that Plaintiff’s claim for punitive damages fails as a matter of law 
+is incorrect.  Not only are such damages available, they are warranted in this case.  Beyond the 
+procedural impropriety of Defendants’ purported motion to dismiss punitive damages—that on its 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 24 of 32
+
+19 
+own warrants its denial—under New York choice-of-law principles the law of the Virgin Islands 
+applies to the issue of punitive damages.  Under Virgin Islands law, a court may allow for punitive 
+damages against the estate of a deceased tortfeasor, especially when that tortfeasor went to great 
+lengths during his life to avoid punishment for causing immeasurable harm to countless victims.  
+A. 
+Defendants’ Motion to Dismiss Punitive Damages is Procedurally 
+Improper. 
+As an initial matter, the Court should not decide whether punitive damages are available at 
+this early stage.  A motion to dismiss is not the proper vehicle for determining the availability of 
+punitive damages.  Rule 12(b)(6) allows a defendant to file a motion to dismiss for “failure to state 
+a claim upon which relief can be granted.”  Fed. R. Civ. P. 12(b)(6).  Accordingly, “[a] motion to 
+dismiss is addressed to a ‘claim’—not to a form of damages.”  Amusement Indus., Inc. v. Stern, 
+693 F. Supp. 2d 301, 318 n.5 (S.D.N.Y. 2010).  Defendants’ request for the Court to dismiss 
+Plaintiff’s request for punitive damages does not relate to either of Plaintiff’s claims (for battery 
+and intentional infliction of emotional distress) and does not relate to the sufficiency of the 
+allegations in the Complaint.  The issue of what types of damages Plaintiff is entitled to should 
+therefore be dealt with at a later stage.  See, e.g., Hunter v. Palisades Acquisition XVI, No. 16 Civ. 
+8779 (ER), 2017 WL 5513636, at *9 (S.D.N.Y. Nov. 16, 2017) (“Because punitive damages are a 
+form of damages, not an independent cause of action, a motion to dismiss a prayer for relief in the 
+form of punitive damages is procedurally premature.” (internal quotation marks and citation 
+omitted));  Okyere v. Palisades Collection, LLC, 961 F. Supp. 2d 522, 536 (S.D.N.Y. 2013) (same). 
+B. 
+Plaintiff May Recover Punitive Damages in this Case.  
+Even if a motion to dismiss punitive damages was an adequate way to address this issue, 
+Defendants’ motion still fails.  Plaintiff may recover punitive damages because the Virgin Islands 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 25 of 32
+
+20 
+has the strongest interest in whether punitive damages are available in this case.8  And, under 
+Virgin Islands law, Plaintiff can recover punitive damages.    
+1. 
+The Law of the Virgin Islands for Punitive Damages Governs Under New 
+York’s Choice-of-Law Principles. 
+Federal courts look to the choice-of-law rules of the forum state in deciding choice-of-law 
+disputes.  See Klaxon Co. v. Stentor Elec. Mfg. Co., 313 U.S. 487, 496 (1941).  “In the context of 
+tort law, New York utilizes interest analysis to determine which of two competing jurisdictions 
+has the greater interest in having its law applied in the litigation.  The greater interest is determined 
+by an evaluation of the facts or contacts which relate to the purpose of the particular law in 
+conflict.”  Padula v. Lilarn Prop. Corp., 644 N.E.2d 1001, 1002 (N.Y. 1994) (internal quotation 
+marks and alterations omitted).  New York courts seek “[j]ustice, fairness and the best practical 
+result.”  Babcock v. Jackson, 191 N.E.2d 279, 283 (N.Y. 1963). 
+“Punitive damages are conduct regulating,” and “[u]nder the doctrine of depecage, then, 
+the choice-of law analysis for punitive damages is distinct from the analysis for compensatory 
+damages.”  Nat’l Jewish Democratic Council v. Adelson, No. 18 Civ. 8787 (JPO), 2019 WL 
+4805719, at *6 (S.D.N.Y. Sept. 30, 2019).  While the law of the place of the tort generally applies 
+to conduct regulating law, “under New York law—for punitive damages in particular—a court 
+must consider the object or purpose of the wrongdoing to be punished and give controlling weight 
+to the law of the jurisdiction with the strongest interest in the resolution of the particular issue 
+presented.”  Id. (internal quotation marks and alterations omitted).  “Punitive damages are designed 
+                                                 
+ 
+ 
+8  
+As explained below, under the doctrine of depecage New York law still governs as to the 
+underlying claims and as to compensatory damages. 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 26 of 32
+
+21 
+to punish the defendant, not to compensate the plaintiff, and so the choice-of-law inquiry for 
+punitive damages provisions is necessarily ‘defendant-focused.’”  Id. 
+Although Defendants correctly note that the law of the jurisdiction of where the tort 
+occurred generally applies, Defs.’ Mem. at 12, in this case the Virgin Islands has a stronger interest 
+in the resolution of whether punitive damages can be awarded in this case than New York or 
+Florida.  This being a “defendant-focused” analysis, Adelson, 2019 WL 4805719, at *6, the Virgin 
+Islands’ interest in applying its law on punitive damages is greater than New York’s.  Epstein was 
+domiciled in the Virgin Islands, not New York or Florida.  Compl. ¶ 19; see also Schultz v. Boy 
+Scouts of Am., Inc., 65 N.Y.2d 189, 201 (1985) (holding that, although New York was the place 
+of the wrong, New Jersey law applied because it “would further [New Jersey’s] interest in 
+enforcing the decision of its domiciliaries to accept the burdens as well as the benefits of” New 
+Jersey law).  Epstein also had a private island in the Virgins Islands, where he abused countless 
+young females.  Compl. ¶ 24.  Defendants then chose to probate his Estate in and under the laws 
+of the Virgin Islands.  Id. ¶ 32.  Having availed themselves of all the benefits and protections that 
+Virgin Islands probate and estate law have to offer, Defendants cannot also seek to escape its 
+drawbacks.  Whereas the Virgin Islands has a strong interest in applying its law on punitive 
+damages, New York and Florida have no conceivable interest in denying the Virgin Islands from 
+advancing that interest.  As such, New York’s choice-of-law rules dictate the application of Virgin 
+Islands law to the issue of punitive damages.9 
+                                                 
+ 
+ 
+9  
+As an indication of the Virgin Islands’ interest in matters concerning Epstein’s Estate, the 
+Attorney General of the United States Virgin Islands filed suit against the Estate on January 15, 
+2020, seeking, among other things, punitive damages.  Complaint, GVI v. Estate of Jeffrey E. 
+Epstein, No. ST-20-CV-014 (V.I. Sup. Ct. Jan. 15, 2020), Dkt. No. 1.   
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 27 of 32
+
+22 
+2. 
+Virgin Islands Law Would Allow for Punitive Damages against 
+Defendants in this Case. 
+Virgin Islands law would allow for an award of punitive damages in this case.  When 
+determining how best to apply common law, courts in the Virgin Islands apply what is known as 
+the Banks analysis.  See Gov’t of the V.I. v. Connor, 60 V.I. 597, 600, 602 (2016); Banks v. Int’l 
+Rental & Leasing Corp., 55 V.I. 967, 979 (2011).  As part of the Banks analysis, the Virgin Islands 
+Supreme Court has “instructed that, instead of mechanistically following the Restatements, courts 
+should consider three non-dispositive factors to determine Virgin Islands common law: 
+(1) whether any Virgin Islands courts have previously adopted a particular rule; (2) the position 
+taken by a majority of courts from other jurisdictions; and (3) most importantly, which approach 
+represents the soundest rule for the Virgin Islands.”  Connor, 60 V.I. at 600 (internal quotation 
+marks omitted).  Under the Banks analysis, given the extraordinary nature of this case, Plaintiff 
+can pursue punitive damages against Defendants.  
+a. 
+Banks Factor One: Whether Any Virgin Islands Courts Have 
+Adopted a Rule 
+Virgin Islands courts have not adopted a rule as to whether a plaintiff can pursue punitive 
+damages against the estate of a deceased tortfeasor who went to great lengths to avoid punishment 
+for his crimes, including by taking his own life.  Although Defendants cite to the Second 
+Restatement of Torts’ position that punitive damages are not awarded against the representatives 
+of a deceased tortfeasor, Defs.’ Mem. at 13–14, that position is included only in commentary and 
+is not binding on Virgin Islands courts.  See Connor, 60 V.I. at 600 (instructing not to 
+“mechanistically” follow the Restatements).  And although some Virgin Islands trial courts have 
+cited to the Restatement, those courts were not faced with the question at issue in this case:  
+whether punitive damages are available against an estate.  See, e.g., Pappas v. Hotel on the Cay 
+Time-Sharing Ass’n, Inc., 69 V.I. 3, 6 & n.8 (V.I. Super. 2015) (citing the Restatement in a case 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 28 of 32
+
+23 
+that did not involve an estate); Hamilton v. Dowson Holding Co., 51 V.I. 619, 628 (Super. Ct. 
+2009) (“[P]unitive damages are not available in wrongful death actions in the Virgin Islands.”).  
+Defendants have not cited a single Virgin Islands case adopting the Restatement’s commentary’s 
+position on that specific issue.  Given the lack of any established rule in the Virgins Islands 
+governing this case, this Banks factor is neutral.  
+b. 
+Banks Factor Two: The Position Taken by a Majority of Courts 
+from Other Jurisdictions  
+As to the second Banks factor, numerous courts have held that plaintiffs may recover 
+punitive damages against the estate of a deceased tortfeasor.  See, e.g., Haralson v. Fisher 
+Surveying, Inc., 31 P.3d 114, 117 (Ariz. 2001) (concluding that “there are situations in which it 
+would be appropriate, and perhaps even necessary, to express society’s disapproval of outrageous 
+conduct by rendering such an award against the estate of a deceased tortfeasor” (internal quotation 
+marks omitted)); Tillett v. Lippert, 909 P.2d 1158, 1162 (Mont. 1996) (rejecting “the reasoning of 
+those courts which have disallowed punitive damages against the estates of deceased tortfeasors”); 
+Perry v. Melton, 299 S.E.2d 8, 12 (W. Va. 1982) (“Punitive damages in this state serve other 
+equally important functions and are supported by public policy interests going beyond simple 
+punishment of the wrongdoer.”).  Those courts have reasoned that punitive damages do not only 
+serve to punish wrongdoers, but also to “motivate others not to engage in similar action in the 
+future.”  Kaopuiki v. Kealoha, 87 P.3d 910, 928 (Haw. Ct. App. 2003).10  In this case, general 
+                                                 
+ 
+ 
+10  
+See also, e.g., Ellis v. Zuck, 546 F.2d 643, 644–45 (5th Cir. 1977) (punitive damages 
+allowed against estate because they provide “deterrents to others similarly situated from taking 
+steps of the character condemned”); Estate of Farrell ex rel. Bennett v. Gordon, 770 A.2d 517, 
+521–22 (Del. 2001) (punitive damages available against estate because they “serve a dual 
+purpose—to punish wrongdoers and deter others from similar conduct” (internal quotation marks 
+omitted)); Hofer v. Lavender, 679 S.W.2d 470, 474 (Tex. 1984) (exemplary damages available 
+against estate because they “serve as an example to others”).   
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 29 of 32
+
+24 
+deterrence is of the utmost importance—Epstein spent decades abusing countless young women 
+and girls, intimidating them into silence, and gaming the justice system with his wealth and power 
+to avoid punishment.  No person should be able to commit such acts while at the same time 
+considering themselves to be above the law. 
+Even courts that generally do not allow for punitive damages against a deceased 
+tortfeasor’s estate have expressly acknowledged that punitive damages might be available where, 
+as here, the deceased tortfeasor takes his own life “as an escape from punitive damages.”  Crabtree 
+ex. Rel. Kemp v. Estate of Crabtree, 837 N.E.2d 135, 139 (Ind. 2005) (“If we ever encounter a case 
+where a tortfeasor seems to have considered his own death as an escape from punitive damages 
+incident to some intentional tort, we can address that issue at that time.”).  Here, it is undisputed 
+that punitive damages would have been available against Epstein if he were still alive.  But Epstein 
+spent his life using his power, wealth, and intimidation to avoid proportionate punishment for his 
+countless crimes.  See Compl. ¶¶ 8, 14.  And once he was finally imprisoned pending trial for his 
+sex-trafficking operation, he signed his will and then almost immediately caused his own demise.  
+See id.  ¶¶ 30, 31.  Given the unique facts surrounding Epstein’s crimes and death, and the need to 
+deter others from committing such heinous crimes against vulnerable victims and then using power 
+to avoid the consequences, the second Banks factor weighs heavily in favor of allowing for punitive 
+damages under these facts. 
+c. 
+Banks Factor Three: The Soundest Rule for the Virgin Islands  
+Although none of the three Banks factors is dispositive, the third factor—“which approach 
+represents the soundest rule for the Virgin Islands”—is the most important.  See Connor, 60 V.I. 
+at 600.  The soundest rule for the Virgin Islands is to allow for punitive damages against an estate 
+in circumstances as extraordinary as those in this case.  Here, the deceased tortfeasor spent his life 
+avoiding punishment, used wealth, power, intimidation, and threats to prevent his victims from 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 30 of 32
+
+25 
+seeking justice, and then caused his own demise once he was about to face real punishment for his 
+countless crimes.  Allowing for punitive damages in this case would be in line with the general 
+deterrence principle behind punitive damages because it would deter others from manipulating the 
+justice system and silencing victims of sexual abuse to avoid punishment.  See, e.g., Guardian Ins. 
+Co. v. Gumbs, No. ST-15-CV-195, 2016 WL 9525609, at *10 (V.I. Super. Aug. 22, 2016) (“[A] 
+primary purpose behind punitive damages [is] . . . to further deter [the tortfeasor] and others like 
+him from similar conduct in the future.”).  The rule would also be consistent with the cases 
+suggesting that punitive damages against the estate of a deceased tortfeasor may be available if the 
+tortfeasor committed suicide to avoid punishment.  The absence of any Virgin Islands case 
+adopting the Restatement’s commentary about punitive damages against estates, coupled with the 
+extraordinary nature of Epstein’s transcontinental sex-trafficking enterprise, counsel in favor of 
+such a rule.11  The Court should therefore deny Defendants’ motion to dismiss punitive damages.    
+CONCLUSION 
+For the foregoing reasons, the Court should deny Defendants’ Motion to Dismiss Plaintiff’s 
+Complaint.  Because Defendants seek to dismiss Plaintiff’s Complaint in full, Plaintiff requests 
+oral argument on Defendants’ motion. 
+ 
+                                                 
+ 
+ 
+11  
+To the extent necessary, United States courts may certify questions to the Supreme Court 
+of the Virgin Islands if there is “a question of law which may be determinative” and if “it appears 
+there is no controlling precedent in the decisions of the Supreme Court.”  Banks, 55 V.I. at 972 
+(internal citations omitted).  Because the issue would be a matter of first impression in the Virgin 
+Islands, and given the split in common law authorities concerning the availability of punitive 
+damages against a deceased tortfeasor’s estate, the Court should certify the question to the 
+Supreme Court of the Virgin Islands if it deems it necessary to resolve the issue at this stage of the 
+case.  See CIT Bank N.A. v. Schiffman, 948 F.3d 529, 537 (2d Cir. 2020), certified question 
+accepted, No. 36, 2020 WL 729773 (N.Y. Feb. 13, 2020) (certifying questions where no precedent 
+from state’s highest court is available, and the state court was better situated to make “value 
+judgments and important public policy choices”).  
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 31 of 32
+
+26 
+Dated:  March 30, 2020 
+ 
+ 
+ 
+Respectfully Submitted, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/s/ Joshua I. Schiller                 
+ 
+David Boies 
+BOIES SCHILLER FLEXNER LLP 
+333 Main Street 
+Armonk, NY 10504 
+(914) 749-8200 
+ 
+Sigrid McCawley 
+(Pro Hac Vice) 
+BOIES SCHILLER FLEXNER LLP 
+401 E. Las Olas Blvd., Suite 1200 
+Ft. Lauderdale, FL 33301 
+(954) 356-0011 
+ 
+Joshua I. Schiller  
+Andrew Villacastin 
+Sabina Mariella 
+BOIES SCHILLER FLEXNER LLP 
+55 Hudson Yards 
+New York, NY 10001 
+(212) 446-2300  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Counsel for Plaintiff Jane Doe 1000 
+ 
+Case 1:19-cv-10577-LJL-DCF     Document 39     Filed 03/30/20     Page 32 of 32

@@ -1,0 +1,1642 @@
+METADATA_SOURCE: Court Records\Operating Engineers Construction Industry and Miscellaneous Pension Fund v. Dimon, No. 123-cv-03903 (S.D.N.Y. 2023)
+METADATA_FILENAME: 001.pdf
+----------------------------------------
+UNITED STATES DISTRICT COURT FOR THE  
+SOUTHERN DISTRICT OF NEW YORK 
+OPERATING ENGINEERS 
+CONSTRUCTION INDUSTRY AND 
+MISCELLANEOUS 
+PENSION FUND, 
+Plaintiff, 
+v. 
+JAMES DIMON, ASHLEY BACON, 
+LINDA B. BAMMANN, JAMES A. BELL, 
+JOHN H. BIGGS, CRANDALL C. 
+BOWLES, STEPHEN B. BURKE, TODD A. 
+COMBS, DAVID M. COTE, JAMES S. 
+CROWN, MARY C. ERDOES, TIMOTHY 
+P. FLYNN, ELLEN V. FUTTER, 
+MELLODY HOBSON, JOHN J. HOGAN, 
+LABAN P. JACKSON, JR., JOHN W. 
+KESSLER, ROBERT I. LIPP, RICHARD A. 
+MANOOGIAN, MICHAEL A. NEAL, 
+DAVID C. NOVAK, LEE R. RAYMOND, 
+JAMES E. STALEY, WILLIAM C. 
+WELDON, and BARRY L. ZUBROW, 
+Defendants, 
+and 
+JPMORGAN CHASE & CO., 
+Nominal Defendant. 
+Case Number:  
+VERIFIED STOCKHOLDER DERIVATIVE COMPLAINT 
+Operating Engineers Construction Industry and Miscellaneous Pension Fund (“Operating 
+Engineers” or “Plaintiff”), for the benefit of nominal defendant JPMorgan Chase & Co. (“JP 
+Morgan,” the “Bank,” or the “Company”), brings the following Verified Stockholder Derivative 
+Complaint against Defendants James Dimon, Ashley Bacon, Linda B. Bammann, James A. Bell, 
+John H. Biggs, Crandall C. Bowles, Stephen B. Burke, Todd A. Combs, David M. Cote, James S. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 1 of 53
+
+2 
+Crown, Mary C. Erdoes, Timothy P. Flynn, Ellen V. Futter, Mellody Hobson, John J. Hogan, 
+Laban P. Jackson, Jr., John W. Kessler, Robert I. Lipp, Richard A. Manoogian, Michael A. Neal, 
+David C. Novak, Lee R. Raymond, James E. Staley, William C. Weldon, and Barry L. Zubrow.  
+The allegations of this Complaint are based on the knowledge of Plaintiff as to itself and the 
+investigation of counsel, including the review of publicly available information and documents. 
+NATURE AND SUMMARY OF THE ACTION 
+1.
+Most of the world learned of Jeffrey Epstein’s horrific abuses of women and 
+children in 2019, when Epstein was arrested for orchestrating a wide-ranging human trafficking 
+enterprise.  Others, however—including those that facilitated Epstein’s enterprise—knew of his 
+abusive behavior for more than a decade earlier.  JP Morgan was one such facilitator.  JP Morgan 
+served as Epstein’s primary bank from at least 1998 to 2013, during which time he operated as 
+many as 55 accounts: some in his own name, some in the name of shell companies and sham non-
+profits, and some in the names of his victims, associates, and recruiters.   
+2.
+For nearly fifteen years, Epstein relied on these accounts to abuse women and 
+children.  Epstein used his JP Morgan accounts to transfer money to recruiters that trafficked new 
+victims and to withdraw vast amounts of cash to pay off his victims.  During certain periods, 
+Epstein reportedly withdrew up to $80,000 in cash multiple times a month; he once withdrew more 
+than $750,000 in cash in a single year.  Epstein is now infamous for using cash to pay his victims, 
+and his extraordinary cash withdrawals were obviously suspicious even without knowledge of his 
+abusive conduct. 
+3.
+But JP Morgan knew of Epstein’s abusive conduct many years before his arrest, 
+and internally held deep concerns about precisely why Epstein was withdrawing vast amounts of 
+cash and transferring hundreds of thousands of dollars to “modeling” agencies.  As early as 2006, 
+when Epstein was arrested for solicitation of a minor, JP Morgan knew not only that Epstein was 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 2 of 53
+
+3 
+abusing young women and children, but that he paid his victims in cash—something that one of 
+JP Morgan’s top executives has admitted.  In 2008, in 2010, and multiple times in 2011, JP 
+Morgan’s employees internally shared reports about Epstein’s abuses and expressed concern about 
+the Bank’s ongoing relationship with him.  In 2011, JP Morgan employees explicitly questioned 
+whether a previous payment to a “model management” agency was “payment for services as a 
+procurer.”  
+4.
+Knowledge of Epstein’s abusive conduct extended to the very top of the Company’s 
+C-suite.  Most notoriously, Jes Staley (who, until 2013, served as the chief executive officer 
+(“CEO”) of JP Morgan’s Investment Bank) shared a deep personal friendship with Epstein.  
+Although JP Morgan is now attempting to lay all blame for its institutional failures on Staley alone 
+in an attempt to escape legal and reputational harm, it is clear that Staley could not have sustained 
+and concealed a 15+ year banking relationship involving tens of millions of dollars without the 
+knowledge and assistance of others within JP Morgan.  Mary Erdoes (who has served as CEO of 
+JP Morgan’s Asset & Wealth Management division) paid numerous visits to Epstein’s home and 
+has admitted that she and JP Morgan knew of Epstein’s abuses by 2006.  Erdoes is known as a top 
+lieutenant to the Bank’s longtime CEO, Jamie Dimon.  And Dimon himself appears to have been 
+personally involved in sanctioning the Bank’s relationship with Epstein: one August 2008 
+document references Epstein’s $120 million with JP Morgan being in question “pending Dimon 
+review.”  
+5.
+Despite this top-to-bottom knowledge, JP Morgan’s Board did nothing.  JP Morgan 
+knew that Epstein was a serial abuser that relied heavily on cash payments, and that Epstein 
+regularly withdrew vast sums of cash from his JP Morgan accounts.  But upon information and 
+belief, JP Morgan consistently failed to file suspicious activity reports (“SARs”) that it was 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 3 of 53
+
+4 
+required to file when it suspected potential criminal activity—as it clearly did.  This failure 
+persisted through Epstein’s entire 15+ year history with the Bank, and persisted for years even 
+after JP Morgan terminated Epstein’s accounts in 2013.  This failure persisted, in fact, through the 
+time of Epstein’s final arrest in 2019, until which time Epstein continued to commit his prolific 
+abuses.   
+6.
+This failure to file SARs and otherwise comply with similar anti-money laundering 
+(“AML”) and know-your-customer (“KYC”) regulations is nothing new for JP Morgan.  Rather, 
+it is a symptom of a broader, years-long failure of governance and oversight by JP Morgan’s board 
+of directors—a failure for which JP Morgan was previously cited and penalized by regulators, in 
+2013 and 2014.  In 2013, both the OCC and the Federal Reserve accused JP Morgan of failing to 
+comply with federal AML laws and regulations, including because the Bank failed to file timely 
+SARs.  JM Morgan was hit with a $350 million sanction in 2014 due to its continuing AML 
+compliance failures.  Not only did the Company face civil penalties, it was faced criminal liability 
+as well:  the Bank pleaded guilty in 2014 to two felony counts relating to failures to comply with 
+AML rules, including the failure to file SARs. 
+7.
+Now, JP Morgan is exposed to substantial legal risk due its role in helping conceal 
+Epstein’s crimes.  One of Epstein’s victims, identified only as “Jane Doe 1”, has brought several 
+claims (on behalf of herself and other victims) against the Bank for its role in Epstein’s abuse of 
+her.  The government of the U.S. Virgin Islands has also initiated litigation against the Bank for 
+similar reasons, and is seeking significant monetary damages, including punitive and treble 
+damages.   
+8.
+All told, JP Morgan has suffered and will continue to suffer substantial monetary 
+and reputational harm for its longstanding role in assisting the most egregious sex trafficker in 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 4 of 53
+
+5 
+modern history.  Had JP Morgan’s Board and senior officers taken their oversight responsibilities 
+seriously, JP Morgan would have consistently reported Epstein’s suspicious practices and would 
+have terminated its relationship with him much sooner than it actually did.  Plaintiff brings this 
+action on behalf of JP Morgan to hold these directors and officers to account for their longstanding 
+governance failures.   
+THE PARTIES 
+9.
+Plaintiff is a stockholder of JP Morgan, and has held JP Morgan stock since 2010. 
+10.
+Nominal Defendant JPMorgan Chase & Co. is a Delaware corporation with its 
+principal place of business in New York City, New York.  JP Morgan’s principal bank subsidiary 
+is JPMorgan Chase Bank, National Association.  
+11.
+Defendant James Dimon (“Dimon”) has been a director of JP Morgan since 2004.  
+Dimon has been JP Morgan’s CEO since 2005 and Chairman of the Board since 2006.  Dimon is 
+an individual and is believed to be a resident of New York, New York.  
+12.
+Defendant Ashley Bacon (“Bacon”) has been JP Morgan’s Chief Risk Officer since 
+2013.  Bacon is an individual and is believed to be a resident of Greenwich, Connecticut.  
+13.
+Defendant Linda B. Bammann (“Bammann”) has been a director of JP Morgan 
+since 2013.  Bammann has been Chair of the Risk Committee since 2017, and a member of the 
+Risk Committee from 2014-2017.  Bammann is an individual and is believed to be a resident of 
+Ocala, Florida. 
+14.
+Defendant James A. Bell (“Bell”) was a JP Morgan director from 2011-2020.  
+During that time, Bell was a member of the Audit Committee from 2012-2016, and Chair of the 
+Audit Committee from 2017-2020.  Bell is an individual and is believed to be a resident of Beverly 
+Hills, California. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 5 of 53
+
+6 
+15.
+Defendant John H. Biggs (“Biggs”) was a director of JP Morgan from 2003-2008.  
+During that time, Biggs was a member of the Audit Committee from at least 2006-2008.  Biggs is 
+an individual and is believed to be a resident of St. Louis, Missouri.  
+16.
+Defendant Crandall C. Bowles (“Bowles”) was a JP Morgan director from 2006-
+2018.  Bowles was a member of the Audit Committee from 2007-2018.  Bowles is an individual 
+and is believed to be a resident of Fort Mill, South Carolina. 
+17.
+Defendant Stephen B. Burke (“Burke”) has been a director of JP Morgan since 
+2004.  Burke is an individual and is believed to be a resident of Dillon, Montana.  
+18.
+Defendant Todd A. Combs (“Combs”) has been a director of JP Morgan since 2016.  
+Combs was a member of the Risk Policy Committee from 2017-2019.  Combs is an individual and 
+is believed to be a resident of Omaha, Nebraska. 
+19.
+Defendant David M. Cote (“Cote”) was a director of JP Morgan from 2007-2013.  
+During that time, Cote was a member of the Risk Policy Committee from 2008-2013.  Cote is an 
+individual and is believed to be a resident of Pine Plains, New York.  
+20.
+Defendant James S. Crown (“Crown”) has been as a director of JP Morgan since 
+2004.  Crown was a member of the Risk Committee from at least 2006-2007 and since 2017, and 
+Chair of the Risk Committee from 2007-2017.  Crown is an individual and is believed to be a 
+resident of Chicago, Illinois  
+21.
+Defendant Mary Callahan Erdoes (“Erdoes”) joined JP Morgan in 1996 as head of 
+fixed income for high-net-worth accounts.  She became CEO of JP Morgan Private Bank in 2005.  
+In September 2009, Erodes obtained her current role as CEO of JP Morgan’s Asset & Wealth 
+Management division.  Erodes is an individual and is believed to be a resident of Miami, Florida. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 6 of 53
+
+7 
+22.
+Defendant Timothy P. Flynn (“Flynn”) has been a director of JP Morgan since 
+2012.  Flynn has been Chair of the Audit Committee since 2021, was a member of the Audit 
+Committee from 2017-2021, and was a member of the Risk Policy Committee from 2013-2017.  
+Flynn is an individual and is believed to be a resident of Marana, Arizona. 
+23.
+Defendant Ellen V. Futter (“Futter”) was a director of JP Morgan from 2001-2013.  
+Futter was a member of the Risk Policy Committee from at least 2006-2013.  Futter is an individual 
+and is believed to be a resident of New York, New York. 
+24.
+Defendant Mellody Hobson (“Hobson”) has been a director of JP Morgan since 
+2018.  Hobson was a member of the Audit Committee in 2019, and has been a member of the Risk 
+Committee since 2020.  Hobson is an individual and is believed to be a resident of Chicago, 
+Illinois. 
+25.
+Defendant John J. Hogan (“Hogan”) was JP Morgan’s Chief Risk Officer from 
+2012-2013.  Hogan is an individual and is believed to be a resident of Naples, Florida. 
+26.
+Defendant Laban P. Jackson, Jr. (“Jackson”) was a director of JP Morgan from 
+2004-2020.  During that time, Jackson was Chair of the Audit Committee from at least 2006-2016, 
+and a member of the Audit Committee from 2017-2020.  Jackson is an individual and is believed 
+to be a resident of Harbor Springs, Missouri. 
+27.
+Defendant John W. Kessler (“Kessler”) was a director of JP Morgan from 1995-
+2007.  Kessler is an individual and is believed to be a resident of New Albany, Ohio.   
+28.
+Defendant Robert I. Lipp (“Lipp”) was a director of JP Morgan from 2003-2009.  
+During that time, Lipp was a member of the Risk Committee from at least 2006-2009.  Lipp is an 
+individual and is believed to be a resident of New York, New York.  
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 7 of 53
+
+8 
+29.
+Defendant Richard A. Manoogian (“Manoogian”) was a director of JP Morgan 
+from 1978-2007.  During that time, Manoogian was a member of the Audit Committee from at 
+least 2006-2007.  Manoogian is an individual and is believed to be a resident of Grosse Pointe 
+Park, Michigan. 
+30.
+Defendant Michael A. Neal (“Neal”) has been a director of JP Morgan since 2014.  
+Neal has been a member of the Audit Committee since 2021, and was a member of the Risk Policy 
+Committee from 2014-2020.  Neal is an individual and is believed to be a resident of Naples, 
+Florida. 
+31.
+Defendant David C. Novak (“Novak”) was a JP Morgan director from 2004-2012.  
+During that time, Novak was a member of the Compensation and Management Development 
+Committee from 2006-2012, and was Chair of the Corporate Governance and Nominating 
+Committee from 2006-2012.  Novak is an individual and is believed to be a resident of 
+Southampton, New York. 
+32.
+Defendant Lee R. Raymond (“Raymond”) was a director of JP Morgan from 2001-
+2020.  Raymond is an individual and is believed to be a resident of Westlake, Texas.    
+33.
+Defendant James E. Staley (“Staley”) was the CEO of JP Morgan’s Investment 
+Bank from September 2009 through January 2013.  Previously, Staley was the CEO of JP 
+Morgan’s Asset Management division from 2001-2009, and was the head of JP Morgan’s Private 
+Banking division from 1999-2001.  Staley is an individual and is believed to be a resident of 
+Manhattan, New York. 
+34.
+Defendant William C. Weldon (“Weldon”) was a director of JP Morgan from 2005-
+2019.  Weldon is an individual and is believed to be a resident of North Palm Beach, Florida. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 8 of 53
+
+9 
+35.
+Defendant Barry L. Zubrow (“Zubrow”) was JP Morgan’s Chief Risk Officer from 
+2007-2012.  Zubrow is an individual and is believed to be a resident of West Palm Beach, Florida.    
+36.
+Defendants Bammann, Bell, Biggs, Bowles, Burke, Combs, Cote, Crown, Dimon, 
+Flynn, Futter, Hobson, Jackson, Kessler, Lipp, Neal, Novak, Manoogian, Raymond, and Weldon 
+are referred to collectively herein as the “Director Defendants.”
+37.
+Defendants Bacon, Dimon, Erdoes, Hogan, Staley, and Zubrow are referred to 
+collectively herein as the “Officer Defendants.”
+38.
+The Director Defendants and Officer Defendants are collectively referred to herein 
+as “Defendants.”  
+RELEVANT NON-PARTIES 
+39.
+Alicia Boler Davis (“Davis”) has been a director of JP Morgan since March 2023.  
+40.
+Alex Gorsky (“Gorsky”) has been a director of JP Morgan since July 2022.  
+41.
+Phebe N. Novakovic (“Novakovic”) has been a director of JP Morgan since 2020.  
+42.
+Virginia M. Rometty (“Rometty”) has been a director of JP Morgan since 2020.  
+JURISDICTION AND VENUE 
+43.
+The Court has jurisdiction over this action pursuant to 28 U.S.C. § 1332.  The Court 
+has supplemental jurisdiction over the state law claims asserted herein pursuant 28 U.S.C. 
+§ 1367(a).  This action is not a collusive one to confer jurisdiction on a court of the United States 
+which it would not otherwise have.  
+44.
+Venue is proper in this Court because JP Morgan has its principal place of business 
+in this district, Plaintiff’s claims arose in this district, and JP Morgan has suffered and will continue 
+to suffer harm in this district.  Venue is further proper in this Court because various actions related 
+to the allegations asserted herein, including Doe v. JP Morgan and USVI v. JP Morgan (defined 
+below), are currently pending before this Court.  
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 9 of 53
+
+10 
+PROCEDURAL BACKGROUND 
+45.
+JP Morgan is currently defending allegations from two distinct lawsuits stemming 
+from its facilitation and concealment of Epstein’s abuse.  First, a plaintiff identified as “Jane Doe 
+1”, on behalf of herself and other victims of Epstein’s abuse, asserted several claims against the 
+Company’s primary banking subsidiary, JP Morgan Chase Bank, N.A., in the litigation styled Jane 
+Doe 1 v. JP Morgan Chase Bank, N.A., 22-cv-10019 (JSR) (“Doe v. JP Morgan”).  Second, the 
+government of the U.S. Virgin Islands also asserted several claims against JP Morgan Chase Bank, 
+N.A. in the litigation styled Government of the United States Virgin Islands v. JP Morgan Chase 
+Bank, N.A., 22-cv-10904 (CSR) (“USVI v. JP Morgan”).   
+46.
+In both actions, the plaintiffs broadly allege that for several years, JP Morgan knew 
+about Epstein’s abusive conduct and knew about Epstein’s suspicious use of his many accounts at 
+the Bank, yet failed to comply with federal regulations to report his suspicious activity.  This failure 
+and concealment, in turn, helped Epstein’s systematic abuse to continue unchecked.  Plaintiffs in 
+both actions seek monetary damages, including punitive and treble damages in the USVI v. JP 
+Morgan action.  JP Morgan therefore faces a material risk of substantial monetary liability, above 
+and beyond the significant reputational harm that JP Morgan has already suffered and will continue 
+to suffer as a result of its longstanding facilitation and concealment of Epstein’s crimes.  JP Morgan 
+also faces the risk of fines or monetary damages as the result of potential governmental 
+investigations into its conduct. 
+SUBSTANTIVE ALLEGATIONS 
+I.
+EPSTEIN’S DECADES OF ABUSIVE CONDUCT
+47.
+The shocking extent and gravity of Epstein’s abuses are now well known.  For more 
+than two decades, Epstein operated a vast network of shell companies, intermediaries, and enablers 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 10 of 53
+
+11 
+for the sole purpose of trafficking and abusing young women at his properties, including in the 
+U.S. Virgin Islands.   
+48.
+Epstein is reported to have begun his systematic exploitation of young women as 
+early as the 1990s.  But since at least 2001, Epstein trafficked young girls and women to the U.S. 
+Virgin Islands, where he then had them transported to his private island, Little St. James.1  He also 
+trafficked women to New York and to other properties he owned.  Epstein and his associates often 
+deceived these girls and young women into traveling with promises of modeling contracts, 
+employment, or educational opportunities.  Other times, Epstein’s abuse began as a demand for a 
+massage, which rapidly evolved into abuse.  Once trafficked to the U.S. Virgin Islands, Epstein 
+and others in his network exploited and abused these women, and then ensured their silence with 
+both threats and payoffs.  Epstein was infamous for paying his victims in cash, although he on 
+occasion also wired money directly to both victims and allies.2
+49.
+The full scale of Epstein’s abuses is hard to comprehend.  Epstein is accused of 
+trafficking and abusing girls as young as 11 years old, reflecting his repulsive preference of the 
+“younger the better.”3  Air traffic controllers and other airport personnel in the U.S. Virgin Islands 
+reported seeing Epstein disembark from his plane with girls that appeared to be between 11 and 
+18 years old.  In one harrowing instance, a 15 year old victim that Epstein abused on Little St. 
+1 Government of the United States Virgin Islands v. Indyke, et al. ST-20-CV-14, Second Am. 
+Compl. (Nov. 30, 2022) at ¶49 (hereinafter “USVI State Complaint”).  
+2 Government of the United States Virgin Islands v. JP Morgan Chase Bank, N.A., 22-cv-10904 
+(CSR), Second Am. Compl. (Apr. 12, 2023) at ¶42 (hereinafter “USVI Complaint”).  
+3 Jane Doe 1 v. JP Morgan Chase Bank, N.A., 22-cv-10019 (JSR), First Am. Compl. (Jan. 13, 
+2023) at ¶126 (hereinafter “Doe Complaint”). 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 11 of 53
+
+12 
+James attempted to escape by swimming off the island.  Epstein organized a search party, found 
+the victim, confiscated her passport, and threatened her with physical harm if she did not submit.4
+50.
+Epstein trafficked many of his victims from Eastern Europe and sometimes kept 
+the same girls and women in servitude for several years.  For example, Epstein is accused of having 
+flown one victim to his island dozens of times between 2004 and 2017; and another more than 50 
+times between 2000 and 2002.  This meant that Epstein eventually had to grapple with immigration 
+concerns.  To address this problem, Epstein forced some of his victims to marry his American 
+citizen associates (or even other victims), and then helped finalize arrangements with immigration 
+authorities.5  Epstein is accused of having forced at least three victims into marriages, and then 
+threatening them with harm if they attempted to leave. 
+51.
+Epstein’s appetite for abuse was seemingly insatiable.  Epstein is reported to have 
+regularly abused up to 3-4 victims each day—a demand that even Epstein’s extensive network 
+struggled to supply.  Epstein therefore demanded that his victims themselves help deceive and 
+recruit other victims.  To this end, Epstein often instructed his victims to go to night clubs or on 
+shopping trips to help identify other unsuspecting women and girls that they might be able to 
+entrap.  Epstein paid an additional fee for each new victim that an existing victim lured in. 
+52.
+The frequency and duration of his crimes make clear that Epstein could not have 
+orchestrated his abuse without both an extensive network of allies and enablers, and steady, 
+unquestioned access to large amounts of cash.  In JP Morgan, Epstein had both. 
+4 USVI State Complaint, ¶60. 
+5 USVI State Complaint, ¶63. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 12 of 53
+
+13 
+II.
+JP MORGAN ENABLED EPSTEIN’S CRIMES FOR YEARS
+53.
+Epstein was a JP Morgan client from at least 1998 through 2013.  Over this time, 
+JP Morgan serviced roughly 55 accounts that belonged or were related to Epstein, collectively 
+worth hundreds of millions of dollars.  In addition to accounts in his own name, Epstein also 
+operated many JP Morgan accounts in the names of other companies and non-profit entities that 
+often had no legitimate business purpose.  These entities included 2013 Butterfly Trust, Coatue 
+Enterprises, LLC, C.O.U.Q. Foundation, Enhanced Education, Financial Trust Company, Inc., 
+HBRK Associates, Inc., Hyperion Air, Inc, JEGE, Inc., JEGE, LLC, NES, LLC, Plan D, LLC, 
+Southern Financial, LLC, and Southern Trust Company, each of which had accounts with JP 
+Morgan.  Epstein used many of these entities to make and conceal payments to his victims and his 
+associates or, as the U.S. Virgin Islands alleges, to help shield his assets from judgment. 
+54.
+Over the many years that Epstein served as a star JP Morgan client, he used his 55+ 
+accounts with the Bank extensively to facilitate his abuse.  According to the U.S. Virgin Islands 
+government, Epstein paid at least 20 of his victims through JP Morgan accounts, and these victims 
+collectively received in excess of $1 million.  Epstein also used his JP Morgan accounts to pay his 
+associates and enablers: the U.S. Virgin Islands government alleges that Epstein paid nearly $1.5 
+million to known recruiters.  
+55.
+The details of these enormous payments are deeply troubling.  Epstein paid the 
+plaintiff identified as Jane Doe 1, for example, more than $600,000 through his JP Morgan 
+accounts between 2003 and 2013.  Epstein’s abuse of Doe 1 began when she was only 14 years 
+old.6  In an obvious sign that something was amiss, Doe 1 listed Epstein’s New York City 
+townhouse as her address for purposes of the many payments she received from Epstein.   
+6 USVI Complaint, ¶66. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 13 of 53
+
+14 
+56.
+More troublingly, Epstein also regularly withdrew millions of dollars from his JP 
+Morgan accounts—in cash.  As early as 2006, a JP Morgan Rapid Response Team noted that 
+Epstein routinely withdrew $40,000 to $80,000 in cash from his accounts several times each 
+month, and more than $750,000 per year.  In each of 2004 and 2005, Epstein withdrew more than 
+$800,000 in cash.  Epstein also used his JP Morgan accounts to make at least 95 foreign remittances 
+to unknown payees—another blatantly suspicious pattern of conduct.   
+57.
+Some of Epstein’s use of cash is so obviously illegitimate that it almost defies 
+belief.  For example, the company that owned and operated Epstein’s private plane (Hyperion Air, 
+Inc.) issued more than $547,000 in checks—payable to cash—for “fuel expenses when traveling 
+to foreign countries.”7  Apart from the absurdity of paying for hundreds of thousands of dollars’ 
+worth of jet fuel in cash, some of these checks were issued when Epstein was under house arrest,8
+and plainly unable to travel anywhere.   
+58.
+Similarly, between January 2012 and June 2013, Hyperion converted more than 
+$120,000 into foreign currency, with the constituent cash withdrawals either exceeding the typical 
+$10,000 reporting threshold, or being structured in a way to avoid meeting this threshold.  Epstein 
+also used other entities under his control to funnel payments to his victims and associates.  For 
+example, Epstein used a charitable organization he controlled (and which had an account with JP 
+Morgan) to pay $29,464 to three young women, and used another organization to pay $124,232 to 
+Leslie Wexner, who is now known to have been a vital part of Epstein’s network.  
+7 USVI Complaint, ¶67. 
+8 As discussed further below, Epstein was arrested in Florida in 2006 on charges of soliciting a 
+minor for prostitution, and entered into a plea agreement in 2008. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 14 of 53
+
+15 
+III.
+JP MORGAN WILLFULLY IGNORED AND FAILED TO REPORT EPSTEIN’S 
+HIGHLY SUSPICIOUS PRACTICES 
+59.
+JP Morgan knew of Epstein’s true nature at least as early as 2006.  The previous 
+year, press reports emerged that claimed that Epstein paid a 14-year old girl in Palm Beach, Florida 
+for a massage and then proceeded to abuse her.  These press reports prompted other Epstein victims 
+to come forward with similar allegations.  In 2006, Epstein was arrested and indicted in Florida 
+for solicitation of a minor, amidst additional extensive press reports about his crimes. 
+60.
+JP Morgan was immediately aware of Epstein’s arrest.  In 2006, the same year 
+Epstein was arrested, JP Morgan’s Global Corporate Security Division found “[s]everal newspaper 
+articles … that detail the indictment of Jeffrey Epstein in Florida on felony charges of soliciting 
+underage prostitutes”9 (i.e. raping children).  Despite these reports and Epstein’s indictment, JP 
+Morgan decided to retain Epstein as a client—while concluding that his account “should be 
+classified as high risk” and require special approval.10
+61.
+JP Morgan’s knowledge of Epstein’s crimes at this time was not limited to lower-
+level employees, but extended all the way to the top.  At her deposition in the USVI v. JP Morgan 
+action, Mary Erdoes (who was CEO of JP Morgan Private Bank from 2005 until she became CEO 
+of the Asset & Wealth Management Division in 2009) admitted that JP Morgan was aware in 2006 
+not only that Epstein was abusing women and underage girls, but that Epstein paid these victims 
+in cash.  Crucially, this was the same year that a team at JP Morgan made an internal report that 
+Epstein was withdrawing up to $80,000 in cash at a time, multiple times a month.
+9 USVI Complaint, ¶44. 
+10 USVI Complaint, ¶44. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 15 of 53
+
+16 
+62.
+In 2008, Epstein pled guilty to several of the charges that he faced in Florida, 
+including solicitation of a minor for prostitution.  As part of his plea arrangement, Epstein was 
+sentenced to serve 18 months in jail and was required to register as a sex offender.11  To the extent 
+JP Morgan had any doubts about the allegations against Epstein in 2006, Epstein’s guilty plea in 
+2008 erased them.  
+63.
+Internally, Epstein’s guilty plea led some of JP Morgan’s employees to assume that 
+the Bank would immediately terminate its sprawling relationship with the now-convicted sex 
+trafficker.  But they would be mistaken, as JP Morgan’s senior-most executives decided to 
+maintain this lucrative, if problematic, relationship.  In August 2008, a JP Morgan employee wrote 
+that she “would count Epstein’s assets as a probable outflow for ’08 ($120mm or so?) as I can’t 
+imagine it will stay (pending [Jamie] Dimon review).”12
+64.
+Given that JP Morgan continued to service Epstein’s accounts for at least five more 
+years, the “Dimon review” evidently resulted in a decision not to take any action against Epstein 
+following his guilty plea but, rather, to retain the lucrative relationship.  The same year, in a 
+reflection of JP Morgan’s decision to brush off Epstein’s known crimes, Erdoes received an email 
+asking her whether Epstein was at an event “with miley cyrus”—who was only 16 years old at the 
+time.13
+65.
+Press reports about Epstein’s abusive conduct continued to emerge in subsequent 
+years, and JP Morgan compliance employees continued to express concerns about the Bank’s 
+11 Epstein’s full non-prosecution agreement with Florida became public in 2009.  This agreement 
+alleged that Epstein trafficked and engaged in illicit sexual conduct with minors, including across 
+state lines.   
+12 USVI Complaint, ¶51. 
+13 USVI Complaint, ¶95. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 16 of 53
+
+17 
+continued patronage of someone with Epstein’s history.  In 2010, JP Morgan learned of even more 
+allegations in the press against Epstein, detailing his trafficking of women and minors for abuse.  
+In an internal email, an employee in JP Morgan’s risk management division referred to “new 
+allegations of an investigation related to child trafficking,” and asked whether the Bank was “still 
+comfortable with this client who is now a registered sex offender.”14  Other JP Morgan compliance 
+employees decided that Epstein “should go.”15  But reflecting the Bank’s fundamental attitude to 
+Epstein’s crimes, a different JP Morgan risk management employee dismissed these disturbing 
+reports as routine: “In my short tenure working on the account these stories pop up including these 
+from the summer.”16
+66.
+The next year, in January 2011, JP Morgan once again was made keenly aware of 
+yet more allegations of human trafficking against Epstein.  And yet again, JP Morgan brushed off 
+the allegations.  That month, JP Morgan conducted a review of Epstein’s accounts because a “few 
+news stories during 2010 connect[ed] Jeffrey Epstein to human trafficking.”17  The U.S. Virgin 
+Islands alleges that JP Morgan’s coverage team “met to discuss the situation and agreed to enhance 
+monitoring and document a discussion with the client.”18  Unsurprisingly, Defendant Jes Staley—
+the CEO of JP Morgan’s Investment Bank who seemingly participated in Epstein’s crimes, as 
+discussed in Section IV below—was the JP Morgan executive that the Bank entrusted to hold this 
+“discussion” with Epstein.  Also unsurprisingly, Epstein claimed “there was no truth to the 
+14 USVI Complaint, ¶45. 
+15 USVI Complaint, ¶98. 
+16 USVI Complaint, ¶45. 
+17 USVI Complaint, ¶46. 
+18 USVI Complaint, ¶47. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 17 of 53
+
+18 
+allegations” against him and “no evidence.”19  JP Morgan internally concluded that it would 
+“continue to monitor the accounts and cash usage closely going forward.”20
+67.
+In other words, JP Morgan knew that Epstein was a convicted sexual offender who 
+heavily relied on his cash to pay his victims and his associates.  JP Morgan also knew that Epstein 
+regularly withdrew huge amounts of cash from his many accounts with the Bank.  Yet JP Morgan’s 
+response was to simply “monitor” Epstein’s already-extraordinary “cash usage,” rather than take 
+any measures to report his blatantly suspicious transactions to the authorities.  In a hint that Epstein 
+was too large of a client for JP Morgan to take action against, the Bank had granted Epstein a new 
+$50 million line of credit only weeks earlier, in December 2010. 
+68.
+Only two months later, JP Morgan’s Global Corporate Security Division internally 
+circulated even more devastating reports about Epstein’s abuses.  In March 2011, this division 
+reported that “[n]umerous articles detail various law enforcement agencies investigating Jeffrey 
+Epstein for allegedly participating, directly or indirectly, in child trafficking and molesting 
+underage girls.”21  Even more damningly, this report also noted that Epstein had “settled a dozen 
+civil lawsuits out of court from his victims regarding solicitation.”22  This made it abundantly clear 
+to JP Morgan that Epstein was not a one-off offender—he was a prolific, serial abuser of women 
+and girls that he paid through his many JP Morgan bank accounts. 
+69.
+This same March 2011 report also noted that a company named “MC2 Model 
+Management and Jeffrey Epstein engaged in racketeering that involved luring in minor children 
+19 USVI Complaint, ¶47. 
+20 USVI Complaint, ¶47. 
+21 USVI Complaint, ¶48. 
+22 USVI Complaint, ¶48. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 18 of 53
+
+19 
+for sexual play for money,” and that MC2’s owner was a “frequent passenger on Epstein’s private 
+jet and often visited Epstein in jail.”23  Worse, the report noted that Epstein paid MC2 $1 million 
+in 2005, and that it was “unknown if the money was given as a secret investment or payment for 
+services as a procurer.”24
+70.
+JP Morgan was plainly concerned that Epstein was using his accounts with the Bank 
+to “procure” ever more victims.  This concern within the Bank soon also spread to others within 
+Epstein’s orbit.  Although most of the public learned of Ghislaine Maxwell’s key role in Epstein’s 
+abuses only after her arrest in 2019, JP Morgan suspected her involvement years earlier.  In August 
+2011, Maxwell applied to open a new account with JP Morgan for a “personal recruitment 
+consulting business.”25  Internally, JP Morgan’s AML director asked: “What does she mean by 
+personal recruitment?? Are you sure this will have nothing to do with Jeffrey? If you want to 
+proceed, I suggest that we flag this as a High Risk Client.”26  While it is unclear how JP Morgan 
+may have treated Maxwell internally, the Bank plainly did not ever report Maxwell’s suspicious 
+“recruitment” activities to regulators.  
+71.
+Also in 2011, a senior JP Morgan compliance official who reviewed the Bank’s 
+relationship with Epstein warned that there was “[l]ots of smoke” and “[l]ots of questions” 
+surrounding Epstein’s criminal behavior.27  According to the U.S. Virgin Islands’ complaint 
+against JP Morgan, these included that:  
+23 USVI Complaint, ¶48. 
+24 USVI Complaint, ¶48. 
+25 USVI Complaint, ¶49. 
+26 USVI Complaint, ¶49. 
+27 USVI Complaint, ¶98. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 19 of 53
+
+20 
+
+Epstein “is alleged to be involved in the human trafficking of young 
+girls and law enforcement is also allegedly investigating his 
+involvement in this activity.” 
+
+“He is also an alleged personal associate of the CEO of the 
+Investment Bank (Jes Staley).” 
+
+“AML Operations went to a [Private Bank] risk meeting late last 
+week requesting that we exit this relationship.” 
+
+“[W]hether Epstein if further exposed could have a potential serious 
+impact.” 
+
+“The one new concerning thing is the one article about the DOJ 
+investigation is saying they brought under age girls to the US via a 
+modeling agency M2 that is owned by a guy named Brunel. Turns 
+out the banker said today we extended Epstein a loan in relation to 
+this modeling agency.”  The writer claims that the agency is “legit” 
+and that “it would be hard for us to tell” if “girls were exploited via 
+their contract or arrangement.”  The loan was a letter of credit 
+provided by JP Morgan to MC2 Model Management. 
+
+In 2004, Epstein sponsored private bank accounts and credit cards 
+for two 18 year olds “that appear to be part of his inner entourage.  
+One is mentioned in many of the recaps of the escapades as a willing 
+participant and assistant when hosting visitors.  She has received 
+about 450,000 since opening from Epstein . . . . Both can be put in 
+Palm Beach during 2004, by way of debit charges, which was when 
+most allegations were from . . . . He did pay other girls, many models 
+no huge amounts.  Sugar Daddy!” 
+
+“His foundation account did pay donations to the Palm Beach Police 
+Dept as reported just before the case started.  The same foundation 
+account did pay monies direct to models and payments direct to 
+specialty schools (massage, culinary) and university’s on behalf of 
+models/aspiring actresses.  Nothing was astronomical.” 
+
+“His business accounts Fiduciary we saw no client activity.  I know 
+his biggest client, Wexner parted ways when he was convicted.  His 
+[Due Diligence Reports] say he manages a few private clients 
+money but never says who.  I would like to know if in fact he is 
+managing anyone’s money at this point or is it all his money.  We 
+saw no evidence of disbursements even in the rocky years 08-09.  
+When the well to do were running to their mattresses, he did not 
+have any distributions from his accounts at Bear or JP.  He does have 
+money at other institutions so maybe it happened there.” 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 20 of 53
+
+21 
+USVI v. JP Morgan Complaint, ¶98. 
+72.
+Despite unequivocally knowing that Epstein was a serial sex offender, and despite 
+the obviously suspicious nature of Epstein’s activity with the Bank, JP Morgan took no corrective 
+action against Epstein for years.  Finally, in 2013, JP Morgan terminated its relationship with 
+Epstein; it continued to do business with him for several years afterward (as detailed below).  The 
+year that JP Morgan terminated Epstein’s accounts, the Bank noted that “[p]er bank policy, felons 
+are considered high risk and require additional approval.”28  Epstein had been a convicted felon 
+for almost a decade before his banking accounts were terminated.  That the Company left the 
+accounts in place for so long, despite such deeply troubling, public accounts of his crimes, suggests 
+either that the Bank’s senior-most executives reviewed and approved Epstein’s ongoing 
+relationship with the Bank despite knowing about his crimes; or the Bank’s oversight system 
+failed, allowing Epstein’s abusive conduct to continue unchecked.   
+IV.
+JP MORGAN’S SENIOR-MOST EXECUTIVES SUPERVISED THE BANK’S 
+RELATIONSHIP WITH EPSTEIN, EVEN YEARS AFTER JP MORGAN 
+TERMINATED EPSTEIN’S ACCOUNTS 
+73.
+JP Morgan was clearly fully aware of Epstein’s abusive conduct, and its lower-level 
+employees held deep concerns about the Bank’s ever-deeper relationship with Epstein.  But JP 
+Morgan’s senior-most executives did not share this concern—and this extends far beyond just 
+Defendant Staley, Epstein’s close friend and apparent fellow abuser (as discussed infra), whom JP 
+Morgan is now attempting to hold solely responsible for its longstanding failures.  Mary Erdoes—
+who currently serves as the CEO of JP Morgan’s Asset and Wealth Management division—visited 
+Epstein at his New York home in both 2011 and 2013.  Erdoes is also reported to have exchanged 
+28 USVI Complaint, ¶50. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 21 of 53
+
+22 
+“dozens of emails” with Epstein, including with regard to a charitable fund that JP Morgan 
+considered launching together with Epstein.29  Similarly, John Duffy—who served as Vice 
+Chairman of JP Morgan and as the CEO of JP Morgan’s private bank for ultrawealthy clients—
+also visited Epstein at his New York home in April 2013.  Just one month later, the private bank 
+that Duffy ran re-authorized Epstein to borrow money against his accounts, despite JP Morgan’s 
+compliance officials’ repeated warnings about Epstein’s suspicious practices and criminal 
+behavior.  Another senior JP Morgan executive who worked at the private bank, Justin Nelson, 
+visited Epstein’s New York home around six times between 2014-2017—after the bank 
+supposedly terminated Epstein’s accounts.  Nelson also visited Epstein at his ranch in New Mexico 
+in 2016.  Defendant Kessler—who was a member of the Board from 1995 to 2007⸺was former 
+college classmates, close friends and business partners with Epstein’s main benefactor, Leslie 
+Wexner (“Wexner”), with whom Kessler co-founded a real estate development business.  Wexner, 
+a multibillionaire, has been called Epstein’s “biggest client” and likely helped provide Epstein with 
+a substantial part of the wealth that enabled his scheme of sexual abuse and predation.  
+74.
+These ties pale in comparison, however, to Defendant Staley’s intimate—and 
+potentially criminal—relationship with Epstein.  Staley led JP Morgan’s Private Banking division 
+(which was later run by Duffy) from 1999-2001, during which time he formed a close relationship 
+with Epstein.  Staley later served as the CEO of JP Morgan’s Asset Management division from 
+2001 until 2009, and was then promoted in 2009 to serve as the CEO of JP Morgan’s Investment 
+Bank.  Staley left JP Morgan in 2013: the same year that the bank terminated Epstein’s accounts.  
+75.
+Between 2008 and 2013, Staley used his JP Morgan email account to exchange 
+some 1,200 emails with Epstein, reflecting the deep bond the two men shared.  Some of these 
+29 WSJ Article. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 22 of 53
+
+23 
+emails suggest that Staley may have participated in or taken advantage of Epstein’s criminal 
+trafficking operation.  In December 2008, for example, Epstein and Staley discussed Staley visiting 
+Epstein at his residence in Palm Beach.  Although Epstein was not going to be in Palm Beach at 
+the time, Epstein invited Staley to use his house.  In early January 2009, around the time that Staley 
+was staying at Epstein’s house in Palm Beach, Epstein wired $2,000 from his JP Morgan account 
+to a woman with an Eastern European surname.  (Many of the women that Epstein trafficked were 
+from Eastern Europe).  
+76.
+Later that same year, Epstein and Staley again discussed getting together, this time 
+in London.30  In late August 2009, Epstein asked Staley whether he would need anything while he 
+was in London; Staley said yes.  Just two days later, Epstein again used his JP Morgan account to 
+wire $3,000 to the same woman he had paid while Staley was in Palm Beach.  This, of course, was 
+after Epstein’s 2008 plea agreement related to his charges for solicitation of a minor in Florida.  
+77.
+Just months later, in November 2009, while Epstein was in jail, Staley again took 
+advantage of Epstein’s hospitality—but this time at Epstein’s now-infamous private island, Little 
+St. James.  While there, Staley wrote Epstein via email: “So when all hell breaks lo[o]se, and the 
+world is crumbling, I will come here, and be at peace.  Presently, I’m in the hot tub with a glass of 
+white wine.  This is an amazing place.  Truly amazing.  Next time, we’re here together.  I owe you 
+much.  And I deeply appreciate our friendship.  I have few so profound.”31
+78.
+The following month, Staley made clear that he was fully aware of Epstein’s crimes 
+and the risk that his ongoing relationship with Epstein posed to him.  On December 4, 2009, Staley 
+seemingly met with Epstein in New York, and then wrote to him via email: “I realize the danger 
+30 USVI Complaint, ¶55. 
+31 USVI Complaint, ¶56. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 23 of 53
+
+24 
+in sending this email.  But it was great to be able, today, to give you, in New York City, a long 
+heartfelt, hug.”32
+79.
+The next day and later that same month, Epstein sent pictures of young women to 
+Staley, to which Staley responded with cryptic commentary.  Staley again visited Little St. James 
+the following month, in January 2010.  Later that year, in July, Staley had the following exchange 
+with Epstein via email, strongly suggesting that Epstein was procuring victims for Staley:  
+Staley: “Maybe they’re tracking u? That was fun. Say hi to Snow White.”  
+Epstein: “[w]hat character would you like next?”  
+Staley: “Beauty and the Beast” 
+Epstein: “[W]ell one side is available.”33
+80.
+After the government of the U.S. Virgin Islands sued JP Morgan in this Court, JP 
+Morgan filed its own complaint against Staley, effectively alleging that Staley was solely 
+responsible for the Bank’s longstanding relationship with Epstein, and that Staley concealed 
+Epstein’s criminal activity from JP Morgan.  But the allegations detailed above, and those brought 
+by Doe 1 and the U.S. Virgin Islands government, make clear that employees and senior executive 
+officers across JP Morgan were fully aware of Epstein’s abusive conduct, and fully aware that 
+Epstein was using his many JP Morgan accounts in a manner that was highly suspicious, if not 
+obviously illegitimate.  JP Morgan’s effort to paint Staley as the sole wrongdoer is little more than 
+an attempt to evade legal and reputational responsibility for knowingly failingly to report—and 
+thereby enabling—Epstein’s criminal conduct for more than a decade.  
+32 USVI Complaint, ¶57. 
+33 USVI Complaint, ¶61. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 24 of 53
+
+25 
+V.
+BY FAILING TO TAKE ACTION IN RESPONSE TO NUMEROUS RED FLAGS 
+CONCERNING EPSTEIN’S CONDUCT, THE DIRECTOR DEFENDANTS 
+BREACHED THEIR FIDUCIARY DUTIES 
+81.
+The Board’s most fundamental responsibility is to ensure that the Company is 
+operating within the law.  JP Morgan, which operates a national bank, is subject to stringent 
+requirements with respect to detecting and reporting potentially criminal activity.  But instead of 
+conducting effective oversight of JP Morgan’s operations, the Board sat idly by while the 
+Company was used to facilitate a massive sex trafficking enterprise.  Instead of ensuring that the 
+appropriate reports of suspicious activity were filed with federal authorities, for years the Board 
+allowed the Bank to continue to rake in fees from Epstein’s dozens of accounts.  Even after the 
+Company closed Epstein’s accounts, the Board continued to abdicate its responsibility to file 
+SARs.  Finally, the Board failed to act with respect to its own executive, Staley, who knew about 
+and participated in Epstein’s pernicious sex-trafficking ring. 
+A.
+COMPLYING WITH FEDERAL BANKING LAWS AND REGULATIONS IS MISSION 
+CRITICAL FOR JP MORGAN
+82.
+JP Morgan and its commercial bank subsidiaries are regulated and supervised by 
+numerous regulatory agencies, both domestically and internationally, including the U.S. Federal 
+Reserve Board and the Office of the Comptroller of the Currency (“OCC”), as well as other federal 
+agencies, state banking and insurance departments, and international financial services authorities. 
+83.
+JP Morgan acknowledges that the Company is “highly regulated” and represents in 
+its Code of Conduct that legal compliance with those laws and regulations “is not just a critical 
+part of our business, but fundamental to who we are.”  It advises its employees and directors that 
+they must “comply with the letter, spirit, and intent of laws, regulations and Firm policies,” and 
+that any violations “may weaken customer confidence, put our reputation at risk, impact market 
+integrity, or result in regulator criticism, legal actions, fines or penalties, or other negative 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 25 of 53
+
+26 
+repercussions.”  JP Morgan employees and directors are prohibited from engaging in outside 
+activities that “reflect adversely on JP Morgan or give rise to a real or apparent conflict of interest 
+with [their] duties to the firm.”  Dimon himself has asserted that the Company has “zero tolerance” 
+for improper behavior and that the bank complies with “the letter and spirit of the laws and 
+regulations everywhere we do business.”34
+84.
+Financial institutions, like JP Morgan, are susceptible to serving as conduits for 
+significant financial crimes, including money laundering.  The federal government has therefore 
+established a series of clear AML laws and regulations meant to safeguard the economy by 
+ensuring that banks do not engage in, or facilitate, illegitimate activities.  
+85.
+The primary laws governing banks with respect to AML are the Bank Secrecy Act 
+of 1970 (“BSA”) and certain provisions of the USA Patriot Act.35
+86.
+Congress enacted the BSA to address an increase in money laundering making its 
+way through financial institutions.  Together, the BSA and the Patriot Act create mandatory 
+reporting and record-keeping requirements to track currency transactions and detect and prevent 
+money laundering and the facilitation of other crimes.  The law requires banks to maintain 
+compliance programs to prevent, identify, and report suspicious and potentially criminal activity.  
+The BSA and its implementing regulations mandate that banks institute policies, procedures, and 
+controls to protect against money laundering, oversee monitoring with respect to BSA 
+requirements, and test their compliance programs.  Each regulated bank “must have a BSA/AML 
+34 JP Morgan Code of Conduct (2022) at ii., 
+ available at https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-
+co/documents/code-of-conduct.pdf. 
+35 United Strengthening America by Providing Appropriate Tools Required to Intercept and 
+Obstruct Terrorism Act of 2001(USA-PATRIOT), Pub. L. 107-56. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 26 of 53
+
+27 
+compliance program commensurate with its respective BSA/AML risk profile.”36  And it is the 
+board of directors, “acting through senior management,” that is “ultimately responsible for 
+ensuring that the bank maintains an effective BSA/AML internal control structure, including 
+suspicious activity monitoring and reporting.”37  Yet policies are not enough; as explained by the 
+Federal Financial Institutions Examinations Counsel—an interagency group of bank 
+regulators⸺“practices must coincide with the bank’s written policies, procedures, and 
+processes.”38
+87.
+Internal controls should (among other requirements): 
+
+Identify banking operations . . . more vulnerable to abuse by money 
+launderers and criminals; provide for periodic updates to the bank’s 
+risk profile; and provide for a BSA/AML compliance program 
+tailored to manage risks. 
+
+Inform the board of directors, or a committee thereof, and senior 
+management, of compliance initiatives, identified compliance 
+deficiencies, and corrective action taken, and notify directors and 
+senior management of [SARs] filed. 
+
+Implement 
+risk-based 
+[customer 
+due 
+diligence] 
+policies, 
+procedures, and processes. 
+
+Identify reportable transactions and accurately file all required 
+reports including [SARs], Currency Transaction Reports (“CTRs”), 
+and CTR exemptions . . . [and] 
+
+Provide sufficient controls and monitoring systems for timely 
+detection and reporting of suspicious activity.39
+36 FFIEC Bank Secrecy Act / Anti-Money Laundering Examination Manual (2006) (“FFIEC 
+Manual”), at 28, available at https://www.ffiec.gov/pdf/bsa_aml_examination_manual2006.pdf. 
+37 Id. at 29.  
+38 Id.
+39 Id.  
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 27 of 53
+
+28 
+88.
+In addition to the broad requirement for effective, meaningful internal controls, 
+federal law also requires that banks promptly notify authorities upon discovering any suspicious 
+activity.  These SARs are “the cornerstone of the BSA reporting system” and are “critical to the 
+United States’ ability to utilize financial information to combat terrorist financing, money 
+laundering, and other financial crimes.”40  The failure to timely file SARs deprives law 
+enforcement of essential information it needs to combat serious crimes.   
+89.
+BSA’s implementing regulations, 12 CFR § 21.11 and 12 CFR § 163.180, specify 
+the circumstances under which banks must file a SAR.  Section 21.11 provides that banks must 
+file SARs whenever they “detect a known or suspected violation of Federal law.”41  More 
+specifically, SARs are required whenever a bank: 
+detects any known or suspected Federal criminal violation, or pattern of criminal 
+violations . . . involving a transaction or transactions conducted through the bank 
+and involving or aggregating $5,000 or more in funds or other assets where the 
+bank believes . . . that it was used to facilitate a criminal transaction, and the bank 
+has a substantial basis for identifying a possible suspect . . .42
+Similarly, the bank must file a SAR for any transaction conducted through the bank: 
+aggregating $5,000 or more in funds or other assets, if the bank knows, suspects, 
+or has reason to suspect that:  . . . (ii) The transaction is designed to evade any 
+regulations promulgated under the Bank Secrecy Act; or (iii) the transaction has no 
+business or apparently lawful purpose or is not the sort in which the particular 
+customer would normally be expected to engage, and the institution knows of no 
+reasonable explanation for the transaction after examining the available facts, 
+including the background and possible purpose of the transaction.43
+40 Id. at 60. 
+41 12 C.F.R. ⸹ 21.11(a). 
+42 12 C.F.R. ⸹ 21.11(c)(2). 
+43 12 C.F.R. ⸹ 21.11(c)(4). 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 28 of 53
+
+29 
+90.
+Notably, SARs must be submitted the finding of suspicious activity.  Banks may 
+not avoid filing a SAR simply because they are not certain the activity at issue constitutes a crime.   
+91.
+Banks must file any SARs within 30 days “of the initial detection of facts that may 
+constitute a basis for filing a SAR.”44  After filing the SAR, management must “promptly notify” 
+the bank’s board or a relevant board committee.45  When the suspicious or criminal conduct is 
+ongoing, banks are expected to file a new SAR every 90 days.46
+B.
+JP MORGAN’S BOARD IS OBLIGATED TO ENSURE AND OVERSEE A ROBUST 
+AML PROGRAM
+92.
+JP Morgan’s directors owe fiduciary duties to the Company to conduct adequate 
+oversight to ensure JP Morgan and its subsidiaries are not flouting federal laws and regulations.  
+These duties include the duty to develop, implement, and enforce effective internal controls 
+throughout the Company, including with respect to compliance with federal anti-money-
+laundering laws and regulations.  Federal agencies that supervise the banking industry have 
+repeatedly emphasized the importance of board oversight with respect to BSA/AML compliance. 
+93.
+JP Morgan’s primary banking subsidiary, JPMorgan Chase Bank, N.A., is regulated 
+by the OCC.47  OCC-regulated banks are required to “establish and implement a risk governance 
+framework to manage and control the covered bank’s risk-taking activities.”48  For this purpose, 
+44 12 C.F.R. ⸹ 21.11(d). 
+45 12 C.F.R. ⸹21.11(h)(1).
+46 
+FinCen, 
+The 
+SAR 
+Activity 
+Review 
+(October 
+2000), 
+at 
+27, 
+available 
+at 
+https://www.fincen.gov/sites/default/files/shared/sar_tti_01.pdf. 
+47 12 U.S.C. § 1 et seq.
+48 12 C.F.R. § Pt. 30, App. D– OCC Guidelines Establishing Heightened Standards for Certain 
+Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal 
+Branches. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 29 of 53
+
+30 
+the OCC has established a set of “minimum standards,” both for the bank’s compliance systems 
+and for its board of directors’ oversight.  The standards require, among other things, that the board 
+of the bank establish an effective risk governance framework and “actively oversee the [] bank’s 
+risk-taking activities and hold management accountable for adhering to the risk governance 
+framework.”49
+94.
+The OCC’s Handbook on Corporate and Risk Governance explains that it is the 
+bank’s board that is responsible, inter alia, for “providing effective oversight” and for confirming:  
+(i)
+“that the bank has a risk management system, including audit, suitable for the 
+bank’s size and activities, and understanding the bank’s material risks,” 
+(ii)
+“that the bank has an effective system of internal controls,” and  
+(iii)
+“that management’s actions to correct material weaknesses, including those 
+identified by the bank, its auditors and regulators, are timely and effective.”50
+95.
+The Handbook also provides that the bank’s board must “oversee the bank’s 
+compliance management programs.”51  As such, the “OCC expects the board to be responsible for 
+confirming that a system of internal controls is in place.”52  Accordingly, the board must “receive 
+information about the effectiveness of the bank’s internal controls and information systems” and 
+“demonstrate that it has an adequate understanding of the bank’s IT infrastructure, inherent risks, 
+49 12 C.F.R. § Pt. 30, App. D. ⸹ III(B) (emphasis added). 
+50 Comptroller’s Handbook:  Corporate and Risk Governance (v2.0, 2019), at 14, available at 
+https://www.occ.gov/publications-and-resources/publications/comptrollers-
+handbook/files/corporate-risk-governance/index-corporate-and-risk-governance.html. 
+51 Id. at 56. 
+52 Id.
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 30 of 53
+
+31 
+and existing controls.”53  Significantly, the OCC’s Handbook confirms that “the sophistication of 
+[a bank’s] risk management system should reflect the bank’s size, complexity, and risk profile.”54
+96.
+JP Morgan itself—the parent entity—is regulated by, among others, the Federal 
+Reserve.  Federal Reserve regulations require, among other things, that holding companies like JP 
+Morgan, which have banking subsidiaries, maintain an enterprise-wide risk management program 
+that identifies and manages risk throughout the organization, and that the company’s board ensure 
+that the banking subsidiaries have the proper internal controls and risk management systems in 
+place: 
+One of the primary areas of focus for consolidated supervision of large complex 
+[bank holding companies] is the adequacy of governance provided by the board and 
+senior management.  The culture, expectations, and incentives established by the 
+highest levels of corporate leadership set the tone for the entire organization and 
+are essential determinants of whether a banking organization is capable of 
+maintaining fully effective risk management and internal control processes. 
+97.
+Further, Regulation YY of the Federal Reserve (12 C.F.R. § 252.33) requires the 
+Board’s risk committee approve and review the bank’s risk-management policies and oversee the 
+global risk-management framework.  The framework “must be commensurate with [the bank’s] 
+structure, risk profile, complexity, activities, and size and must include”: 
+(i)
+Policies and procedures establishing risk-management governance, risk 
+management procedures, risk-control infrastructure for its global operations; and  
+(ii)
+Processes and systems for implementing and monitoring compliance with such 
+policies and processes, including: 
+(A)
+Processes and systems for identifying and reporting risks and risk-
+management deficiencies, including regarding emerging risks, and 
+ensuring effective and timely implementation of actions to address 
+53 Id.
+54 Id. at 35. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 31 of 53
+
+32 
+emerging risks and risk-management deficiencies for its global 
+operations [and]  
+(B)
+Processes and systems for establishing managerial and employee 
+responsibility for risk management . . . 55
+98.
+Board oversight of those systems is imperative, according to the Federal Reserve, 
+because “the board serves a critical role in maintaining the firm’s safety and soundness and 
+continued financial and operational resilience of its consolidated operations.”56
+99.
+Two standing committees of the Board—the Risk Committee and the Audit 
+Committee—impose additional oversight obligations related to the Company’s risk management 
+systems, along with its internal controls.  
+100.
+The Risk Committee’s purpose, according to its Charter, is “to assist the Board in 
+its oversight of management’s responsibility to implement an effective global risk management 
+framework reasonable designed to identify, assess and manage the Firm’s strategic, credit and 
+investment, market, and operational risks.”  The Risk Committee “oversees reputational risks and 
+conduct risks within its scope of responsibility.”  It is required to receive and review reports from 
+management concerning significant risks, set qualitative and quantitative limits for risk, and 
+approve certain risk policies.  The Risk Committee is required to report periodically to the Board 
+concerning any “significant matters” reviewed by the committee. 
+101.
+The Risk Committee is also responsible for appointing and replacing the Chief Risk 
+Officer (“CRO”), and setting the Chief Risk Officer’s compensation.  The Risk Committee must 
+also review the CRO’s “proposed priorities, budget and staffing plans annually.” 
+55 12 C.F.R. ⸹ 252.33 (a)(2). 
+56 SR 21-3/CA21-1: Supervisory Guidance on Board of Directors’ Effectiveness, Board of 
+Governors 
+of 
+the 
+Federal 
+Reserve 
+System, 
+available 
+at: 
+https://www.federalreserve.gov/supervisionreg/srletters/SR2103.htm
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 32 of 53
+
+33 
+102.
+The Audit Committee’s purpose, in relevant part, is to “assist the Board in its 
+oversight of . . . [m]anagement’s responsibilities to ensure that there is an effective system of 
+controls reasonably designed to:  . . . [m]aintain compliance with the corporation’s ethical 
+standards, policies, plans and procedures, and with laws and regulations.”  The Audit Committee 
+“oversees reputational risks and conduct risks within its scope of responsibility . . .” 
+103.
+The Charter of the Audit Committee provides that the committee must receive from 
+management—including 
+the 
+Risk 
+and 
+Compliance 
+functions—“communications 
+and 
+presentations,” including concerning “significant control issues” and “material weaknesses in the 
+internal control environment.”  The Audit Committee must also “receive communications and 
+presentations from management summarizing the suspicious activity report filing activity of the 
+Firm and/or its subsidiaries with the appropriate regulatory and law enforcement agencies.” 
+104.
+By law, regulation, and the Company’s own policies, directors had a non-delegable 
+obligation to conduct sufficient, effective oversight to ensure that the bank was operating in 
+compliance with the law.  Instead, the Board ignored a series of glaringly obvious indications that 
+Jeffrey Epstein used the bank for years to facilitate a sex trafficking operation and to abuse young 
+women and girls. 
+C.
+THE DIRECTORS FAILED TO RESPOND TO BRIGHT RED FLAGS CONCERNING 
+EPSTEIN’S USE OF THE BANK’S SERVICES TO CONDUCT A CRIMINAL 
+ENTERPRISE
+105.
+Despite the clear obligations of the Company’s Board—set forth in federal 
+regulation and in the Company’s own policies and committee charters⸺to ensure that JP Morgan 
+was conducting its business in compliance with the law, for years the Board sat on its hands as the 
+Bank continued to provide services to disgraced sexual offender Epstein.   
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 33 of 53
+
+34 
+106.
+Since 2006, the directors serving on the Board had knowledge that Epstein was a 
+serial abuser of young women and girls.  Even so, the Bank declined to turned him away, choosing 
+instead to rake in fees year after year from servicing the accounts through which he operated the 
+most notorious sex trafficking ring in recent history.  The Board also failed to ensure that the 
+Company was meeting its obligations under federal anti-money-laundering laws.  Upon 
+information and belief, at no point from 2006 onward did JP Morgan submit any SARs concerning 
+Epstein, despite the mounds of evidence available to the Bank that Epstein was using his cash to 
+fund a criminal enterprise and that he was often attempting to structure his transactions to avoid 
+government oversight. 
+107.
+As discussed above, from 1998 to 2013, the Company serviced more than 4 dozen 
+accounts for Epstein worth hundreds of millions of dollars, which he used to facilitate his sexual 
+abuse of young girls and women.  
+108.
+The Board knew about Epstein’s predation no later than 2006.  That year, Epstein 
+was arrested and indicted for solicitation of a minor, and the press extensively reported about his 
+abuse of that, and other, victims.  The Company’s Global Corporate Security Division flagged 
+these press reports, but JP Morgan maintained Epstein’s account, despite concluding that it should 
+be “classified as high risk” and require special approval. 
+109.
+Mary Erdoes, a high-level executive at the Company, admitted in a deposition that 
+the Company knew in 2006 that Epstein abused young girls and paid them in cash.  At the same 
+time, JP Morgan employees were reporting that Epstein was withdrawing $80,000 at a time 
+multiple times a month.  The Bank was also aware that Epstein pleaded guilty in 2008, was 
+sentenced to serve 18 months in jail, and registered as a sex offender. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 34 of 53
+
+35 
+110.
+Despite being aware of Epstein’s arrest and guilty plea, and press reports 
+concerning his pedophilia, sexual abuse, and engagement in prostitution, the Bank continued to 
+provide Epstein with banking services for seven more years following his arrest, facilitating his 
+criminal trafficking enterprise.  The Bank continued doing business with the disgraced, but 
+wealthy, Epstein, even after Defendant Dimon’s purported review of Epstein’s account. 
+111.
+As discussed further above, revelations continued even after Epstein’s guilty plea.  
+In 2011, the Company was made aware of more allegations of human trafficking involving 
+Epstein.  But while employees discussed “the situation,” they did little more than encourage 
+Staley—Epstein’s buddy and co-conspirator—to “discuss” the allegations with him.  When 
+Epstein denied the allegations, the Bank continued to do business with him.  Later in 2011, the 
+Bank was aware of reports that law enforcement was investigating Epstein for participating in 
+trafficking and molestation of children and that Epstein had settled “a dozen” claims regarding 
+solicitation.  Even a senior compliance official warned that there were “[l]ots of questions” 
+concerning Epstein’s behavior.  But the Bank refused to cut Epstein off until 2013. 
+112.
+The Board was no doubt aware of the mountain of press reports concerning 
+Epstein’s conduct, particularly following his very public arrest in 2006.  Yet the Board did not take 
+action to terminate the accounts of the ultrawealthy Epstein or cause management to file timely 
+SARs.  In failing to ensure that the Bank ceased doing business with the sexual predator, the 
+directors engaged in bad faith, risking liability for the Company and causing untold reputational 
+harm.   
+113.
+The obligation to file SARs concerning Epstein’s conduct did not cease when the 
+Company finally, and belatedly, terminated Epstein’s account in 2013.  Yet it appears that the 
+Bank continued to fail to submit such reports to authorities from 2013 until at least 2019.  Directors 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 35 of 53
+
+36 
+on the Board during this period continued to be responsible for ensuring that the Bank met its legal 
+obligations, including the obligation to file reports concerning the criminal activity in which 
+Epstein engaged while he maintained a banking relationship with JP Morgan.  By failing to ensure 
+that the Bank complied with federal laws concerning suspicious transactions and transactions 
+potentially implicating criminal activity, Defendants acted in bad faith and breached their fiduciary 
+duties to the Company.57
+D.
+THE COMPANY HAD A TROUBLING HISTORY OF FAILING TO COMPLY WITH 
+BSA/AML REGULATIONS AND THE BOARD SHOULD HAVE EXERCISED 
+HEIGHTENED DILIGENCE
+114.
+Furthermore, no later than January 2013, the Board was fully aware of weaknesses 
+in JP Morgan’s AML program and should have exercised heightened diligence conducting 
+oversight.  On January 14, 2013, the Company’s main banking subsidiary, JP Morgan Chase, N.A., 
+entered into a consent order with the OCC (the “2013 OCC Consent Order”) because the regulator 
+had “identified deficiencies in the Bank’s overall program for Bank Secrecy Act/Anti-Money 
+Laundering (‘BSA/AML’) compliance . . . ”  More specifically, JP Morgan had failed to correct a 
+previously identified problem and BSA/AML compliance violation, and had also violated 
+regulations concerning suspicious activity reports. 
+115.
+According to the OCC, “[t]he Bank has failed to adopt and implement a compliance 
+program that adequately covers the required BSA/AML program elements due to an inadequate 
+57 Indeed, it was just this type of failure with respect to Epstein—i.e., a failure to investigate 
+Epstein’s banking activities and to report Epstein’s suspicious transactions—that led Deutsche 
+Bank to being hit with a $150 million penalty by the N.Y. State Department of Financial Services.  
+The regulator noted that the fact that Epstein’s cash withdraws “were suspicious should have been 
+obvious to Bank personnel at various levels.  [Deutsche Bank’s] failure to recognize this risk 
+constitutes a major compliance failure.” 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 36 of 53
+
+37 
+system of internal controls, and ineffective independent testing.”  Notably, the bank58 had failed 
+to “develop adequate due diligence on customers, particularly in the Commercial and Business 
+Banking Unit, a repeat problem, and failed to file all necessary Suspicious Activity Reports 
+(‘SARs’) related to suspicious customer activity.”  The bank had also failed to remedy weaknesses 
+in “the effectiveness of monitoring in light of the customers’ cash activity and business type…” 
+116.
+According to the OCC, JP Morgan had “an inadequate system of internal controls 
+and independent testing, “systemic deficiencies in its transaction monitoring systems [and] due 
+diligence processes . . .”  The regulator also noted that the bank had “significant shortcomings in 
+SAR decision-making protocols and an ineffective method for ensuring that referrals and alerts are 
+properly documented, tracked, and resolved.”  In violation of federal regulations, the bank “failed 
+to identify significant volumes of suspicious activity and filed the required SARs concerning 
+suspicious customer activities . . .”  As a result of the 2013 OCC Consent Order, the bank was 
+required to take a series of remedial steps, including evaluating its systems for monitoring 
+transactions and filing suspicious activity reports.  It was also required to refresh its risk 
+assessments, at least every year.  In addition, the bank was required to conduct a SAR look-back 
+to determine “whether additional SARs should be filed on additional subjects or for continuing 
+suspicious activity.” 
+117.
+The 2013 OCC Consent Order was approved by the bank’s board and executed by 
+both Defendants Crown and Dimon, on behalf of JPMorgan Chase Bank, N.A. 
+118.
+Just as the OCC had done with respect to the Company’s banking subsidiary, 
+JPMorgan Case, N.A., the Federal Reserve issued a Consent Order against the Company itself in 
+58 Because the OCC orders discussed in this section deal specifically with JP Morgan Chase, N.A., 
+references to the “bank” in this section are to this subsidiary, rather than to the parent entity, JP 
+Morgan (as defined above). 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 37 of 53
+
+38 
+January 2013 (the “2013 Federal Reserve Order”).  The 2013 Federal Reserve Order required the 
+Board to submit a plan to improve the Company’s “firmwide compliance risk management 
+program with regard to compliance with BSA/AML Requirements.”  In the plan, the Board was 
+required to address funding for a sufficient compliance program, policies to ensure risks are timely 
+identified and managed, and measures to improve the Company’s policies, procedures and 
+standards.  The Company was also required to review and address the “policies, procedures, and 
+processes” for “identifying and investigating suspicious activity, and for filing suspicious activity 
+reports” and “customer due diligence that consolidates information” on each customer. 
+119.
+Because JP Morgan’s BSA/AML systems continued to be deficient, in January 
+2014 the OCC issued a Consent Order of the Assessment of a Civil Money Penalty (the “2014 
+OCC Penalty Order”).  The 2014 OCC Penalty Order indicated that the regulator had discovered 
+“additional deficiencies in the Bank’s BSA/AML compliance program.”  In particular, the OCC 
+determined that the bank continued to fail to remedy previously identified problems with its 
+BSA/AML compliance program and continued to violate regulations concerning SARs. 
+120.
+The OCC determined that, as in 2013, the bank’s BSA/AML program remained 
+deficient and the Bank had failed to “develop adequate due diligence on customers” and to “file 
+all necessary SARs related to suspicious customer activity.”  The bank “failed to correct previously 
+identified systemic weaknesses” concerning customer due diligence and transaction monitoring.  
+More specifically, the bank continued to have “significant shortcomings in SAR decision-making 
+protocols and an ineffective method for ensuring that referrals and alerts [were] properly 
+documented, tracked, and resolved,” and “failed to identify significant volumes of suspicious 
+activity and file the required SARs . . .”  
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 38 of 53
+
+39 
+121.
+As a result of these failures, the OCC ordered JP Morgan to pay $350 million in a 
+civil money penalty.   
+122.
+The 2014 Penalty Order was approved by the bank’s board and was executed by 
+Defendants Crown, Jackson, and Weldon.   
+123.
+On January 7, 2014, the bank entered into a Deferred Prosecution Agreement (the 
+“DPA”) with the U.S. Attorney’s Office for the Southern District of New York.  In the DPA, the 
+bank admitted that it had failed to file SARs concerning the activities of another extraordinarily 
+wealthy banking client, Bernie Madoff.  In the DPA, the bank pleaded guilty to two felony counts 
+of failing to maintain an effective anti-money laundering program and failing to file a suspicious 
+activity report. 
+124.
+The 2013 OCC Consent Order remained in effect until May 2019, and the 2013 
+Federal Reserve order remained in effect until December 2019. 
+125.
+Because the bank had pleaded guilty to two felonies and paid $350 million in 
+penalties relating to its failures to file suspicious activity reports and other BSA/AML deficiencies, 
+the Board was no doubt aware that the Company’s risk management systems—particularly with 
+respect to SARs—required additional oversight and diligence.  Even so, in the years following the 
+consent orders, upon information and belief, the Company continued to fail to file SAR reports 
+concerning the transactions Epstein had conducted with the bank while his account was open. 
+E.
+THE BOARD FAILED TO PURSUE CLAIMS AGAINST STALEY
+126.
+The Board also failed to pursue claims against Staley until March 8, 2023.  Staley 
+was the CEO of JP Morgan’s Asset Management line of business from 2001 to 2009, and then 
+became the CEO of the Corporate and Investment Banking line of business in 2009 until he left 
+the Company in 2013. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 39 of 53
+
+40 
+127.
+The evidence of Staley’s involvement with Epstein was clear.  See ¶¶74-80, supra.  
+Staley was close friends with Epstein and knew about his sexual predation of young women and 
+girls.  According to Doe, Staley “personally observed Doe as a sex trafficking and abuse victim at 
+times including through his departure from JP Morgan in 2013.”59  He also met with young girls 
+while visiting with Epstein.  Staley is also credibly accused of using “aggressive force in his sexual 
+assault” of plaintiff Doe.60
+128.
+Despite the clear evidence of Staley advocating on behalf of Epstein to maintain 
+his Company accounts, despite having access to over 1,200 emails sent from Staley’s JP Morgan 
+company account to Epstein which raised questions about Staley’s possible involvement in 
+Epstein’s criminal enterprise, and despite press reports making clear the close relationship between 
+Epstein and Staley, the Director Defendants failed to pursue claims against Staley until March 
+2023.  At that time, the Company filed claims against him, including for breaching his fiduciary 
+duty and violating the “faithless servant doctrine.”  By failing to act in a timely fashion, the Board 
+has risked the viability of the claim by subjecting it to a potential statute of limitations defense.  
+Indeed, in his April 24, 2023 Motion to Dismiss in the lawsuit JP Morgan belatedly brought against 
+Staley, Staley has argued that those claims are time-barred.61
+VI.
+THE OFFICER DEFENDANTS BREACHED THEIR FIDUCIARY DUTIES 
+129.
+Officers of Delaware corporations, like directors, have fiduciary duties to the 
+companies, including the duties of good faith and due care.  Officers’ duty of good faith includes 
+59 Doe Complaint, ¶115. 
+60 Doe Complaint, ¶107. 
+61 Jane Doe 1 v. JP Morgan Chase Bank, N.A., 22-cv-10019 (JSR) Third-Party Def. James Staley’s 
+Mem. of Law in Supp. of Mot. to Dismiss, at 18-20, DKT 91. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 40 of 53
+
+41 
+an obligation to conduct adequate oversight.  Officers are required to “make a good faith effort to 
+ensure that information systems are in place” so that “officers receive relevant and timely 
+information that they can provide to the directors.”62  Officers must also act on red flags of which 
+they are aware, as they are “optimally positioned to identify red flags and either address them or 
+report upward to more senior officers or to the board.”63
+130.
+Officers of banking entities have specific obligations when it comes to protecting 
+the companies from risk, including BSA/AML risk. The OCC’s Comptroller’s Handbook explains 
+that the “OCC expects senior management to be responsible for developing and maintaining the 
+risk governance framework and system of internal controls, which enables management to 
+effectively identify, measure, monitor, control, and report risk exposures consistent with the board-
+established risk appetite.”64  Moreover, the “CEO and his or her senior management team should 
+be responsible for,” among other things, “complying with laws, regulations, and internal bank 
+policies, including policies governing ethics and insider activities,” developing and administering 
+a risk governance framework that enables management to effectively identify, measure, monitor, 
+and control risk,” and “establishing and maintaining an effective system of internal controls.” 
+131.
+JP Morgan’s policies spell out in particular the obligations of the Chief Risk Officer 
+(“CRO”) of the Company.  The CRO is required to attend meetings of the Board’s Risk Committee 
+and to discuss with the committee “any concerns that they reasonably believe could be material to 
+the Firm or to a line of business,” including any “actions that have been or are planned to be taken 
+62 In re McDonald's Corp. S'holder Derivative Litig., 289 A.3d 343, 361 (Del. Ch. 2023).  
+63 Id. at 362. 
+64 OCC Comptroller’s Handbook:  Corporate and Risk Governance (v2, July 2019), at 56, available 
+at 
+https://www.occ.gov/publications-and-resources/publications/comptrollers-
+handbook/files/corporate-risk-governance/index-corporate-and-risk-governance.html. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 41 of 53
+
+42 
+to address such concerns.”  Between meetings, the CRO must “promptly report” any such issues 
+to the Risk Committee’s Chair.  The CRO also has full access to communications with and report 
+to the Audit Committee “on any matter relevant to risk and compliance.” 
+132.
+Despite their obligations under federal banking laws and regulations, and the 
+Company’s own policies, the Officer Defendants failed to fulfill their fiduciary obligations of due 
+care and oversight.  Like the Director Defendants, the Officer Defendants ignored the glaring red 
+flags concerning the Company’s complicity in a criminal sex trafficking scheme, including 
+repeated news reports concerning Epstein’s involvement in the abuse of girls and young women.   
+133.
+The Officer Defendants—including Defendants Bacon, Hogan, and Zubrow (JP 
+Morgan’s CROs)—failed to ensure that the Company was following the law and its own policies 
+with respect to the AML compliance.  According to an investigation by the U.S. Virgin Islands 
+government, “it does not appear . . . that JP Morgan engaged in any investigation of the source of 
+Epstein’s funds.”65  Likewise, the Company also “seemingly did no due diligence on the nature of 
+the various business entities for which it held accounts for Epstein, which appear to have no 
+legitimate business purpose and, upon information and belief, were part of Epstein’s criminal 
+enterprise in the Virgin Islands.”66
+134.
+The Officer Defendants also failed to ensure that SARs were timely filed 
+concerning Epstein’s banking activities.  A convicted felon and sex offender was able to continue 
+withdraw tens of thousands of dollars in cash every month from the Bank for years, using those 
+funds to abuse young women and girls.  When Company employees finally did start to raise 
+alarms—given repeated press reports about Epstein’s activities—management did nothing.  
+65 USVI Complaint, ¶76. 
+66 USVI Complaint, ¶77. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 42 of 53
+
+43 
+Internal discussions resulted in nothing more than Staley—Epstein’s buddy—feeling Epstein out 
+and reporting back to other employees that all was well.  And a review of Epstein’s account that 
+was to be conducted by CEO Dimon either never took place or, if it did, Dimon must have 
+sanctioned the bank’s relationship with Epstein, as it was not until 2013—some seven years after 
+Epstein was arrested—that the Bank closed his accounts.  Because of the Officer Defendants’ 
+failure to act in good faith and with due care, the bank thus helped Epstein prey on vulnerable girls 
+for almost a decade. 
+DERIVATIVE ALLEGATIONS AND DEMAND FUTILITY 
+135.
+Plaintiff brings this action derivatively on behalf of and for the benefit of JP Morgan 
+to redress injuries suffered by the Company as a direct and proximate result of the breaches of 
+fiduciary duty and other legal violations alleged herein.  JP Morgan is named as defendant solely 
+in its derivative capacity. 
+136.
+Plaintiff has owned JP Morgan stock continuously during the time of the wrongful 
+course of conduct constituting the basis for the claims asserted herein.  
+137.
+Plaintiff will retain its shares in the Company throughout the duration of this 
+litigation. 
+138.
+Plaintiff will adequately and fairly represent the interests of the Company and its 
+stockholders in this litigation and has retained counsel competent and experienced in stockholder 
+derivative actions. 
+139.
+The wrongful acts complained of herein subject, and will persist in subjecting, the 
+Company to continuing harm because the adverse consequences of the injurious actions are still 
+in effect and ongoing. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 43 of 53
+
+44 
+140.
+Plaintiff repeats and realleges each and every allegation above as if set forth in full 
+herein. 
+141.
+Plaintiff has not made a demand on the Board to pursue the claims set forth herein 
+because any pre-suit demand would be futile and is therefore excused as a matter of law. 
+142.
+The Demand Board consists of twelve directors: Defendants Dimon, Bammann, 
+Burke, Combs, Crown, Flynn, Hobson, and Neal, as well as non-Defendants Davis, Gorsky, 
+Novakovic, and Rometty.   
+143.
+A demand on the current Board would be futile because eight of the Demand Board 
+Members⸺Defendants Dimon, Bammann, Burke, Combs, Crown, Flynn, Hobson, and 
+Neal⸺face a substantial risk of liability for acting in bad faith by knowingly or recklessly 
+permitting the Company to continue to serve as a banker for Epstein’s criminal enterprise and for 
+failing to ensure that JP Morgan operated in compliance with federal law and Company policy 
+concerning the timely filing of SARs.   
+144.
+Each of the Defendant Demand Board members either served on the Board during 
+the time that Epstein maintained his accounts at JP Morgan used them to conduct his sex trafficking 
+scheme (i.e., Defendants Dimon, Burke, Crown, and Flynn) and/or served on the Board during the 
+time in which JP Morgan was obligated, but failed, to submit SARs regarding Epstein’s 
+transactions with the bank (i.e., Defendants Dimon, Burke, Combs, Crown, Flynn, Hobson, and 
+Neal). 
+145.
+Defendants on the Board at the time of the OCC orders face additional risk because 
+they were not only aware of Epstein’s conduct, but they were also serving at the time the Company 
+was sanctioned because of its history of failing to comply with AML rules, including rules 
+concerning SARs.  Defendants Dimon, Bammann, Burke, Crown, and Flynn were each on the 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 44 of 53
+
+45 
+Board at the time one or more of the regulators’ orders were issued.  Moreover, Defendants Dimon 
+and Crown both executed the 2013 OCC Consent Order, which established that the Company had 
+deficiencies in its BSA/AML compliance program in violation of federal law and regulations.  
+Despite being fully cognizant of the weakness in the Company’s AML program, Defendants failed 
+to act to ensure that timely reports were filed concerning Epstein’s conduct. 
+146.
+Defendant Dimon, in particular, faces a substantial risk of liability.  He has been 
+the Company’s CEO since 2006 and Chairman since 2007, even before Epstein was arrested.  He 
+also either failed to review the Epstein accounts over which Company employees had raised 
+concerns or, having reviewed them, failed to act to close the predator off from his funds.  He also 
+failed to ensure that his management team effectively supervised the Company’s BSA/AML 
+compliance system. 
+147.
+Defendant Bammann also has an increased risk of liability as she, in particular, 
+should have been alert to federal requirements concerning an effective BSA/AML program and to 
+the Company’s deficiencies in meeting those standards.  When public reports emerged about 
+Epstein’s criminal conduct, Bammann should have taken action to ascertain the Company’s 
+involvement with Epstein, close his accounts, and file timely SARs.  After all, before joining the 
+Board, and during the time that Epstein maintained his accounts at the bank, Bammann served as 
+Deputy Head of Risk Management for JP Morgan Chase, N.A., and before that, as Chief Risk 
+Management Officer at Bank One.  Indeed, in encouraging shareholders to support her Board 
+nomination, the Company touted her “extensive expertise in risk management and regulatory 
+issues.”67
+67 JPMorgan Chase & Co., Schedule 14A (2015) at 11. 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 45 of 53
+
+46 
+148.
+Thus, any lawsuit initiated to remedy the wrongs complained of herein would 
+expose at least eight of the twelve current Board members to significant personal liability for their 
+bad faith breaches of fiduciary duties and other misconduct. 
+149.
+The Demand Board members also suffer from a lack of independence from 
+Defendant Dimon.  The Demand Board directors have demonstrated their lack of independence by 
+choosing to pursue its belated claims only against Staley, choosing to pin all of the Defendants’ 
+failures on him and to avoid implicating Dimon in JP Morgan’s misconduct concerning Epstein.  
+In contrast, an independent Board would have promptly pursued claims against all of those 
+individuals—including directors and former directors—who failed to implement and oversee an 
+effective BSA/AML system and ignored waving red flags.  Rather that aggressively pursuing 
+claims against all involved officers, the Demand Board “circled the wagons” by seeking to tag 
+only an executive that conveniently no longer works for JP Morgan. 
+150.
+In addition, Defendant Bammann is conflicted because she is a former Company 
+executive and worked closely with and for Defendant Dimon.  She served under, and reported to, 
+Defendant Dimon at Bank One from 2000-2004, where he publicly praised her contributions; she 
+followed Dimon to the Company when it acquired Bank One, and worked for him until the end of 
+2005, later returning to the Company to join the Board in 2013.  As a spokesman for institutional 
+investor CtW Investment Group noted, Bammann was too close to Dimon, and “[b]ringing in 
+someone who is a former deputy of Jamie Dimon’s is absolutely the wrong move.”  With her close 
+ties to the man under whom she served for half a decade, Bammann could not reasonably be 
+expected to pursue litigation against Defendant Dimon.   
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 46 of 53
+
+47 
+151.
+For the foregoing reasons, at least eight of the twelve members of the Demand 
+Board are incapable of impartially considering a litigation demand against the Defendants, and 
+demand is therefore excused as futile.  
+CLAIMS FOR RELIEF
+COUNT I
+Breach Of Fiduciary Duty 
+(Against The Director Defendants) 
+152.
+Plaintiff repeats and realleges each and every allegation above as if set forth in full 
+herein. 
+153.
+The Director Defendants, as current and former directors of JP Morgan, all owed 
+and owe and owe fiduciary duties to JP Morgan and its stockholders.  By reason of their fiduciary 
+relationships, the Director Defendants specifically owed and owe JP Morgan the highest obligation 
+of good faith and loyalty in the administration of the affairs of the Company, including, without 
+limitation, the oversight of JP Morgan’s compliance with the BSA and regulations promulgated 
+thereunder, and laws and regulations governing AML requirements.  
+154.
+In addition, the Director Defendants owed and owe specific fiduciary duties as 
+defined by the Company’s corporate governance documents, including the charters of various 
+Board committees (including, but not limited to, those of the Audit and Risk Policy Committees) 
+that, had they been discharged in accordance with the Director Defendants’ obligations, would 
+have necessarily prevented the misconduct and the consequent harm to the Company alleged 
+herein.  
+155.
+The Director Defendants consciously breached their fiduciary duties and violated 
+their corporate responsibilities by affirmatively and repeatedly ignoring red flags related to 
+Epstein’s criminal activity and Epstein’s criminal use of his accounts and funds at JP Morgan.  
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 47 of 53
+
+48 
+156.
+As a direct and proximate result of the Director Defendants’ conscious failure to 
+perform their fiduciary duties and exercise their oversight responsibility, JP Morgan has sustained, 
+and will continue to sustain, significant damages—both financially and to its corporate image and 
+goodwill.  Such damages to JP Morgan caused by the Director Defendants include and will include, 
+substantial penalties, fines, damages awards, settlements, expenses, increased regulatory scrutiny, 
+reputational harm, and other liabilities described herein.   
+157.
+As a result of the misconduct alleged herein, the Director Defendants are liable to 
+the Company. 
+COUNT II
+Breach Of Fiduciary Duty of Loyalty 
+(Against The Officer Defendants) 
+158.
+Plaintiff repeats and realleges each and every allegation above as if set forth in full 
+herein. 
+159.
+The Officer Defendants, as current and former officers of JP Morgan, all owed and 
+owe fiduciary duties to JP Morgan and its stockholders.  By reason of their fiduciary relationships, 
+the Officer Defendants specifically owed and owe JP Morgan the highest obligation of good faith 
+and loyalty in the administration of the affairs of the Company, including, without limitation, the 
+oversight of JP Morgan’s compliance with the BSA and regulations promulgated thereunder, and 
+laws and regulations governing AML requirements.  
+160.
+In addition, the Officer Defendants owed and owe specific fiduciary duties as 
+defined by the Company’s corporate governance documents that, had they been discharged in 
+accordance with the Officer Defendants’ obligations, would have necessarily prevented the 
+misconduct and the consequent harm to the Company alleged herein.  
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 48 of 53
+
+49 
+161.
+The Officer Defendants consciously breached their fiduciary duties and violated 
+their corporate responsibilities by affirmatively and repeatedly ignoring red flags related to 
+Epstein’s criminal activity and Epstein’s criminal use of his accounts and funds at JP Morgan.  
+162.
+As a direct and proximate result of the Officer Defendants’ conscious failure to 
+perform their fiduciary duties and exercise their oversight responsibility, JP Morgan has sustained, 
+and will continue to sustain, significant damages—both financially and to its corporate image and 
+goodwill.  Such damages to JP Morgan caused by the Officer Defendants include and will include, 
+substantial penalties, fines, damages awards, settlements, expenses, increased regulatory scrutiny, 
+reputational harm, and other liabilities described herein.   
+163.
+As a result of the misconduct alleged herein, the Officer Defendants are liable to 
+the Company.  
+COUNT III 
+Breach Of Fiduciary Duty of Care 
+(Against The Officer Defendants) 
+164.
+Plaintiff repeats and realleges each and every allegation above as if set forth in full 
+herein. 
+165.
+The Officer Defendants, as current and former officers of JP Morgan, all owed and 
+owe fiduciary duties to JP Morgan and its stockholders.  By reason of their fiduciary relationships, 
+the Officer Defendants specifically owed and owe JP Morgan the highest obligation of due care in 
+the administration of the affairs of the Company, including, without limitation, ensuring JP 
+Morgan’s compliance with the BSA and regulations promulgated thereunder, and laws and 
+regulations governing AML requirements.  
+166.
+In addition, the Officer Defendants owed and owe specific fiduciary duties as 
+defined by the Company’s corporate governance documents that, had they been discharged in 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 49 of 53
+
+50 
+accordance with the Officer Defendants’ obligations, would have necessarily prevented the 
+misconduct and the consequent harm to the Company alleged herein.  
+167.
+The Officer Defendants consciously breached their fiduciary duties and violated 
+their corporate responsibilities by consistently and repeatedly permitting JP Morgan to breach or 
+fail to comply with its legal and regulatory reporting and compliance requirements related to 
+Epstein’s criminal activity and Epstein’s criminal use of his accounts and funds at JP Morgan.  
+168.
+As a direct and proximate result of the Officer Defendants’ failure to perform their 
+fiduciary duties, JP Morgan has sustained, and will continue to sustain, significant damages—both 
+financially and to its corporate image and goodwill.  Such damages to JP Morgan caused by the 
+Officer Defendants include and will include, substantial penalties, fines, damages awards, 
+settlements, expenses, increased regulatory scrutiny, reputational harm, and other liabilities 
+described herein.   
+169.
+As a result of the misconduct alleged herein, the Officer Defendants are liable to 
+the Company. 
+RELIEF REQUESTED 
+WHEREFORE, Plaintiff, on behalf of JP Morgan, requests judgment as follows: 
+A.
+Determining that this action is a proper derivative action maintainable under the 
+law and that demand on the JP Morgan Board is excused as futile; 
+B.
+Finding the Director Defendants liable for breaching their fiduciary duties by 
+consciously allowing JP Morgan to not comply with its reporting obligations under various laws 
+and regulations related to Epstein’s criminal conduct and Epstein’s use of JP Morgan accounts and 
+funds to further his criminal conduct; 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 50 of 53
+
+51 
+C.
+Finding the Officer Defendants liable for breaching their fiduciary duty by 
+consciously allowing JP Morgan to not comply with its reporting obligations under various laws 
+and regulations related to Epstein’s criminal conduct and Epstein’s use of JP Morgan accounts and 
+funds to further his criminal conduct;  
+D.
+Finding the Officer Defendants liable for breaching their fiduciary duty by allowing 
+JP Morgan to not comply with its reporting obligations under various laws and regulations related 
+to Epstein’s criminal conduct and Epstein’s use of JP Morgan accounts and funds to further his 
+criminal conduct;  
+E.
+Directing JP Morgan to take all necessary actions to reform and improve its 
+compliance procedures and governance policies to comply with applicable laws and to protect JP 
+Morgan and its stockholders from a repeat of the damaging events described herein; 
+F.
+Awarding to JP Morgan restitution from the Individual Defendants, and each of 
+them, and ordering disgorgement of all profits, benefits, and other compensation obtained by the 
+Individual Defendants; 
+G.
+Awarding to Plaintiff the costs and disbursements of the action, including 
+reasonable attorneys’ fees, accountants’ consultants’ and experts’ fees, costs, and expenses; and 
+H.
+Granting such other and further relief as the Court deems just and proper.  
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 51 of 53
+
+52 
+Dated: May 9, 2023 
+GRANT & EISENHOFER P.A. 
+ s/ Rebecca Musarra  
+Rebecca A. Musarra  
+485 Lexington Ave., 29th Floor 
+New York, NY 10017 
+rmusarra@gelaw.com 
+(646) 722-8500
+Michael J. Barry (pro hac forthcoming) 
+Christine M. Mackintosh (pro hac 
+forthcoming) 
+Vivek Upadhya (pro hac forthcoming) 
+123 Justison St. 
+Wilmington DE 19801 
+mbarry@gelaw.com 
+cmackintosh@gelaw.com 
+vupadhya@gelaw.com  
+(302) 622-7000
+Counsel for Plaintiff
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 52 of 53
+
+8 
+Case 1:23-cv-03903-JSR     Document 1     Filed 05/09/23     Page 53 of 53
+VERIFICATION 
+I, M. Scott Anderson, Trustee for the Operating Engineers Construction Industry and 
+Miscellaneous Pension Fund (the "Operating Engineers"), hereby verify that the Operating 
+Engineers have held stock in JPMorgan Chase & Co. ("JP Morgan" or the "Company"), at all 
+relevant times herein. The Operating Engineers are ready, willing, and able to pursue this 
+stockholder derivative action on behalf of and for the benefit of JP Morgan. I have reviewed the 
+allegations in the attached Verified Stockholder Derivative Complaint, and as to those allegations 
+of which I have personal knowledge, I know those allegations to be true, accurate, and complete. 
+As to those allegations of which I do not have personal knowledge, I rely on my counsel and their 
+investigation, and for that reason I believe them to be true. Having received a copy of the Verified 
+Stockholder Derivative Complaint, and having reviewed it with my counsel, I hereby authorize its 
+filing. 
+I declare under penalty of perjury that the foregoing is true and correct. 
+Executed on: 
+May_,2023 
+M. Scott Anderson, Administrator 
+Operating Engineers Construction Industry 
+and Miscellaneous Pension Fund 

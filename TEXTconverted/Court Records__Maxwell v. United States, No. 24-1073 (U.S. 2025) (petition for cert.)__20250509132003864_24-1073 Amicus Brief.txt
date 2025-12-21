@@ -1,0 +1,608 @@
+METADATA_SOURCE: Court Records\Maxwell v. United States, No. 24-1073 (U.S. 2025) (petition for cert.)
+METADATA_FILENAME: 20250509132003864_24-1073 Amicus Brief.pdf
+----------------------------------------
+No. 24-1073
+In the
+Supreme Court of the United States
+On Petition for a Writ of Certiorari to the
+United States Court of Appeals for the Second Circuit
+A
+(800) 274-3321 • (800) 359-6859
+BRIEF OF AMICUS CURIAE NATIONAL 
+ASSOCIATION OF CRIMINAL DEFENSE 
+LAWYERS IN SUPPORT OF PETITIONER
+120443
+GHISLAINE MAXWELL,
+Petitioner,
+v.
+UNITED STATES,
+Respondent.
+Jeffrey T. Green
+Co-Chair Amicus
+  Committee
+National Association of 
+Criminal Defense Lawyers
+1600 L Street NW
+Washington, DC 20036
+Sara Elizabeth Kropf 
+Counsel of Record
+Kropf Moseley Schmitt 
+PLLC
+1100 H Street NW
+Suite 1220
+Washington, DC 20005
+(202) 627-6900
+sara@kmlawfirm.com 
+Counsel for Amicus Curiae
+
+i
+TABLE OF CONTENTS
+Page
+TABLE OF CONTENTS .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . i
+TABLE OF CITED AUTHORITIES .  .  .  .  .  .  . . . . . . . . . ii
+INTEREST OF AMICI .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 1
+INTRODUCTION AND SUMMARY OF
+	
+ARGUMENT  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 2
+ARGUMENT .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . 3
+1.	
+Defendants should be able to rely on the 
+government’s promises and courts should
+	
+not hesitate to enforce them .  .  .  .  .  .  .  .  . . . . . . . . . 3
+2.	
+The Department of Justice knows how to 
+draft plea agreements to bind only part of 
+	
+the Department in future prosecutions .  .  .  .  . . . . 8
+3.	
+The consistent practice of USAOs to limit 
+the scope of plea agreements stands in stark 
+	
+contrast to the scope of the NPA here .  .  .  .  . . . . 12
+CONCLUSION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 13
+
+ii
+TABLE OF CITED AUTHORITIES
+Page
+Cases:
+Brady v. United States, 
+	
+397 U.S. 742 (1970)  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 4, 5
+Giglio v. United States, 
+	
+405 U.S. 150 (1972) .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . 12
+McCarthy v. United States, 
+	
+394 U.S. 459 (1969) .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 4, 5
+Missouri v. Frye, 
+	
+566 U.S. 134 (2012) .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 4, 7
+Puckett v. United States, 
+	
+556 U.S. 129 (2009) .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . 4
+United States v. Amani Investments, 
+	
+No. 2:23-cr-00014-JAM, ECF No. 8 
+	
+(E.D. Cal. Feb. 7, 2023) .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 8
+United States v. Barnes, 
+	
+No. 3:19-cr-00112-K, ECF No. 355 (Apr. 1, 2022) .  . . 12
+United States v. Chuong, 
+	
+No. 1:21-cr-00164, ECF No. 67 (July 7, 2022) .  .  .  . . . 9
+United States v. Coccagna, 
+	
+No. 1:22-cr-00407-YK, ECF No. 3-1 (Dec. 2, 2022) .  . 11
+
+iii
+Cited Authorities
+Page
+United States v. Detloff Marketing 
+and Asset Management, Inc., 
+	
+No. 18-cr-00197-PAM-HB, ECF No. 96 
+	
+(July 25, 2019)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 10
+United States v. Ellison, 
+	
+No. 22-CR-673 (RA) (Dec. 18, 2022) .  .  .  .  .  .  . . . . . . . 11
+United States v. Gebbie, 
+	
+294 F.3d 540 (3d Cir. 2002) .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . 6
+United States v. Giaquinto, 
+	
+No. 2:22-cr-00035-MHH-GMB, ECF No. 326 
+	
+(Nov. 18, 2024) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 8
+United States v. Gibson, 
+	
+No. 1:20-cr-00094, ECF No. 148 (Mar. 30, 2022) .  . 10
+United States v. Goldfield, 
+	
+No. 1:16-cr-00513-JBS, ECF No. 39 
+	
+(Dec. 22, 2016) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 11
+United States v. Koo, 
+	
+No. 2:23-cr-00568-DSF-1, ECF No. 8 
+	
+(Nov. 20, 2023) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 9
+United States v. Lafarge S.A., 
+	
+No. 1:22-cr-00444-WFK, ECF No. 10 
+	
+(Oct. 18, 2022)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 11
+
+iv
+Cited Authorities
+Page
+United States v. Malik, 
+	
+No. 4:24-cr-00010-HEA, ECF No. 127 
+	
+(Apr. 4, 2023) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 10
+United States v. McIntyre, 
+	
+No. 1:24-cr-00211, ECF No. 33 (Dec. 19, 2024) .  .  . . . 8
+United States v. Osorto, 
+	
+445 F. Supp. 3d 103 (N.D. Cal. 2020) .  .  .  .  .  .  .  . . . . . . . 7
+United States v. Patel, 
+	
+No. 1:19-cr-00081-RDM, ECF No. 4 
+	
+(Apr. 4, 2019)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 9
+United States v. Sterling Bancorp, Inc., 
+	
+No. 2:23-cr-20174-LVP-DRG, ECF No. 12
+	
+(May 18, 2023) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 10
+United States v. Woods, 
+	
+No. 1:23-cr-00064, ECF No. 8-1 (Mar. 3, 2023) .  .  . . . 9
+Rules:
+Fed. R. Crim. P. 11(b)(2)  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 5
+Sup. Ct. R. 37.2 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 1
+Sup. Ct. R. 37.6 .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 1
+
+v
+Cited Authorities
+Page
+Other Authorities:
+https://fm.cnbc.com/applications/cnbc.com/
+resou rces /ed it or ia l f i les / 2 0 2 2 /12 / 21 /
+1671676065196-Caroline_Ellison_Plea_
+	
+Agreement.pdf .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . 11
+Robert H. Jackson, The Federal Prosecutor, 
+	
+24 J. Am. Judicature Soc’y 18 (1940) .  .  .  .  .  .  . . . . . . . 7
+Justice Manual § 9-27.630 .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . 13
+Erik Luna & Marianne Wade, Prosecutors as Judges, 
+	
+67 Wash. & Lee L. Rev. 1413 (2010) .  .  .  .  .  .  .  . . . . . . . 6
+
+1
+INTEREST OF AMICI1
+The National Association of Criminal Defense 
+Lawyers (NACDL) is a nonprofit voluntary professional 
+bar association that works on behalf of criminal defendants 
+to ensure justice and due process for those accused of 
+crime or misconduct. Founded in 1958, NACDL has a 
+nationwide membership of thousands of direct members 
+and up to 40,000 affiliates. NACDL’s members include 
+private criminal defense lawyers, public defenders, 
+military defense counsel, law professors, and judges. 
+NACDL is the only nationwide professional bar association 
+for public defenders and criminal defense lawyers. 
+NACDL is dedicated to advancing the proper, efficient, 
+and fair administration of justice. NACDL files numerous 
+amicus briefs each year in this Court and other federal and 
+state courts, seeking to provide assistance in cases that 
+present issues of broad importance to criminal defendants, 
+criminal defense lawyers, and the criminal justice system 
+as a whole. Given their prevalence, the interpretation 
+of plea agreements is a question of great importance to 
+NACDL and the clients its members represent. NACDL 
+is well positioned to provide additional insight into the 
+implications of this issue for criminal defendants across 
+the country. 
+1.  Pursuant to Supreme Court Rule 37.6, amicus curiae states 
+that no counsel for any party authored this brief in whole or in part 
+and no entity or person, aside from amicus curiae, its members, 
+or its counsel, made any monetary contribution intended to fund 
+the preparation or submission of this brief. Pursuant to Supreme 
+Court Rule 37.2, amicus curiae provided notice to the parties.
+
+2
+INTRODUCTION AND 
+SUMMARY OF ARGUMENT
+Defendants in criminal cases rely on the promises 
+made by the Department of Justice when deciding whether 
+to plead guilty and face the life-altering consequences 
+of doing so. The government’s promises, made in return 
+for demanding the defendant’s waiver of constitutional 
+rights, should be rigorously enforced. Yet the lower court 
+permitted the government to escape its promises and 
+incorrectly limited the scope of the non-prosecution and 
+plea agreement (NPA) well beyond its plain language. 
+The intentionally broad scope of this NPA may be 
+surprising in retrospect but that does not change the 
+words on the page. Indeed, a survey of plea agreements 
+from across the country shows that the Department of 
+Justice knows how to limit a plea agreement’s reach to 
+a single prosecutorial district rather than making it a 
+nationwide restriction against future prosecution. Where, 
+as here, the “United States . . . agrees that it will not 
+institute any criminal charges against any potential co-
+conspirators” (App. 31a), without imposing any geographic 
+limitation, no part of the Department of Justice may 
+institute criminal charges against any co-conspirator in 
+any district. 
+The Department of Justice directs prosecutors to be 
+careful when exercising their authority to bind the entire 
+Department but there is no question that prosecutors 
+have the authority to do so. That they rarely exercise 
+this authority is not a ground for invalidating it, quite 
+the opposite. 
+
+3
+Amicus NACDL urges the Court to grant this petition 
+and resolve the conflict among the circuits to ensure that 
+the government keeps its promises. 
+ARGUMENT
+The Department of Justice (the “Department”) 
+routinely limits the scope of its plea agreements to the 
+specific United States Attorney’s Office (USAO) that is a 
+party to the agreement. Prosecutors in other districts and 
+other parts of the Department could therefore later charge 
+the defendant for the same or related conduct. Where, 
+as here, the government chooses not to adopt limiting 
+language, a court should not negate its bargained-for 
+promise to the defendant and instead enforce the language 
+as written. Amicus urges the Court to grant the petition 
+to resolve the split among the circuits and ensure that 
+defendants and their counsel can rely on the promises 
+made by the United States in its written agreements. 
+1.	 Defendants should be able to rely on the government’s 
+promises and courts should not hesitate to enforce 
+them.
+Like any party to any contract, defendants in criminal 
+cases rely on the promises made by the Department. And 
+defendants give up a lot in return. A defendant entering 
+into a plea agreement forgoes his constitutional right to a 
+trial by jury and right to appeal, faces the near certainty 
+of a prison sentence and loss of freedom, agrees to pay 
+financial penalties through fines and forfeiture, and faces 
+the myriad collateral effects of a criminal conviction after 
+serving the sentence. 
+
+4
+“The reality is that plea bargains have become so 
+central to the administration of the criminal justice 
+system that defense counsel have responsibilities in the 
+plea bargain process, responsibilities that must be met to 
+render the adequate assistance of counsel that the Sixth 
+Amendment requires in the criminal process at critical 
+stages.” Missouri v. Frye, 566 U.S. 134, 143 (2012). That 
+responsibility, borne by NACDL’s members, requires 
+defense counsel to explain the benefits and drawbacks of 
+a plea agreement to their clients. 
+As a practical matter, every criminal defendant 
+hopes that a plea agreement will end their exposure 
+to future prosecution for the same or related conduct. 
+Defense counsel must explain to their clients that while 
+a plea agreement ensures that the client is not charged 
+for the same or related conduct in that district, most plea 
+agreements expose the client to prosecution in other 
+districts. It creates an impossible situation if defense 
+counsel must now explain to their clients that the court 
+may later excuse the Department from its promises. 
+Guilty pleas must be knowing and voluntary. 
+McCarthy v. United States, 394 U.S. 459, 466 (1969). As 
+the Court has explained, “[i]t is precisely because the 
+plea was knowing and voluntary . . . that the Government 
+is obligated to uphold its side of the bargain.” Puckett v. 
+United States, 556 U.S. 129, 137–38 (2009). A “guilty plea 
+is a grave and solemn act to be accepted only with care and 
+discernment.” Brady v. United States, 397 U.S. 742, 748 
+(1970). A plea “is more than an admission of past conduct; 
+it is the defendant’s consent that judgment of conviction 
+may be entered without a trial—a waiver of his right to 
+trial before a jury or a judge. Waivers of constitutional 
+
+5
+rights not only must be voluntary but must be knowing, 
+intelligent acts done with sufficient awareness of the 
+relevant circumstances and likely consequences.” Id. A 
+defendant, however, cannot have “sufficient awareness 
+of the relevant circumstances and likely consequences” 
+of a plea agreement if the United States can change the 
+plain language of the agreement down the road without 
+the defendant’s consent.
+Likewise, a court cannot discharge its crucial role 
+in the plea process if it does not know whether to trust 
+United States’ words. The court is not a rubber stamp 
+in the plea process. Rather, the Rule 11(b)-mandated 
+plea colloquy “is designed to assist the district judge in 
+making the constitutionally required determination that 
+a defendant’s guilty plea is truly voluntary.” McCarthy, 
+394 U.S. at 465. The court, through this colloquy, must 
+personally interrogate the defendant on the record to 
+ensure that a plea is voluntary in part by establishing 
+that the plea agreement contains all promises made to 
+the defendant in return for his consent to plead guilty. 
+See Fed. R. Crim. P. 11(b)(2) (“Before accepting a plea 
+of guilty or nolo contendere, the court must address the 
+defendant personally in open court and determine that the 
+plea is voluntary and did not result from force, threats, 
+or promises (other than promises in a plea agreement).”). 
+This case involves an unusually broad non-prosecution 
+agreement. But nothing in the law permits the United 
+States to break its promises simply because the promise 
+is an atypical one. 
+During plea negotiations, the Department wields 
+extraordinary leverage as compared to a criminal 
+
+6
+defendant. Even the most ably represented defendant 
+cannot overcome this unequal balance of power. The 
+government’s substantial “advantage in bargaining 
+power” means that ambiguities like this one must be 
+construed against the government. United States v. 
+Gebbie, 294 F.3d 540, 552 (3d Cir. 2002). 
+Defense counsel confront their clients’ unequal 
+bargaining power every time they attempt to obtain 
+a resolution that is in the best interest of their client 
+while mollifying a prosecutor who has little institutional 
+incentive to be lenient. Judge Charles Breyer accurately 
+described the process: 
+It is no answer to say that [the defendant] is 
+striking a deal with the Government, and could 
+reject this term if he wanted to, because that 
+statement does not reflect the reality of the 
+bargaining table. See Erik Luna & Marianne 
+Wade, Prosecutors as Judges, 67 Wash. & Lee 
+L. Rev. 1413, 1414–15 (2010). As to terms such 
+as this one, plea agreements are contracts of 
+adhesion. The Government offers the defendant 
+a deal, and the defendant can take it or leave it. 
+Id. (“American prosecutors . . . choose whether 
+to engage in plea negotiations and the terms 
+of an acceptable agreement.”). If he leaves it, 
+he does so at his peril. And the peril is real, 
+because on the other side of the offer is the 
+enormous power of the United States Attorney 
+to investigate, to order arrests, to bring a case 
+or to dismiss it, to recommend a sentence or 
+the conditions of supervised release, and on 
+
+7
+and on. See Robert H. Jackson, The Federal 
+Prosecutor, 24 J. Am. Judicature Soc’y 18, 18 
+(1940).
+United States v. Osorto, 445 F. Supp. 3d 103, 109 (N.D. 
+Cal. 2020). 
+To permit the United States to escape the plain 
+language of its agreement in this case would work a 
+detriment on the entire plea system. This is of particular 
+concern given that the criminal justice system “is for 
+the most part a system of pleas, not a system of trials.” 
+Missouri v. Frye, 566 U.S. at 143–44. For the plea system 
+to work in practice, defense counsel and defendants must 
+be able to rely on the written promises made by the 
+government and trust that courts will honor and enforce 
+those promises down the road, even when it means that 
+the Department must forego a meritorious prosecution. 
+Consider a situation where a defendant agrees to 
+plead guilty to a violent felony that will bring substantial 
+prison time. He agrees to plead only because the 
+“United States” promises in writing that it will not 
+charge any co-conspirators in the offense, including the 
+defendant’s brother, and because the plea agreement 
+contains no geographic or other limitation on that 
+promise. The defendant should be able to rely on the 
+government’s bargained-for promise that he alone will 
+suffer incarceration. And a prosecutor in a different 
+district must not be permitted to charge his brother with 
+conspiracy to commit the same offense. 
+
+8
+2.	 The Department of Justice knows how to draft plea 
+agreements to bind only part of the Department in 
+future prosecutions.
+As the trial court correctly noted, “[s]ingle district 
+plea agreements are the norm.” (App. 56a) A survey of 
+plea agreements from districts across the county reveals 
+that the Department of Justice routinely drafts plea 
+agreements with this limited single-district scope. 
+Here are examples from districts across the country:
+Middle District of Alabama: “The defendant 
+understands that this agreement binds only the Office 
+of the United States Attorney for the Middle District of 
+Alabama and that the agreement does not bind any other 
+component of the United States Department of Justice, 
+nor does it bind any state or local prosecuting authority.” 
+United States v. McIntyre, No. 1:24-cr-00211, ECF No. 
+33 (Dec. 19, 2024), at 14. 
+Northern District of Alabama: “The Defendant 
+understands and agrees that this Agreement does not bind 
+any other United States Attorney in any other district, 
+or any other state or local authority.” United States v. 
+Giaquinto, No. 2:22-cr-00035-MHH-GMB, ECF No. 326 
+(Nov. 18, 2024), at 13. 
+Eastern District of California: “This plea agreement 
+is limited to the United States Attorney’s Office for 
+the Eastern District of California and cannot bind any 
+other federal, state, or local prosecuting, administrative, 
+or regulatory authorities.” United States v. Amani 
+Investments, No. 2:23-cr-00014-JAM, ECF No. 8 (E.D. 
+Cal. Feb. 7, 2023), at 1. 
+
+9
+Central District of California: “This agreement 
+is limited to the [Central District of California] USAO 
+and cannot bind any other federal, state, local, or foreign 
+prosecuting, enforcement, administrative, or regulatory 
+authorities.” United States v. Koo, No. 2:23-cr-00568-
+DSF-1, ECF No. 8 (Nov. 20, 2023), at 1. 
+District of Colorado: “This agreement binds only the 
+Criminal Division of the United States Attorney’s Office 
+for the District of Colorado and the defendant.” United 
+States v. Chuong, No. 1:21-cr-00164, ECF No. 67 (July 7, 
+2022), at 1. 
+District of Columbia: “Your client further understands 
+that this Agreement is binding only upon the Criminal and 
+Superior Court Divisions of the United States Attorney’s 
+Office for the District of Columbia as well as the Criminal 
+Division’s Public Integrity Section. This Agreement does 
+not bind the Civil Division of this Office or any other 
+United States Attorney’s Office, nor does it bind any 
+other state, local, or federal prosecutor.” United States 
+v. Patel, No. 1:19-cr-00081-RDM, ECF No. 4 (April 4, 
+2019), at 11–12. 
+Northern District of Georgia: “The United States 
+Attorney’s Office for the Northern District of Georgia 
+agrees not to bring further criminal charges against the 
+Defendant related to the charges to which he is pleading 
+guilty. The Defendant understands that this provision does 
+not bar prosecution by any other federal, state, or local 
+jurisdiction.” United States v. Woods, No. 1:23-cr-00064, 
+ECF No. 8-1 (Mar. 3, 2023), at 4. 
+Southern District of Indiana: “This document and 
+the addendum constitute the complete and only Plea 
+
+10
+Agreement between the Defendant, the United States 
+Attorney for the Southern District of Indiana, and the 
+Civil Rights Division and is binding only on the parties to 
+the agreement, supersede all prior understandings, if any, 
+whether written or oral, and cannot be modified except 
+in writing, signed by all parties and filed with the Court, 
+or on the record in open court.” United States v. Gibson, 
+No. 1:20-cr-00094, ECF No. 148 (Mar. 30, 2022), at 17. 
+Eastern District of Michigan: “The Defendant 
+understands and agrees that this Agreement is between 
+the Fraud Section and the Defendant and does not 
+bind any other division or section of the Department of 
+Justice or any other federal, state, or local prosecuting, 
+administrative, or regulatory authority.” United States 
+v. Sterling Bancorp, Inc., No. 2:23-cr-20174-LVP-DRG, 
+ECF No. 12 (May 18, 2023), at 4. 
+District of Minnesota: “This Plea Agreement 
+binds only the Defendant and the Antitrust Division of 
+the United States Department of Justice. . . . This Plea 
+Agreement does not bind any other state or federal 
+agency.” United States v. Detloff Marketing and Asset 
+Management, Inc., No. 18-cr-00197-PAM-HB, ECF No. 
+96 (July 25, 2019), at 1. 
+Eastern District of Missouri: “This agreement does 
+not, and is not intended to, bind any governmental office 
+or agency other than the United States Attorney for the 
+Eastern District of Missouri.” United States v. Malik, 
+No. 4:24-cr-00010-HEA, ECF No. 127 (Apr. 4, 2023), at 1. 
+Eastern District of New York: “The Defendants 
+understand and agree that this Agreement is among 
+
+11
+the Office [Eastern District of New York USAO], the 
+NSD [National Security Division of the United States 
+Department of Justice], and the Defendants, and does 
+not bind any other division or section of the Department 
+of Justice or any other federal, state, local or foreign 
+prosecuting, administrative or regulatory authority.” 
+United States v. Lafarge S.A., No. 1:22-cr-00444-WFK, 
+ECF No. 10 (Oct. 18, 2022), at 3. 
+District of New Jersey: “This agreement is limited 
+to the United States Attorney’s Office for the District of 
+New Jersey and cannot bind other federal, state, or local 
+authorities.” United States v. Goldfield, No. 1:16-cr-00513-
+JBS, ECF No. 39 (Dec. 22, 2016), at 4.
+Southern District of New York: “This Agreement 
+does not bind any federal, state, or local prosecuting 
+authority other than this Office.” United States v. Ellison, 
+No. 22-CR-673 (RA), at 4 (Dec. 18, 2022), at 4.2 
+Middle District of Pennsylvania: “Nothing in this 
+Agreement shall bind any other United States Attorney’s 
+Office, state prosecutor’s office, or federal, state or local 
+law enforcement agency.” United States v. Coccagna, No. 
+1:22-cr-00407-YK, ECF No. 3-1 (Dec. 2, 2022), at 29.
+Northern District of Texas. “This agreement is 
+limited to the United States Department of Justice, 
+Criminal Division, Fraud Section and the United States 
+Attorney’s Office for the Northern District of Texas, and 
+2.  Available at https://fm.cnbc.com/applications/cnbc.com/
+resources/editorialfiles/2022/12/21/1671676065196-Caroline_
+Ellison_Plea_Agreement.pdf (accessed May 5, 2025).
+
+12
+does not bind any other federal, state, or local prosecuting 
+authorities, nor does it prohibit any civil or administrative 
+proceeding against the defendant or any property.” United 
+States v. Barnes, No. 3:19-cr-00112-K, ECF No. 355 (Apr. 
+1, 2022), at 7.
+3.	 The consistent practice of USAOs to limit the scope 
+of plea agreements stands in stark contrast to the 
+scope of the NPA here.
+The trial court correctly noted that “[n]ationwide, 
+unlimited agreements are the rare exception.” (App. 
+at 56a). The fact that this NPA is a “rare exception” 
+to Department’s general practice does not void the 
+agreement’s broad reach. In fact, the rarity of nationwide 
+agreements is a persuasive reason to enforce it because 
+there can be no question that the choice of language was 
+intentional and a key part of the parties’ bargain. 
+This situation is no different than a contractual 
+provision that binds a corporate subsidiary and, by 
+extension, the parent corporation. Unless the subsidiary 
+plainly lacked authority to enter into the agreement, that 
+provision is enforceable against the parent. Similarly, one 
+USAO has the authority to bind the entire Department. 
+“[T]he prosecutor’s office is an entity and as such it is the 
+spokesman for the Government. A promise made by one 
+attorney must be attributed, for these purposes, to the 
+Government.” Giglio v. United States, 405 U.S. 150, 154 
+(1972). 
+Recognizing that one prosecutor can bind all 
+prosecutor, the Justice Manual instructs prosecutors 
+that non-prosecution agreements should “be drawn in 
+
+13
+terms that will not bind other federal prosecutors or 
+agencies without their consent” and “the attorney for the 
+government should explicitly limit the scope of his/her 
+agreement to non-prosecution within his/her district.” 
+Justice Manual § 9-27.630.3 Given this instruction, when 
+Department attorneys choose to draft a broad agreement, 
+the court should enforce it as written. The NPA’s broad 
+language served the government’s strategy at the time 
+of the agreement. The Court should not permit the 
+government to escape that language, even if that strategy 
+may seem unwise or unintelligible with the benefit of 
+hindsight. 
+CONCLUSION
+The Court should grant review in this case to resolve 
+the conflict among the circuits identified by petitioner and 
+hold the Department of Justice to its word. 
+Respectfully submitted,
+3.  Available at https://www.justice.gov/jm/jm-9-27000-
+principles-federal-prosecution#9-27.330 (accessed May 5, 2025). 
+Jeffrey T. Green
+Co-Chair Amicus
+  Committee
+National Association of 
+Criminal Defense Lawyers
+1600 L Street NW
+Washington, DC 20036
+Sara Elizabeth Kropf 
+Counsel of Record
+Kropf Moseley Schmitt 
+PLLC
+1100 H Street NW
+Suite 1220
+Washington, DC 20005
+(202) 627-6900
+sara@kmlawfirm.com 
+Counsel for Amicus Curiae

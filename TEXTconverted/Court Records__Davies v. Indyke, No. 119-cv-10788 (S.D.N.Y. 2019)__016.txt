@@ -1,0 +1,138 @@
+METADATA_SOURCE: Court Records\Davies v. Indyke, No. 119-cv-10788 (S.D.N.Y. 2019)
+METADATA_FILENAME: 016.pdf
+----------------------------------------
+Troutman Sanders LLP 
+875 Third Avenue 
+New York, New York  10022 
+troutman.com 
+Bennet J. Moskowitz 
+bennet.moskowitz@troutman.com 
+January 21, 2020 
+ECF 
+Hon. Gregory H. Woods 
+Daniel Patrick Moynihan 
+United States Courthouse 
+500 Pearl St. 
+New York, NY 10007-1312 
+Re: 
+Teala Davies v. Darren K. Indyke and Richard D. Kahn, as Executors of the Estate 
+of Jeffrey E. Epstein, 1:19-cv-10788 (GHW) (DCF) 
+Dear Judge Woods: 
+We represent Defendants Darren K. Indyke and Richard D. Kahn, Co-Executors of the 
+Estate of Jeffrey E. Epstein (together, the “Co-Executors”), in the above-referenced action.  We 
+write pursuant to Your Honor’s Individual Rules 1(A) and 2(C)(i) to set forth the grounds for the 
+Co-Executors’ anticipated motion pursuant to Fed. R. Civ. P. 12(b)(6) to dismiss the time-barred 
+claims and punitive damages demand in Plaintiff Teala Davies’ Complaint (ECF No. 1). 
+1. Plaintiff alleges torts occurring over 15 years ago in NY and other jurisdictions.   
+Plaintiff, who claims Arizona residency, alleges that Mr. Epstein, now deceased, sexually 
+assaulted her from 2002 to 2004 in Florida, New Mexico, New York, the U.S. Virgin Islands 
+(“USVI”) and France. (Compl. ¶¶ 4, 12, 17, 29, 34, 59-61.)  Plaintiff alleges causes of action for 
+battery, assault, and intentional infliction of emotional distress (Id. ¶¶ 71 – 82.) Plaintiff seeks, 
+among other things, “punitive damages in an amount to be determined.” (Id. p. 12.) 
+2. Plaintiff’s causes of action are partially time-barred. 
+CPLR § 202 provides that, when a non-New York resident such as Plaintiff sues on a 
+cause of action accruing outside New York, the complaint must be filed timely under the statute 
+of limitations of both New York and the jurisdiction where the cause of action accrued.  A claim 
+that is untimely under one or both of the two jurisdictions must be dismissed. 
+Plaintiff turned 18 at some point in 2003.  (Compl. ¶ 34.)  Plaintiff alleges she was 
+sexually assaulted by Mr. Epstein until 2004, i.e., when Plaintiff was an adult (Compl. ¶¶ 34, 59-
+Case 1:19-cv-10788-GHW-DCF     Document 16     Filed 01/21/20     Page 1 of 4
+troutmariP 
+sanders 
+
+January 21, 2020 
+Page 2 
+61).  Accordingly, excluding Plaintiff’s alleged torts subject to the New York Child Victims Act,1 if 
+any, Plaintiff’s causes of action sounding in battery must be commenced within one year of 
+accrual (CPLR § 215(3)); or, if Plaintiff’s claims sound in personal injury, within three years 
+(CPLR § 214(5)).  Therefore, under New York law, Plaintiff’s claims arising from her alleged 
+sexual abuse expired in 2007 at the latest. 
+Plaintiff’s claims based on alleged torts occurring outside New York also expired long 
+ago, including torts that occurred while she was a minor, as follows:  (Florida) for torts occurring 
+while she was a minor, the later of within 7 years after she reached age of majority (i.e., by 
+2010), within 4 years after she left the dependency of Mr. Epstein (2008 at the latest),2 or within 
+4 years from the time she discovered both the injury and the causal relationship between the 
+injury and the abuse (Fla. Stat. § 95.11(7));3 and, after Plaintiff reached age of majority, within 4 
+years (i.e., sometime in 2007) (Fla. Stat. § 95.11 (3)(O)); (New Mexico) for torts occurring while 
+she was a minor, the later of the “first instant” of Plaintiff’s 24th birthday (i.e., sometime in 2009) 
+or 3 years from the date that Plaintiff first disclosed her childhood sexual abuse to a licensed 
+medical or mental health care provider in the context of receiving health care (N.M. Stat. § 37-1-
+30) (plaintiff alleges she never made such a disclosure (Compl. ¶ 67)); and, after Plaintiff 
+reached age of majority, 3 years (i.e., in 2006) (N.M. Stat. § 37-1-8); (USVI) when Plaintiff 
+turned 23 (i.e., sometime in 2008) (5 V.I.C. §§ 31(5)(A), 36(a)(1)). 
+Although Plaintiff suggests she is only suing on claims based on torts that occurred while 
+she was still a minor (Compl. ¶ 69), she also alleges Mr. Epstein abused her “for years” (Id. at ¶ 
+29).  The Court is not required to reconcile Plaintiff’s contradictory allegations. See Whitley v. 
+Bowden, No. 17-CV-3564 (KMK), 2018 WL 2170313, at *11 (S.D.N.Y. May 9, 2018) (“‘a court is 
+neither obligated to reconcile nor accept the contradictory allegations in the pleadings as true in 
+deciding a motion to dismiss.’” (citation omitted)). 
+Therefore, Plaintiff’s claims based on torts occurring in New York after she reached majority, 
+as well as her claims based on torts occurring in New Mexico, Florida and the USVI – 
+regardless of whether she was a minor at the time – must be dismissed.   
+1 The Child Victims Act created a one-year window period in which civil claims alleging damages “suffered 
+as a result of conduct which would constitute a sexual offense as defined in article one hundred thirty of 
+the penal law committed against a child less than eighteen years of age” may be filed despite the statute 
+of limitations having already run. CPLR § 214-g (emphasis added).  
+2 Plaintiff alleges Mr. Epstein “cast her out” in 2004. (Compl. ¶¶ 59-61.)  Therefore, Plaintiff could not have 
+depended on him after that time.   
+3 Plaintiff’s allegations that she is only now beginning to “process” her injuries (Compl. ¶¶ 65, 68) is not 
+equivalent to alleging tolling due to her belated discovery of such injuries.  She makes no such allegation.  
+Case 1:19-cv-10788-GHW-DCF     Document 16     Filed 01/21/20     Page 2 of 4
+troutman1' 
+sanders 
+
+January 21, 2020 
+Page 3 
+3. Plaintiff’s claim for punitive damages fails as a matter of law.  
+Courts in this District regularly grant motions to dismiss claims for punitive damages.  
+See, e.g., The Cookware Co. (USA), LLC v. Austin, No. 15 Civ. 5796, 2016 U.S. Dist. LEXIS 
+177691, at *17 (S.D.N.Y. Dec. 8, 2016) (Batts, J.) (granting motion to dismiss claim for punitive 
+damages without leave to replead because allegations regarding defendant’s bad faith conduct 
+were conclusory and did not rise to required level of malice); SJB v. N.Y.C. Dep’t of Educ., No. 
+03 Civ. 6653, 2004 U.S. Dist. LEXIS 13227, at *25-26 (S.D.N.Y. July 14, 2004) (Buchwald, J.) 
+(granting motion to dismiss punitive damages claims because punitive damages were not 
+statutorily available); Blasetti v. Pietropolo, 213 F. Supp. 2d 425, 431-32 (S.D.N.Y. 2002) 
+(Kaplan, J.) (“[the] claim for punitive damages … is dismissed.”). 
+Here, Plaintiff’s claim for punitive damages must be dismissed as a matter of law 
+because none of the jurisdictions where the alleged torts against Plaintiff occurred permit 
+punitive damages against the personal representatives of a decedent tortfeasor’s estate. See
+Poindexter v. Zacharzewski, 18-civ-14155, 2018 U.S. Dist. LEXIS 189861, at *6 (Nov. 5, 2018 
+S.D. Fla.) (“Florida law prohibits recovery of punitive damages from the estate of a wrongdoer 
+who is deceased.”); Jaramillo v. Providence Wash. Ins. Co., 117 N.M. 337, 346 (N.M. 1994) 
+(“punishment and deterrence are not accomplished by enabling recovery of punitive damages 
+from the estate of deceased tortfeasors.”); NY EPTL § 11-3.2 (a)(1) (“For any injury, an action 
+may be brought or continued against the personal representative of the decedent, but punitive 
+damages shall not be awarded nor penalties adjudged in any such action brought to recover 
+damages for personal injury.” (emphasis added)). That is also the law in most U.S. jurisdictions, 
+as reflected in the Restatement (Second) of Torts.  See Restat. (Second) Of Torts § 908 cmt. a 
+(“Punitive damages are not awarded against the representatives of a deceased tortfeasor.”). 
+See also Powell v. Chi-Co’s Distrib., No. ST-13-TOR-14, 2014 V.I. LEXIS 21, at *5 n.13 
+(U.S.V.I. Super. Ct. Apr. 3, 2014) (Section 908(2) of the Restatement (Second) of Torts “reflects 
+the common law of this jurisdiction”).4,5
+4 USVI courts apply a “Banks analysis” to determine U.S.V.I. common law.  Banks v. Int’l Rental & 
+Leasing Corp., 55 V.I. 967, 979 (V.I. 2011).  The Banks analysis includes consideration of three factors: 
+(1) whether any USVI courts have previously adopted a particular rule; (2) the position taken by a majority 
+of courts of other jurisdictions; and (3) most importantly, which approach represents the soundest rule for 
+the USVI.  Gov’t of Virgin Islands v. Connor, No. S. CT. CIV. 2013-0095, 2014 WL 702639, at *1 (V.I. 
+Feb. 24, 2014).  Each Banks factor favors the Estate: (1) pre-Banks, USVI courts expressed approval for 
+the general rule that punitive damages cannot be recovered against the personal representatives of a 
+wrongdoer’s estate (see, e.g., Hamilton v. Dowson Holding Co., 51 V.I. 619, 628 (D.V.I. 2009) 
+(considering the inverse issue)); (2) a majority of courts from other jurisdictions preclude punitive 
+damages against the personal representatives of a wrongdoer’s estate (2 Linda L. Schlueter, Punitive 
+Damages § 20.4 (7th ed. 2015)); and (3) post-Banks, USVI courts have held Restatement § 908 
+represents the soundest rule for the USVI (see Powell, supra.).   
+5 French law does not recognize punitive damages. See 2 Linda L. Schlueter, Punitive Damages § 22.4 
+(7th ed. 2015) (citing Rouhette, The Availability of Punitive Damages in Europe: Growing Trend or 
+Nonexistent Concept, 74 Def. Coun. J. 320 (2007)). 
+Case 1:19-cv-10788-GHW-DCF     Document 16     Filed 01/21/20     Page 3 of 4
+troutman1' 
+sanders 
+
+January 21, 2020 
+Page 4 
+Respectfully submitted, 
+s/Bennet J. Moskowitz 
+Bennet J. Moskowitz 
+Case 1:19-cv-10788-GHW-DCF     Document 16     Filed 01/21/20     Page 4 of 4
+troutman1' 
+sanders 

@@ -1,0 +1,362 @@
+METADATA_SOURCE: Court Records\Doe No. 8 v. Epstein, No. 909-cv-80802 (S.D. Fla. 2009)
+METADATA_FILENAME: 028.pdf
+----------------------------------------
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF FLORIDA 
+ 
+CASE NO.: 08-CV-80119-MARRA/JOHNSON 
+ 
+JANE DOE NO. 2,  
+ 
+ 
+ 
+ 
+Plaintiff, 
+ 
+vs. 
+ 
+JEFFREY EPSTEIN,  
+ 
+Defendant. 
+____________________________________/ 
+Related Cases: 
+08-80232, 08-80380, 08-80381, 08-80994, 
+08-80993, 08-80811, 08-80893, 09-80469, 
+09-80591, 09-80656, 09-80802, 09-81092, 
+____________________________________/ 
+ 
+PLAINTIFFS JANE DOES 2-8’ MEMORANDUM IN  
+RESPONSE TO DEFENDANT’S RULE 4 APPEAL  
+ 
+ 
+Plaintiffs, Jane Does 2-8 (“Plaintiffs”), by and through undersigned counsel, file this 
+Memorandum in Response to Defendant’s Rule 4 Appeal of the Magistrate Judge’s Orders (DE 
+480 and DE 513) directing Defendant to produce his income tax returns, as follows:  
+Introduction 
+Defendant appeals the Magistrate Judge’s Orders (DE 480 and DE 513) compelling 
+Defendant to produce income tax returns and related forms and schedules.  He fails, however, to 
+demonstrate that the Magistrate Judge’s decision as to tax returns is clearly erroneous or contrary 
+to law.  The applicable case law establishes that the tax returns are not protected from discovery 
+by the Fifth Amendment privilege under the act of production doctrine, or alternatively, that they 
+fall within the “required records” exception to the Fifth Amendment privilege.   
+The tax returns are indisputably relevant in these cases, particularly as to Plaintiff’s 
+claims for punitive damages, and given the Defendant’s invocation of the Fifth Amendment in 
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 1 of 10
+
+2 
+ 
+blanket fashion to all requests for net worth discovery, there is a compelling need for this 
+discovery.  Even if Plaintiffs could not demonstrate a compelling need for the tax returns in 
+discovery, under applicable Eleventh Circuit precedent and reported cases in this District, 
+Plaintiffs would be entitled to this discovery under the broad relevance standard of Fed. R. Civ. 
+P. 26(b).  Finally, there is no basis to delay this discovery, as the tax returns are relevant to 
+punitive damages, which is an important, current issue in these cases.  For the reasons set forth 
+herein, Plaintiff’s request that the Magistrate Judge’s Orders as to Defendant’s tax returns be 
+affirmed and that Defendant be ordered to produce the tax return discovery requested by 
+Plaintiffs.    
+Argument 
+I. 
+DEFENDANT HAS BURDEN TO SHOW THAT MAGISTRATE  
+ 
+JUDGE’S ORDER IS CLEARLY ERRONEOUS OR CONTRARY TO LAW 
+ 
+In seeking reversal of the Magistrate Judge’s Order as to discovery of tax returns, it is the 
+Defendant’s burden to show that the order is “clearly erroneous or contrary to law”.  28 U.S.C. 
+§636(b)(1).  Absent such a showing, the Magistrate Judge’s decision “shall not be disturbed.” 
+Emmisive Energy Corp. v. Novatac, Inc., 2009 WL 2834841 *1 (S.D. Fla. 2009).  In the instant 
+appeal, Defendant has not shown that the Magistrate Judge’s Order to produce tax returns is 
+clearly erroneous or contrary to law.  
+II. 
+THE ACT OF PRODUCTION OF TAX RETURNS IS NOT  
+ 
+PROTECTED BY THE FIFTH AMENDMENT PRIVILEGE 
+ 
+ 
+The Plaintiffs served the following document request in discovery, to which Defendant 
+asserted the Fifth Amendment privilege:  
+Request No. 1:  All Federal and State income tax returns, including all W-2 
+forms, 1099 forms and schedules, for tax years 2003-2008. 
+ 
+The Magistrate Judge rejected the Defendant’s privilege assertion as to tax returns.  (De 480, pp. 
+8-9).  In so holding, the Magistrate Judge applied the act of production doctrine set forth in 
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 2 of 10
+
+3 
+ 
+Fisher v. United States, 425 U.S. 391, 410 (1976) and United States v. Hubbell, 530 U.S. 27, 35-
+36 (2000).  As noted by the Magistrate Judge, “Defendant cannot reasonably and in good faith 
+argue that in producing these documents to Plaintiff he will somehow be incriminating himself.”  
+(Order, p. 9).  Yet, Defendant argues just that.  In Hubbell, the Supreme Court made express 
+reference to tax returns in discussing documents that cannot be protected by the Fifth 
+Amendment privilege under the act of production doctrine:  
+[T]he fact that incriminating evidence may be the byproduct of 
+obedience to a regulatory requirement, such as filing an income 
+tax return, maintaining required records, or reporting an accident, 
+does not clothe such required conduct with the testimonial 
+privilege.  
+ 
+120 U.S. at 2043, 530 U.S. at 35 (footnotes omitted) (emphasis supplied).  Accord United States 
+v. Hammes, 3 F.3d 1081, 1083 (7th Cir. 1993) (“[w]e reject [defendant’s] compulsory self-
+incrimination claim because the government may use voluntarily filed tax returns against a 
+defendant without violating the Fifth Amendment”).  See also Garner v. United States, 96 S.Ct. 
+1178, 424 U.S. 648 (1976) (holding that disclosures in tax returns are not compelled 
+incriminations and may be used as evidence in criminal prosecution); Ebay, Inc. v. Digital Point 
+Solutions, Inc., 2010 WL 147967 *8 (N.D. Cal. 2010) (holding that a person cannot incriminate 
+himself by turning over a document already in the government’s possession); Federal Savings 
+and Loan Ins. Corp. v. Hardee, 686 F. Supp 885 (N.D. Fla. 1988) (holding that personal income 
+tax returns and supporting schedules are not protected by the “act of production” doctrine under 
+Fisher).  
+ 
+As an alternative to finding that the Fifth Amendment privilege does not apply because 
+the act of producing documents is not testimonial and communicative, courts have invoked the 
+“required records” exception to the act of production doctrine.  See Federal Saving & Loan Ins. 
+Corp. v. Rodrigues, 717 F. Supp. 1424, 1427 (N.D. Cal 1988) (“required records” exception is a 
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 3 of 10
+
+4 
+ 
+distinct basis to deny Fifth Amendment privilege alternative to the “foregone conclusion” 
+rationale under Fisher).  The “required records” exception defeats the Fifth Amendment privilege 
+where: “(1) because of the public aspect of the required records the individual admits little of 
+significance by their production; and (2) by doing business in an area where the government 
+requires record keeping, an individual may be deemed to have waived the Fifth Amendment 
+privilege as to the production of those records.”   In re Grand Jury Subpoena, 21 F.3d 226, 229 
+(8th Cir. 1994).    
+ 
+Defendant contends that the “required records” exception does not apply to tax returns 
+because they cannot be accessed by the public.  This is wrong, however, as the “required 
+records” exception requires only that there be “public aspects” to the documents at issue.  Id. 
+Numerous courts that have addressed this precise issue have found that tax returns have “public 
+aspects”. See Rodrigues, 717 F. Supp. at 1426-27 (citing cases); accord Doe v. United States, 
+711 F.2d 1187, 1191 (2d Cir. 1983).1   Accordingly, the “required records” exception applies to 
+the production of tax returns.   In Rodrigues, the Court denied the Fifth Amendment privilege for 
+the act of producing tax returns under the “required records” exception, noting that “records filed 
+with a public body pursuant to a valid regulatory scheme have been held to have public aspects.”  
+Id. at 1427.  Accordingly, the fact that federal tax returns cannot be accessed by the general 
+public does not aid the Defendant.  Accord Resolution Trust Corp. v. Lopez, 794 F. Supp. 1, 3 
+(D.D.C. 1992). 
+ 
+Thus, there are two alternative grounds for holding that Defendant’s assertion of the Fifth 
+Amendment privilege to production of tax returns is invalid:  (1) the tax returns are in the 
+                                                 
+1 Defendant further appears to argue that the “required records” exception should be limited to 
+“highly regulated business (e.g., physicians)”, citing In re Dr. John Doe, 97 F.R.D. 640, 641-643 
+(S.D.N.Y. 1982).  In Dr. John Doe, however, the Court held contrary to Defendant’s assertion 
+and consistent with the case law cited herein stating, “[w]e agree that some of these records (e.g. 
+W-2 and other tax forms) may indeed fall within the required records exception.”  Id. at 644 
+(ordering that Dr. Doe comply with subpoena for W-2 forms).  
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 4 of 10
+
+5 
+ 
+possession of the government, their existence is a foregone conclusion, and there is no risk of 
+“implicit authentication” by Defendant’s production of these documents; or (2) tax returns fall 
+within the “required records” exception to the act of production doctrine, and are thus not 
+protected by the Fifth Amendment.  Under either of these grounds, the Defendant’s tax returns 
+are not privileged and must be produced in discovery.  
+II. 
+THERE IS NO HEIGHTENED BURDEN 
+ 
+FOR DISCOVERY OF TAX RETURNS 
+ 
+Defendant asserts that there is a heightened burden on a party seeking discovery of tax 
+returns, requiring that party to show not only relevance, but also that “a compelling need for the 
+tax returns exists because the information contained therein is not otherwise available.”  (Appeal, 
+p. 24).  However, in the Eleventh Circuit this heightened burden has been rejected. “[T]he 
+Eleventh Circuit does not require a showing of compelling need before tax information may be 
+obtained by a party in discovery.” Bellosa v. Universal Tile Restoration, Inc., 2008 WL 2620735 
+(S.D. Fla. 2008) (citing Maddow v. Procter & Gamble Co., 107 F.3d 846 (11th Cir. 1997)); 
+accord U.S. v. Certain Real Property, 444 F.Supp. 2d 1258 (S.D.Fla. 2006); Platypus Wear, Inc. 
+v. Clarke Modet & Co., 2008 W.L. 728540 (S.D. Fla. 2008); Preferred Care Partners Holding 
+Corp. v. Humana, Inc., 2008 WL 4500258 (S.D. Fla. 2008); Ruskin Co. v. Greenheck Fan Corp., 
+2009 WL 383349 (S.D. Fla. 2009).  Significantly, in both Preferred Care and Ruskin the Court 
+affirmed the decision of a Magistrate Judge rejecting a higher standard for production of tax 
+returns, holding that, despite an arguable split of authority, 2 the Magistrate Judge’s decision was 
+not “contrary to law.”  Id.  Likewise, the Magistrate Judge’s decision in this case compelling 
+                                                 
+2 Defendant relies upon Pendlebury v. Starbucks Coffee Co., 2008 WL 2105024 (S.D. Fla. 2005) 
+and Dunkin Donuts, Inc. v. Mary’s Donuts, Inc., 2001 WL 34079319 (S.D. Fla. 2001), in which 
+the Court applied the higher standard.  These cases do not consider the Eleventh Circuit’s 
+opinion in Maddow, and the federal judges in this District over the past five years since 
+Pendlebury have consistently rejected the “compelling need” standard for production of tax 
+returns.  See cases cited above.  
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 5 of 10
+
+6 
+ 
+production of tax returns is consistent with authority in this District and the Eleventh Circuit, and 
+thus should be affirmed.  
+III. 
+EVIDENCE OF DEFENDANT’S FINANCIAL 
+ 
+STATUS AND HISTORY IS RELEVANT TO  
+ 
+PUNITIVE DAMAGES, AMONG OTHER ISSUES 
+ 
+ 
+Defendant does not go so far as to contend that the discovery of his tax returns is not 
+relevant under Fed.R.Civ.P. 26.  Defendant only argues that the Magistrate Judge did not address 
+the relevancy standard in her Order.  (Appeal, p. 25).  As a result, Defendant does nothing to 
+show that the Magistrate Judge’s Order as to tax returns is clearly erroneous or contrary to law.  
+In any event, it is abundantly clear that Defendant’s financial status and history are relevant to 
+punitive damages, among other issues in these cases, and in this regard the Defendant’s tax 
+returns are pertinent and discoverable.  Tennant v. Charlton, 377 So.2d 1169 (Fla. 1979) (holding 
+that party may obtain tax returns for purposes of net worth discovery on issue of punitive 
+damages).  See also State v. O’Malley, 53 S.W. 3d 623 (Mo. App. 2001) (“[i]t is well settled that 
+when a plaintiff seeks punitive damages against a defendant, evidence of the defendant’s 
+financial status is both relevant and admissible”); Interstate Narrow Fabrics, Inc. v. Century 
+USA, Inc., 2004 WL 444570 (M.D. N.C. 2004) (holding that tax returns are relevant to the jury’s 
+determination of the amount of punitive damages to award); E.J. Lavino & Co. v. Universal 
+Health Services, Inc., 1991 WL 275767 (E.D. Pa. 1991) (“[m]ost courts that have considered this 
+issue have held that a plaintiff seeking punitive damages may discovery information pertaining 
+to a defendant’s net worth”).  
+ 
+Defendant further argues that he should not have to produce his tax returns until “it 
+becomes apparent” that “punitive damages will be an issue.”  (Appeal, p. 26).  This argument 
+ignores Florida law on punitive damages.  It is well established that “punitive damages are 
+always recoverable in intentional tort cases where malice is one of the essential elements of the 
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 6 of 10
+
+7 
+ 
+tort.”  Ciamar Marcay, Inc. v. Monteiro Da Costa, 508 So.2d 1282 (Fla. 3d DCA 1987) 
+(emphasis supplied).  “In Florida it is clear that an act of intentional assault and battery 
+committed without legal justification supplies proof of malice.”  Joab, Inc. v. Thrall, 245 So.2d 
+291 (Fla. 3d DCA 1971).  Therefore, it is clear in this intentional tort case that punitive damages 
+are an issue.  As this Court knows, Defendant Epstein is alleged to have perpetrated a plan and 
+scheme to sexually molest dozens of underage teenage girls.3 
+ 
+Even assuming that the “compelling need” standard were applicable for discovery of tax 
+returns, clearly in this case there is a compelling need. Defendant has provided no net worth 
+discovery, asserting a blanket Fifth Amendment privilege.4   Defendant nonetheless contends that 
+there exists an “alternative” - not to discovery of the necessary information, but through his offer 
+to “stipulate” to a net worth in the nine figures.  Of course, a stipulation requires the consent of 
+the parties and there is no agreement in this case on the Defendant’s net worth.  Defendant 
+cannot unilaterally by fiat claim a certain net worth for purposes of trial.5  The law is well 
+established that a jury may determine punitive damages “by exacting from [the defendant’s] 
+pocketbook a sum of money which, according to his financial ability, will hurt, but not 
+                                                 
+3 Defendant’s reliance on Gallina v. Commerce and Industry Ins., 2008 WL 3895918 (M.D. Fla. 
+2008) is misplaced.  Gallina is an insurance bad faith case and does not involve a claim of 
+punitive damages against an intentional tortfeasor. Moreover, in the present case it would make 
+no sense to have a different “stage” for punitive damages discovery or trial.   
+ 
+4 “[T]he burden to identify an alternative source of the information lies with the resisting party.”  
+Interstate Narrow Fabrics, 2004 WL 444570 at *2.  Here, Epstein’s blanket Fifth Amendment 
+privilege assertion to all net worth discovery makes it clear that there is a compelling need for 
+any net worth discovery not protected by the Fifth Amendment privilege.  
+ 
+5 Defendant relies upon Myers v. Central Florida Investment, Inc., 592 F.3d 1201 (11th Cir. 
+2010) for its “stipulation” argument.  In Myers, however, the district court heard testimony 
+regarding each of the defendant’s net worth.  There was no unilateral statement of net worth in 
+Myers as Defendant wishes to create in the instant case.   To the extent that Defendant relies 
+upon the Court’s holding in Myers regarding the reasonableness of the trial court’s award of 
+punitive damages, the issue of reasonableness is determined by the particular facts and 
+circumstances of the case and the discussion in Myers of this issue has no relevance here. Id.  
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 7 of 10
+
+8 
+ 
+bankrupt.”  Joab, Inc. v. Thrall, 245 So.2d 291 (Fla. 3d DCA 1971) (emphasis supplied).  
+Plaintiffs are therefore entitled to discovery on the Defendant’s real net worth so that the jury 
+will be in a position to make an award that “will hurt”.   In any event, it seems beyond dispute 
+that Defendant’s tax returns are relevant and discoverable, either under a straight relevance test 
+under Fed.R.Civ.P. 26 or a heightened “compelling need” standard. 
+Conclusion 
+ 
+Based on the foregoing, the Magistrate Judge’s Orders as to Defendant’s production of 
+tax returns in response to Plaintiffs’ document request no. 1 are not clearly erroneous and not 
+contrary to law.  As a result, the Magistrate Judge’s Orders as to production of tax returns should 
+be affirmed.  Plaintiffs respectfully request that the documents responsive to Plaintiffs’ document 
+request no. 1 be ordered to be produced forthwith.  
+Dated: May 28, 2010. 
+Respectfully submitted,  
+By: 
+s/ Stuart S. Mermelstein 
+ 
+  
+Stuart S. Mermelstein (FL Bar No. 947245) 
+ssm@sexabuseattorney.com   
+Adam D. Horowitz (FL Bar No. 376980) 
+ahorowitz@sexabuseattorney.com 
+MERMELSTEIN & HOROWITZ, P.A. 
+Attorneys for Plaintiffs 
+18205 Biscayne Blvd., Suite 2218 
+Miami, Florida  33160 
+Tel:  (305) 931-2200 
+Fax: (305) 931-0877 
+ 
+ 
+ 
+ 
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 8 of 10
+
+9 
+ 
+CERTIFICATE OF SERVICE 
+ 
+ 
+I hereby certify that on May 28, 2010, I electronically filed the foregoing document with 
+the Clerk of the Court using CM/ECF.  I also certify that the foregoing document is being served 
+this day to all parties on the attached Service List in the manner specified, either via transmission 
+of Notices of Electronic Filing generated by CM/ECF or in some other authorized manner for 
+those parties who are not authorized to receive electronically Notices of Electronic Filing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            /s/ Stuart S. Mermelstein       
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 9 of 10
+
+10 
+ 
+SERVICE LIST 
+DOE vs. JEFFREY EPSTEIN 
+United States District Court, Southern District of Florida 
+ 
+ 
+Jack Alan Goldberger, Esq.  
+jgoldberger@agwpa.com  
+ 
+Robert D. Critton, Esq. 
+rcritton@bclclaw.com   
+ 
+Bradley James Edwards 
+bedwards@rra-law.com   
+ 
+Isidro Manuel Garcia  
+isidrogarcia@bellsouth.net  
+ 
+Jack Patrick Hill  
+jph@searcylaw.com 
+ 
+Katherine Warthen Ezell  
+KEzell@podhurst.com 
+  
+Michael James Pike 
+MPike@bclclaw.com   
+ 
+Paul G. Cassell  
+cassellp@law.utah.edu  
+ 
+Richard Horace Willits  
+lawyerwillits@aol.com   
+ 
+Robert C. Josefsberg 
+rjosefsberg@podhurst.com   
+ 
+ 
+ 
+ 
+ 
+Case 9:09-cv-80802-KAM   Document 28   Entered on FLSD Docket 05/28/2010   Page 10 of 10

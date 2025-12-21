@@ -1,0 +1,978 @@
+METADATA_SOURCE: Court Records\Operating Engineers Construction Industry and Miscellaneous Pension Fund v. Dimon, No. 123-cv-03903 (S.D.N.Y. 2023)
+METADATA_FILENAME: 025.pdf
+----------------------------------------
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+IN RE JP MORGAN CHASE & CO.
+DERIVATIVE LITIGATION
+Master Case No. 1:23-CV-03903 (JSR) 
+DERIVATIVE ACTION
+MEMORANDUM OF LAW IN SUPPORT OF
+DEFENDANTS’ MOTION TO DISMISS
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 1 of 32
+
+i
+TABLE OF CONTENTS
+Page
+Table of Authorities.........................................................................................................................ii
+II.
+Relevant Background Facts as Pleaded in Complaint .............................................4
+III.
+No Demand Was Made, and Demand Futility Is Not Adequately Pleaded.............9
+A.
+Legal Standard for Demand Futility........................................................................9
+B.
+Plaintiffs Fail to Plead Particularized Facts Demonstrating that a Majority 
+of the Demand Board Directors Face a “Substantial Likelihood of 
+Liability.”...............................................................................................................10
+1.
+Eight Demand Board members assumed membership on the 
+JPMorgan Board only after JPMorgan terminated Epstein as a 
+client. .........................................................................................................11
+2.
+Plaintiffs fail to plead particularized facts demonstrating that the 
+remaining Demand Board Directors knowingly failed to oversee 
+internal controls. ........................................................................................13
+3.
+Plaintiffs fail to plead particularized facts demonstrating the 
+Directors’ “utter failure” to implement any internal controls....................15
+C.
+Plaintiffs Fail to Plead Particularized Facts Demonstrating That Any 
+Demand Board Director “Lacks Independence.” ..................................................16
+IV.
+Plaintiffs Have Failed to State a Claim Against Any Defendant...........................18
+A.
+Legal Standard Under Rule 12(b)(6) .....................................................................18
+B.
+The Complaint Fails to State a Fiduciary Duty Claim Against Any 
+Director Defendant ................................................................................................18
+C.
+The Complaint Fails to State a Fiduciary Duty Claim Against Mr. Dimon..........20
+D.
+The Complaint Fails to State a Claim for Unjust Enrichment...............................24
+V.
+Conclusion .............................................................................................................25
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 2 of 32
+
+ii
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+In re Am. Int’l Grp., Inc. Derivative Litig.,
+700 F. Supp. 2d. 419 (S.D.N.Y. 2010), aff’d, 415 F. App’x 285 (2d Cir. 2011).....................10
+Aronson v. Lewis,
+473 A.2d 805 (Del. 1984) ........................................................................................................10
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009).................................................................................................................18
+Cantor Fitzgerald, L.P. v. Cantor,
+724 A.2d 571 (Del. Ch. 1998)..................................................................................................24
+In re Caremark Int’l Inc. Derivative Litig.,
+698 A.2d 959 (Del. Ch. 1996)........................................................................................3, 11, 19
+Caspian Select Credit Master Fund Ltd. v. Gohl,
+No. CV 10244-VCN, 2015 WL 5718592 (Del. Ch. Sep. 28, 2015)........................................25
+In re Citigroup Inc. S’holder Derivative Litig.,
+964 A.2d 106 (Del. Ch. 2009)..............................................................................................9, 14
+Constr. Indus. Laborers Pension Fund v. Bingle,
+No. 2021-0940-SG, 2022 WL 4102492 (Del. Ch. Sept. 6, 2022), aff'd, No. 
+411, 2022, 2023 WL 3513271 (Del. May 17, 2023)..........................................................11, 19
+Corp. Risk Holdings LLC v. Rowlands,
+No. 17-CV-5225 (RJS), 2018 WL 9517195 (S.D.N.Y. Sept. 28, 2018) .................................15
+David B. Shaev Profit Sharing Acct. v. Armstrong,
+No. Civ.A. 1449-N, 2006 WL 391931 (Del. Ch. Feb. 13, 2006), aff’d, 911 
+A.2d 802 (Del. 2006) ...............................................................................................................14
+In re Delta and Pine Land Co. S’holders Litig.,
+No. Civ.A. 17707, 2000 WL 875421 (Del. Ch. June 21, 2000) ..............................................10
+Desimone v. Barrows,
+924 A.2d 908 (Del. Ch. 2007)..................................................................................................11
+Firemen’s Ret. Sys. of St. Louis v. Sorenson,
+No. CV 2019-0965-LWW, 2021 WL 4593777 (Del. Ch. Oct. 5, 2021) .................................13
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 3 of 32
+
+TABLE OF AUTHORITIES
+(Continued)
+Page(s)
+iii
+Genworth Fin., Inc. Consol. Derivative Litig., No. CV 11901-VCS, 2021 WL 
+4452338 (Del. Ch. Sept. 29, 2021) ..........................................................................................23
+Gov’t of the U.S. Virgin Islands v. JPMorgan Chase Bank, N.A.,
+23-cv-10904 (S.D.N.Y. 2023)..............................................................................................4, 25
+Guttman v. Huang,
+823 A.2d 492 (Del. Ch. 2003)..................................................................................................15
+Harcum v. Lovoi,
+C.A. No. 2020-0398-PAF, 2022 WL 29695 (Del. Ch. Jan. 3, 2022) ......................................24
+Horman v. Abney,
+No. CV 12290-VCS, 2017 WL 242571 (Del. Ch. Jan. 19, 2017) ...........................................23
+In re ITT Corp. Derivative Litig.,
+588 F. Supp. 2d 502 (S.D.N.Y. 2008) .....................................................................................15
+Jane Doe 1 v. JPMorgan Chase Bank, N.A.,
+22-cv-10019 (JSR) (S.D.N.Y. 2022) ...................................................................................4, 25
+Kahn v. M & F Worldwide Corp.,
+88 A.3d 635 (Del. 2014), overruled on other grounds by Flood v. Synutra 
+Int’l, Inc., 195 A.3d 754 (Del. 2018) .......................................................................................17
+Kococinski v. Collins,
+935 F. Supp. 2d 909 (D. Minn. 2013) (D. Minn. 2013)...........................................................10
+Kravitz v. Tavlarios,
+No. 19 Civ. 8438 (NRB), 2020 WL 3871340 (S.D.N.Y. July 8, 2020), aff’d, 
+No. 20-2579-CV, 2021 WL 5365582 (2d Cir. Nov. 18, 2021)................................................15
+Manbro Energy Corp. v. Chatterjee Advisors, LLC,
+No. 20 CIV. 3773 (LGS), 2021 WL 2037552 (S.D.N.Y. May 21, 2021) ...............................25
+Beam ex rel. Martha Stewart Living Omnimedia, Inc. v. Stewart,
+845 A.2d 1040 (Del. 2004) ......................................................................................................17
+In re McDonald’s Corp. S’holder Derivative Litig.,
+289 A.3d 343 (Del. Ch. 2023)............................................................................................20, 21
+In re Merrill Lynch & Co., Inc., Sec., Derivative & ERISA Litig.,
+773 F. Supp. 2d 330 (S.D.N.Y. 2011) (JSR) ...........................................................................12
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 4 of 32
+
+TABLE OF AUTHORITIES
+(Continued)
+Page(s)
+iv
+Meyers v. Keeler,
+414 F. Supp. 935 (W.D. Okla. 1976).......................................................................................11
+In re Morgan Stanley Derivative Litig.,
+542 F. Supp. 2d 317 (S.D.N.Y. 2008) .....................................................................................17
+Okla. Firefighters Pension & Ret. Sys. v. Corbat,
+No. CV 12151-VCG, 2017 WL 6452240 (Del. Ch. Dec. 18, 2017)........................................13
+In re: Old Bpsush, Inc.,
+No. 16-12373 (BLS), 2021 WL 4453595 (D. Del. Sept. 29, 2021).........................................23
+Pettry v. Smith,
+C.A. No. 2019-0795-JRS, 2021 WL 2644475 (Del. Ch. Jun. 28, 2021)...........................14, 20
+In re Pfizer Inc. S’holder Derivative Litig.,
+722 F. Supp. 2d 453 (S.D.N.Y. 2010) .....................................................................................24
+Rahbari v. Oros,
+732 F. Supp. 2d 367 (S.D.N.Y. 2010) .....................................................................................18
+Rales v. Blasband,
+634 A.2d 927 (Del. 1993) ..........................................................................................................9
+Ret. Sys. v. Roche,
+2020 WL 7023896 (Del. Ch. Nov. 30, 2020) ..........................................................................24
+Rojas v. Ellison,
+C.A. No. 2018-0755-AGB, 2019 WL 3408812 (Del. Ch. Jul. 29, 2019)................................16
+In re SAIC Derivative Litig.,
+948 F. Supp. 2d 366 (S.D.N.Y. 2013) .....................................................................................14
+Scalisi v. Fund Asset Mgmt., L.P.,
+380 F.3d 133 (2d Cir. 2004).......................................................................................................9
+South v. Baker,
+62 A.3d 1 (Del. Ch. 2012)..................................................................................................14, 16
+Steinberg v. Dimon,
+No. 14 Civ. 688 (PAC), 2014 WL 3512848 (S.D.N.Y. July 16, 2014)...................................15
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 5 of 32
+
+TABLE OF AUTHORITIES
+(Continued)
+Page(s)
+v
+Stone v. Ritter,
+911 A.2d 362 (Del. 2006) ..................................................................................................11, 15
+Teamsters Union 25 Health Servs. & Ins. Plan v. Baiera,
+119 A.3d 44 (Del. Ch. 2015)....................................................................................................17
+Tri-State Pension Fund v. Zuckerberg,
+262 A.3d 1034 (Del. 2021) ..............................................................................................2, 9, 16
+United Food & Com. Workers Union v. Zuckerberg,
+250 A.3d 862 (Del. Ch. 2020), aff’d sub nom. Zuckerberg, 262 A.3d 1034 ...........................12
+Statutes
+D.G.C.L. § 102(b)(7) .....................................................................................................................10
+Other Authorities
+Daniel E. Slotnik, James Crown, Chicago Businessman and Avid Philanthropist, 
+Dies at 70, N.Y. Times (July 3, 2023), 
+nytimes.com/2023/06/27/business/james-crown-dead.html......................................................4
+Fed. R. Civ. P. 12(b)(6)..........................................................................................................1, 2, 18
+Fed. R. Civ. P. 23.1......................................................................................................................1, 2
+Fed. R. Civ. P. 23.1(b)(3).................................................................................................................9
+JPMorgan Names Two to Board, Creates Lead Director Role, Bloomberg (Sept. 
+9, 2013) https://www.bloomberg.com/news/articles/2013-09-09/jpmorgan-
+names-two-to-board-creates-lead-director-role#xj4y7vzkg ......................................................5
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 6 of 32
+
+1
+Pursuant to Federal Rules of Civil Procedure 23.1 and 12(b)(6), Defendants1 submit this 
+memorandum of law in support of their motion to dismiss with prejudice the Amended 
+Stockholder Derivative Complaint, dated June 30, 2023 (the “Complaint”) [Dkt. 17]. 
+I.
+Preliminary Statement
+Plaintiffs are stockholders of JPMorgan Chase & Co. (“JPMorgan” or the “Company”)  
+who assert derivative claims for breach of fiduciary duty against eight former and current 
+directors and a former officer of JPMorgan.  These claims concern the Company’s prior 
+relationship with Jeffrey Epstein, whose accounts at a Company subsidiary (the “Bank”) were 
+terminated in August 2013.  For all its length, the 65-page Complaint contains few factual 
+allegations about Defendants themselves—no doubt, because many of the Director Defendants 
+were not even on the Board when Epstein was a Bank client, and those actually on the Board at 
+the time are not alleged to have known about Epstein’s accounts.  The Complaint should be 
+dismissed with prejudice because it both (1) fails to plead demand futility as a matter of law, and 
+(2) fails to state claims for breach of fiduciary duty and unjust enrichment.     
+Demand Futility Not Pleaded.  Shareholders may usurp the role of a company’s board of 
+directors and pursue claims belonging to the company only in rare circumstances.  To displace 
+that authority, Delaware law—which applies here because JPMorgan is incorporated in 
+Delaware—requires that a shareholder first make a demand on the company’s board to 
+investigate the alleged claims.  Compl. ¶ 60.2  Plaintiffs here concede that they did not make a 
+1 This memorandum is submitted on behalf of all defendants apart from James Staley, including 
+JPMorgan; Stephen Burke, Todd Combs, James Crown, Timothy Flynn, Mellody Hobson, John 
+Kessler, and Phebe Novakovic (the “Director Defendants”); and James Dimon (together, with the 
+Director Defendants, the “Defendants”).  JPMorgan joins only in Part III of this motion, 
+addressing demand futility. 
+2 References to “Ex. _ at _” refer to the exhibits to the attached Declaration of Audra J. Soloway 
+and the corresponding page citation.  References to “¶” refer to paragraphs in the Complaint.
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 7 of 32
+
+2
+demand, instead contending that making a demand on the members of JPMorgan’s Board as of 
+the date the Complaint was filed (the “Demand Board”) would be “futile.”  Compl. ¶¶ 185, 188.  
+To surmount the stringent demand futility standard, however, Plaintiffs must plead that a 
+majority of the Demand Board was conflicted because they (1) “received a material personal 
+benefit from the alleged misconduct,” (2) “would face a substantial likelihood of liability on any 
+of the claims,” or (3) “lack[] independence from someone” conflicted under (1) or (2).  United 
+Food & Com. Workers Union & Participating Food Indus. Emps.’ Tri-State Pension Fund v. 
+Zuckerberg, 262 A.3d 1034, 1058 (Del. 2021) (“Zuckerberg”).  Rule 23.1 additionally requires 
+that these facts be pled with particularity.  The sparse, conclusory allegations of the Complaint, 
+however, satisfy none of these prongs:
+
+Under prong 1, there are no allegations whatsoever that any Demand Board Director 
+received a material personal benefit from the alleged misconduct.
+
+Under prong 2, the Complaint does not contain any well-pleaded facts, let alone 
+particularized ones, establishing that any Demand Board Director faces a substantial 
+likelihood of liability for the claims—let alone a majority of the Demand Board.  
+Indeed, eight of the 11 Demand Board Directors joined the Board only after the Bank 
+terminated Epstein’s accounts in 2013, and face no risk of liability.  
+
+Under prong 3, the Complaint does not contain any well-pleaded facts that any 
+Demand Board Director lacks independence from a purportedly conflicted Demand 
+Board Director.  As an initial matter, there are no conflicted Demand Board Directors.  
+Moreover, the Complaint asserts only that certain Demand Board Directors have had 
+long-standing business relationships with others, and that one director invested in a 
+real estate venture decades ago in which Epstein was allegedly involved, which is 
+plainly insufficient. 
+
+Accordingly, the Complaint lacks particularized factual allegations of demand futility 
+to allow Plaintiffs to bring this action, and must be dismissed.  
+Failure to State a Claim.  Even if Plaintiffs had adequately pleaded demand futility (they 
+have not), the breach of fiduciary duty claims fail to state a claim under Rule 12(b)(6) against 
+both the non-management Director Defendants, as well as CEO Dimon.    
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 8 of 32
+
+3
+With respect to the non-management Director Defendants, Plaintiffs face the difficult 
+hurdle of alleging oversight failure under the demanding standard set forth in In re Caremark 
+Int’l Inc. Derivative Litig., 698 A.2d 959 (Del. Ch. 1996).  This hurdle is further heightened 
+because JPMorgan’s charter exculpates its directors from liability for breaches of fiduciary duty 
+except those that arise from acts taken in bad faith or from intentional misconduct.  The 
+Complaint fails to identify any well-pleaded facts showing, as required by Caremark, that any 
+Director Defendant consciously disregarded red flags concerning Epstein’s accounts and banking 
+activity.  In fact, the Complaint does not plead that any Director Defendant even knew that 
+Epstein was a client, much less that they disregarded the Bank’s anti-money laundering 
+obligations.  Nor can the Complaint satisfy Caremark by alleging that the Director Defendants 
+utterly failed to implement controls; to the contrary, it concedes that JPMorgan had robust 
+internal controls for board oversight.  
+With respect to Mr. Dimon, Plaintiffs likewise fail to plead allegations establishing (1) 
+bad faith misconduct arising from a failure to act in the face of specific knowledge of any red 
+flag (duty of oversight) or (2) that he acted with gross negligence with respect to compliance and 
+risk management concerning Epstein’s accounts (duty of care).  Rather, the claims against Mr. 
+Dimon are based on nothing more than pure speculation and innuendo.  These allegations, more 
+suited to Page Six of the New York Post than a complaint in federal court, fail to demonstrate Mr. 
+Dimon was even involved in the decision to continue the banking relationship with Mr. Epstein 
+or with BSA/AML issues concerning Mr. Epstein’s accounts, much less state a failure of 
+oversight claim.  
+For all these reasons, the Complaint should be dismissed in its entirety with prejudice.
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 9 of 32
+
+4
+II.
+Relevant Background Facts as Pleaded in Complaint
+Plaintiffs’ claims are premised on the Bank’s relationship with Jeffrey Epstein from 
+2008, when Epstein pleaded guilty to soliciting a minor for prostitution, until his 2019 death.  
+Compl. ¶ 183.  The Complaint’s allegations are largely based on the claims advanced in two 
+related cases pending before the Court, Jane Doe 1 v. JPMorgan Chase Bank, N.A., 22-cv-10019 
+(JSR) (S.D.N.Y. 2022) and Gov’t of the U.S. Virgin Islands v. JPMorgan Chase Bank, N.A., 23-
+cv-10904 (S.D.N.Y. 2023).  Defendants assume the Court’s familiarity with the underlying 
+allegations in these cases. 
+Plaintiffs concede that they “did not make a demand on the Board [of JPMorgan] to 
+institute this Action because pre-suit demand is excused.”  Compl. ¶ 185.  For the reasons 
+addressed below, a majority of the Demand Board is not conflicted for demand futility purposes, 
+regardless of whether the Demand Board is deemed to have 11 members or 12 members 
+(including Crown, who passed away on June 25, 2023, before this Complaint was filed).3
+ Five Demand Board Directors—Linda Bammann, Alicia Davis, Alex Gorsky, Michael 
+Neal, and Virginia Rometty—are current directors who are not named as defendants (the “Non-
+Defendant Directors”).  The other current directors and Crown are named as Defendants, along 
+with former director John Kessler, who served from 1996 to 2007.  For the convenience of the 
+Court, the below table sets forth the Demand Board and Director Defendants and their respective 
+Board tenures, as well as whether Epstein was a Bank client during their board service: 
+Director
+Board Service
+Defendant
+On Board Before Epstein 
+Accounts Terminated 
+Linda B. Bammann
+2013-Present
+No
+No
+Stephen B. Burke
+2004-Present
+Yes
+Yes
+Todd A. Combs
+2016-Present
+Yes
+No
+3 See Daniel E. Slotnik, James Crown, Chicago Businessman and Avid Philanthropist, Dies at 
+70, N.Y. Times (July 3, 2023), nytimes.com/2023/06/27/business/james-crown-dead.html.  
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 10 of 32
+
+5
+James S. Crown
+2004-2023
+Yes
+Yes
+Alicia B. Davis
+2023-Present
+No
+No
+James Dimon
+2004-Present
+Yes
+Yes
+Timothy P. Flynn
+2012-Present
+Yes
+Yes
+John W. Kessler
+2004-2007
+Yes
+Yes
+Alex Gorsky
+2022-Present
+No
+No
+Mellody Hobson
+2018-Present
+Yes
+No
+Michael A. Neal
+2014-Present
+No
+No
+Phebe N. Novakovic
+2020-Present
+Yes
+No
+Virginia M. Rometty
+2020-Present
+No
+No
+Notably, eight of the Demand Board Directors—a clear majority—joined the Board only 
+after the Bank terminated its banking relationship with Epstein in August 2013 (this includes all 
+of the five Non-Defendant Directors, and Combs, Hobson, and Novakovic).4  To address this 
+inconvenient fact, the Complaint asserts that various Demand Board Directors face a “substantial 
+likelihood of liability” because they “served on the Board at times between Epstein’s 2008 plea 
+and his 2019 death,”  Compl. ¶ 189, and that directors who served before 2013 face “an even 
+more heightened likelihood of liability for having served…before the Company purportedly 
+terminated its relationship with Epstein in 2013.”  Compl. ¶ 190.  
+The Complaint contains no particularized factual allegations even suggesting that any 
+Director Defendant was aware of the Bank’s relationship with Epstein, much less consciously 
+disregarded red flags or committed misconduct in connection with Epstein’s accounts.  Rather, to 
+4 The Complaint incorrectly states that Bammann joined the Board before Epstein was 
+terminated as a client.  Compl. ¶ 190.  This is incorrect because Bammann did not join the Board 
+until September 2013.  Compare Doe 1 Compl. ¶ 473 (“By providing financing for Epstein’s sex 
+trafficking organization from about 2000 through about August 2013”); ¶ 438 (“[B]etween about 
+2000 and August 2013 and following, JP Morgan concealed its delivery of vast sums of cash to 
+Epstein and his associates”) with JPMorgan Names Two to Board, Creates Lead Director Role, 
+Bloomberg (Sept. 9, 2013) https://www.bloomberg.com/news/articles/2013-09-09/jpmorgan-
+names-two-to-board-creates-lead-director-role#xj4y7vzkg (dating Bammann joining the board to 
+September 2013).
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 11 of 32
+
+6
+the extent the Complaint contains any allegations with respect to any Director Defendant, those 
+allegations are speculative assignations of guilt-by-association:
+
+As to Burke, Combs, Flynn, and Hobson, the Complaint contains no allegations 
+whatsoever, apart from identifying them as Board members and detailing certain 
+aspects of their professional backgrounds.  Compl. ¶¶ 35, 37–39.  
+
+Plaintiffs’ only allegations against former director Crown are that, at some 
+unspecified time decades ago, he “was involved in the New Albany project,” a project 
+to re-develop farmland into a town modeled on an 18th Century Georgian village, 
+“which relied on Epstein for its success.”  Compl. ¶ 88, 194.  Plaintiffs also allege 
+that Crown recruited Dimon to Bank One Corporation, and that Crown served as the 
+head of the JPMorgan Board of Directors’ Risk Committee while Epstein was a client 
+of the Bank.  Compl. ¶¶ 14, 103, 104, 107.
+
+With respect to Novakovic, Plaintiffs concede that she joined the Board after 
+Epstein’s death, see Compl. ¶ 36, but assert her non-independence from Crown on 
+grounds that Novakovic is the CEO of General Dynamics, which is alleged to be 
+Crown’s “family business.”  Compl. ¶¶ 195, 12.  Plaintiffs fashioned this purported 
+conflict for the first time after Crown passed away, by adding Novakovic to a later-
+filed pleading.5   
+5 The first-filed complaint did not sue Novakovic, and conceded her independence. [Dkt. 1]  It 
+was not until the second-filed complaint that Novakovic was added as a defendant and identified 
+as purportedly conflicted due to her connection to Crown—but that complaint was filed on June 
+27, 2023 [City of Miami Gen. Emps. & Sanitation Emps. Retirement Trust v. JPMorgan Chase & 
+Co., 23-cv-05459 (JSR) (S.D.N.Y. 2023), Dkt. 1] after Crown’s death on June 25, at which point 
+any influence by Crown over Novakovic’s consideration of a demand had plainly ceased.  It is 
+pure gamesmanship for Plaintiffs to sue Novakovic (who only joined the Board after Epstein’s 
+death) and assert her purported lack of independence only after Crown’s death, when the 
+purported conflict no longer exists.  Further, Defendants asked Plaintiffs to dismiss their claims 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 12 of 32
+
+7
+
+Plaintiffs allege that former director Kessler, a corporate lawyer, had a business 
+relationship with Les Wexner—an Epstein associate—and invested in the New 
+Albany project on which Epstein worked decades ago, and in which Wexner, Kessler, 
+and Epstein all invested and owned property.  Compl. ¶¶ 11–13, 87–96, 105.  
+Plaintiffs also allege the unremarkable fact that Kessler was involved in recruiting 
+Dimon to join Bank One Corporation, which later merged with JPMorgan.  Compl. 
+¶¶ 90–91, 96.  
+
+Finally, as to non-Defendant Bammann, Plaintiffs allege that she worked for Dimon 
+in the early 2000s at both Bank One and at JPMorgan—years before joining the 
+JPMorgan Board in September 2013.  Compl. ¶ 193. 
+The sole remaining allegation relevant to the non-management Director Defendants 
+relates to government investigations and a jumble of inflammatory references to bad actors that 
+Plaintiffs fail to show are in any way related to the Bank’s prior relationship with Mr. Epstein.  
+Compl. ¶¶ 170–73.  Specifically, Plaintiffs allege that in January 2014, the Bank settled two BSA 
+violations with the Office of the United States Attorney for the Southern District of New 
+York.  Compl. ¶ 170.  In the settlement agreement, the Bank acknowledged that it had failed to 
+report suspicious activity concerning the activities of Bernie Madoff between 2006 and 2008.  
+Compl. ¶ 171; (Ex. 1 at 1, 24).  At the same time, the Bank agreed to pay a civil money penalty 
+consent order to the OCC for $350 million.  Compl. ¶ 170.6  Plaintiffs also list, without any 
+against Crown in light of his death, and Plaintiffs’ response was to file this Amended Complaint 
+on June 30, 2023 [Dkt. 17] that amended references to Crown’s Board service to past tense, but 
+did not dismiss him from the lawsuit.  Defendants reserve all rights on this issue.
+6 The government investigations related to the OCC consent order ultimately required JPMorgan 
+and affiliates to improve compliance efforts, including with respect to suspicious activity reports 
+(“SARs”).  The Complaint does not allege that such improvements were not actually made in 
+2014, or that JPMorgan has violated the consent order.
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 13 of 32
+
+8
+details, transactions that JPMorgan has purportedly handled for “bad actors” unrelated to 
+Epstein, such as Jho Low and Paul Manafort.  Compl. ¶ 172.7  None of this purported 
+misconduct is alleged either to relate to Epstein, or to have been known by the Board.
+As to Mr. Dimon, the Bank’s CEO, the Complaint’s allegations are limited to (a) 
+speculation that Mr. Dimon must have known of Mr. Epstein’s criminality because, based on a 
+lengthy, contorted story, Mr. Dimon and Mr. Epstein shared connections to the Columbus, Ohio 
+business community (Compl. ¶¶ 14, 90-91, 96, 102–08, 191); (b) the assertion that a certain 
+document concerning Epstein’s bank accounts was marked “pending Dimon review,” though the 
+Complaint conspicuously stops short of alleging that this review ever occurred (Compl. ¶¶ 19, 
+136–37, 191); and (c) the claim that Mr. Epstein and a different defendant, Mr. Staley, 
+coordinated to schedule meetings for Mr. Dimon with the likes of Benjamin Netanyahu, Bill 
+Gates, and Prince Andrew, even though the Complaint nowhere pleads facts demonstrating Mr. 
+Dimon attended these meetings or, if he did, that he had any knowledge of Mr. Epstein’s 
+purported involvement.  Compl. ¶ 123.
+III.
+No Demand Was Made, and Demand Futility Is Not Adequately Pleaded.
+A.
+Legal Standard for Demand Futility
+“‘A cardinal precept’ of Delaware law ‘is that directors, rather than shareholders, manage 
+the business and affairs of the corporation.’” 8  Zuckerberg, 262 A.3d at 1047 (citation omitted).  
+This extends to a determination whether the corporation should file a lawsuit against its 
+directors, its officers, its controller, or an outsider.  Id.  A stockholder may substitute his 
+7 Plaintiffs also allege an equally irrelevant SEC fine concerning the deletion of electronic 
+records which purportedly “includ[ed] emails and instant messages, dated from January to April 
+2018” but do not explain how this is relevant to Epstein at all.  Compl. ¶ 173.  
+8 Because JPMorgan is incorporated in Delaware, Delaware law governing demand futility 
+applies.  Scalisi v. Fund Asset Mgmt., L.P., 380 F.3d 133, 138 (2d Cir. 2004).
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 14 of 32
+
+9
+judgment for that of the board and assert company claims only after either “(1) mak[ing] a 
+demand on the company’s board of directors” that the board rejects “or (2) show[ing] that 
+demand would be futile.”  Id.
+Federal Rule of Civil Procedure 23.1(b)(3) requires that a shareholder-derivative 
+complaint “state with particularity” any “effort by the plaintiff to obtain the desired action from 
+the directors” and “the reasons for not obtaining the action or not making the effort.”  It is the 
+“rare case” where the requirement is excused based upon allegations that demand is futile.  In re 
+Citigroup Inc. S’holder Derivative Litig., 964 A.2d 106, 121 (Del. Ch. 2009).  To plead demand 
+futility, Plaintiffs must allege “particularized facts creating a reasonable doubt that a majority of 
+the Board…would be disinterested or independent in making a decision on” whether to bring 
+suit.  Rales v. Blasband, 634 A.2d 927, 930 (Del. 1993).
+To plead that directors are conflicted, Plaintiffs must allege with particularity that they 
+(1) “received a material personal benefit from the alleged misconduct,” (2) “would face a 
+substantial likelihood of liability on any of the claims,” or (3) “lack[] independence from 
+someone” conflicted under (1) or (2).  Zuckerberg, 262 A.3d at 1058.  In this case, Plaintiffs 
+make no allegation whatsoever that any director received a material personal benefit from any 
+alleged misconduct (Compl. ¶¶ 135–51), making prong one of Zuckerberg inapplicable.9  And 
+Plaintiffs’ efforts to satisfy prongs two and three plainly fail.      
+9 To support its unjust enrichment claim, Plaintiffs allege in conclusory fashion that Defendants 
+“benefit[ed] from their misconduct in the form of profits, benefits, and other compensation.”  
+Compl. ¶ 217.  But under Zuckerberg’s first prong, ordinary board compensation does not 
+constitute a material benefit.  See e.g., In re Am. Int’l Grp., Inc. Derivative Litig., 700 F. Supp. 
+2d. 419, 432 (S.D.N.Y. 2010), aff’d, 415 F. App’x 285 (2d Cir. 2011) (finding that “[p]laintiff’s 
+allegations regarding director compensation [did] not raise any reasonable doubt as to directorial 
+disinterestedness” because plaintiff did not “allege that the compensation that these directors 
+received was anything other than customary director compensation”) (citing Orman v. Cullman, 
+794 A.2d 5, 29 n. 62 (Del. Ch. 2002)).
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 15 of 32
+
+10
+B.
+Plaintiffs Fail to Plead Particularized Facts Demonstrating that a Majority of 
+the Demand Board Directors Face a “Substantial Likelihood of Liability.” 
+Demand may be excused under the second prong of the Zuckerberg test only in “rare” 
+circumstances where a complaint alleges with particularity that a majority of directors engaged 
+in such “egregious” misconduct that they face not merely a “threat” but a “substantial likelihood 
+of director liability.”  Aronson v. Lewis, 473 A.2d 805, 815 (Del. 1984).  And here, Plaintiffs’ 
+hurdle is higher still: Pursuant to Delaware General Corporation Law Section 102(b)(7), 
+JPMorgan’s charter exculpates its directors from liability for breaches of fiduciary duty except 
+those that arise from acts taken in bad faith or from intentional misconduct.10  See Ex. 2 at 4 
+(Restated Certificate of Incorporation of JPMorgan Chase & Co. at Art. 6(1)).  
+In the face of this high pleading standard, Plaintiffs rely upon an oversight claim. 
+Oversight claims are “possibly the most difficult theory in corporation law upon which a plaintiff 
+might hope to win a judgment.”  In re Caremark, 698 A.2d at 967.  To state such a claim, 
+Plaintiffs must plead particularized facts demonstrating either that “(a) the directors utterly failed 
+10 As to the claim Plaintiffs seek to assert against Mr. Staley in particular, it is obvious that 
+demand would not be futile.  As noted above, JPMorgan has already brought claims against Mr. 
+Staley identical to those that Plaintiffs now seek to assert on behalf of JPMorgan.  See supra at 
+Part III.  Demand cannot be futile where, as here, a board has already acted on the very matter on 
+which the shareholder demands action.  See, e.g., In re Delta and Pine Land Co. S’holders Litig., 
+No. Civ.A. 17707, 2000 WL 875421, at *6 (Del. Ch. June 21, 2000) (“As this Court has 
+previously found, the existence of a board-initiated action conclusively defeats any claim that 
+demand would have been futile.  Indeed, there is something to be said for the idea that this Court 
+should inquire no further if it finds that the corporate directors are litigating the same claims 
+advanced in the derivative action.”) (internal quotation marks omitted); see also Kococinski v. 
+Collins, 935 F. Supp. 2d 909, 919 n.17 (D. Minn. 2013) (noting that “if a board of directors had 
+already commenced a lawsuit addressing the conduct that a potential derivative plaintiff wanted 
+to challenge, there would be little reason for the derivative plaintiff to commence the same 
+action”) (D. Minn. 2013); Meyers v. Keeler, 414 F. Supp. 935, 939 (W.D. Okla. 1976) (demand 
+not futile where board has “already taken action on the very matter which [p]laintiff [] asserts 
+they would not take action upon”).  Indeed, permitting Plaintiffs’ claim against Mr. Staley to 
+proceed would simply result in unnecessary, duplicative litigation.
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 16 of 32
+
+11
+to implement any reporting or information system or controls; or (b) having implemented such a 
+system or controls, consciously failed to monitor or oversee its operations thus disabling 
+themselves from being informed of risks or problems requiring their attention.”  Stone v. Ritter, 
+911 A.2d 362, 370 (Del. 2006).  In light of JPMorgan’s exculpatory charter provision, “the lack 
+of oversight pled must be so extreme that it represents a breach of the duty of loyalty,” which 
+“requires a pleading of scienter, demonstrating bad faith.”  Constr. Indus. Laborers Pension 
+Fund v. Bingle, No. 2021-0940-SG, 2022 WL 4102492, at *1 (Del. Ch. Sept. 6, 2022), aff'd, No. 
+411, 2022, 2023 WL 3513271 (Del. May 17, 2023).  In other words, Plaintiffs must allege facts 
+demonstrating that the Board “knew that internal controls were inadequate” but “chose to do 
+nothing.”  Desimone v. Barrows, 924 A.2d 908, 940 (Del. Ch. 2007).  The Complaint falls far 
+short of meeting this rigorous pleading standard.  
+1.
+Eight Demand Board members assumed membership on the JPMorgan 
+Board only after JPMorgan terminated Epstein as a client.
+There is no colorable argument whatsoever that there is any risk of liability for at least 
+eight of the Demand Board Directors—Defendants Combs, Hobson, Novakovic and non-
+Defendants Bammann, Rometty, Gorsky, Neal, and Davis—for the obvious reason that these 
+directors all assumed their positions on JPMorgan’s board only after Epstein’s relationship with 
+JPMorgan was terminated in August 2013.  Compl. ¶¶ 36, 38, 39.  These directors cannot 
+possibly bear liability in connection with any alleged Epstein-related compliance shortcomings 
+by the Bank before their Board membership began.  See, e.g., In re Merrill Lynch & Co., Inc., 
+Sec., Derivative & ERISA Litig., 773 F. Supp. 2d 330, 340 (S.D.N.Y. 2011) (JSR) (majority of 
+Bank of America board faced no substantial risk of liability for claims alleged against Merrill 
+Lynch officers and directors based on pre-merger conduct); United Food & Com. Workers Union 
+v. Zuckerberg, 250 A.3d 862, 894 (Del. Ch. 2020) (holding that a board member was not 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 17 of 32
+
+12
+interested in part because he had joined the board after the challenged action had taken place), 
+aff’d sub nom. Zuckerberg, 262 A.3d 1034.  
+In the face of this critical deficiency, Plaintiffs lodge several speculative and conclusory 
+allegations:  First, Plaintiffs say that the Bank “potentially continued to engage with Epstein 
+related entities until his death in jail in 2019” (Compl. ¶ 26), but the Complaint offers no well-
+pleaded factual allegations showing any continuing engagement with Epstein following 
+termination of his accounts, much less a lack of oversight by Defendants from 2013-2019 so 
+extreme that it amounts to bad faith.  Second, Plaintiffs say that the Bank “actively concealed 
+Epstein’s crimes by failing to file any legally required Suspicious Activity Reports (‘SARs’), 
+which are mandated for large cash withdrawals and other suspicious transactions.”  Id.  
+Plaintiffs, however, do not allege any particularized facts about the Company’s actual SAR filing 
+practices concerning Epstein—indeed, Plaintiffs rely fully on the USVI and Doe complaints 
+(which actually plead that SARs were filed), and offer no good faith factual basis to support the 
+conclusory and contradictory assertion that zero SARs were filed.  Plaintiffs also fail to allege 
+that any director would, in the ordinary course, have any knowledge of or involvement in the 
+SAR filing process at a client-specific level, and therefore fail to allege that any director should 
+have known about specific SAR filings related to Epstein.  In any event, Plaintiffs again fail to 
+explain how Directors who joined the Board after the Epstein account terminations could 
+possibly be culpable for SAR filings, or the alleged lack thereof, during his tenure as a client.
+Accordingly, given that eight Demand Board Directors joined the Board after the Bank 
+terminated Epstein’s accounts in 2013, there is no question that a majority of an 11- (or 12-) 
+person board faces no substantial risk of personal liability under the Zuckerberg analysis.
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 18 of 32
+
+13
+2.
+Plaintiffs fail to plead particularized facts demonstrating that the 
+remaining Demand Board Directors knowingly failed to oversee internal 
+controls.
+While not necessary to address, Plaintiffs also cannot satisfy Caremark for the Demand 
+Board Directors who served while Epstein’s accounts at the Bank were active—Burke, Dimon, 
+and Flynn (and Crown, even if included).  To satisfy Caremark, both knowledge of the 
+misconduct and a conscious failure to act upon that knowledge are required.  See Firemen’s Ret. 
+Sys. of St. Louis v. Sorenson, No. CV 2019-0965-LWW, 2021 WL 4593777, at *13 (Del. Ch. 
+Oct. 5, 2021) (plaintiff must allege directors “knew about ‘red flags’ alerting them to corporate 
+misconduct and consciously failed to act after learning about evidence of illegality”) (internal 
+quotation marks omitted).  Importantly, merely pleading facts that “imply that the [demand 
+board] could have done a better job addressing the issues highlighted by, among other sources, . . 
+. consent orders” is “not enough to state a Caremark claim.”  Okla. Firefighters Pension & Ret. 
+Sys. v. Corbat, No. CV 12151-VCG, 2017 WL 6452240, at *17 (Del. Ch. Dec. 18, 2017).  
+The Complaint is devoid of well-pleaded factual allegations that the Demand Board 
+Directors who served while Epstein was a Bank client (or any other director) were even aware of 
+that banking relationship, let alone were aware of any red flags concerning Epstein’s accounts 
+and thereafter consciously disregarded a duty owed by the Board to act on such red flags, as is 
+required to sustain a claim under the second Caremark prong.  See Pettry v. Smith, C.A. No. 
+2019-0795-JRS, 2021 WL 2644475, at *7 (Del. Ch. Jun. 28, 2021).  Even the Complaint’s 
+allegations that Staley was involved in Epstein’s crimes does not in any way suggest the Board 
+was informed of issues concerning Epstein’s accounts.  Compl. ¶¶ 139-50.  Entirely absent, 
+therefore, are any allegations that any Director Defendant was ever “presented with ‘red flags’ 
+alerting it to potential misconduct” and consciously and deliberately ignored such warnings, as 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 19 of 32
+
+14
+required to state a prong-two Caremark claim.  David B. Shaev Profit Sharing Acct. v. 
+Armstrong, No. Civ.A. 1449-N, 2006 WL 391931, at *5 (Del. Ch. Feb. 13, 2006), aff’d, 911 
+A.2d 802 (Del. 2006); South v. Baker, 62 A.3d 1, 17 (Del. Ch. 2012) (no substantial likelihood 
+of liability where “[a]lthough the complaint asserts that the directors knew of and ignored 
+[certain safety incidents], the complaint nowhere alleges anything that the directors were told 
+about the incidents, what the Board’s response was, or even that the incidents were connected in 
+any way”).  
+Nor does the mere existence of the alleged regulatory investigations or enforcement 
+actions in 2013 and 2014 support a Caremark claim for the Director Defendants on the Board at 
+that time.  See Compl. ¶¶ 170–71.  The DOJ settlement, OCC fine, and other allegations set forth 
+in the Complaint did not concern the Bank’s relationship with Epstein, which had already been 
+terminated.  Compl. ¶¶  172–73; see In re SAIC Derivative Litig., 948 F. Supp. 2d 366, 387 
+(S.D.N.Y. 2013) (rejecting argument that “knowledge of wrongdoing in other transactions 
+should have put the Board on a heightened state of alert”); Citigroup, 964 A.2d at 129 (rejecting 
+contention that “alleged prior, unrelated wrongdoing would make directors sensitive to similar 
+circumstances”) (internal quotation marks omitted).  Moreover, if anything, the Director 
+Defendants on the Board at the time of the government settlements would have been reassured 
+by enhancement of the Company’s compliance procedures—and the Complaint does not allege 
+that these enhancements were not actually made, or that the Board subsequently learned of any 
+SAR-related compliance problems following those government investigations in 2014.  Plaintiffs 
+thus fail to allege “information regarding the individual [d]irectors’ responses, if any” to the 
+alleged regulatory enforcement, and thus fail to establish that any “[d]irector[] failed to act or 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 20 of 32
+
+15
+[that] the actions they took were inappropriate in light of the information they received.”  In re 
+ITT Corp. Derivative Litig., 588 F. Supp. 2d 502, 513 (S.D.N.Y. 2008).  
+In sum, where, as here, the Complaint fails to offer “well-pled, particularized allegations 
+of fact detailing the precise roles” the Demand Board Directors played, the information that 
+came to their attention, “and any indication as to why they would have perceived the 
+[complained of] irregularities,” Plaintiffs cannot sustain a claim that such directors face a 
+significant risk of liability.  Guttman v. Huang, 823 A.2d 492, 503 (Del. Ch. 2003).
+3.
+Plaintiffs fail to plead particularized facts demonstrating the Directors’ 
+“utter failure” to implement any internal controls. 
+Plaintiffs also fail to satisfy Caremark by pleading that the Demand Board Directors 
+“utterly failed to implement any reporting or information system or controls.”  Stone, 911 A.2d at 
+370.  “The issue [under prong one of Caremark] is not whether JPMorgan’s controls were 
+adequate, but whether any existed.”  Steinberg v. Dimon, No. 14 Civ. 688 (PAC), 2014 WL 
+3512848, at *3 (S.D.N.Y. July 16, 2014).  The standard “requires only that a reporting system 
+exist, not even that it be ‘reasonable.’”  Corp. Risk Holdings LLC v. Rowlands, No. 17-CV-5225 
+(RJS), 2018 WL 9517195, at *5 (S.D.N.Y. Sept. 28, 2018) (quoting Cent. Laborers’ Pension 
+Fund v. Dimon, 638 F. App’x 34, 37–38 (2d Cir. 2016)). “[S]o long as directors ‘try’ to 
+implement such system, they discharge their duty to monitor the corporation.”  Kravitz v. 
+Tavlarios, No. 19 Civ. 8438 (NRB), 2020 WL 3871340, at *9 (S.D.N.Y. July 8, 2020), aff’d, No. 
+20-2579-CV, 2021 WL 5365582 (2d Cir. Nov. 18, 2021).  Indeed, under the first prong of 
+Caremark, “plaintiffs usually lose because they must concede the existence of board-level 
+systems of monitoring and oversight such as a relevant committee, a regular protocol requiring 
+board-level reports about the relevant risks, or the board’s use of third-party monitors, auditors, 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 21 of 32
+
+16
+or consultants.”  Rojas v. Ellison, C.A. No. 2018-0755-AGB, 2019 WL 3408812, at *9 (Del. Ch. 
+Jul. 29, 2019) (quoting Marchand v. Barnhill, 212 A.3d 805, 823 (Del. 2019)).
+That is the case here.  The Complaint concedes that robust systems do exist at JPMorgan 
+to identify suspicious activity.  Compl. ¶ 2.  The Complaint also quotes from internal memoranda 
+written by officials in JPMorgan’s risk management, Global Corporate Security, compliance, and 
+other unspecified functions, acknowledging that internal reporting processes existed and were 
+leveraged by employees.  See Compl. ¶¶ 24, 146, 151, 154.  In addition, the Complaint describes 
+the numerous committees of the JPMorgan Board of Directors:  it acknowledges the Bank’s 
+Audit and Risk Committees by mentioning directors’ memberships on them, and referencing 
+their responsibilities.  See Compl. ¶¶ 33, 37–39, 104, 112, 170.  The existence of these 
+committees alone “refutes the assertion that the directors utterly failed to attempt to fulfill their 
+oversight obligations,”  Baker, 62 A.3d at 18 (internal quotation marks omitted), and preclude 
+any claim by Plaintiffs based on Caremark’s first prong.  
+C.
+Plaintiffs Fail to Plead Particularized Facts Demonstrating That Any 
+Demand Board Director “Lacks Independence.”
+The Complaint also does not plead facts sufficient to satisfy the third prong of the 
+Zuckerberg test—that “at least half of the members of the Demand Board” “lack[] independence 
+from someone who received a material personal benefit from the alleged misconduct that is the 
+subject of the litigation demand or who would face a substantial likelihood of liability on any of 
+the claims that are the subject of the litigation demand.”  Zuckerberg, 262 A.3d at 1058–59.  
+Importantly, “[i]n the demand futility context, directors are presumed to be independent.”  
+Teamsters Union 25 Health Servs. & Ins. Plan v. Baiera, 119 A.3d 44, 59 (Del. Ch. 2015) 
+(internal quotation marks omitted).  To overcome this presumption, a plaintiff must allege that 
+half of the directors “had ties to the person whose proposal or actions he or she is evaluating that 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 22 of 32
+
+17
+are sufficiently substantial that he or she could not objectively discharge his or her fiduciary 
+duties.”  Kahn v. M & F Worldwide Corp., 88 A.3d 635, 649 (Del. 2014), overruled on other 
+grounds by Flood v. Synutra Int’l, Inc., 195 A.3d 754 (Del. 2018).  
+Plaintiffs allege that Bammann and Crown (even if relevant) were not independent from 
+CEO Dimon (who purportedly faces a substantial risk of liability), and that Crown separately 
+faces a substantial risk of liability because of his unspecified involvement decades ago in the 
+New Albany development project, creating a purported conflict for Novakovic.  These arguments 
+fail for numerous reasons: 
+First, for the reasons stated infra, Dimon and Crown do not face a substantial risk of 
+liability and therefore are not conflicted.    
+Second, even if Dimon faced a substantial risk of liability, Bammann and Crown do not 
+lack independence from Dimon.  Plaintiffs allege Bammann “owes a significant portion of her 
+professional success to Dimon” simply because she worked with him at Bank One Corporation 
+and then JPMorgan in the early 2000s.  Compl. ¶ 193.  Similarly, Plaintiffs point to Crown’s 
+board service for Bank One when Dimon was CEO and his support for Dimon at both Bank One 
+and JPMorgan.  Compl. ¶ 194.  Courts routinely hold that merely asserting close personal or 
+business relationships is insufficient to plead lack of independence in the demand futility context.  
+In re Morgan Stanley Derivative Litig., 542 F. Supp. 2d 317, 326 (S.D.N.Y. 2008); see also 
+Beam ex rel. Martha Stewart Living Omnimedia, Inc. v. Stewart, 845 A.2d 1040, 1051–52 (Del. 
+2004) (“Mere allegations that [the directors] move in the same business and social circles, or a 
+characterization that they are close friends, is not enough to negate independence for demand 
+excusal purposes.”); Rahbari v. Oros, 732 F. Supp. 2d 367, 388 n. 24 (S.D.N.Y. 2010) (“[M]ere 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 23 of 32
+
+18
+personal or business relationships will not raise a reasonable inference that a director cannot 
+consider demand, absent specific factual allegations to support such a conclusion”).
+Third, Plaintiffs cannot disqualify Crown as an independent director merely by citing the 
+decades-ago New Albany real estate venture in which Crown purportedly was “involved” in 
+some unspecified way, and for which Epstein was purportedly brought in to restructure and 
+invest.  The Complaint offers no facts explaining Crown’s involvement, whether he even had any 
+contact with Epstein, or whether he had any financial entanglements with Epstein—much less 
+any connection that is relevant decades later.  Compl. ¶¶ 11, 105.  The mere coincidence that 
+both Crown and Epstein (along with many others) were involved in a long-ago real estate project 
+certainly cannot create a substantial likelihood of liability for Crown (much less, by extension, 
+Novakovic, who allegedly was employed by Crown’s family business). 
+IV.
+Plaintiffs Have Failed to State a Claim Against Any Defendant.
+A.
+Legal Standard Under Rule 12(b)(6)
+Even if demand futility were pleaded (it is not), to survive a motion to dismiss under Rule 
+12(b)(6), the Complaint “must contain sufficient factual matter, accepted as true, to ‘state a claim 
+to relief that is plausible on its face.’”  Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bel 
+Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007)).  
+B.
+The Complaint Fails to State a Fiduciary Duty Claim Against Any Director 
+Defendant 
+For the same reasons that Plaintiffs have failed to plead that any Demand Board Director 
+faces a substantial risk of liability, see supra Part(III)(B)(1), Plaintiffs have also failed to state a 
+claim against any Director Defendant for breach of fiduciary duty.  As elaborated above, because 
+JPMorgan’s charter exculpates its directors from liability for breaches of fiduciary duty, except 
+those that arise from acts taken in bad faith or from intentional misconduct, JPMorgan’s Director 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 24 of 32
+
+19
+Defendants face no possibility of liability for claims based on negligence, gross negligence, or 
+any other conduct short of bad faith.  Instead, Plaintiffs must plead scienter demonstrating bad 
+faith.  Bingle, 2022 WL 4102492, at *1.  Further, as noted above, the Caremark claims asserted 
+here are “possibly the most difficult theory in corporation law upon which a plaintiff might hope 
+to win a judgment” and are routinely dismissed.  Caremark, 698 A.2d at 967.   
+The Complaint does not even attempt to plead the bad faith conduct of the Director 
+Defendants Crown, Burke, Flynn, Hobson, Combs and Novakovic.  As addressed above, breach 
+of a fiduciary duty under a Caremark oversight theory cannot be satisfied merely by offering 
+conclusory allegations that directors were aware (or should have been aware) of wrongful 
+conduct.  Here, there are simply no particularized allegations that any Director Defendant knew 
+of Epstein’s conduct, knew of Epstein’s status as a client at the Bank, failed in any manner to 
+respond to red flags regarding Epstein or JPMorgan’s SAR or other BSA/AML compliance 
+policies or practices, or otherwise failed in any way in executing their oversight duties (indeed, 
+Defendants Combs, Hobson, and Novakovic were not even on the Board when Epstein was a 
+client at the Bank).  See supra pp. 11–12.11  
+As to Kessler, a corporate lawyer who was a director of JPMorgan from 1995–2007, 
+Plaintiffs allege that Kessler associated with Wexner, including in the New Albany real estate 
+venture, on which Epstein supposedly also worked and invested.  Compl. ¶¶ 11–14, 34, 87–93, 
+194.  Even crediting these conclusory allegations, they amount to nothing more than a thin thread 
+11 Plaintiffs half-hearted attempts at alleging knowledge of Epstein’s crimes by the Director 
+Defendants are not only generalized but also patently speculative.  See, e.g., Compl. ¶ 5 
+(speculating that JPM executives who were aware of Epstein-related issues “presumably” 
+attended Board meetings); id. (opining that Board members, by virtue of intelligence and 
+business acumen, “very likely were aware” of Epstein’s misconduct).  This rank speculation is 
+plainly inadequate.
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 25 of 32
+
+20
+tying Kessler to Epstein through a common business partner and venture—entirely disconnected 
+from Epstein’s JPMorgan accounts or the activities at issue in Doe and USVI.  These allegations 
+certainly do not plead that Kessler “knew of evidence of corporate misconduct… yet acted in bad 
+faith by consciously disregarding [his] duty to address [it].” Pettry, 2021 WL 2644475, at *7.  
+C.
+The Complaint Fails to State a Fiduciary Duty Claim Against Mr. Dimon
+The Court also should dismiss Plaintiffs’ claim that Mr. Dimon breached his fiduciary 
+duties for failure to meet the “most difficult theory” imposed under Caremark.  
+The Complaint principally alleges that Mr. Dimon breached his duty of loyalty, under 
+Caremark, by allegedly failing to oversee risks arising from Epstein’s banking activities.  See 
+Compl. ¶ 212.  Caremark claims have historically concerned directors; Delaware law only very 
+recently extended them to officers.  In re McDonald’s Corp. S’holder Derivative Litig., 289 A.3d 
+343, 358 (Del. Ch. 2023).  In McDonald’s, the Court declined to dismiss a Caremark claim 
+against the Global Chief People Officer of McDonalds because he ignored 18 particularly 
+pleaded red flags indicating the executive’s plain and obvious awareness that the company was 
+violating law prohibiting sexual harassment.  Id. at 359.  The red flags included, for example: (i) 
+complaints about the conduct of executives; (ii) two instances in which a dozen employees 
+complained to the EEOC about sexual harassment and misconduct; (iii) a company walkout 
+across thirty cities to protest sexual harassment; (iv) the defendant officer’s personal engagement 
+in sexual harassment witnessed by 30 employees, leading to discipline by the audit committee; 
+(v) letters from U.S. Senators probing sexual harassment; and (vi) receiving specific information 
+that the CEO was engaged in a prohibited relationship with an employee.  Id. at 378.  Thus, the 
+court drew a pleadings stage inference that the defendant consciously and in bad faith ignored 
+red flags that the company engaged in sexual harassment and misconduct.  Id. at 379.  
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 26 of 32
+
+21
+Here, Plaintiffs seek to pursue a red flag theory of liability against Mr. Dimon.  See 
+Compl. ¶ 212.12  But in stark contrast to McDonald’s, the allegations relating to Mr. Dimon are 
+largely fantastical, unrelated to any knowledge of Epstein, much less Epstein’s criminal 
+activities, and thus come nowhere close to stating a claim.  Unlike the allegations in 
+McDonald’s, there are no allegations of the widespread, obvious awareness generated by things 
+like public walkouts across the nation, letters from U.S. Senators, or dozens of complaints to 
+U.S. agencies.  Fatally, the Complaint fails to allege that Mr. Dimon had any actual role in the 
+decision to retain Mr. Epstein as a client or any role in SARs filings, BSA/AML compliance, or 
+reporting of potential wrongdoing to law enforcement.  Likewise, the Complaint fails to allege 
+with specificity that Mr. Dimon was aware of any red flags concerning Epstein’s criminal 
+activities, much less that he personally engaged in the purported red flag behavior like the officer 
+in McDonald’s.  This is fatal because, under McDonald’s, to establish breach of the duty of 
+oversight, plaintiffs must establish that the officer was in fact responsible for receiving and 
+addressing the supposed red flags.  See In re McDonald’s, 289 A.3d at 350.
+Plaintiffs cannot salvage a claim by offering mere speculation based on a single 
+document that neither is addressed to nor copied Mr. Dimon, referring to a potential “Dimon 
+review.”  Compl. ¶¶ 19, 136.  The Complaint does not identify the employee who sent the email 
+or explain the nature of the supposed “review.”  Further, the Complaint conspicuously fails to 
+allege that the review occurred.13  This is no doubt because Plaintiffs have no ground to believe 
+12 The Complaint does not assert officer liability under Caremark prong one (i.e., failure to set 
+up monitoring).  Nor could it, since the Complaint instead takes the tack of asserting 
+(unsuccessfully) that information about Epstein’s activities was available.
+13 See Compl. ¶ 19 (“Whether Staley blocked the expected ‘Dimon review’ or someone with 
+authority (such as Dimon or a Board member) provided informal and tacit support to Epstein and 
+thus obviated the formal “Dimon review” process, Epstein remained with JPM.”), id. ¶ 136 
+(“The fact that Epstein’s account status was expected to be presented to Dimon suggests either 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 27 of 32
+
+22
+that the review occurred.  And, even if such a review did occur (which the Complaint does not 
+allege), the Complaint fails to plead what information was made available to Mr. Dimon or what 
+decision he even purportedly made.  
+None of the Complaint’s other allegations are sufficient either.  The long and winding 
+story of Mr. Epstein’s supposed connections to members of the Columbus business community 
+and the utterly unrelated support for Mr. Dimon from the Columbus business community is pure 
+innuendo.  The Complaint nowhere alleges that any of Mr. Dimon’s Columbus business contacts 
+introduced Mr. Epstein to Mr. Dimon, much less alerted Mr. Dimon about Mr. Epstein’s sexual 
+crimes or raised any concern to Mr. Dimon about JPMorgan’s due diligence or compliance 
+efforts with respect to Mr. Epstein’s accounts.  The Complaint similarly does not allege that Mr. 
+Dimon was aware that Mr. Epstein was involved in the meetings Mr. Staley purportedly 
+attempted to schedule on Mr. Dimon’s behalf, that those meetings occurred, or that, even if the 
+meetings occurred, Mr. Dimon would have learned anything about Mr. Epstein’s criminality or 
+JPMorgan’s compliance efforts through said meetings.  
+Finally, separate from and in addition to all the failings already pointed out, none of these 
+allegations come close to establishing any basis for inferring that Mr. Dimon acted in conscious 
+bad faith—an absolute prerequisite to Plaintiffs’ claim under Delaware law.  See Horman v. 
+Abney, No. CV 12290-VCS, 2017 WL 242571, at *9 (Del. Ch. Jan. 19, 2017) (even if reporting 
+systems did not prevent corporate wrongdoing, no oversight claim without bad faith).  At 
+bottom, the Complaint against Mr. Dimon seeks impermissibly to articulate a res ipsa loquitur 
+theory—Mr. Epstein engaged in abhorrent conduct, the Bank allegedly failed to comply with 
+that it was (as per known internal protocols) or that the matter was resolved in favor of keeping 
+Epstein without forcing Dimon to leave a paper trail of his involvement in the matter.”).
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 28 of 32
+
+23
+BSA/AML requirements with respect to Epstein’s accounts or timely close those accounts, Mr. 
+Dimon was the Chairman of the Board and CEO, so he must be responsible.  But such theories 
+are insufficient:  “Delaware courts routinely reject the conclusory allegation that because illegal 
+behavior occurred, internal controls must have been deficient, and [defendants] must have known 
+so.”  Genworth Fin., Inc. Consol. Derivative Litig., No. CV 11901-VCS, 2021 WL 4452338, at 
+*13 (Del. Ch. Sept. 29, 2021).  
+To the extent the Complaint purports to assert that Mr. Dimon breached his duty of care, 
+see, e.g., Compl. ¶ 209, the Court should also dismiss that claim.  “The fiduciary duty of care 
+requires that officers and directors both: (1) use that amount of care which ordinarily careful and 
+prudent men would use in similar circumstances; and (2) make business decisions by 
+consider[ing] all material information reasonably available.”  In re: Old Bpsush, Inc., No. 16-
+12373 (BLS), 2021 WL 4453595, at *8 (D. Del. Sept. 29, 2021) (internal quotation marks 
+omitted).  A breach of the duty of care requires a showing of “gross negligence.”  Id.  Plaintiffs 
+must “plausibly show[]” that the Mr. Dimon was “recklessly uninformed or acted outside of the 
+bounds of reason.”  Id. (internal quotation marks omitted).  
+The Complaint does not plausibly show that Mr. Dimon acted with “gross negligence” 
+for the same reasons that it fails to allege he acted in bad faith, that he had knowledge that the 
+Company allegedly was not complying with BSA/AML requirements with respect to Epstein’s 
+accounts, or that he even had any role in BSA/AML compliance relating to Epstein’s accounts.  
+Instead, the allegations are purely conclusory.  See, e.g., Harcum v. Lovoi, C.A. No. 2020-0398-
+PAF, 2022 WL 29695, at *26-27 (Del. Ch. Jan. 3, 2022) (dismissing duty of care claims where 
+allegations as to officers’ conduct were conclusory); City of Warren Gen. Emps.’ Ret. Sys. v. 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 29 of 32
+
+24
+Roche, 2020 WL 7023896, at *19 (Del. Ch. Nov. 30, 2020) (dismissing duty of care claim where 
+complaint did not allege that officers were involved in allegedly misleading proxy).  
+D.
+The Complaint Fails to State a Claim for Unjust Enrichment
+Finally, Plaintiffs have also failed to state a claim against any Defendant for unjust 
+enrichment.  Under Delaware law, a claim of unjust enrichment requires showing “(1) an 
+enrichment, (2) an impoverishment, (3) a relation between the enrichment and impoverishment, 
+(4) the absence of justification and (5) the absence of a remedy provided by law.”  Cantor 
+Fitzgerald, L.P. v. Cantor, 724 A.2d 571, 585 (Del. Ch. 1998).  
+Plaintiffs’ claim fails at the outset, as the Complaint does not contain well-pleaded facts 
+suggesting that a single Defendant was enriched beyond their ordinary compensation.  See 
+Compl. ¶ 217; In re Pfizer Inc. S’holder Derivative Litig., 722 F. Supp. 2d 453, 465-66 
+(S.D.N.Y. 2010) (applying Delaware law and denying claims for unjust enrichment absent 
+support for the proposition “that the mere retention of directors’ and officers’ ordinary 
+compensation can sustain an unjust enrichment claim predicated on allegations that these 
+defendants breached their fiduciary duties”).  Plaintiffs also make no allegation that they were 
+“impoverished” by the Defendants’ ordinary compensation, and therefore cannot satisfy any of 
+the remaining elements of the five-part test under Cantor.
+Plaintiffs’ claim for unjust enrichment also fails because it is premised solely on 
+Plaintiffs’ breach of fiduciary duty claim—which itself is deficient for the reasons stated above.  
+See supra Section IV.B–C.  Under Delaware law, “[a]t the pleadings stage, an unjust enrichment 
+claim that is entirely duplicative of a breach of fiduciary duty claim . . . is frequently treated in 
+the same manner when resolving a motion to dismiss.”  Caspian Select Credit Master Fund Ltd. 
+v. Gohl, No. CV 10244-VCN, 2015 WL 5718592, at *16 (Del. Ch. Sep. 28, 2015) (quoting 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 30 of 32
+
+25
+Calma ex rel. Citrix Sys., Inc. v. Templeton, 114 A.3d 563, 591 (Del. Ch. 2015)).  Here, the 
+unjust enrichment claim is explicitly predicated on Defendants’ alleged breaches of fiduciary 
+duties.  Compl. ¶¶ 217, 219 (alleging Defendants should not retain the unspecified benefits they 
+allegedly received “only by virtue of breaching their fiduciary duties”).  Defendants’ alleged 
+unjust enrichment is therefore “not separate or distinct from the alleged breach of fiduciary duty, 
+except as to the existence of such a duty.”  Manbro Energy Corp. v. Chatterjee Advisors, LLC, 
+No. 20 CIV. 3773 (LGS), 2021 WL 2037552, at *9 (S.D.N.Y. May 21, 2021) (applying 
+Delaware law).  
+Accordingly, the unjust enrichment claim should be dismissed both because no actual 
+enrichment is alleged, and because it is duplicative of the defective fiduciary duty claim. 
+V.
+Conclusion
+For the foregoing reasons, the Complaint should be dismissed with prejudice.14
+Dated: July 6, 2023
+14 Any dismissal should be with prejudice, as Plaintiffs have already filed two prior complaints 
+prior to the operative complaint.  Certainly Plaintiffs should not be permitted to amend to add 
+allegations that were already public when the Complaint was filed – particularly given that the 
+claims are based on allegations brought in two related cases pending before the Court, Jane Doe 
+1 v. JPMorgan Chase Bank, N.A., 22-cv-10019 (JSR) (S.D.N.Y. 2022), and U.S. Virgin Island v. 
+JPMorgan Chase Bank, N.A., 23-cv-10904 (S.D.N.Y. 2023), and significant Epstein-related 
+materials have been released into the public domain from these cases and other sources. 
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 31 of 32
+
+26
+WILMER CUTLER PICKERING 
+HALE AND DORR LLP
+By:   /s/ Timothy Perla                     
+Timothy Perla
+60 State Street
+Boston, MA  02109
+(t) (617) 526-6000
+(f) (617) 526-5000 
+timothy.perla@wilmerhale.com
+Noah A. Levine
+7 World Trade Center
+250 Greenwich Street
+New York, NY 10007
+(t) (212) 230-8800
+(f) (212) 230-8888 
+noah.levine@wilmerhale.com
+Counsel for Defendants JPMorgan Chase & Co. 
+and James Dimon
+PAUL, WEISS, RIFKIND, WHARTON & 
+GARRISON LLP
+By:   /s/ Audra J. Soloway                         
+Audra J. Soloway
+Jessica S. Carey
+Jacobus J. Schutte
+1285 Avenue of the Americas
+New York, NY  10019-6064
+Phone:  (212) 373-3000
+Fax:  (212) 757-3990
+asoloway@paulweiss.com
+Counsel for Director Defendants Stephen B. 
+Burke, Todd A. Combs, James S. Crown, 
+Timothy P. Flynn, Mellody Hobson, John W. 
+Kessler, and Phebe N. Novakovic
+Case 1:23-cv-03903-JSR     Document 25     Filed 07/06/23     Page 32 of 32

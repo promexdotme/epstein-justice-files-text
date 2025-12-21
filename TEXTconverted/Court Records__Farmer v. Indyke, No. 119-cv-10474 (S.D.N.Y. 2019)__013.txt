@@ -1,0 +1,150 @@
+METADATA_SOURCE: Court Records\Farmer v. Indyke, No. 119-cv-10474 (S.D.N.Y. 2019)
+METADATA_FILENAME: 013.pdf
+----------------------------------------
+Troutman Sanders LLP 
+875 Third Avenue 
+New York, New York  10022 
+troutman.com 
+Bennet J. Moskowitz 
+bennet.moskowitz@troutman.com 
+January 24, 2020 
+ECF 
+Hon. Naomi Reice Buchwald 
+Daniel Patrick Moynihan 
+United States Courthouse 
+500 Pearl Street 
+New York, NY 10007-1312 
+Re: 
+Maria Farmer v. Darren K. Indyke and Richard D. Kahn, as Executors of the Estate 
+of Jeffrey E. Epstein, 1:19-cv-10474 (NRB) 
+Dear Judge Buchwald: 
+We represent Defendants Darren K. Indyke and Richard D. Kahn, Co-Executors of the Estate of 
+Jeffrey E. Epstein (together, the “Co-Executors”), in the above-referenced action.  We write 
+pursuant to Your Honor’s Individual Rules 1(A) and 2(B) to request a pre-motion conference in 
+connection with the Co-Executors’ anticipated motion pursuant to Fed. R. Civ. P. 12(b)(6) to 
+dismiss Plaintiff Maria Farmer’s (“Plaintiff”) Complaint (ECF No. 1) which is time-barred and 
+impermissibly seeks punitive damages. 
+1. Plaintiff is an Arkansas resident who alleges Decedent committed torts against 
+her in Ohio in 1995 or 1996 when she was 26 years old. 
+Plaintiff, who claims Arkansas citizenship and residency, alleges that Mr. Epstein (“Decedent”), 
+now deceased, sexually assaulted her in 1995 or 1996 in Ohio.  (Compl. ¶¶ 1, 11, 35, 46, 48.)  
+Plaintiff asserts two causes of action -- battery and intentional infliction of emotional distress -- 
+and demands punitive damages. (Id. ¶¶ 59 – 68, p. 15.) 
+2. Plaintiff’s causes of action are time-barred. 
+CPLR § 202 provides that, when a non-New York resident such as Plaintiff sues on a cause of 
+action accruing outside New York, the complaint must be filed timely under the statute of 
+limitations of both New York and the jurisdiction where the cause of action accrued.1  A claim 
+that is untimely under one or both of the two jurisdictions must be dismissed. 
+The Complaint alleges torts that occurred between 1995 and 1996 in Ohio.  (Compl. ¶¶ 1, 11, 
+35, 46, 48).  Under N.Y. law, causes of action sounding in battery must be commenced within 
+one year of accrual (CPLR § 215(3)); or, if Plaintiff’s claims sound in personal injury, within three 
+years (CPLR § 214(5)).  Thus, under N.Y. law, Plaintiff’s claims expired in 1999 at the latest.   
+1 “In diversity cases in New York, federal courts apply … C.P.L.R. § 202.” Commerzbank AG v. Deutsche 
+Bank Nat'l Tr. Co., 234 F. Supp. 3d 462, 467 (S.D.N.Y. 2017) (citation omitted). 
+Case 1:19-cv-10474-NRB   Document 13   Filed 01/24/20   Page 1 of 4
+troutmariP 
+sanders 
+
+January 24, 2020 
+Page 2 
+Plaintiff’s claims are also time-barred under the laws of Ohio, where the statute of limitations for 
+battery is one year (Ohio Rev Code Ann § 2305.111(B)) and four years for intentional infliction 
+of emotional distress (Ohio Rev Code Ann § 2305.09; Riddick v Taylor, 105 N.E.3d 446, 451 
+(Ohio Ct. App. 2018)).  Therefore, under Ohio law, Plaintiff’s claims expired in 2000 at the latest. 
+3. Plaintiff’s attempts to plead around the statutes of limitations fail. 
+Plaintiff erroneously alleges that her claims are timely pursuant to CPLR § 215(8)(a), her claims 
+were equitably tolled, and that the Co-Executors are equitably estopped from asserting a statute 
+of limitations defense. (Compl. ¶¶ 12-14.)  Each of these arguments fails as a matter of law. 
+First, CPLR § 215(8)(a) does not apply here. CPLR § 215(8)(a) provides:  “Whenever it is 
+shown that a criminal action against the same defendant has been commenced with respect to 
+the event or occurrence from which a claim governed by this section arises, the plaintiff shall 
+have at least one year from the termination of the criminal action …  to commence the civil 
+action” (emphasis added).  Decedent’s criminal indictment (the “Indictment”), which Plaintiff 
+attaches to her Complaint, was not commenced with respect to Plaintiff.  Rather, the Indictment 
+alleges that Decedent sexually abused “minor girls” (Compl., Ex. A at ¶ 1 (emphasis added)),  
+stating throughout that it concerns sex trafficking of “minors” (Id., Ex. A at ¶¶2 - 4, 6, 8, 11- 15, 
+18 - 20, 22) between 2002 and 2005 in New York and Florida (Id. , Ex. A at ¶¶2, 6, 7, 8, 20, 24).  
+Because Plaintiff alleges she was 26 when Decedent assaulted her in Ohio in 1995 or 1996 (Id. 
+¶¶ 1, 11, 35, 46, 48), this action and the Indictment arise from different events or occurrences. 
+New York courts apply CPLR § 215(8)(a) narrowly.  See Christodoulou v. Terdeman, 262 
+A.D.2d 595, 596 (2d Dept. 1999) (CPLR § 215(8)(a) applied only to claims based on events of 
+February 26, 1993 and December 28, 1993, because it was only in connection with events of 
+those two days that a criminal prosecution was commenced against defendant); Gallina v. 
+Thatcher, No. 2017-52980, 2018 N.Y. Misc. LEXIS 8435 (Sup. Ct. Dutchess Cnty. Oct. 23, 
+2018) (CPLR § 215(8)(a) inapplicable where incidents charged in criminal action and those 
+alleged in civil action occurred on different dates); McElligott v. City of N.Y., 15-cv-7107 (LGS), 
+2017 U.S. Dist. LEXIS 201829, at *13 (S.D.N.Y. Dec. 7, 2017) (CPLR § 215(8)(a) inapplicable 
+to claims against civil defendants not charged as co-defendants in criminal action, 
+notwithstanding same events gave rise to both actions).  Plaintiff’s connection to the Indictment 
+is far more tenuous than the criminal-civil links unsuccessfully asserted in these cases. 
+Moreover, even if CPLR 215(8)(a) applies to Plaintiff’s claims, which it does not, as discussed 
+above, Plaintiff’s claims are time-barred under Ohio law, and thus under CPLR § 202. 
+Second, Plaintiff fails to meet her burden to allege extraordinary circumstances sufficient to 
+justify tolling or equitable estoppel.  Equitable tolling is only applied where a plaintiff is 
+“prevented in some extraordinary way from exercising h[er] rights.” Viti v. Guardian Life Ins. Co. 
+of Am., 10-cv-2908 (ALC) (MHD), 2012 U.S. Dist. LEXIS 189633, at *30 (S.D.N.Y. Oct. 5, 
+2012), adopted by, 2013 U.S. Dist. LEXIS 174145 (S.D.N.Y. Dec. 11, 2013) (emphasis added) 
+(citations omitted).  Under this doctrine, a court may, “under compelling circumstances, make 
+narrow exceptions to the statute of limitations … ‘to prevent inequity.’” Id. (emphasis added) 
+(citations omitted).  “That the doctrine is to be employed only sparingly -- in ‘extraordinary’ and 
+‘compelling’ circumstances -- is reflected in the fact that the plaintiff bears the burden of 
+persuasion to show that tolling is justified.” Id. (emphasis added) (citing Boos v. Runyon, 201 
+F.3d 178, 185 (2d Cir. 2000)).  A late-filing party seeking equitable tolling must also demonstrate 
+Case 1:19-cv-10474-NRB   Document 13   Filed 01/24/20   Page 2 of 4
+troutman1' 
+sanders 
+
+January 24, 2020 
+Page 3 
+she acted with “reasonable diligence” in pursuing her claims during the period she seeks to toll.  
+See id. at *32 (citation omitted).  Equitable estoppel only applies where a plaintiff knows her 
+cause of action exists, but the defendant’s conduct causes her to delay bringing suit.  See Yesh 
+Diamonds, Inc. v. Yashaya, No. 09-CV-2016 (DLI) (RER), 2010 U.S. Dist. LEXIS 101744, at *5 
+(E.D.N.Y. Sept. 27, 2010).  Equitable estoppel requires a plaintiff to show:  “(i) the defendant 
+made a definite misrepresentation of fact, and had reason to believe that the plaintiff would rely 
+on it; and (ii) the plaintiff reasonably relied on that misrepresentation to h[er] detriment.”  Id. 
+(citation omitted).  Tolling is inappropriate where, as here, a plaintiff fails to articulate any acts 
+by a defendant that prevented the plaintiff from timely commencing suit.  See id. at *6. 
+Here, Plaintiff’s allegations regarding tolling and equitable estoppel allege no particularized acts 
+or threats by Decedent in an effort to prevent Plaintiff from exercising her rights.  (Compl. ¶¶ 13-
+14).  Nor has Plaintiff alleged (i) Decedent made a misrepresentation to her and had reason to 
+believe she would rely on it, or (ii) Plaintiff reasonably relied on it to her detriment.   
+Plaintiff’s own allegations refute any notion that she was prevented from exercising her rights.  
+Rather, Plaintiff’s allegations establish she was both willing and able to come forward about the 
+alleged wrongdoing almost immediately—she reported her alleged assault to three law 
+enforcement agencies shortly after it occurred (Id. ¶¶ 49, 51) and disclosed it to Vanity Fair 
+Magazine (Id. ¶¶ 53-54).  There is no “extraordinary” basis to toll the statute of limitations or 
+estop the Co-Executors from asserting a statute of limitations defense given these allegations. 
+4. Plaintiff’s claim for punitive damages fails as a matter of law.  
+Courts in this District regularly grant motions to dismiss claims for punitive damages.  See, e.g., 
+SJB v. N.Y.C. Dep’t of Educ., No.03 Civ. 6653, 2004 U.S. Dist. LEXIS 13227, at *25-26 
+(S.D.N.Y. July 14, 2004) (Buchwald, J.) (granting motion to dismiss punitive damages claims 
+because punitive damages were not statutorily available).  Here, Plaintiff’s claim for punitive 
+damages must be dismissed as a matter of law.    
+The law in most U.S. jurisdictions, as reflected in the Restatement, is that “[p]unitive damages 
+are not awarded against the representatives of a deceased tortfeasor.”  Restat. (Second) Of 
+Torts § 908 cmt. a.  See also NY EPTL § 11-3.2 (a)(1)   (“For any injury, an action may be 
+brought or continued against the personal representative of the decedent, but punitive damages 
+shall not be awarded nor penalties adjudged in any such action brought to recover damages for 
+personal injury.” (emphasis added)). “[T]here is a strong policy against the assessment of 
+punitive damages against an estate on account of wrongful conduct of the decedent.’”  Graham 
+v. Henderson, 224 F.R.D. 59, 63 (N.D.N.Y. 2004) (quoting Blissett v. Eisensmidt, 940 F. Supp. 
+449, 457 (N.D.N.Y. 1996)).   
+Ohio law only permits punitive damages against a deceased tortfeasor’s estate “in cases in 
+which liability has been determined while the tortfeasor is alive.”  Whetstone v. Binner, 57 
+N.E.3d 1111, 1115 (Sup. Ct. Ohio 2016).  Plaintiff did not even file this action until after 
+Decedent died.  Accordingly, the narrow holding in Whetstone is inapplicable.  
+Because there are no facts that would render Plaintiff’s punitive damages claim proper, there is 
+no reason to allow it to stand. 
+Case 1:19-cv-10474-NRB   Document 13   Filed 01/24/20   Page 3 of 4
+troutman1' 
+sanders 
+
+January 24, 2020 
+Page 4 
+Respectfully submitted, 
+s/Bennet J. Moskowitz 
+Bennet J. Moskowitz 
+Case 1:19-cv-10474-NRB   Document 13   Filed 01/24/20   Page 4 of 4
+troutman1' 
+sanders 

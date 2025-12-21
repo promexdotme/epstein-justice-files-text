@@ -1,0 +1,448 @@
+METADATA_SOURCE: Court Records\Helm v. Indyke, No. 119-cv-10476 (S.D.N.Y. 2019)
+METADATA_FILENAME: 031.pdf
+----------------------------------------
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+TERESA HELM, 
+Plaintiff, 
+v. 
+DARREN K. INDYKE and RICHARD D. 
+KAHN, in their capacities as the executors of 
+the ESTATE OF JEFFREY EDWARD 
+EPSTEIN, 
+Defendants. 
+Case No. 1:19-cv-10476 (PGG) (DCF)
+DEFENDANTS’ REPLY MEMORANDUM OF LAW IN SUPPORT OF THEIR  
+MOTION TO DISMISS PLAINTIFF’S COMPLAINT 
+TROUTMAN SANDERS LLP 
+875 Third Avenue 
+New York, New York 10022  
+Tel: 212-704-6000 
+Fax: 212-704-6288 
+Attorneys for Defendants 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 1 of 16
+
+TABLE OF CONTENTS
+Page
+-i- 
+PRELIMINARY STATEMENT ................................................................................................... 1 
+ARGUMENT ................................................................................................................................. 1 
+A. 
+Plaintiff has the procedural burden backwards: she fails to meet her 
+burden to allege facts sufficient to invoke an extraordinary exception to 
+the statute of limitations. ........................................................................................ 1 
+1. 
+Plaintiff is unable to invoke CPLR § 215(8)(a) because she fails to 
+present a criminal indictment that arises from Decedent’s alleged 
+conduct towards her ................................................................................... 1 
+2. 
+Plaintiff bears the burden to allege “extraordinary” circumstances; 
+ she fails to meet this burden…………………………………..…………..2 
+B. 
+This motion is proper and timely regardless of its title. ........................................ 6 
+C. 
+There is no basis to disregard black letter New York law applying the law 
+of the place of alleged torts to the issue of punitive damages. .............................. 7 
+D. 
+Even if USVI law applies, which it does not, it follows the majority rule 
+prohibiting recovery of punitive damages against a tortfeasor’s estate ................. 9 
+CONCLUSION ............................................................................................................................ 10 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 2 of 16
+
+ii 
+TABLE OF AUTHORITIES 
+ 
+Page(s) 
+Cases 
+Abercrombie v. College, 
+438 F. Supp. 2d 243 (S.D.N.Y. 2006)........................................................................................3 
+Amusement Indus. v. Stern, 
+693 F. Supp. 2d 301 (S.D.N.Y. 2010)........................................................................................7 
+Blissett v. Eisensmidt, 
+940 F. Supp. 449 (N.D.N.Y. 1996) ............................................................................................8 
+Booth v. Bowen, 
+No. CIV. 2006-217, 2008 WL 220067 (D.V.I. Jan. 10, 2008) ................................................10 
+Brandy v. Flamboyant Inv. Co., Ltd., 
+24 V.I. 249 (V.I. Terr. Ct. 1989) ..............................................................................................10 
+Brown v. Parkchester S. Condos., 
+287 F.3d 58 (2d Cir. 2002).........................................................................................................5 
+Burrell v. State Farm & Cas. Co., 
+226 F. Supp. 2d 427 (S.D.N.Y. 2002)........................................................................................7 
+Cerveceria Modelo, S.A. de C.V. v. USPA Accessories LLC, 
+No. 07 Civ. 7998 (HB), 2008 U.S. Dist. LEXIS 28999 (S.D.N.Y. Apr. 10, 
+2008) ..........................................................................................................................................7 
+Christodoulou v. Terdeman, 
+262 A.D.2d 595 (2d Dept. 1999) ...............................................................................................2 
+Davis v. Christian, 
+46 V.I. 557 (D.V.I. App. Div. 2005) ........................................................................................10 
+Davis v. Jackson, 
+No. 15-cv-5359, 2016 WL 5720811 (S.D.N.Y. Sept. 30, 2016) ...............................................6 
+Deutsch v. Novartis Pharms. Corp., 
+723 F. Supp. 2d 521 (E.D.N.Y. 2010) .......................................................................................8 
+Fairley v. Collins, 
+09-Civ-6894 (PGG), 2011 U.S. Dist. LEXIS 26536 (Mar. 15, 2011 S.D.N.Y.) 
+(Gardephe, J.) .............................................................................................................................3 
+Funk v. Belneftekhim, 
+No. 14-CV-0376 (BMC), 2019 WL 3035124 (E.D.N.Y. July 11, 2019) ..............................4, 5 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 3 of 16
+
+iii 
+Gallina v. Thatcher, 
+No. 2017-52980, 2018 N.Y. Misc. LEXIS 8435 (Sup. Ct. Dutchess Cnty. Oct. 
+23, 2018) ....................................................................................................................................2 
+Gen. Stencils, Inc. v. Chiappa, 
+219 N.E.2d 169 (N.Y. 1966) ......................................................................................................5 
+Gotlin v. Lederman, 
+No. 05-CV-1899 (ILG), 2006 WL 1154817 (E.D.N.Y. Apr. 28, 2006) ....................................5 
+Gov’t of Virgin Islands v. Connor, 
+No. S. CT. CIV. 2013-0095, 2014 WL 702639 (V.I. Feb. 24, 2014) ......................................10 
+Guidi v. Inter-Continental Hotels Corp., 
+No. 95-CV-9006, 2003 U.S. Dist. LEXIS 6390 (S.D.N.Y. Apr. 16, 2003)...............................8 
+Guobadia v. Irowa, 
+103 F. Supp. 3d 325 (E.D.N.Y. 2015) .......................................................................................5 
+Hamilton v. Dowson Holding Co., 
+51 V.I. 619 (D.V.I. 2009).........................................................................................................10 
+Hirsch v. Rehs Galleries, Inc., 
+No. 18-CV-11864 (VSB), 2020 WL 917213 (S.D.N.Y. Feb. 26, 2020) ...................................5 
+Hunter v. Palisades Acquistion XVI, LLC, 
+2017 U.S. Dist. LEXIS 189902 (S.D.N.Y. Nov. 16, 2017) .......................................................7 
+Isaac v. Crichlow, 
+63 V.I. 38, 2015 V.I. LEXIS 15 (V.I. Super. Ct. 2015) ...........................................................10 
+Kashef v. BNP Paribas S.A., 
+925 F.3d 53 (2d Cir. 2019).........................................................................................................3 
+Kunica v. St. Jean Fin., 
+97 Civ. 3804, 1998 U.S. Dist. LEXIS 11867 (S.D.N.Y. July 29, 1998) ...................................6 
+In re Merrill Lynch Auction Rate Sec. Litig., 
+851 F. Supp. 2d 512 (S.D.N.Y. 2012)........................................................................................7 
+Nash v. Coram Healthcare Corp., 
+No. 96 Civ. 0298 (LMM), 1996 U.S. Dist. LEXIS 9101 (S.D.N.Y. June 27, 
+1996) ..........................................................................................................................................7 
+Nat’l Jewish Democratic Council v. Adelson, 
+No. 18 Civ. 8787 (JPO), 2019 U.S. Dist. LEXIS 168675 (S.D.N.Y. Sept. 30, 
+2019) ......................................................................................................................................8, 9 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 4 of 16
+
+iv 
+Okyere v. Palisades Collection, LLC, 
+961 F. Supp. 2d 522 (S.D.N.Y. 2013)........................................................................................7 
+Ortiz v. Cornetta, 
+867 F.2d 146 (2d Cir. 1989).......................................................................................................5 
+Pappas v. Hotel on the Cay Time-Sharing Ass’n, 
+69 V.I. 3 (U.S.V.I. Super. Ct. 2015) ........................................................................................10 
+Powell v. Chi-Co’s Distrib., 
+No. ST-13-TOR-14, 2014 V.I. LEXIS 21 (U.S.V.I. Super. Ct. Apr. 3, 2014) ........................10 
+SJB v. N.Y.C. Dep’t of Educ., 
+No. 03 Civ. 6653, 2004 U.S. Dist. LEXIS 13227 (S.D.N.Y. July 14, 2004) ............................6 
+St. Thomas House, Inc. v. Barrows, 
+15 V.I. 435 (V.I. Terr. Ct. 1979) ..............................................................................................10 
+Starr Indem. & Liab. Co. v. Am. Claims Mgmt., 
+No. 14-cv-0463-JMF, 2015 U.S. Dist. LEXIS 60272 (S.D.N.Y. May 7, 2015)........................8 
+Stenberg v. Carhart, 
+530 U.S. 914 (2000) .................................................................................................................10 
+The Cookware Co. (USA), LLC v. Austin, 
+No. 15 Civ. 5796, 2016 U.S. Dist. LEXIS 177691 (S.D.N.Y. Dec. 8, 2016) 
+(Batts, J.) ....................................................................................................................................6 
+Thomas v. Rijos, 
+780 F. Supp. 2d 376 (D.V.I. 2011) ..........................................................................................10 
+Zimmerman v. Poly Prep Country Day Sch., 
+888 F. Supp. 2d 317 (E.D.N.Y. 2012) .......................................................................................5 
+Statutes 
+EPTL §11-3.2(a)(1)......................................................................................................................7, 8 
+Other Authorities 
+C. Wright & A. Miller, 5C Fed. Prac. & Proc. Civ. § 1380 (3d ed.) ...............................................6 
+CPLR § 215(8)(a) ....................................................................................................................1, 2, 3 
+Fed. R. Civ. P. 12(b)(6)....................................................................................................................3 
+2 Linda L. Schlueter, Punitive Damages § 20.4 (7th ed. 2015) .....................................................10 
+Restatement (Second) of Torts § 908(2) ........................................................................................10 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 5 of 16
+
+1 
+The Co-Executors1 submit this reply memorandum of law in support of their motion to 
+dismiss Plaintiff’s Complaint (ECF No. 1). 
+PRELIMINARY STATEMENT 
+In her opposition brief, Plaintiff effectively asks the Court to depart from well-established 
+law to resuscitate her claims that expired fifteen years ago.  First, Plaintiff asks the Court to 
+disregard basic principles of statutory interpretation and numerous cases applying CPLR § 
+215(8)(a) by holding that, unless a criminal indictment expressly rules out that it arises from the 
+same event as a civil action, then a plaintiff in the civil action may invoke that rule to revive a 
+time-barred claim.  Second, Plaintiff asks the Court to disregard Second Circuit authority holding 
+that it is Plaintiff’s burden to allege “extraordinary circumstances” to toll the statutes of limitations.  
+Third,  while conceding that courts generally apply the law of the place of a tort to the issue of 
+punitive damages, Plaintiff nonetheless urges this Court to create a new rule whereby, if an alleged 
+tortfeasor’s will is being probated in a jurisdiction that has nothing to do with the tort, the law of 
+the probate jurisdiction should apply.  Plaintiff’s requests are baseless.   
+ARGUMENT 
+A.
+Plaintiff has the procedural burden backwards: she fails to meet her burden to 
+allege facts sufficient to invoke an extraordinary exception to the statute of 
+limitations. 
+1.
+Plaintiff is unable to invoke CPLR § 215(8)(a) because she fails to present a 
+criminal indictment that arises from Decedent’s alleged conduct towards her.   
+Plaintiff’s central premise in arguing for application of CPLR § 215(8)(a) to this action, 
+notwithstanding the Indictment charges sex-trafficking of minors while Plaintiff alleges she was 
+abused by Decedent as an adult, is that the “pattern described in the Indictment matches 
+1 Capitalized terms not defined herein have the meanings ascribed to them in the Co-Executors’ 
+moving brief. 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 6 of 16
+
+2 
+[Plaintiff’s] experience.” (Op. Br. p. 5.)  Even assuming that is correct, it does not render CPLR § 
+215(8)(a) applicable.  Rather, to invoke CPLR § 215(8)(a), Plaintiff is required to establish the 
+Indictment and this action arise from the same “event or occurrence”—i.e., what Decedent 
+allegedly did to her.  Plaintiff fails to do this. 
+The Indictment has nothing to do with Plaintiff, even if it concerns her alleged abuser and 
+describes a “pattern” similar to what she described.  There is no legal authority that permits a civil 
+Plaintiff to interpret  CPLR § 215(8)(a) in such an open-ended manner.  Plaintiff’s assertion that 
+the Indictment “was not restricted to minors” (Op. Br. p. 8) defies a plain reading of it.  Plaintiff’s 
+reliance on an FBI press release (id.) is unconvincing in light of the language in the Indictment 
+itself: it alleges that Decedent sexually trafficked “minor girls” (Compl., Ex. A at ¶ 1 (emphasis 
+added)), stating throughout that it concerns sex trafficking of “minors” (Id., Ex. A at ¶¶2 - 4, 6, 8, 
+11- 15, 18 - 20, 22). 
+The cases cited in the Co-Executors’ moving brief confirm that, even where it is undisputed 
+that the subject criminal indictment concerns the civil plaintiff and the same kind of conduct 
+alleged in the plaintiff’s civil complaint, CPLR § 215(8)(a) still does not apply where the 
+indictment and civil action arise from different events or occurrences—i.e., the express limitation 
+set forth in the text of CPLR § 215(8)(a).  (See Op. Br. pp. 5-6 (citing Christodoulou v. Terdeman, 
+262 A.D.2d 595, 596 (2d Dept. 1999); Gallina v. Thatcher, No. 2017-52980, 2018 N.Y. Misc. 
+LEXIS 8435 (Sup. Ct. Dutchess Cnty. Oct. 23, 2018). 
+Plaintiff’s attempt to distinguish these cases on the ground that they “focused on events 
+that occurred on specific dates” (Op. Br. p. 8) is based on Plaintiff’s dubious assertion that, because 
+the Indictment at issue here “was not limited to a specific day or discrete event” (Op. Br. p. 8), 
+anyone alleging she suffered the same type of misconduct described in the Indictment is free to 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 7 of 16
+
+3 
+invoke CPLR § 215(8)(a). Such a reading renders the limitation set forth in CPLR § 215(8)(a) 
+meaningless and does not comport with the rationale set forth in the cited decisions.  
+Plaintiff once again relies on Kashef v. BNP Paribas S.A., 925 F.3d 53 (2d Cir. 2019), 
+notwithstanding that the Co-Executors already showed that Kashef, which concerned a conspiracy 
+between BNP and Sudan to violate U.S. sanctions, is factually distinguishable from this action. 
+(Mov. Br. p. 7.)  Plaintiff’s decision to cite Kashef again shows that she has not located any relevant 
+authority to rebut the cases the Co-Executors cited.     
+2.
+Plaintiff bears the burden to allege “extraordinary” circumstances; she fails to 
+meet this burden.
+Plaintiff misstates the burden on this motion by asserting “Defendants have failed to meet 
+their burden of showing that [she] will be unable to invoke equitable estoppel and … tolling.” (Op. 
+Br. p. 2.)   As explained in the Co-Executors’ moving brief, the burden is on Plaintiff to sufficiently 
+allege “extraordinary circumstances” to invoke these doctrines. (Mov. Br. pp. 9-10.) 
+In her opposition brief, Plaintiff does not even attempt to address many of the cases that 
+the Co-Executors cite on this point, including Abercrombie v. College, 438 F. Supp. 2d 243 
+(S.D.N.Y. 2006) (“without adequate pleading, the issue is not properly raised and therefore cannot 
+defeat a motion to dismiss based on statute of limitations grounds”), and this Court’s decision in 
+Fairley v. Collins, 09-Civ-6894 (PGG), 2011 U.S. Dist. LEXIS 26536, at *16 (Mar. 15, 2011 
+S.D.N.Y.) (Gardephe, J.) (finding equitable tolling did not apply and granting defendants’ Fed. R. 
+Civ. P. 12(b)(6) motion to dismiss complaint on statute of limitations grounds). 
+Plaintiff fails to meet her burden.   In her opposition brief, Plaintiff attempts to paint a more 
+detailed picture of why she waited 15 years to bring this action than she did in her Complaint.  
+However, the  Complaint is controlling. In her Complaint, Plaintiff: does not allege any 
+particularized acts by Decedent that prevented her from exercising her rights; does not allege that 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 8 of 16
+
+4 
+Decedent made a misrepresentation to her and had reason to believe she would rely on it; and does 
+not allege she reasonably relied on any misrepresentation by Decedent to her detriment.    
+Rather, excluding vague allegations concerning Decedent’s alleged misconduct directed at 
+some unidentified set of alleged victims that does not include Plaintiff (see., e.g., Compl. ¶ 26 
+(“[Decedent] … continued to manipulate the victims”), Plaintiff merely asserts the following 
+allegations concerning events allegedly occurring in 2002: (Compl. ¶ 50) Epstein told Plaintiff: 
+“Don’t do anything I wouldn’t do”; (Compl. ¶ 51) Plaintiff was a “scared because she recognized 
+that [Decedent] was a very powerful person”; (Compl. ¶ 52) “[Decedent] made very clear to 
+[Plaintiff] that he was incredibly wealthy, powerful, and regularly in contact with world leaders … 
+he had photographs displayed of significant political figures to ensure that any young female 
+entering the home would know that he had extensive government connections … [Decedent] was 
+not to be disobeyed and he made clear by his words and actions that there would be consequences 
+if Teresa did not comply with his demands.”; and (Compl. ¶ 53) when Plaintiff returned to 
+California, “she received an e-mail from one of [Decedent’s] co-conspirators thanking her for 
+visiting New York and letting her know that [he] and his co-conspirators would need to decide 
+whether or not they wanted to hire her. She did not respond to the e-mail.” 
+None of these allegations fills the holes in the required elements of equitable tolling and 
+estoppel described above.  Nor does a belief that someone is “wealthy, powerful and regularly in 
+contact with world leaders” come close to constituting an “exceptional” set of circumstances that 
+justify permitted Plaintiff to pursue this action that expired 15 years ago.    
+Not a single case Plaintiff cites supports a finding that her allegations are “extraordinary” 
+such that they justify her invocation of these doctrines.  To the contrary, Funk v. Belneftekhim, No. 
+14-CV-0376 (BMC), 2019 WL 3035124 (E.D.N.Y. July 11, 2019), which Plaintiff cites, confirms 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 9 of 16
+
+5 
+that her allegations fall short. In that matter, the court found the plaintiffs “alleged extraordinary 
+circumstances that could warrant the application of equitable tolling: they were drugged, 
+kidnapped, flown to Belarus, held captive, and tortured for 383 and 483 days, respectively.” Id. at 
+*5.  There are no such allegations here.   
+Other cases Plaintiff cites likewise support the conclusion she has not met her burden.  See 
+Zimmerman v. Poly Prep Country Day Sch., 888 F. Supp. 2d 317, 340 (E.D.N.Y. 2012) (plaintiffs 
+alleged school engaged in affirmative course of conduct during period of limitations to deceive 
+plaintiffs into believing they had no claim); Gotlin v. Lederman, No. 05-CV-1899 (ILG), 2006 WL 
+1154817, at *30 (E.D.N.Y. Apr. 28, 2006) (plaintiffs in medical malpractice action alleged 
+defendants failed to provide them with, and intentionally and fraudulently attempted to discourage 
+and prevent them from obtaining,  their medical records); Gen. Stencils, Inc. v. Chiappa, 219 
+N.E.2d 169, 171 (N.Y. 1966)  (plaintiff was allowed to invoke equitable estoppel against a 
+bookkeeper who had used his position to carefully conceal his theft of the plaintiff's money); 
+Brown v. Parkchester S. Condos., 287 F.3d 58, 59 (2d Cir. 2002) (employee argued his medical 
+condition prevented him from timely filing his complaint); Guobadia v. Irowa, 103 F. Supp. 3d 
+325, 341 (E.D.N.Y. 2015) (plaintiff filed her lawsuit less than a year after leaving a home where 
+was allegedly forced to work without pay as a servant). Other cases Plaintiff cites do not even 
+address the issues on this motion.2
+Plaintiff’s reliance on Davis v. Jackson, No. 15-cv-5359, 2016 WL 5720811, at *11 
+(S.D.N.Y. Sept. 30, 2016) – to support her assertion that reasonable fear of retaliation “may be 
+2 See Hirsch v. Rehs Galleries, Inc., No. 18-CV-11864 (VSB), 2020 WL 917213 (S.D.N.Y. Feb. 
+26, 2020) (does not address equitable tolling or estoppel); Ortiz v. Cornetta, 867 F.2d 146 (2d Cir. 
+1989) (fact issue was date on which pro se office received plaintiff’s complaint);
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 10 of 16
+
+6 
+sufficient” to warrant equitable tolling (Op. Br. p. 16) – is misleading.  In that action, the court 
+granted a pro se prisoner leave to allege facts sufficient to show he pursued his claims with 
+reasonable diligence. Id. at *39.  However, the court was very clear that its findings were based on 
+plaintiff’s incarceration and pro se status.  See id. at *35, 39 (“in the prison context, reasonable 
+fear of retaliation may be sufficient”; “given Plaintiff's pro se status … the Court is hesitant to 
+dismiss [his] claims”).  Plaintiff is not a prisoner or pro se; so Davis is inapplicable.  
+B.
+This motion is proper and timely regardless of its title. 
+Plaintiff’s argument that the Co-Executors may only move to strike her punitive damages 
+claim (Op. Br. pp. 2-3) is both wrong and irrelevant.   “[T]he technical name given to a motion 
+challenging a pleading is of little importance … as prejudice to the nonmoving party hardly can 
+result from treating a motion that has been inaccurately denominated a motion to strike as a motion 
+to dismiss the complaint.” See C. Wright & A. Miller, 5C Fed. Prac. & Proc. Civ. § 1380 (3d ed.). 
+Courts in this District regularly grant motions to dismiss punitive damages. See, e.g., The 
+Cookware Co. (USA), LLC v. Austin, No. 15 Civ. 5796, 2016 U.S. Dist. LEXIS 177691, at *17 
+(S.D.N.Y. Dec. 8, 2016) (Batts, J.) (granting motion to dismiss claim for punitive damages without 
+leave to replead because allegations regarding defendant’s bad-faith conduct were conclusory and 
+did not rise to the required level of malice); SJB v. N.Y.C. Dep’t of Educ., No. 03 Civ. 6653, 2004 
+U.S. Dist. LEXIS 13227, at *25-26 (S.D.N.Y. July 14, 2004) (Buchwald, J.) (granting motion to 
+dismiss punitive damages claims which were not statutorily available); Kunica v. St. Jean Fin., 97 
+Civ. 3804, 1998 U.S. Dist. LEXIS 11867, at *26 (S.D.N.Y. July 29, 1998) (Sweet, J.) (granting 
+motion to dismiss claim for punitive damages because, even if conduct alleged in complaint was 
+true, it did not rise to the level necessary to award punitive damages). 
+Courts in the Second Circuit, including in this District, also routinely grant motions to 
+strike punitive damages including at the pleadings stage. See, e.g., In re Merrill Lynch Auction 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 11 of 16
+
+7 
+Rate Sec. Litig., 851 F. Supp. 2d 512, 544 (S.D.N.Y. 2012) (granting defendant’s motion to strike 
+sections of first amended complaint asserting punitive damages); Nash v. Coram Healthcare 
+Corp., No. 96 Civ. 0298 (LMM), 1996 U.S. Dist. LEXIS 9101, at *15 (S.D.N.Y. June 27, 1996) 
+(“The motion to strike the punitive damages prayer from the Complaint is Granted.”); Cerveceria 
+Modelo, S.A. de C.V. v. USPA Accessories LLC, No. 07 Civ. 7998 (HB), 2008 U.S. Dist. LEXIS 
+28999, at *21-22 (S.D.N.Y. Apr. 10, 2008) (“Because Defendant has failed to allege that Plaintiff’s 
+conduct was egregious and directed at the public generally, its claim for punitive damages cannot 
+proceed.”).  Therefore, whether the Co-Executors’ motion is deemed one to dismiss or strike, the 
+Court should dispose of Plaintiff’s punitive damages claim.3
+C.
+There is no basis to disregard black-letter New York law applying the law of the 
+place of alleged torts to the issue of punitive damages. 
+Plaintiff’s argument that “New York choice-of-law-rules” dictate the application of USVI 
+law to the issue of punitive damages (Op. Br. p. 3) is wrong for two independent reasons. First, 
+Plaintiff alleges the acts and omissions giving rise to her causes of action occurred entirely in New 
+York. (Compl. ¶¶ 15, 22.) Therefore, New York law applies to the issue of punitive damages. See 
+Starr Indem. & Liab. Co. v. Am. Claims Mgmt., No. 14-cv-0463-JMF, 2015 U.S. Dist. LEXIS 
+60272, *7 (S.D.N.Y. May 7, 2015) (“Because punitive damages are conduct-regulating, ‘the law 
+3Plaintiff cites Amusement Indus. v. Stern, 693 F. Supp. 2d 301 (S.D.N.Y. 2010). However, that 
+court acknowledged a plaintiff's demand for punitive damages may be stricken where, as here, it 
+is prohibited by law. Id. at 318 n.5 (citing Burrell v. State Farm & Cas. Co., 226 F. Supp. 2d 427, 
+440 (S.D.N.Y. 2002)).  Further, neither that case nor the others Plaintiff cites in support of her 
+argument that striking her punitive damages claim would be premature involve a prohibition on 
+such claims such as EPTL §11-3.2(a)(1).  See Hunter v. Palisades Acquistion XVI, LLC, 2017 U.S. 
+Dist. LEXIS 189902, at *26 (S.D.N.Y. Nov. 16, 2017) (defendant moved to dismiss plaintiff’s 
+claim for punitive damages under her cause of action for conversion); Okyere v. Palisades 
+Collection, LLC, 961 F. Supp. 2d 522, 536 (S.D.N.Y. 2013) (defendants alleged punitive damages 
+were not available in the absence of malice and intent).  
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 12 of 16
+
+8 
+of the jurisdiction where the tort occurred will generally apply.’”) (quoting Deutsch v. Novartis 
+Pharms. Corp., 723 F. Supp. 2d 521, 524 (E.D.N.Y. 2010); Guidi v. Inter-Continental Hotels 
+Corp., No. 95-CV-9006, 2003 U.S. Dist. LEXIS 6390, at *1 (S.D.N.Y. Apr. 16, 2003)).  
+Second, Plaintiff may not avail herself of parts of NY EPTL § 11-3.2(a)(1) while 
+disregarding others.  Plaintiff effectively asks the Court to apply the first sentence of § 11-3.2(a)(1), 
+permitting her to bring this case, but to disregard the very next sentence precluding punitive 
+damages.  At least one New York federal court expressly rejected such an “anomalous situation.” 
+See Blissett v. Eisensmidt, 940 F. Supp. 449, 457 (N.D.N.Y. 1996)) (“[I]t would be an anomalous 
+situation indeed if plaintiff were allowed to proceed with this … action … because of [§] 11-
+3.2(a)(1), while at the same time he was allowed to recover … punitive damages, which clearly is 
+beyond the scope of relief which that statute authorizes.”). 
+Plaintiff’s premise used to gin up a purported connection to the USVI in this action -- that 
+Decedent “chose to probate his Estate” there and had abused other victims (but not Plaintiff) there 
+(Op. Br. p. 20)-- is specious.  Plaintiff sues for damages based on torts that occurred in New York.  
+Further, she chose to sue in New York.  Therefore, the Court should reject Plaintiff’s assertion that 
+“[w]hereas the [USVI] has a strong interest in applying its law on punitive damages, New York 
+has no conceivable interest in denying the [USVI] from advancing that interest” (Op. Br. p. 20).  
+The USVI has no interest in applying its punitive damages laws to alleged torts that took place in 
+New York.   
+The sole connection to the USVI is that the Decedent’s Estate is being probated there, 18 
+years after the alleged tortious conduct took place -- a connection much weaker than the one 
+deemed “tenuous” in Nat’l Jewish Democratic Council v. Adelson, No. 18 Civ. 8787 (JPO), 2019 
+U.S. Dist. LEXIS 168675, (S.D.N.Y. Sept. 30, 2019), on which Plaintiff relies.  Even under the 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 13 of 16
+
+9 
+framework of Adelson, New York, not the USVI, has the greater interest in applying its laws and 
+policies concerning Plaintiff’s improper claim for punitive damages.  
+Plaintiff’s reliance on Adelson is based on a misinterpretation of that action.  In Adelson, 
+the National Jewish Democratic Council and its chair sued Sheldon G. Adelson for damages based 
+on Adelson’s prior filing of a defamation suit against them in the same court pursuant to Nevada 
+law.  Id. at *1-2.  The court had dismissed Adelson’s prior action pursuant to Nevada’s anti-SLAPP 
+statute, which has its own punitive damages provision.  Id. at *1-2, 11.  In the action against 
+Adelson, the court held that Nevada had a much stronger interest in applying its punitive damages 
+law because Adelson had previously attempted to use Nevada’s defamation law to chill First 
+Amendment rights.  Id. at *14.  By contrast, “New York’s interest [was] relatively attenuated” in 
+the second action because “[i]ts sole connection to this suit [was] that the suit was filed here.”  Id. 
+at *15.  Here, the situation is effectively the opposite, given the strong New York connection. 
+D.
+Even if USVI law applies, which it does not, it follows the majority rule prohibiting 
+recovery of punitive damages against a tortfeasor’s estate.  
+As an initial matter, Plaintiff does not dispute that New York law bars her punitive damages 
+claim.  Should the Court find New York law applies, which it does, then Plaintiff’s punitive 
+damages claim should be dismissed.  
+Even if the Court finds USVI law applies to Plaintiff’s punitive damages claim, which it 
+does not, the result is the same.  USVI courts apply a “Banks analysis” to determine U.S.V.I. 
+common law, including consideration of three non-dispositive factors: (1) whether USVI courts 
+have previously adopted a particular rule; (2) the position taken by a majority of courts of other 
+jurisdictions; and (3) most importantly, which approach represents the soundest rule for the USVI. 
+Gov’t of Virgin Islands v. Connor, No. S. CT. CIV. 2013-0095, 2014 WL 702639, at *1 (V.I. Feb. 
+24, 2014).  The Banks factors show that USVI courts would adopt the majority rule that punitive 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 14 of 16
+
+10 
+damages are not available against a deceased tortfeasor’s estate: (1) previously, USVI courts 
+favorably cited the Restatement section barring punitive damages against estates. See, e.g., 
+Hamilton v. Dowson Holding Co., 51 V.I. 619, 628 (D.V.I. 2009); Booth v. Bowen, No. CIV. 2006-
+217, 2008 WL 220067, at *5 (D.V.I. Jan. 10, 2008) (considering the inverse issue); (2) a majority 
+of U.S. jurisdictions preclude awards of punitive damages based on wrongful acts of decedents, 
+see 2 Linda L. Schlueter, Punitive Damages § 20.4 (7th ed. 2015) (“[A] majority of jurisdictions 
+will not award punitive damages against a deceased tortfeasor’s estate.” (citation omitted); and (3) 
+Post-Banks, USVI have found the Restatement § 908 is “the soundest rule.”4,5
+CONCLUSION 
+For the reasons stated above and in the Co-Executors’ moving brief, the Co-Executors 
+respectfully request that the Court dismiss Plaintiff’s Complaint in its entirety, together with such 
+other and further relief as the Court deems just and proper. 
+4 Pappas v. Hotel on the Cay Time-Sharing Ass’n, 69 V.I. 3, 15 n.8 (U.S.V.I. Super. Ct. 2015) 
+(citing Davis v. Christian, 46 V.I. 557 (D.V.I. App. Div. 2005), Isaac v. Crichlow, 63 V.I. 38, 2015 
+V.I. LEXIS 15 (V.I. Super. Ct. 2015), St. Thomas House, Inc. v. Barrows, 15 V.I. 435 (V.I. Terr. 
+Ct. 1979), Brandy v. Flamboyant Inv. Co., Ltd., 24 V.I. 249 (V.I. Terr. Ct. 1989), and Thomas v. 
+Rijos, 780 F. Supp. 2d 376, 380 (D.V.I. 2011)); Powell v. Chi-Co’s Distrib., No. ST-13-TOR-14, 
+2014 V.I. LEXIS 21, at *5 n.13 (U.S.V.I. Super. Ct. Apr. 3, 2014) (“Applying a Banks analysis, 
+the Court finds that Restatement (Second) of Torts § 908(2) reflects the common law of this 
+jurisdiction.”). 
+5 Plaintiff argues that the USVI Attorney General’s request for punitive damages in a USVI 
+Criminally Influenced and Corrupt Organizations Act lawsuit against Decedent’s Estate shows the 
+third Banks factor weighs in Plaintiff’s favor.  However, that the USVI Attorney General asks for 
+something in a lawsuit is not legal authority.  Even where an attorney general purports to interpret 
+a law - and here the USVI AG did no such thing -the Supreme Court has warned against accepting 
+such interpretation as authoritative. See Stenberg v. Carhart, 530 U.S. 914, 940 (2000).
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 15 of 16
+
+11 
+Dated: New York, New York 
+Respectfully submitted, 
+March 20, 2020 
+TROUTMAN SANDERS LLP 
+875 Third Avenue 
+New York, NY 10022 
+212.704.6000 
+By:/s/ Bennet J. Moskowitz
+ Bennet J. Moskowitz 
+Attorneys for Defendants 
+Case 1:19-cv-10476-PGG-DCF   Document 31   Filed 03/20/20   Page 16 of 16

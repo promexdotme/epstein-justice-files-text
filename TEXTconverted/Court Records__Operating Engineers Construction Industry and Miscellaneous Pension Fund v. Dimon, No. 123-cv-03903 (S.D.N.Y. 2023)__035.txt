@@ -1,0 +1,375 @@
+METADATA_SOURCE: Court Records\Operating Engineers Construction Industry and Miscellaneous Pension Fund v. Dimon, No. 123-cv-03903 (S.D.N.Y. 2023)
+METADATA_FILENAME: 035.pdf
+----------------------------------------
+IN THE UNITED STATES DISTRICT COURT  
+FOR THE SOUTHERN DISTRICT OF NEW YORK  
+ 
+ 
+ 
+IN RE JPMORGAN CHASE & CO. 
+DERIVATIVE LITIGATION 
+ 
+ 
+  
+ 
+ 
+ 
+Master Case No. 1:23-cv-03903-JSR 
+ 
+DERIVATIVE ACTION 
+ 
+ 
+ 
+ 
+ 
+ 
+DEFENDANT JAMES E. STALEY’S REPLY MEMORANDUM OF  
+LAW IN SUPPORT OF MOTION TO DISMISS COMPLAINT 
+ 
+  
+ 
+ 
+ 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 1 of 12
+
+ 
+ 
+i 
+TABLE OF CONTENTS 
+I. 
+The Bank’s Existing Lawsuit Against Mr. Staley Quashes this Derivative Suit .................. 1 
+ 
+II. 
+The Claims Against Mr. Staley Specifically Are Defective .................................................... 4 
+ 
+ 
+Plaintiffs Fail To State a Breach-of-Fiduciary Duty Claim Against 
+Mr. Staley .......................................................................................................................... 4 
+ 
+ 
+Plaintiffs Fail To State an Unjust Enrichment Claim Against Mr. Staley ................ 6 
+ 
+III. 
+The Claims Against Mr. Staley Are Time-Barred .................................................................... 6 
+ 
+CONCLUSION ................................................................................................................................9 
+ 
+ 
+ 
+ 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 2 of 12
+A. 
+B. 
+
+ 
+ 
+ii 
+TABLE OF AUTHORITIES 
+Page(s) 
+CASES 
+Am. Stock Exch., LLC v. Mopex, Inc., 215 F.R.D. 87 (S.D.N.Y. 2002) ..........................................3 
+AT & T Corp. v. Syniverse Techs., Inc., 2014 WL 4412392 (S.D.N.Y. Sept. 8, 2014) ...................6 
+In re Coca-Cola Enters., Inc., 2007 WL 3122370 (Del. Ch. Oct. 17, 2007) ...................................8 
+Curtis v. Citibank, N.A., 226 F.3d 133 (2d Cir. 2000) .....................................................................3 
+De Sole v. Knoedler Gallery, LLC, 137 F. Supp. 3d 387 (S.D.N.Y. 2015) .....................................7 
+In re Dean Witter P’ship Litig., 1998 WL 442456 (Del. Ch. July 17, 1998) ..................................8 
+In re Delta & Pine Land Co. S’holders Litig., 2000 WL 875421 (Del. Ch. June 21, 2000) ...........2 
+Diffley v. Allied-Signal, Inc., 921 F.2d 421 (2d Cir. 1990) ..............................................................7 
+In re McDonald’s, 289 A.3d 343 (Del. Ch. 2023) .......................................................................4, 5 
+Meyers v. Keeler, 414 F. Supp. 935 (W.D. Okla. 1976) ..................................................................2 
+Nemec v. Shrader, 991 A.2d 1120 (Del. 2010) (en banc) ................................................................6 
+Ret. Sys. v. Carlson, 2010 WL 2376890 (Del. Ch. June 7, 2010)....................................................6 
+Huck ex rel. Sea Air Shuttle Corp. v. Dawson, 106 F.3d 45 (3d Cir. 1997) ....................................3 
+Silverzweig v. Unocal Corp., 1989 WL 3231 (Del. Ch. Jan. 19, 1989) .......................................2, 3 
+Stafford v. Int’l Harvester Co., 668 F.2d 142 (2d Cir. 1981) ..........................................................7 
+Steinberg v. Dimon, 2014 WL 3512848 (S.D.N.Y. July 16, 2014) .................................................6 
+Tilden v. Cunningham, 2018 WL 5307706 (Del. Ch. Oct. 26, 2018) ..............................................8 
+In re Tyson Foods, Inc., 919 A.2d 563 (Del. Ch. 2007) ..............................................................7, 8 
+U.S. Bank Nat’l Ass’n as Tr. to Bank of Am., N.A. v. KeyBank, Nat’l Ass’n,  
+2023 WL 2745210 (S.D.N.Y. Mar. 31, 2023) ...........................................................................7 
+Willensky v. Lederman, 2015 WL 327843 (S.D.N.Y. Jan. 23, 2015) ..............................................7 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 3 of 12
+
+ 
+ 
+1 
+Plaintiffs’ Opposition asserts that it simply does not matter that JPMorgan has already sued 
+Defendant Jes Staley on the very same claims, and for the very same acts, that are at issue in this 
+derivative action.  Of course it does:  That the bank is already suing Mr. Staley shows that there is 
+no need for Plaintiffs to do so on its behalf, nor any reason to excuse Plaintiffs’ failure to petition 
+the board before filing suit.  Indeed, as to both demand futility and the rule against claim splitting, 
+Plaintiffs’ only response is that they can pursue the bank’s interests better than JPMorgan’s board.  
+This is a baseless argument, as there is no legal doctrine that permits shareholders to usurp the 
+board’s prerogative, and disregard the rules against duplicative litigation, simply on the basis of 
+second-guessing litigation management. 
+As to the merits of their individual claims, moreover, Plaintiffs fare no better.  They suggest 
+that they can state a Caremark claim against Mr. Staley based on his alleged knowledge of Jeffrey 
+Epstein’s sexual misconduct, as though that somehow equates to knowledge of failed oversight 
+procedures within JPMorgan.  It does not.  And on the statute of limitations, Plaintiffs rest the 
+survival of their claims entirely on the exceedingly narrow doctrine of equitable tolling (which 
+they did not plead) under Delaware law (which does not apply here).  Coupled with Plaintiffs’ 
+inability to meet their burden to show demand futility, Plaintiffs’ Opposition does nothing to 
+forestall dismissal of the two claims against Mr. Staley (Counts II and III).  The Court should 
+therefore grant Mr. Staley’s Motion to Dismiss. 
+I. 
+The Bank’s Existing Lawsuit Against Mr. Staley Quashes this Derivative Suit. 
+The shareholder Plaintiffs do not dispute that nominal defendant JPMorgan—on whose 
+behalf they purport to act—is already suing Jes Staley on the very same claims and theories that 
+they seek to vindicate in this derivative action.  See Third-Party Compls., Doe v. JPMorgan, 1:22-
+cv-10019-JSR, ECF No. 59; USVI v. JPMorgan, 1:22-cv-10904-JSR, ECF No. 130. This 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 4 of 12
+
+ 
+ 
+2 
+undisputed fact presents two fatal obstacles to Plaintiffs’ ability to proceed.  Plaintiffs’ Opposition 
+does not seriously grapple with, much less rebut, either one. 
+The first obstacle is, of course, Plaintiffs’ need to show demand futility.  Having declined 
+to petition JPMorgan’s board of directors to bring their contemplated claims against Mr. Staley, 
+Plaintiffs must show that doing so would have been a fool’s errand because the board would not 
+sue Mr. Staley on its own because of the legal risk to the board members.  But the fact that the 
+very same board has already taken exactly that action—seeking to hold Mr. Staley liable for, 
+among other things, the full $290 million settlement with the Jane Doe class—is ipso facto fatal to 
+Plaintiffs’ theory of futility.  See, e.g., In re Delta & Pine Land Co. S’holders Litig., 2000 WL 
+875421, at *6 (Del. Ch. June 21, 2000) (“[T]he existence of a board-initiated action conclusively 
+defeats any claim that demand would have been futile.” (internal citation omitted)).1 
+Plaintiffs offer no substantive response to this point, and instead merely disparage 
+JPMorgan’s third-party actions as “belated and reactive,” suggesting that they were intended solely 
+to “deflect blame” from the bank, and thus that the bank might settle them “at a non-maximizing 
+price.”  Opp’n at 21-22.  But Plaintiffs cite no authority suggesting that a court should second-
+guess board members’ motives even after they decide to pursue the claims that shareholders said 
+they would not.  Quite to the contrary, Delaware law suggests the opposite: 
+[T]he existence of [a board-initiated suit] conclusively defeats any claim 
+that demand would have been futile.  Indeed, there is something to be said 
+for the idea that this Court should inquire no further if it finds that the 
+corporate directors are litigating the same claims advanced in the derivative 
+action. 
+                                                          
+1 The Delta & Pine decision was no outlier.  See, e.g., Silverzweig v. Unocal Corp., 1989 WL 
+3231, at *4 (Del. Ch. Jan. 19, 1989), aff’d, 561 A.2d 993 (1989); Meyers v. Keeler, 414 F. Supp. 
+935, 939 (W.D. Okla. 1976). 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 5 of 12
+
+ 
+ 
+3 
+Silverzweig, 1989 WL 3231, at *4.  Simply put, the demand-futility doctrine is intended to address 
+circumstances in which a supposedly conflicted board would refuse to pursue valid claims.  It is 
+not intended to allow shareholders to commandeer and micromanage litigation already underway.  
+In all events, JPMorgan impleaded Mr. Staley less than four months after it was sued, and there 
+can be no doubt that it has vigorously pursued claims against him ever since.2  
+The second obstacle arises under the rule against claim splitting, i.e., the principle that a 
+plaintiff “must bring in one action all legal theories arising out of the same transaction.”  Am. Stock 
+Exch., LLC v. Mopex, Inc., 215 F.R.D. 87, 91 (S.D.N.Y. 2002); accord Curtis v. Citibank, N.A., 
+226 F.3d 133, 138-39 (2d Cir. 2000).  This rule applies here because the very nature of a derivative 
+action is that the plaintiff seeks to vindicate the claims of someone else—in this case, JPMorgan, 
+which is already pursuing the same claims against Mr. Staley in this Court.  See Huck ex rel. Sea 
+Air Shuttle Corp. v. Dawson, 106 F.3d 45, 50-51 (3d Cir. 1997) (derivative action precluded by 
+prior lawsuit based on similar claims).  
+Plaintiffs’ response on this point mirrors their response on demand futility, as they argue 
+that the rule against claim-splitting is “discretionary,” and that the Court should decline to apply it 
+here because “the Company cannot be trusted to maximize the value of the claims against Staley.”  
+Opp’n at 25.  This is a preposterous assertion:  as noted above, no serious observer of the bank’s 
+lawsuit against Mr. Staley would describe it as anything less than hard fought on both sides.  
+Moreover, the rule against claim-splitting is a well-developed concept, with multiple precedential 
+factors to guide judges when applying it.  See Curtis, 226 F.3d at 138-41.  Nowhere among those 
+                                                          
+2 Regarding demand futility more generally, Plaintiffs’ attempts to rewrite their complaint through 
+briefing is as ineffective as it is improper.  Mr. Staley refrains from belaboring the dispositive 
+arguments of his codefendants and instead adopts and incorporates by reference their Reply Brief.  
+See ECF No. 34.   
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 6 of 12
+
+ 
+ 
+4 
+factors is the notion that duplicative litigation should be tolerated simply because the driver of a 
+later-filed action questions the bona fides of an earlier one.  This Court should not be the first to 
+recognize such a subjective and groundless principle. 
+II. 
+The Claims Against Mr. Staley Specifically Are Defective. 
+Plaintiffs’ claims against Mr. Staley are substantively deficient even if one overlooks the 
+claim-killing fact of the preexisting JPMorgan lawsuit.  Plaintiffs’ Opposition attempts to defend 
+these claims on the merits, but fails completely. 
+ 
+Plaintiffs Fail To State a Breach-of-Fiduciary Duty Claim Against Mr. Staley. 
+Count II purports to state a Caremark claim, alleging breach of fiduciary duty based on a 
+breakdown of operating controls and corporate compliance functions at JPMorgan.  This claim 
+cannot proceed against Mr. Staley because the Complaint is devoid of any allegation that Mr. 
+Staley—who was never a director, merely an officer—ever had responsibility for the compliance 
+and oversight functions where, according to Plaintiffs, JPMorgan fell short.3  This is a fatal 
+deficiency because Caremark liability attaches to a corporate officer only when the officer was 
+responsible for receiving and addressing the supposed red flags of misconduct.  In re McDonald’s, 
+289 A.3d 343, 366 (Del. Ch. 2023) (officer’s duty “to identify red flags, report upward, and address 
+them if they fall within the officer’s area of responsibility”). 
+Plaintiffs do not dispute Mr. Staley’s point that he had no responsibility for the compliance 
+functions.  They instead assert that an exception to the “area of responsibility” principle exists—
+and that a Caremark claim can still arise—where the defendant officer has actual knowledge of 
+potential corporate wrongdoing, yet fails to act.  Or, as the Plaintiffs put it—quoting from the 
+                                                          
+3 As the Complaint notes, AML and KYC compliance were managed by separate divisions at the 
+bank, as was the filing of SARs.  See Compl. ¶¶ 5, 147, 151, 181 (referencing, e.g., “compliance 
+department,” “risk management division,” and “Global Corporate Security Division”).  
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 7 of 12
+A. 
+
+ 
+ 
+5 
+McDonald’s decision—“An officer who receives credible information that the corporation is 
+violating the law cannot turn a blind eye and dismiss the issue as ‘not in my area.’”  Opp’n at 23 
+(quoting id. at 370). 
+The problem with Plaintiffs’ reliance on this principle is that their Complaint is, again, 
+devoid of any allegation that Mr. Staley was ever made aware that “the corporation” was “violating 
+the law,” as the rule from McDonald’s would require.  289 A.3d 369-70.  Although the Complaint 
+is replete with (baseless) allegations that Mr. Staley knew of Jeffrey Epstein’s misdeeds,4 the 
+actions of a bank’s client do not equate to actions of the bank, and only the latter will suffice to 
+state a “Red-Flags” variant of a Caremark claim.  And there is no allegation that Mr. Staley ever 
+knew, for example, of JPMorgan’s alleged failures to submit SARs about Epstein or of any of the 
+other purported “red flags” indicating a breakdown in the bank’s back-end compliance functions.  
+Indeed, to judge from the Complaint, one could conclude only that Mr. Staley believed that the 
+bank was actively addressing Epstein’s suspicious transactions, as the Complaint references 
+multiple discussions he supposedly had with the higher-ups at the bank who bore actual 
+responsibility for compliance.  E.g., Compl. ¶¶ 25, 135-37, 181.  In other words, regardless of 
+whatever Mr. Staley might have known about Epstein’s personal life, Plaintiffs’ Complaint 
+presents no basis to infer that he knew that the bank was falling short in its compliance and external 
+reporting obligations over Epstein’s accounts. 
+Finally, Plaintiffs get no support from their afterthought citation to JPMorgan’s allegation 
+that “Staley’s act of disloyalty . . . occurred in his primary area of responsibility.”  Opp’n at 24.  
+Plaintiffs’ own Complaint makes no such allegation, and, indeed, their Opposition otherwise 
+                                                          
+4 E.g., Opp’n at 24 (noting allegations (i) that Mr. Staley was “tasked with ‘getting to know’ 
+Epstein,” Compl. ¶ 15, and (ii) that another officer was supposed to tell Mr. Staley that the bank 
+was “uncomfortable with Epstein,” id. ¶ 18). 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 8 of 12
+
+ 
+ 
+6 
+denigrates JPMorgan’s third-party claims as mere overhead cover to deflect blame away from the 
+bank.  See Opp’n at 21-22.  But more importantly, an entirely conclusory and generalized 
+allegation about Mr. Staley’s purported “area of responsibility,” devoid of specifics and factual 
+support, is not a premise for Caremark liability based on compliance failures. 
+ 
+Plaintiffs Fail To State an Unjust Enrichment Claim Against Mr. Staley.  
+Plaintiffs’ unjust enrichment claim against Mr. Staley in Count III fails too.  As noted in 
+Mr. Staley’s opening brief, the essence of the claim is breach of fiduciary duty, so it suffers from 
+the same faults as Plaintiffs’ Caremark claim against Mr. Staley in Count II.  See Monroe Cnty. 
+Emps.’ Ret. Sys. v. Carlson, 2010 WL 2376890, at *2 (Del. Ch. June 7, 2010) (dismissing unjust 
+enrichment claim based on deficient fiduciary duty claim).   
+The unjust enrichment claim is also independently deficient. Such a claim requires, inter 
+alia, (i) an express pleading of “the absence of a remedy provided by law,” Nemec v. Shrader, 991 
+A.2d 1120, 1130 (Del. 2010) (en banc), and (ii) some form of alleged “enrichment” beyond the 
+defendant’s ordinary employment compensation, see Steinberg v. Dimon, 2014 WL 3512848, at 
+*4 (S.D.N.Y. July 16, 2014).  Here, Plaintiffs’ Complaint pleads neither prerequisite.  Mr. Staley 
+pointed out these failings in his opening brief (at 17-18), but Plaintiffs’ Opposition fails to address 
+them at all.  The deficiency of Count III is thus conceded.  See AT & T Corp. v. Syniverse Techs., 
+Inc., 2014 WL 4412392, at *7 (S.D.N.Y. Sept. 8, 2014) (unaddressed arguments are conceded). 
+III. 
+The Claims Against Mr. Staley Are Time-Barred. 
+Plaintiffs’ argument for the timeliness of their lawsuit rests on narrow grounds.  See Opp’n 
+24-25.  Plaintiffs do not dispute, for example, that Mr. Staley left JPMorgan in 2013—more than 
+a decade ago—or that the applicable New York limitations periods had long since expired by the 
+time they filed suit in May 2023.  Nor do Plaintiffs so much as mention the tolling doctrines of 
+fraudulent concealment or inherently unknowable injury.  Id.  Instead, Plaintiffs attempt to salvage 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 9 of 12
+B. 
+
+ 
+ 
+7 
+their claim solely through “equitable tolling” under Delaware law—a doctrine that excuses 
+untimeliness by a plaintiff who “reasonably relied” on a fiduciary and was otherwise ignorant of 
+his claim.  Id. (citing In re Tyson Foods, Inc., 919 A.2d 563, 585 (Del. Ch. 2007)).  According to 
+Plaintiffs, this doctrine should apply here, and for support they cite this Court’s denial of the 
+motions to dismiss in the Doe and USVI actions.  This argument fails in every respect. 
+First, Plaintiffs are simply wrong that Delaware law applies.  In New York, forum law 
+governs limitations.  As the Second Circuit has observed: 
+Under New York law[,] the statute of limitations is considered procedural 
+since it goes to the remedy, and New York will apply its own statute of 
+limitations even though the injury which gave rise to the action occurs in 
+another state.   
+Stafford v. Int’l Harvester Co., 668 F.2d 142, 147 (2d Cir. 1981).  This is true even where Delaware 
+law governs the merits under the internal affairs doctrine.  Willensky v. Lederman, 2015 WL 
+327843, at *5 n.8 (S.D.N.Y. Jan. 23, 2015) (“[N]o New York court has held that the internal affairs 
+doctrine requires that it apply the statutes of limitations of a defendant corporation’s home state.”) 
+(applying New York statute of limitations to shareholder derivative claims).  And because New 
+York’s statutes of limitation apply, its law on tolling also applies,5 and New York law notably does 
+not recognize the fiduciary-duty-based equitable tolling theory advanced by Plaintiffs.6  
+                                                          
+5 U.S. Bank Nat’l Ass’n as Tr. to Bank of Am., N.A. v. KeyBank, Nat’l Ass’n, 2023 WL 2745210, 
+at *12 (S.D.N.Y. Mar. 31, 2023) (explaining that New York law governs limitations and also 
+“determines the related questions of what events serve to commence an action and to toll the statute 
+of limitations”) (quoting Diffley v. Allied-Signal, Inc., 921 F.2d 421, 423 (2d Cir. 1990)). 
+6 New York law’s version of equitable tolling applies only where a plaintiff “establish[es] that 
+subsequent and specific actions were taken by defendants, separate from those that provide the 
+factual basis for the underlying cause of action, and that these subsequent actions by defendants 
+somehow kept plaintiff from timely bringing suit.”  De Sole v. Knoedler Gallery, LLC, 137 F. 
+Supp. 3d 387, 423 (S.D.N.Y. 2015) (cleaned up). 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 10 of 12
+
+ 
+ 
+8 
+Even if the Court were to apply Delaware tolling law as Plaintiffs urge, their argument 
+would still fail.  The background rule in Delaware is that “a claim accrues as soon as the wrongful 
+act occurs,” Tilden v. Cunningham, 2018 WL 5307706, at *14 (Del. Ch. Oct. 26, 2018) (citation 
+omitted), not “when the harmful effects of the act are felt—even if the plaintiff is unaware of the 
+wrong,” In re Coca-Cola Enters., Inc., 2007 WL 3122370, at *5 (Del. Ch. Oct. 17, 2007).  
+Although Delaware law recognizes equitable tolling in certain circumstances, a plaintiff seeking 
+refuge under that doctrine bears the burden to plead specific facts showing (i) that he delayed filing 
+due to the fact that he “reasonably relied upon the competence and good faith of a fiduciary,” and 
+(ii) that he was “not on inquiry notice of [his] claims” during the claimed tolling period.  In re 
+Tyson Foods, 919 A.2d at 585; In re Dean Witter P’ship Litig., 1998 WL 442456, at *6 (Del. Ch. 
+July 17, 1998), aff’d, 725 A.2d 441 (Del. 1999). 
+Plaintiffs, however, plead no such facts.  Indeed, the section of their Opposition addressing 
+this argument is devoid of even a single citation to the Complaint.  Opp’n at 24-25.  And even if 
+Plaintiffs had actually tried to plead an equitable tolling theory under Delaware law in their 
+Complaint—which they did not—they certainly could not premise it on a fiduciary relationship 
+with Mr. Staley, as any such relationship ended when Mr. Staley left the bank in 2013, well outside 
+any potentially applicable limitations period.  Indeed, given that the Miami municipal employees’ 
+pension fund did not purchase JPMorgan common stock until December 2016 (Compl. ¶ 30), more 
+than three years after Mr. Staley departed, it never had a fiduciary relationship with him, much 
+less relied on that relationship.  
+Finally, it matters not that the Court declined to dismiss JPMorgan’s claims against Mr. 
+Staley in the Doe and USVI actions.  The Court’s bottom-line rulings—based on different 
+pleadings and arguments by the parties—do not control here.  While it is true that Mr. Staley’s 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 11 of 12
+
+ 
+ 
+9 
+motions contained statute-of-limitations arguments, Plaintiffs have offered no comparison of their 
+complaint to the pleadings and allegations that the Court apparently found adequate in the USVI 
+and Doe suits.  Nor did the bank defend untimeliness on equitable-tolling grounds, as Plaintiffs 
+rely on here.  And the Court has not yet issued any opinion(s) on the motions to dismiss in those 
+cases, so Plaintiffs have no basis to contend that any rationale for the Court’s rulings should also 
+apply here. 
+CONCLUSION 
+For the forgoing reasons, and the reasons set forth in Mr. Staley’s opening brief (ECF No. 
+29), the Court should dismiss Counts II and III against Mr. Staley. 
+ 
+ 
+Date: July 27, 2023 
+ 
+ 
+ 
+        Respectfully submitted, 
+ 
+ 
+ 
+/s/ John McNichols               
+John McNichols 
+WILLIAMS & CONNOLLY LLP 
+680 Maine Avenue, S.W. 
+Washington, DC 20024 
+Tel: (202) 434-5252 
+Fax: (202) 434-5029 
+jmcnichols@wc.com 
+ 
+Counsel for Defendant James Edward Staley 
+ 
+ 
+ 
+ 
+Case 1:23-cv-03903-JSR     Document 35     Filed 07/27/23     Page 12 of 12

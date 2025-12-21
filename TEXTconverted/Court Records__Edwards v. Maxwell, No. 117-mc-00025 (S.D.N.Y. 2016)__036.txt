@@ -1,0 +1,225 @@
+METADATA_SOURCE: Court Records\Edwards v. Maxwell, No. 117-mc-00025 (S.D.N.Y. 2016)
+METADATA_FILENAME: 036.pdf
+----------------------------------------
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ 
+--------------------------------------------------X 
+ 
+BRADLEY J. EDWARDS, 
+Plaintiff, 
+v. 
+GHISLAINE MAXWELL, 
+Defendant. 
+ 
+ 
+ 
+ 
+ 
+17-mc-00025-RWS 
+ 
+--------------------------------------------------X 
+ 
+ 
+ 
+Defendant’s Sur-Reply to Supplemental Reply 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.............................................
+Jeffrey S. Pagliuca 
+HADDON, MORGAN AND FOREMAN, P.C. 
+150 East 10th Avenue 
+Denver, CO 80203 
+303.831.7364 
+Case 1:17-mc-00025-RWS     Document 36     Filed 03/20/17     Page 1 of 7
+
+1 
+ 
+INTRODUCTION 
+Almost one year after being served with a subpoena to produce documents in this matter 
+Mr. Edwards, for the first time, claims, with no real legal support, that the letters he sent to 
+various former employees of Jeffrey Epstein and other potential witnesses are “work product”.  
+Mr. Edwards attempts to obfuscate the issue by claiming that he would have to review hundreds, 
+no, thousands, of emails to determine to whom such solicitations were sent.  Mr. Edwards knows 
+that he sent a form solicitation letter to many individuals, including former Epstein employees, 
+requesting their assistance as a witness in this case.  It strains credibility to believe that Mr. 
+Edwards did not keep files related to these people.  It also strains credibility to believe that it 
+would take more than a simple word search to find these letters in Mr. Edwards’s files.  Mr. 
+Edwards, who has had the subpoena for almost one year, has produced no privilege log 
+supporting his assertion of “work product” and fails to address, at all, how the responses of the 
+individuals who received the solicitation letters could possibly be his work product.   
+I. 
+MR. EDWARDS HAS WAIVED ANY CLAIM OF WORK PRODUCT BY HIS 
+FAILURE TO PRODUCE A PRIVILEGE LOG. 
+It is noteworthy that the initial objection by Mr. Edwards to RFP 19 and RFP 20 was that 
+production would be a “burden” on Mr. Edwards. (Mot. To Quash, filed June 16, 2016, at page 
+19.)  Now, almost one year later, Mr. Edwards claims that the solicitation letters are “work 
+product.”  He has not, however, complied with Fed. R. Civ. P. 45(E)(2)(A). Although Mr. 
+Edwards may be allowed to belatedly assert that privilege under Fed. R. Civ. P. 45(E)(2)(A), he 
+also is required to produce a log of all documents withheld based on any alleged privilege or 
+protection: 
+(A) Information Withheld. A person withholding subpoenaed information under a claim 
+that it is privileged or subject to protection as trial-preparation material must: 
+(i) expressly make the claim; and 
+Case 1:17-mc-00025-RWS     Document 36     Filed 03/20/17     Page 2 of 7
+
+2 
+ 
+(ii) describe the nature of the withheld documents, communications, or tangible 
+things in a manner that, without revealing information itself privileged or protected, will 
+enable the parties to assess the claim. 
+An “unjustified failure to list privileged documents on the required log of withheld 
+documents in a timely and proper manner operates as a waiver of any applicable privilege,” 
+OneBeacon Ins. Co. v. Forman Int'l Ltd., 04 CIV. 2271(RWS), 2006 WL 3771010, at *7–8 
+(S.D.N.Y. Dec. 15, 2006).  As this Court noted in OneBeacon Ins. Co., the waiver of privilege is 
+equally applicable where there is a failure to produce a privilege log under Rules 45 and 26.  Id. 
+(citing In re Application for Subpoena to Kroll, 224 F.R.D. 326, 328 (E.D.N.Y. 2004) (“Rule 
+45 requires that the party claiming a privilege prepare a privilege log.... Failure to submit a 
+privilege log may be deemed a waiver of the underlying privilege claim.”)); Labatt Ltd. v. 
+Molson Breweries, Nos. 93 CV 75004, 94 CV 71540(RPP), 1995 WL 23603 (S.D.N.Y. Jan. 20, 
+1995), aff'd, Dorf & Stanton Commc'ns, Inc., 100 F.3d 919, 923 (Fed.Cir.1997) (upholding 
+determination that privilege had been waived due to failure to satisfy Rules 45(d)(2) and 
+26(b)(5)); see also In re Grand Jury Subpoena, 274 F.3d 563, 575-76 (1st Cir.2001) (stating that 
+a “party that fails to submit a privilege log” pursuant to Fed. R. Civ. P. 45(d)(2) “is deemed to 
+waive the underlying privilege claim”).   
+II. 
+MR. EDWARDS HAS FAILED TO DEMONSTRATE THAT THE 
+SOLICITATION LETTERS ARE WORK PRODUCT AND THAT ANY 
+PROTECTION AFFORDED BY THE WORK PRODUCT DOCTRINE HAS NOT 
+BEEN WAIVED. 
+The party seeking to assert a claim of privilege has the burden of demonstrating both that 
+the privilege exists and that it has not been waived. See von Bulow v. von Bulow, 811 F.2d 136, 
+144 (2d Cir.1987); Smith v. Conway Org., 154 F.R.D. 73, 77 (S.D.N.Y.1994); Nikkal Indus., Ltd. 
+v. Salton, Inc., 689 F. Supp. 187, 191 (S.D.N.Y.1988). This burden stems from the recognition 
+that “enforcement of a claim of privilege acts in derogation of the overriding goals of liberal 
+Case 1:17-mc-00025-RWS     Document 36     Filed 03/20/17     Page 3 of 7
+
+3 
+ 
+discovery and adjudication on their merits.” Bowne of New York City, Inc. v. AmBase Corp., 150 
+F.R.D. 465, 473 (S.D.N.Y.1993). It is for this reason that privileges are “disfavored and 
+generally to be narrowly construed.” Id.; see, e.g., United States v. Goldberger & Dubin, 
+P.C., 935 F.2d 501, 504 (2d Cir.1991). 
+The work product doctrine, codified at Federal Rule of Civil Procedure 26(b)(3), shields 
+from discovery “documents and tangible things ... prepared in anticipation of litigation.” Fed. R. 
+Civ. P. 26(b)(3). It “is intended to preserve a zone of privacy in which a lawyer can prepare and 
+develop legal theories and strategy ‘with an eye toward litigation,’ free from unnecessary 
+intrusion by his adversaries.” United States v. Adlman, 134 F.3d 1194, 1196 (2d 
+Cir.1998) (quoting Hickman v. Taylor, 329 U.S. 495, 510–11 (1947)). 
+Work product protection “is not absolute. Like other qualified privileges, it may be 
+waived.” United States v. Nobles, 422 U.S. 225, 239 (1975). The party asserting the protection 
+afforded by the work product doctrine has the burden of showing both that the protection exists 
+and that it has not been waived. See e.g., Resolution Trust Corp. v. Mass. Mut. Life Ins. Co., 200 
+F.R.D. 183, 188 (W.D.N.Y.2001) (citation omitted); Granite Partners v. Bear, Stearns & Co. 
+Inc., 184 F.R.D. 49, 52 (S.D.N.Y.1999) (citing cases).  As the court held in Bristol–Myers 
+Squibb Co. v. Rhone–Poulenc Rorer, No. 95 Civ. 8833, 1997 WL 801454, at *1 (S.D.N.Y. Dec. 
+31, 1997), waiver, “of either the lawyer-client or work product privilege, is designed to assure 
+fairness to litigants.”  
+The solicitation letters at issue here are not work product.  Indeed, it is hard to imagine 
+how the type of form letter sent to former Epstein employees could be “work product”.  Mr. 
+Edwards, in these form letters, is essentially attempting to “guilt” witnesses into contacting him.  
+The factual assertions, or other promises, made by Edwards are certainly not confidential, as they 
+Case 1:17-mc-00025-RWS     Document 36     Filed 03/20/17     Page 4 of 7
+
+4 
+ 
+are being directed at persons outside the litigation.  Mr. Edwards has no expectation of privacy or 
+confidentiality when he is sending these letters.  To the extent that the purported facts in the 
+letters are inaccurate or misrepresented they may be part of any witnesses’ bias or motive to 
+testify.  If the witness testifies, the witness can be asked if the witness received a solicitation 
+letter from Mr. Edwards, which would not be protected from disclosure.  The proffering of the 
+witness acts as a waiver of any work product protection under these circumstances because it 
+would be fundamentally unfair to have influenced the witnesses’ testimony but shield the 
+influence by a claim of work product. Mr. Edwards has not produced an example of the form 
+letter for the Court to review, likely because he knows that the Court would reject the claim that 
+the form solicitation letter is work product. 
+III. 
+MR. EDWARDS HAS NO CLAIM THAT RESPONSES TO THE SOLICITATION 
+LETTERS ARE WORK PRODUCT. 
+RFP 20 requests the responses to any of the solicitation letters.  Mr. Edwards has no 
+claim that what a prospective witness writes back to him is “work product”.  The RFP does not 
+ask for Mr. Edwards’s notes or interview memoranda.  It requests whatever response Mr. 
+Edwards received from the solicitation.  Mr. Edwards has failed to log any of these 
+communications, a waiver in and of itself.  Again, it is likely that he has refused to produce a log 
+because to do so would demonstrate the frivolousness of this claim. 
+CONCLUSION 
+For the above stated reasons, Ms. Maxwell respectfully requests that the Motion to Quash 
+be denied. 
+ 
+Case 1:17-mc-00025-RWS     Document 36     Filed 03/20/17     Page 5 of 7
+
+5 
+ 
+Dated: March 20, 2017 
+ 
+Respectfully submitted, 
+/s/ Jeffrey S. Pagliuca 
+Jeffrey S. Pagliuca (pro hac vice) 
+HADDON, MORGAN AND FOREMAN, P.C. 
+150 East 10th Avenue 
+Denver, CO 80203 
+Phone: 303.831.7364 
+Fax: 
+303.832.2628 
+jpagliuca@hmflaw.com 
+Denise D. Riley (# 160245) 
+Riley Law PLLC 
+2710 Del Prado Blvd. S., Unit 2-246, 
+Cape Coral, FL 33904 
+Phone:  303.907.0075 
+denise@rileylawpl.com 
+Attorneys for Ghislaine Maxwell 
+ 
+ 
+ 
+Case 1:17-mc-00025-RWS     Document 36     Filed 03/20/17     Page 6 of 7
+
+6 
+ 
+CERTIFICATE OF SERVICE 
+I certify that on March 20, 2017, I electronically served this Defendant’s Sur-Reply to 
+Supplemental Reply via ECF on the following:   
+ 
+Paul G. Cassell 
+383 S. University Street 
+Salt Lake City, UT 84112 
+cassellp@law.utah.edu 
+ 
+ 
+Jack Scarola          
+ 
+ 
+ 
+ 
+Searcy Denney Scarola Barnhart & Shipley, 
+P.A. 
+ 
+ 
+ 
+2139 Palm Beach Lakes Boulevard 
+West Palm Beach, Florida 34409 
+ 
+ 
+Phone: 561-686-6300  
+ 
+ 
+Fax : 561-383-9451 
+ 
+ 
+ 
+ 
+jsx@searcylaw.com 
+mep@searcylaw.com 
+ 
+ 
+ 
+/s/ Nicole Simmons 
+ 
+Nicole Simmons 
+ 
+Case 1:17-mc-00025-RWS     Document 36     Filed 03/20/17     Page 7 of 7

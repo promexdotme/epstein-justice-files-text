@@ -1,0 +1,993 @@
+METADATA_SOURCE: Court Records\Edwards v. Maxwell, No. 117-mc-00025 (S.D.N.Y. 2016)
+METADATA_FILENAME: 001-05.pdf
+----------------------------------------
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ 
+------------------------------------------------------X 
+ 
+VIRGINIA L. GIUFFRE, 
+Plaintiff, 
+v. 
+GHISLAINE MAXWELL, 
+Defendant. 
+ 
+ 
+ 
+ 
+ 
+15-cv-07433-RWS 
+ 
+------------------------------------------------------X 
+ 
+ 
+DEFENDANT GHISLAINE MAXWELL’S RESPONSES AND OBJECTIONS TO 
+PLAINTIFF’S SECOND REQUEST FOR PRODUCTION OF DOCUMENTS 
+ 
+Defendant Ghislaine Maxwell, by and through her undersigned counsel, hereby responds 
+to Plaintiff’s Second Request for Production of Documents (the “Requests”). 
+ 
+PRELIMINARY STATEMENT AND GENERAL OBJECTIONS 
+1. 
+This response is made to the best of Ms. Maxwell’s present knowledge, 
+information and belief. Ms. Maxwell, through her attorneys of record, have not completed the 
+investigation of the facts relating to this case, have not completed discovery in this action, and 
+have not completed preparation for trial. Ms. Maxwell’s responses to Plaintiff’s requests are 
+based on information currently known to her and are given without waiving Ms. Maxwell’s right 
+to use evidence of any subsequently discovered or identified facts, documents or 
+communications.  Ms. Maxwell reserves the right to supplement this Response in accordance 
+with Fed. R. Civ. P. 26(e).  
+2. 
+Ms. Maxwell objects to the Requests to the extent they attempt to impose any 
+requirement or discovery obligation greater than or different from those under the Federal Rules 
+of Civil Procedure, the local rules of this Court or any Orders of the Court.   
+3. 
+Ms. Maxwell objects to the Requests to the extent they seek documents or 
+information protected by the attorney/client privilege, the work-product doctrine, Rule 408 of the 
+Federal Rules of Evidence, any common interest privilege, joint defense agreement or any other 
+applicable privilege.   
+4. 
+Ms. Maxwell objects to the Requests to the extent they seek documents or 
+information outside of Ms. Maxwell’s possession, custody or control.   
+.........................................
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 1 of 24
+
+ 
+2 
+5. 
+Ms. Maxwell objects to the Requests to the extent they seek information which is 
+not relevant to the subject matter of the litigation and/or is not reasonably calculated to lead to 
+the discovery of admissible evidence.   
+6. 
+Ms. Maxwell objects to the Requests to the extent they are overly broad, unduly 
+burdensome and/or propounded for the improper purpose of annoying, embarrassing, or 
+harassing Ms. Maxwell. 
+7. 
+Ms. Maxwell objects to the Requests to the extent they are vague and ambiguous, 
+or imprecise.  
+8. 
+Ms. Maxwell objects to the Requests to the extent they seek information that is 
+confidential and implicates Ms. Maxwell’s privacy interests. 
+9. 
+Ms. Maxwell incorporates by reference every general objection set forth above 
+into each specific response set forth below.  A specific response may repeat a general objection 
+for emphasis or for some other reason.  The failure to include any general objection in any 
+specific response does not waive any general objection to that request. 
+10. 
+The Requests seek information that is confidential and implicates Ms. Maxwell’s 
+privacy interests.  To the extent such information is relevant and discoverable in this action, Ms. 
+Maxwell will produce such materials subject to an appropriate protective order pursuant to Fed. 
+R. Civ. P. 26(c) limiting their dissemination to the attorneys and their employees. 
+OBJECTIONS TO DEFINITIONS 
+11. 
+Ms. Maxwell objects to Definition No. 1 regarding “Agent” to the extent that it 
+purports to extend the meaning beyond those permissible by law. 
+12. 
+Ms. Maxwell objects to Definition No. 3 regarding “Defendant.”  The Definition 
+is overly broad and unduly burdensome to the extent it attempts to extend the scope of the 
+Requests to documents in the possession, custody or control of individuals other than Ms. 
+Maxwell or her counsel. 
+13. 
+Ms. Maxwell objects to Definition No. 5 regarding “Employee.”  Ms. Maxwell is 
+an individual, sued in an individual capacity, and therefore there is no “past or present officer, 
+director, agent or servant” of hers.  Additionally, “attorneys” and “paralegals” are not 
+“employees” of Ms. Maxwell given that she herself is not an attorney and therefore cannot 
+“employ” attorneys. 
+14. 
+Ms. Maxwell objects to Definition No. 10 regarding “You” or “Your.”  The 
+Definition is overly broad and unduly burdensome to the extent it attempts to extend the scope of 
+the Requests to documents in the possession, custody or control of individuals other than Ms. 
+Maxwell or her counsel. 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 2 of 24
+
+ 
+3 
+OBJECTIONS TO INSTRUCTIONS 
+15. 
+Ms. Maxwell objects to Instruction No. 1, in particular the definition of the 
+“Relevant Period” to include July 1999 to the present, on the grounds that it is overly broad and 
+unduly burdensome and calls for the production of documents that are irrelevant to this action 
+and not reasonably calculated to lead to the discovery of admissible evidence.  The Complaint at 
+paragraph 9 purports to describe events pertaining to Plaintiff and Defendant occurring in the 
+years 1999 – 2002.  The Complaint also references statements attributed to Ms. Maxwell 
+occurring in January 2015.  Defining the “Relevant Period” as “July 1999 to the present” is 
+vastly overbroad, irrelevant and not reasonably calculated to lead to the discovery of admissible 
+evidence, and as to certain of the Requests, is intended for the improper purpose of annoying or 
+harassing Ms. Maxwell and it implicates her privacy rights.  Thus, Ms. Maxwell interprets the 
+Relevant Period to be limited to 1999-2002 and December 30, 2014 - January 31, 2015, except to 
+the extent that any the answers “relate to any activity of defendant with respect to the practice 
+which has been alleged and the duties alleged to be performed by Defendant, ‘activities’ being 
+defined as sexual abuse or trafficking of any female,” in which case her answers reflect the 
+period 2000-today.   Ms. Maxwell specifically objects to production of any documents outside 
+that period, except as specifically noted.  
+16. 
+Ms. Maxwell objects to Instruction No. 3 on the grounds that it is unduly 
+burdensome and is intended for the improper purpose of annoying or harassing Ms. Maxwell.  
+Ms. Maxwell cannot possibly recall the specific disposition of documents, particularly electronic 
+documents, dating back over 16 years.  However, Ms. Maxwell, prior to this litigation has long 
+had a practice of deleting emails after they have been read.  
+17. 
+Ms. Maxwell objects to Instruction Nos. 5, 8, 9, 12, 17 to the extent they seek to 
+impose obligations to supply explanations for the presence or absence of such documents, to 
+specifically identify persons or documents, to provide information concerning who prepared 
+documents, the location of any copies of such documents, the identities and contact information 
+for persons who have custody or control of such documents, the reasons for inability to produce 
+portions of documents, and the “natural person in whose possession they were found,” beyond 
+the requirements of Rule 34.  This Instruction improperly seeks to propound Interrogatories 
+pursuant to Rule 33. 
+18. 
+Ms. Maxwell objects to Instructions No. 13 on the grounds that it is unduly 
+burdensome and is intended for the improper purpose of annoying or harassing Ms. Maxwell.  
+Ms. Maxwell cannot possibly recall the specific circumstances upon which a document dating 
+back 16 years has ceased to exist.  
+19. 
+Ms. Maxwell objects to Instruction No. 15 to the extent that it calls for documents 
+or information protected by the attorney/client privilege, the work-product doctrine, or any other 
+applicable privilege. 
+20. 
+Ms. Maxwell objects to Instruction Nos. 18 & 19 to the extent they require 
+information on any privilege log above and beyond the requirements of Local Civil Rule 26.2. 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 3 of 24
+
+ 
+4 
+SPECIFIC OBJECTIONS AND RESPONSES TO PLAINTIFF’S SECOND REQUESTS 
+FOR PRODUCTION OF DOCUMENTS 
+ 
+DOCUMENT REQUEST NO. 1  
+Produce all documents that Your attorneys reviewed and/or relied upon in the March 21, 
+2016, meet and confer discussion when Mr. Pagliuca stated that (1) Plaintiff made false 
+allegations concerning her sexual assault; (2) she made them in roughly the same time frame that 
+Plaintiff was abused by Jeffrey Epstein; (3) that the allegations were made against a number of 
+individuals in the area; and (4) that the allegations were found to be unfounded by local police. 
+RESPONSE: Ms. Maxwell has no knowledge of any statements made by Mr. Pagliuca 
+during the March 21, 2016 meet and confer and hence has no documents responsive to this 
+Request.  Further, this Request inaccurately characterizes the statements of Ms. Maxwell’s 
+counsel during the March 16, 2016 meet and confer.   
+Ms. Maxwell further objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege. 
+Ms. Maxwell also objects to this Request to the extent it calls for information relating to 
+Virginia Roberts Giuffre that exists within the public domain, the internet or in public court 
+records and which are equally available to both parties and can be obtained from some other 
+source that is more convenient, less burdensome, and less expensive.  Subject to and without 
+waiver of the foregoing, Defendant refers to the public documents and news reports regarding 
+Plaintiff’s allegations of sexual abuse and investigation of the same, which have been previously 
+produced, are available in the public domain, or referenced in court papers.  Defendant also 
+refers Plaintiff to documents within the possession, custody and control of Plaintiff and her 
+counsel, including without limitation Mr. Bradley Edwards, which were requested in 
+Defendant’s First Set of Discovery Requests, but were not produced despite certification of 
+Plaintiff and Plaintiff’s counsel that such Responses were truthful and complete. 
+Without waiver of any such objections, Ms. Maxwell has made available documents 
+related to some of Ms. Giuffre’s false allegations of sexual assaults in her Second Supplemental 
+Fed. R. Civ. P. 26(a)(1)(A) disclosures.   
+DOCUMENT REQUEST NO. 2  
+Produce all documents concerning how any such police report, or how any such 
+recounting, retelling, summary, or description of any such police report (as referenced in 
+Interrogatory No. 1), came into Your possession. This request includes, but is not limited to, all 
+documents concerning how, when, and by whom such reports (or descriptions of reports) were 
+obtained from a minor child’s sealed juvenile records and files. 
+RESPONSE: Ms. Maxwell objects to this Request in that there is no “Interrogatory No. 
+1” to which the Request corresponds.  She further objects to the Request in that it improperly 
+seeks to propound an Interrogatory in the form of a Request for Production of Documents and is 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 4 of 24
+
+ 
+5 
+a contention Interrogatory barred according to Plaintiff’s interpretation of the Local Rules.  The 
+Request embeds a number of assumptions that are not true and for which Plaintiff supplies no 
+basis for assertion of their veracity. 
+Ms. Maxwell likewise objects to this Request because it seeks documents or information 
+protected by the attorney/client privilege, the work-product doctrine, the common interest 
+privilege or any other applicable privilege.   
+Finally, Ms. Maxwell also objects to this Request to the extent it calls for information 
+relating to Virginia Roberts Giuffre that exists within the public domain, the internet or in public 
+court records and which are equally available to both parties and can be obtained from some 
+other source that is more convenient, less burdensome, and less expensive.  Defendant refers to 
+the public documents and news reports regarding Plaintiff’s allegations of sexual abuse and 
+investigation of the same, which have been previously produced, are available in the public 
+domain, or referenced in court papers. Defendant also refers Plaintiff to documents within the 
+possession, custody and control of Plaintiff and her counsel, including without limitation Mr. 
+Bradley Edwards, which were requested in Defendant’s First Set of Discovery Requests, but 
+were not produced despite certification of Plaintiff and Plaintiff’s counsel that such Responses 
+were truthful and complete. 
+Without waiver of any such objections, Ms. Maxwell has made available documents 
+related to some of Ms. Giuffre’s false allegations of sexual assaults in her Second Supplemental 
+Fed. R. Civ. P. 26(a)(1)(A) disclosures.  Ms. Maxwell is withholding documents responsive to 
+this request on the basis of the attorney-client and work product privileges. 
+DOCUMENT REQUEST NO. 3  
+Produce all documents concerning how information or knowledge of the local police’s 
+findings or opinions concerning Ms. Giuffre’s allegations of sexual assault as a minor child came 
+into Your possession, including but not limited to documents concerning any statements made by 
+law enforcement or any state attorney, written or oral, concerning such allegations. 
+RESPONSE: Ms. Maxwell objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege. 
+Ms. Maxwell also objects to this Request to the extent it calls for information relating to 
+Virginia Roberts Giuffre that exists within the public domain, the internet or in public court 
+records and which are equally available to both parties and can be obtained from some other 
+source that is more convenient, less burdensome, and less expensive.  Subject to and without 
+waiver of the foregoing, Defendant refers to the public documents and news reports regarding 
+Plaintiff’s allegations of sexual abuse and investigation of the same, which have been previously 
+produced, are available in the public domain, or referenced in court papers.  Defendant also 
+refers Plaintiff to documents within the possession, custody and control of Plaintiff and her 
+counsel, including without limitation Mr. Bradley Edwards, which were requested in 
+Defendant’s First Set of Discovery Requests, but were not produced despite certification of 
+Plaintiff and Plaintiff’s counsel that such Responses were truthful and complete. 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 5 of 24
+
+ 
+6 
+Without waiver of any such objections, Ms. Maxwell has made available documents 
+related to some of Ms. Giuffre’s false allegations of sexual assaults in her Second Supplemental 
+Fed. R. Civ. P. 26(a)(1)(A) disclosures.  Ms. Maxwell is withholding documents responsive to 
+this request on the basis of the attorney-client and work product privileges. 
+DOCUMENT REQUEST NO. 4  
+Produce all documents concerning any investigations, internal or otherwise, by any law 
+enforcement or governmental agency, regarding the illegal disclosure, illegal purchase, and/or 
+theft of sealed juvenile police records concerning Plaintiff.  
+RESPONSE: Ms. Maxwell objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege.  Ms. Maxwell also objects to this Request to 
+the extent it calls information relating to Virginia Roberts Giuffre that exists within the public 
+domain, the internet or in public court records and which are equally available to both parties and 
+can be obtained from some other source that is more convenient, less burdensome, and less 
+expensive.  Defendant objects to this request to the extent that it characterizes the gathering of 
+public information as “illegal.”   
+Subject to and without waiver of the foregoing, Defendant has been unable to locate any 
+documents responsive to this Request. 
+DOCUMENT REQUEST NO. 5  
+Produce all documents concerning any rape, sexual assault, sexual intercourse, or other 
+sexual encounter involving Plaintiff. This Request includes, but is not limited to, (1) any 
+documents concerning any sexual assault of Plaintiff while a minor; (2) any police reports, or 
+documents concerning any police reports, that were created concerning such claims of sexual 
+assault; and (3) documents concerning any communications received by You (or Your agents 
+or attorneys) by other individuals that reference any sexual assault of Plaintiff while a minor. 
+RESPONSE: Ms. Maxwell objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege. 
+Ms. Maxwell also objects to this Request to the extent it calls for information relating to 
+Virginia Roberts Giuffre that exists within the public domain, the internet or in public court 
+records and which are equally available to both parties and can be obtained from some other 
+source that is more convenient, less burdensome, and less expensive.  Subject to and without 
+waiver of the foregoing, Defendant refers to the public documents and news reports regarding 
+Plaintiff’s false allegations of sexual abuse and investigation of the same, which have been 
+previously produced, are available in the public domain, or referenced in court papers.  
+Defendant also refers Plaintiff to documents within the possession, custody and control of 
+Plaintiff and her counsel, including without limitation Mr. Bradley Edwards, which were 
+requested in Defendant’s First Set of Discovery Requests, but were not produced despite 
+certification of Plaintiff and Plaintiff’s counsel that such Responses were truthful and complete.  
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 6 of 24
+
+ 
+7 
+Defendant objects to the characterization of Plaintiff’s documented false claims of sexual contact 
+as “rape” or “sexual assault.”   
+Without waiver of any such objections, Ms. Maxwell has made available documents 
+related to some of Ms. Giuffre’s false allegations of sexual assault in her Second Supplemental 
+Fed. R. Civ. P. 26(a)(1)(A) disclosures.  
+DOCUMENT REQUEST NO. 6 
+Produce any Joint Defense Agreement entered into between You and Jeffrey Epstein 
+from 1999 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege.  Defendant is withholding production of any 
+such agreement on the basis of such privileges.   
+DOCUMENT REQUEST NO. 7  
+Produce any documents concerning any Joint Defense Agreement entered into between 
+You and Jeffrey Epstein from 1999 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege.  Defendant is withholding documents on the 
+basis of such privileges.   
+DOCUMENT REQUEST NO. 8  
+Produce any documents concerning any of Your, or Your attorneys or agent’s, 
+communications with Jeffrey Epstein’s attorneys or agents from 1999 to the present relating to 
+the issue of sexual abuse of females, or any documents concerning any of Your, Your attorneys 
+or agent’s, communications with Jeffrey Epstein’s attorneys or agents from 1999 to the present 
+relating to the recruitment of any female under the age of 18 for any purpose, including 
+socializing or performing any type of work or services.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is cumulative 
+and duplicative.  Ms. Maxwell has already produced documents related to her communications 
+with Jeffrey Epstein in response to Plaintiff’s First Requests for Production of Documents, all of 
+which document her denial that she did “recruit[] any female under the age of 18 for any 
+purpose.” 
+Ms. Maxwell also objects to this Request to the extent it seeks documents or information 
+protected by the attorney/client privilege, the work-product doctrine, the common interest 
+privilege or any other applicable privilege.  Subject to and without waiver of the foregoing, 
+Defendant has been unable to locate any additional documents responsive to this Request. 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 7 of 24
+
+ 
+8 
+DOCUMENT REQUEST NO. 9  
+Produce any Joint Defense Agreement entered into between You and Alan Dershowitz 
+from 1999 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege.  Subject to and without waiver of the 
+foregoing, Defendant has been unable to locate any documents responsive to this Request.  
+DOCUMENT REQUEST NO. 10  
+Produce any documents concerning any Joint Defense Agreement entered into between 
+You and Alan Dershowitz from 1999 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege.  Subject to and without waiver of the 
+foregoing, Defendant has been unable to locate any documents responsive to this Request.  
+DOCUMENT REQUEST NO. 11  
+Produce any documents concerning any of Your attorneys’ or agents’ communications 
+with Alan Dershowitz’s attorneys or agents from 1999 to the present  
+RESPONSE: Ms. Maxwell objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege.  Defendant is withholding communications 
+between Mr. Dershowitz’s counsel and Defendant’s counsel which contain work product and 
+concern joint defense or common interest matters. 
+DOCUMENT REQUEST NO. 12  
+Produce all documents concerning Virginia Giuffre (a/k/a Virginia Roberts), whether or 
+not they reference her by name. This request includes, but is not limited to, all communications, 
+diaries, journals, calendars, blog posts (whether published or not), notes (handwritten or not), 
+memoranda, mobile phone agreements, wire transfer receipts, or any other document that 
+concerns Plaintiff in any way, whether or not they reference her by name. 
+RESPONSE:  Ms. Maxwell objects to this Request as overly broad, unduly burdensome 
+and interposed for improper purposes.  Response to this Request would literally entail defense 
+counsel reviewing for privilege every single document in their possession related to this case.   
+Ms. Maxwell further objects to this Request on the grounds that it is cumulative and 
+duplicative.  Ms. Maxwell further objects to this request as exceeding the scope of this Court’s 
+March 17, 2016 Order.  Ms. Maxwell also objects to this Request to the extent it calls for 
+information relating to Virginia Roberts Giuffre that exists within the public domain, the internet 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 8 of 24
+
+ 
+9 
+or in public court records and which are equally available to both parties and can be obtained 
+from some other source that is more convenient, less burdensome, and less expensive.  Ms. 
+Maxwell further objects to this Request to the extent it seeks documents or information protected 
+by the attorney/client privilege, the work-product doctrine, the common interest privilege or any 
+other applicable privilege.  Subject to the foregoing objections, Ms. Maxwell and her counsel are 
+not going to review every document in their possession for any additional documents responsive 
+to this Request.   
+DOCUMENT REQUEST NO. 13  
+Produce all contracts, including but not limited to indemnification agreements and 
+employment agreements, between You and Jeffrey Epstein, or any entity associated with Jeffrey 
+Epstein, from 1999 to the present.  
+RESPONSE:  Ms. Maxwell objects to this Request on the grounds that it is cumulative 
+and duplicative and is overly broad.  Ms. Maxwell further objects to this Request to the extent it 
+seeks documents or information protected by the attorney/client privilege, the work-product 
+doctrine, the common interest privilege or any other applicable privilege.  Subject to and without 
+waiver of the foregoing, Defendant has been unable to locate any such documents. 
+DOCUMENT REQUEST NO. 14  
+Produce all documents concerning any contracts, including but not limited to 
+indemnification agreements and employment agreements, between You and Jeffrey Epstein, or 
+any entity associated with Jeffrey Epstein, from 1999 to the present.  
+RESPONSE:  Ms. Maxwell objects to this Request on the grounds that it is cumulative 
+and duplicative and is overly broad.  Ms. Maxwell further objects to this Request to the extent it 
+seeks documents or information protected by the attorney/client privilege, the work-product 
+doctrine, the common interest privilege or any other applicable privilege.  Subject to and without 
+waiver of the foregoing, Defendant has been unable to locate any such documents. 
+DOCUMENT REQUEST NO. 15  
+Produce all documents concerning the identity or identities of the individual(s) or entities 
+paying Your legal fees concerning the above-captioned action, and all documents concerning the 
+identity or identities of the individual(s) or entities paying Ross Gow, or any entities associated 
+with Ross Gow, for any work he performed on Your behalf.  
+RESPONSE:  Ms. Maxwell objects to this Request on the grounds that it seeks multiple 
+categories of documents within a single request for production.  Ms. Maxwell further objects to 
+this Request to the extent it seeks documents or information protected by the attorney/client 
+privilege, the work-product doctrine, the common interest privilege or any other applicable 
+privilege.  Ms. Maxwell is producing her engagement letter with her counsel in this action.  
+Defendant has been unable to locate any additional documents responsive to this Request. 
+ 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 9 of 24
+
+ 
+10 
+DOCUMENT REQUEST NO. 16  
+Produce all documents concerning any action or lawsuit brought against You from 1999 
+to the present, including, but not limited to, actions or lawsuits brought in foreign jurisdictions.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is over-broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence. Ms. 
+Maxwell further objects to this Request to the extent it seeks documents or information protected 
+by the attorney/client privilege, the work-product doctrine, or any other applicable privilege. 
+Subject to and without waiving the above objections, Ms. Maxwell has been unable to locate any 
+documents responsive to this Request.  
+DOCUMENT REQUEST NO. 17  
+Produce all documents concerning any statement made by You or on Your behalf to the 
+press or any other group or individual, including draft statements, concerning Ms. Giuffre, by 
+You, Ross Gow, or any other individual, from 2005 to the present, including the dates of any 
+publications, and if published online, the Uniform Resource Identifier (URL) address. 
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is cumulative 
+and duplicative.  Ms. Maxwell also objects to this Request to the extent it calls for information 
+that exists within the public domain, the internet or in public court records and which are 
+equally available to both parties and can be obtained from some other source that is more 
+convenient, less burdensome, and less expensive.  Ms. Maxwell further objects to this Request 
+to the extent it seeks documents or information protected by the attorney/client privilege, the 
+work-product doctrine, or any other applicable privilege.  Ms. Maxwell is not producing 
+documents that are available in the public domain.  Ms. Maxwell has been unable to locate any 
+additional documents responsive to this Request.  
+DOCUMENT REQUEST NO. 18  
+Produce all documents concerning which individuals or entities You or Your agents 
+distributed or sent any statements concerning Ms. Giuffre referenced in Request No. 18 made by 
+You or on Your behalf. 
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is cumulative 
+and duplicative.  Ms. Maxwell also objects to this Request to the extent it calls for information 
+that exists within the public domain, the internet or in public court records and which are 
+equally available to both parties and can be obtained from some other source that is more 
+convenient, less burdensome, and less expensive.  Ms. Maxwell further objects to this Request 
+to the extent it seeks documents or information protected by the attorney/client privilege, the 
+work-product doctrine, or any other applicable privilege.  Ms. Maxwell is not producing 
+documents that are available in the public domain.  Ms. Maxwell has been unable to locate any 
+additional documents responsive to this Request.  
+ 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 10 of 24
+
+ 
+11 
+DOCUMENT REQUEST NO. 19 Produce all documents concerning any alleged illegal 
+activity involving Plaintiff from the Relevant Period. This request includes, but is not limited to, 
+any documents concerning the Roadhouse Grill in Florida.  
+ 
+RESPONSE: Ms. Maxwell objects to this Request as vague and confusing. Ms. Maxwell 
+is unaware of all illegal activities in which Plaintiff may have been engaged in during the stated 
+time period, and documents concerning those activities are uniquely within Plaintiff’s 
+possession, custody and control. 
+Ms. Maxwell further objects to this Request to the extent it seeks documents or 
+information protected by the attorney/client privilege, the work-product doctrine, the common 
+interest privilege or any other applicable privilege. 
+Ms. Maxwell also objects to this Request to the extent it calls for information relating to 
+Virginia Roberts Giuffre that exists within the public domain, the internet or in public court 
+records and which are equally available to both parties and can be obtained from some other 
+source that is more convenient, less burdensome, and less expensive.  Subject to and without 
+waiver of the foregoing, Defendant refers to the public documents and news reports regarding 
+Plaintiff’s allegations of sexual abuse and investigation of the same, which have been previously 
+produced, are available in the public domain, or referenced in court papers.  Defendant also 
+refers Plaintiff to documents within the possession, custody and control of Plaintiff and her 
+counsel, including without limitation Mr. Bradley Edwards, which were requested in 
+Defendant’s First Set of Discovery Requests, but were not produced despite certification of 
+Plaintiff and Plaintiff’s counsel that such Responses were truthful and complete. 
+Without waiver of any such objections, Ms. Maxwell has made available documents 
+related to some of Ms. Giuffre’s contacts with law enforcement in her Second Supplemental Fed. 
+R. Civ. P. 26(a)(1)(A) disclosures.   
+DOCUMENT REQUEST NO. 20  
+Produce all documents concerning any apartment or other dwelling occupied by Plaintiff 
+from 1999 to the present, including but not limited to, all documents concerning the acquisition 
+of, and payment for, such dwellings. This Request includes, but is not limited to, any dwelling 
+paid for -in whole or in part by Defendant or Jeffrey Epstein. 
+RESPONSE: Ms. Maxwell objects to this Request to the extent it calls for information 
+that exists within the public domain, the internet or in public court records and which are equally 
+available to both parties and can be obtained from some other source that is more convenient, 
+less burdensome, and less expensive. Ms. Maxwell is not producing documents that are available 
+in the public domain.  Ms. Maxwell is not re-producing documents already produced by her and 
+produced by Plaintiff in this action, for example, in response to Defendant’s First Set of 
+Discovery Requests to Plaintiff which requested inter alia documents related to Plaintiff’s 
+residences since 1999. 
+Without waiver of any such objections, Ms. Maxwell has made available documents 
+related to some of Ms. Giuffre’s dwellings in her Second Supplemental Fed. R. Civ. P. 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 11 of 24
+
+ 
+12 
+26(a)(1)(A) disclosures.  Ms. Maxwell has been unable to locate any additional documents 
+responsive to this Request. 
+ 
+DOCUMENT REQUESTS “CONCERNING PUNITIVE DAMAGES” 
+DOCUMENT REQUEST NO. 21  
+Produce all copies of the complaints in any lawsuits that You have filed in any court in 
+which You seek damages or any other financial recovery from 2014 to the present. 
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 22  
+Produce all Financial Statements prepared for or submitted to any Lender or Investor for 
+the past three years by You personally or on Your behalf or on behalf of any entity in which You 
+hold or held a controlling interest from January 2015 to the Present. 
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 12 of 24
+
+ 
+13 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 23  
+Produce all W-2s, K-1s, and any other documents reflecting any income (including 
+salary, bonuses, dividends, profit distributions, royalties, advances, annuities, and any other form 
+of income), including all gross and net revenue received by You directly or indirectly from 
+January 2015 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 24  
+Produce all tax returns filed with any taxing entity (either foreign or domestic) from 
+January 2015 to the present by You or on Your behalf, or on behalf of any entity in which You 
+hold or held a controlling interest at the time of filing.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 13 of 24
+
+ 
+14 
+DOCUMENT REQUEST NO. 25  
+Produce all bank statements or other financial statements which were prepared by You, 
+on Your behalf or by or on behalf of any entity in which You held an ownership interest of 10% 
+or more at any time from January 2015 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 26  
+Produce all deeds and titles to all real property owned by You or held on Your behalf 
+either directly or indirectly at any time from January 2015 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 27  
+Produce all passbooks (or other documents showing account balances) with respect to all 
+savings accounts, checking accounts, and savings and loan association share accounts owned by 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 14 of 24
+
+ 
+15 
+You or on which You hold a right or have held a right to withdraw funds at any time from 
+January 2015 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 28  
+Produce all passbooks (or other documents showing account balances) with respect to all 
+savings accounts, checking accounts and savings loan association share accounts, owned by You 
+in whole or in party jointly as co-owner, partner, or joint venture, in any business enterprise, or 
+owned by an entity in which You have or have had a controlling interest at any time from 
+January 2015 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 29  
+Produce all bank ledger sheets (from the internet or otherwise) concerning all bank 
+accounts in which You have a right to withdraw funds, reflecting the highest balance in said 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 15 of 24
+
+ 
+16 
+accounts from January 2015 to the present. .  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 30  
+Produce all bank ledger sheets (from the internet or otherwise) concerning all bank 
+accounts owned by You solely, or jointly as co-owner, partner, or joint venture, in any business 
+enterprise, or any entity in which You have or have had a controlling interest from January 2015 
+to the present, reflecting het highest balance in said accounts for each month from January 2015 
+to the present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 31 
+Produce all checkbooks for all accounts on which You were authorized to withdraw 
+funds from January 2015 to the present.  
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 16 of 24
+
+ 
+17 
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 32  
+Produce the 2015 and 2016 balance sheets and other financial statements with respect to 
+any and all business enterprises of whatever nature (including not-for-profit enterprises), either 
+foreign or domestic, in which You possess any ownership interest of 10% or more, whether a 
+partner, joint venture, stockholder, or otherwise.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 33  
+Produce all corporate securities (stocks or bonds), foreign or domestic, directly or 
+indirectly held by You, or held on Your behalf or for Your benefit by another individual or 
+entity, including trusts from January 2015 to the Present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 17 of 24
+
+ 
+18 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 34  
+Produce all accounts receivable ledgers or other records which set forth the names and 
+addresses of all persons or business enterprises that are indebted to You and the amounts and 
+terms of such indebtedness from August 2016 to the Present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 35  
+Produce all copies of the partnership or corporation Income Tax Returns for any 
+partnership or corporation, either foreign or domestic, in which You do possess or have 
+possessed any ownership interest of 4% or more whether as partner, joint venture, stockholder or 
+otherwise, from 2014 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 18 of 24
+
+ 
+19 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 36  
+Produce all title certificates, registration certificates, bills of sale, and other evidences of 
+ownership possessed by You or held for Your beneficial interest with respect to any of the 
+following described property owned by You or held directly or indirectly for Your beneficial 
+interest from January 2015 to the present:  
+a. Motor vehicles of any type, including trucks, other automobiles, and two or three-wheeled 
+vehicles (motorcycles, ATV, etc.).  
+b. Aircraft of any type, including jets, propeller planes, and helicopters  
+c. Boats, launches, cruisers, sailboats, or other vessels of any type  
+d. Real estate and real property  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 37  
+From January 2012 to the present, produce all documents concerning any source of 
+funding for the TarraMar Project or any other not-for-profit entities with which You are 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 19 of 24
+
+ 
+20 
+associated, including but not limited to, funding received from the Clinton Global Initiative, the 
+Clinton Foundation (a/k/a William J. Clinton Foundation, a/k/a/ the Bill, Hilary & Chelsea 
+Clinton Foundation), and the Clinton Foundation Climate Change Initiative.   
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 38  
+Produce all memoranda and/or bills evidencing the amount and terms of all of Your 
+current debts and obligations that exist presently.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 39  
+Produce all records indicating any and all income (whether taxable or not) received 
+by You from all sources from January 2015 to the present.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 20 of 24
+
+ 
+21 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 40  
+Produce all copies of any and all brokerage account statements or securities owned by 
+You individually, jointly with any person or entity or as trustee, guardian or custodian, from 
+January 2015 to the present, including in such records date of purchase and amounts paid for 
+such securities, and certificates of any such securities.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 41  
+Produce all records pertaining to the acquisition, transfer and sale of all securities by You 
+or on Your behalf from January 2015 to the present, such records to include any and all 
+information relative to gains or losses realized from transactions involving such securities.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 21 of 24
+
+ 
+22 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+DOCUMENT REQUEST NO. 42  
+Produce all policies of insurance having any cash value that exist or existed from January 
+2015 to the present, which policies You or any entity controlled by You is the owner or 
+beneficiary. 
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+UN-NUMBERED REQUEST 
+Produce all copies of any and all trust agreements that exist or existed from January 2015 
+to the present in which You are the settlor or beneficiary together with such documents necessary 
+and sufficient to identify the nature and current value of the trust.  
+RESPONSE: Ms. Maxwell objects to this Request on the grounds that it is overly broad 
+and unduly burdensome and calls for the production of documents that are irrelevant to this 
+action and not reasonably calculated to lead to the discovery of admissible evidence.  Ms. 
+Maxwell objects to this Request on the grounds that it is propounded for the improper purpose of 
+annoying or harassing Ms. Maxwell.  Ms. Maxwell’s personal financial information is not at 
+issue in this matter and information relating thereto is irrelevant.   
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 22 of 24
+
+ 
+23 
+Ms. Maxwell intends to move for a Protective Order regarding her personal financial 
+information and is refusing to respond and is withholding documents under the category of 
+“Document Requests Concerning Punitive Damages” until the motion is resolved. 
+Based on the May 16, 2016 conferral, counsel for Plaintiff has agreed to hold this 
+Request in abeyance pending either a finding of liability or resolution of dispositive motions.  
+Plaintiff’s counsel will not file a Motion to Compel a Response to this Request, nor will 
+Defendant move for a Protective Order with regard to this Request, without further conferral.   
+Dated:  May 16, 2016 
+Respectfully submitted, 
+s/Laura A.Menninger  
+Laura A. Menninger (LM-1374) 
+Jeffrey S. Pagliuca (pro hac vice) 
+HADDON, MORGAN AND FOREMAN, P.C. 
+150 East 10th Avenue 
+Denver, CO 80203 
+Phone: 303.831.7364 
+Fax: 
+303.832.2628 
+lmenninger@hmflaw.com 
+Attorneys for Ghislaine Maxwell 
+ 
+ 
+ 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 23 of 24
+
+ 
+24 
+CERTIFICATE OF SERVICE 
+I certify that on May 16, 2016, I served the attached document DEFENDANT 
+GHISLAINE MAXWELL’S RESPONSES AND OBJECTIONS TO PLAINTIFF’S SECOND 
+REQUEST FOR PRODUCTION OF DOCUMENTS via email to the following counsel of 
+record: 
+ 
+Sigrid S. McCawley 
+Meridith Schultz 
+BOIES, SCHILLER & FLEXNER, LLP 
+401 East Las Olas Boulevard, Ste. 1200 
+Ft. Lauderdale, FL 33301 
+smccawley@bsfllp.com 
+mschultz@bsfllp.com 
+Paul G. Cassell 
+383 S. University Street 
+Salt Lake City, UT 84112 
+cassellp@law.utah.edu 
+ 
+Bradley J. Edwards 
+FARMER, JAFFE, WEISSING, EDWARDS, 
+FISTOS & LEHRMAN, P.L. 
+425 North Andrews Ave., Ste. 2 
+Ft. Lauderdale, FL 33301 
+brad@pathtojustice.com 
+ 
+ 
+ 
+s/ Laura A. Menninger 
+ 
+Laura A. Menninger 
+ 
+ 
+ 
+Case 1:17-mc-00025-RWS     Document 1-5     Filed 06/13/16     Page 24 of 24

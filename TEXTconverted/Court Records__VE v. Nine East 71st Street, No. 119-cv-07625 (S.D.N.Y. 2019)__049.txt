@@ -1,0 +1,476 @@
+METADATA_SOURCE: Court Records\VE v. Nine East 71st Street, No. 119-cv-07625 (S.D.N.Y. 2019)
+METADATA_FILENAME: 049.pdf
+----------------------------------------
+-i- 
+40918662v1
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - X
+VE, 
+Plaintiff, 
+v. 
+DARREN K. INDYKE AND RICHARD D. 
+KAHN, AS JOINT PERSONAL 
+REPRESENTATIVES OF THE ESTATE OF 
+JEFFREY E. EPSTEIN, NINE EAST 71st 
+STREET, CORPORATION, FINANCIAL 
+TRUST COMPANY, INC., NES, LLC, 
+Defendants.
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+: 
+Index No. 1:19-cv-07625-AJN-DCF 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - X
+DEFENDANTS’ REPLY MEMORANDUM OF LAW IN SUPPORT OF   
+THEIR MOTION TO DISMISS PLAINTIFF’S FIRST AMENDED COMPLAINT 
+TROUTMAN SANDERS LLP 
+875 Third Avenue 
+New York, New York 10022 
+Tel: 212-704-6000 
+Fax: 212-704-6288 
+Attorneys for Defendants
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 1 of 16
+
+-i- 
+40918662v1
+TABLE OF CONTENTS 
+Page(s) 
+PRELIMINARY STATEMENT ................................................................................................... 1 
+I          ARGUMENT...................................................................................................................... 2 
+a. 
+Plaintiff fails to point to alleged facts supporting her recitations of 
+elements of causes of action against the Corporate Defendants—there are 
+none. ....................................................................................................................... 2 
+b. 
+CPLR § 215(8)(a) does not revive Plaintiff’s battery claims that expired 
+over a decade ago because the referenced criminal indictment did not arise 
+from Decedent’s alleged battery of Plaintiff. ......................................................... 7 
+c. 
+New York Law applies to Plaintiff’s claim for punitive damages because 
+she alleges the subject torts took place in New York. ......................................... 10 
+CONCLUSION ............................................................................................................................ 10 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 2 of 16
+
+-ii- 
+40918662v1
+TABLE OF AUTHORITIES 
+ 
+Page(s) 
+Cases 
+Arista Records, LLC v. Doe 3, 
+604 F.3d 110 (2d Cir. 2010).......................................................................................................4 
+Ashcroft v. Iqbal, 
+556 U.S. 662 (2009) ...............................................................................................................1, 7 
+Backiel v. Citibank, N.A., 
+299 A.D.2d 504 (1st Dept. 2002) ...............................................................................................5 
+Bell Atl. Corp. v. Twombly, 
+550 U.S. 544 - 556 (2007) .............................................................................................1, 4, 6, 7 
+Blatt v. L’Pogee, Inc., 
+112 A.D.3d 869 (1st Dept. 2013) ...............................................................................................5 
+Brothers v. N.Y. State Elec. & Gas Corp., 
+11 N.Y.3d 251 (2008) ................................................................................................................5 
+Bumpus v. N.Y.C. Transit Auth., 
+47 A.D.3d 653 (2nd Dept. 2008) ...............................................................................................6 
+Cal Distrib. Inc. Cadbury Schweppes Ams. Bevs., Inc., No. 06, Civ. 0496 
+(RMB)(JCF) 2007 U.S. Dist. LEXIS 854, at *20-21 (S.D.N.Y. Jan. 5, 2007) ..........................2 
+Christodoulou v. Terdeman, 
+262 AD2d 595 (2d Dept. 1999) .............................................................................................8, 9 
+Citizens United v. Schneiderman, 
+882 F.3d 374 (2d Cir. 2018).......................................................................................................4 
+Deutsch v. Novartis Pharms. Corp., 
+723 F. Supp. 2d 521 (E.D.N.Y. 2010) .....................................................................................10 
+Gallina v. Thatcher, 
+No. 2017-52980, 2018 N.Y. Misc. LEXIS 8435 (Sup. Ct. Dutchess Cnty. Oct. 
+23, 2018) ..........................................................................................................................8, 9, 10 
+Gilford v. NYS Office of Mental Health, 
+No. 17-CV-8033 (JPO), 2019 U.S. Dist. LEXIS 38450 (S.D.N.Y. Mar. 11, 
+2019) ..........................................................................................................................................3 
+Guidi v. Inter-Continental Hotels Corp., 
+No. 95-CV-9006, 2003 U.S. Dist. LEXIS 6390 (S.D.N.Y. Apr. 16, 2003).............................10 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 3 of 16
+
+TABLE OF AUTHORITIES 
+(continued) 
+Page 
+-iii- 
+40918662v1
+Horowitz v. 763 E. Assocs., 
+LLC, 125 A.D.3d 808 (1st Dept. 2015) .....................................................................................5 
+Hudak v. Berkley Grp., Inc., 
+No. 3:13-cv-00089-WWE, 2014 U.S. Dist. LEXIS 8168 (D. Conn. Jan. 23, 
+2014) ..........................................................................................................................................7 
+I.B. Trading, Inc. v. Tripoint Glob. Equities, 
+LLC, No. 17-CV-1962 (JGK), 2017 WL 5485318 (S.D.N.Y. Nov. 15, 2017) .........................7 
+Judith M. v. Sisters of Charity Hosp., 
+93 N.Y.2d 932, 693 N.Y.S.2d 67, 715 N.E.2d 95 (1999) ..........................................................5 
+Kirkman by Kirkman v. Astoria Gen. Hosp., 
+204 A.D.2d 401 (2d. Dept. 1994) ..............................................................................................6 
+Krystal G. v. Roman Catholic Diocese of Brooklyn, 
+933 N.Y.S.2d 515 (Sup. Ct. Kings Cnty. 2011).........................................................................6 
+Ludwig’s Drug Store, Inc. v. Forest City Enters., 
+No. 13-CV-6045, 2016 U.S. Dist. LEXIS 28038, at *14 (E.D.N.Y. Mar. 4, 
+2016) ..........................................................................................................................................4 
+McElligott v. City of N.Y., 
+15-cv-7107 (LGS), 2017 U.S. Dist. LEXIS 201829 (S.D.N.Y. Dec. 7, 2017) ..........................8 
+Mills v. Polar Molecular Corp., 
+12 F.3d 1170 (2d Cir. 1993).......................................................................................................7 
+N. X. v. Cabrini Med. Ctr., 
+97 N.Y.2d 247 (2002) ................................................................................................................5 
+Nallan v. Helmsley-Spear, Inc., 
+50 N.Y.2d 507 (1980) ................................................................................................................7 
+Perez v. Int’l Bhd. of Teamsters, AFL-CIO, 
+No. 00 Civ. 1983 (LAP(JCF) 2002 U.S. Dist. LEXIS 16985 (S.D.N.Y. Sept. 
+11, 2002) ....................................................................................................................................2 
+Precision Assocs. v. Panalpina World Transp. (Holding) Ltd., 
+No. CV-08-42 (JG) (VVP), 2013 U.S. Dist. LEXIS 177023 (E.D.N.Y. Sep. 
+20, 2013) ....................................................................................................................................7 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 4 of 16
+
+TABLE OF AUTHORITIES 
+(continued) 
+Page 
+-iv- 
+40918662v1
+Provenzano v. Roslyn Gardens Tenants Corp., 
+190 A.D.2d 718 (2nd Dept. 1993)  ............................................................................................7 
+Ronessa H. v. City of N.Y., 
+101 A.D.3d 947 (2nd Dept. 2012) .............................................................................................6 
+Rosenberg v. Equitable Life Assurance Soc’y, 
+79 N.Y.2d 663 (1992) ................................................................................................................5 
+Starr Indem. & Liab. Co. v. Am. Claims Mgmt., 
+14-cv-0463-JMF, 2015 U.S. Dist. LEXIS 60272 (S.D.N.Y. May 7, 2015) ............................10 
+Tardibuono-Quigley v. HSBC Mortg. Corp. (USA), 
+No. 15-CV-6940 (KMK), 2017 U.S. Dist. LEXIS 47982 (S.D.N.Y. Mar. 30, 
+2017) ..........................................................................................................................................6 
+Wright v. Ernst & Young LLP, 
+152 F.3d 169 (2d Cir. 1998).......................................................................................................1 
+Other Authorities 
+CPLR § 215(8)(a) ..........................................................................................................2, 7, 8, 9, 10 
+Fed. R. Civ. P.  8 ..............................................................................................................................7 
+Fed. R. Civ. P. 12(b)(6)....................................................................................................................1 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 5 of 16
+
+40918662v1
+Defendants Darren K. Indyke and Richard D. Kahn, Co-Executors of the Estate of Jeffrey 
+E. Epstein (the “Estate”), Nine East 71st Street, Corporation (“Nine East”), Financial Trust 
+Company, Inc. (“FTC”), and NES, LLC (“NES”, and together with Nine East and FTC, the 
+“Corporate Defendants”; and the Corporate Defendants together with the Estate, the 
+“Defendants”), through their undersigned counsel,  respectfully submit this Reply Memorandum 
+of Law in Support of their Motion to Dismiss Plaintiff VE’s  (“Plaintiff”) First Amended 
+Complaint1 (the “Amended Complaint”) (ECF Doc. # 3) 2  with prejudice pursuant to Fed. R. 
+Civ. P. 12(b)(6). 
+PRELIMINARY STATEMENT 
+Plaintiff’s arguments in her Memorandum of Law in Opposition to Defendants’ Motion 
+to Dismiss (“Opposition Brief”) are entirely circular and thus unconvincing.  Specifically, in her 
+Opposition Brief, Plaintiff responds to Defendants’ arguments in support of their Motion to 
+Dismiss the negligence claims against the Corporate Defendants by: (i) referring back to 
+Plaintiff’s allegations comprised of labels and conclusions, formulaic recitations of the 
+negligence causes of action, allegations made “upon information and belief,” and impermissible 
+group pleading; and (ii) then stating, contrary to Twombly and Iqbal3 and Second Circuit 
+decisions applying the former, that such allegations are enough to state claims.   Plaintiff has 
+therefore failed to address the specific pleading deficiencies raised by Defendants.  
+Plaintiff also inappropriately attempts in her Opposition Brief to restate – i.e., effectively 
+amend – her allegations in her Amended Complaint.  Such assertions are not entitled to any 
+weight on this Motion.  See Wright v. Ernst & Young LLP, 152 F.3d 169, 178 (2d Cir. 1998) (“a 
+1 Plaintiff amended her Complaint before completing service on Defendants.  
+2 A copy of Plaintiff’s Amended Complaint is attached as Exhibit A to the Declaration of Bennet J. Moskowitz 
+(ECF Doc. # 37) submitted with Defendants’ moving brief (ECF Doc. # 38).   
+3 See Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009); Bell Atl. Corp. v. Twombly, 550 U.S. 544 - 556 (2007).   
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 6 of 16
+
+-2- 
+40918662v1
+party is not entitled to amend its complaint through statements made in motion papers”). See also
+Cal Distrib. Inc. Cadbury Schweppes Ams. Bevs., Inc., No. 06 Civ. 0496 (RMB) (JCF), 2007 
+U.S. Dist. LEXIS 854, at *20-21 (S.D.N.Y. Jan. 5, 2007); Perez v. Int’l Bhd. of Teamsters, AFL-
+CIO, No. 00 Civ. 1983 (LAP) (JCF), 2002 U.S. Dist. LEXIS 16985, at *11 (S.D.N.Y. Sept. 11, 
+2002). 
+Separately, Plaintiff’s reliance on CPLR § 215(8)(a), which is a narrow New York rule 
+applicable only where – unlike here – civil and criminal actions arise from the same discrete 
+events, is completely misplaced.  As explained in further detail below, the criminal indictment 
+Plaintiff relies on clearly does not arise from the alleged 2001 sexual battery of Plaintiff.  
+Plaintiff also fails to deny that her claim for punitive damages is barred under New York 
+law.  Plaintiff’s argument that USVI law should apply to this issue is wrong.  New York law 
+holds that the law of the place of the alleged torts – here, New York – applies to the issue of the 
+availability of punitive damages.   
+I.
+ARGUMENT 
+a.
+Plaintiff fails to point to alleged facts supporting her recitations of elements 
+of causes of action against the Corporate Defendants—there are none.  
+As fully explained in Defendants’ Memorandum of Law in Support of their Motion to 
+Dismiss (“Moving Brief”) (ECF #38), with numerous citations to Plaintiff’s Complaint, Plaintiff, 
+among other things: (i) does not allege any facts establishing Nine East, FTC or NES owed her a 
+duty, how those entities breached any such duty or how any such breach caused Plaintiff’s 
+alleged damages; (ii) alleges her “friend,” not someone acting on behalf of any of the Corporate 
+Defendants, caused Plaintiff to visit the real property owned by Nine East where the alleged torts 
+occurred (Compl. ¶¶ 47, 51-61); (iii) alleges the “opulence of the mansion [owned by Nine 
+East]… facilitated [Plaintiff’s] further cooperation with Decedent” (Id. ¶ 63), not that anyone 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 7 of 16
+
+-3- 
+40918662v1
+acting on the Corporate Defendants’ behalf caused such facilitation; (iv) alleges the sexual 
+assaults occurred “during the course and scope of [Decedent’s] employment for [FTC]” (Compl. 
+¶ 111) without asserting factual allegations as to how or why that was the case; (v) alleges the 
+torts took place on Nine East’s property, not on any property owned by FTC or NES; however, 
+Plaintiff does not allege any facts showing FTC knew or should have known Decedent’s 
+propensity for the conduct that allegedly caused Plaintiff’s injuries; and (vi) engages in 
+impermissible group pleading. 
+In response, Plaintiff again recites the elements of her negligence causes of action, often 
+without even citing to her own allegations (see, e.g., Opp. Br. p. 7 (“As the property owner, 
+Defendant Nine East had a non-delegable duty to maintain the premises in a reasonably safe 
+condition.”; p. 9 “As [Decedent’s] employer, [FTC] had a duty to exercise reasonable care to 
+refrain from retaining in its employ a person with known dangerous propensities in a position 
+that would present a foreseeable risk of harm to others.”).  Plaintiff misses the point.  Plaintiff 
+failed to allege facts supporting these and other conclusory assertions. Moreover, Plaintiff’s 
+claim that she “has not engaged in group pleading” (Opp. Br. p. 5) is clearly incorrect. (See, e.g., 
+Compl. ¶¶ 23, 37-44, 62-63.)   
+Plaintiff now argues, but fails to allege in her Complaint, that she is permitted to rely on 
+her numerous allegations made “upon information and belief” because facts, which Plaintiff does 
+not identify, are peculiarly within the Corporate Defendants’ possession (Opp. Br. [ECF #45] p. 
+10).   Plaintiff’s new theory is unconvincing for at least two reasons. 
+First, Plaintiff ignores the principle, cited in the Moving Brief, that “[n]o matter what the 
+pleading standard is, her complaint must at least contain enough factual allegations that are not 
+made upon information and belief to ‘raise a right to relief above the speculative level.’” Gilford 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 8 of 16
+
+-4- 
+40918662v1
+v. NYS Office of Mental Health, No. 17-CV-8033 (JPO), 2019 U.S. Dist. LEXIS 38450, at *14 
+(S.D.N.Y. Mar. 11, 2019)  (citing Twombly, 550 U.S. at 555).  Plaintiff’s Complaint does not 
+contain enough factual allegations not made “upon information and belief” to state claims 
+against the Corporate Defendants.  
+Second, Plaintiff’s reliance on Arista Records, LLC v. Doe 3, 604 F.3d 110, 120 (2d Cir. 
+2010), to support her new argument is misplaced. The Second Circuit recently reaffirmed that the 
+principle set forth in Arista does not grant plaintiffs license to “merely plop ‘upon information 
+and belief’ in front of a conclusory allegation and thereby render it non-conclusory.” Citizens 
+United v. Schneiderman, 882 F.3d 374, 385  (2d Cir. 2018).  However, that is exactly what 
+Plaintiff did in this action—she plopped “upon information and belief” in front of numerous 
+conclusory allegations against the Corporate Defendants.  
+Moreover, the principle set forth in Arista does not apply where, as here, a plaintiff fails 
+to explain why facts not alleged in her complaint are “peculiarly within [Defendants’] 
+possession.”  See Rothbein v. City of N.Y., No. 18-CV-5106 (VEC), 2019 U.S. Dist. LEXIS 
+32358, at *29-30 (S.D.N.Y. Feb. 28, 2019) (court had “no basis from which to infer Plaintiff’s 
+belief … is anything more ‘than pure speculation’” where plaintiff failed to explain why 
+information not alleged in her complaint was peculiarly within defendants’ possession and 
+control (quoting Ludwig's Drug Store, Inc. v. Forest City Enters., No. 13-CV-6045, 2016 U.S. 
+Dist. LEXIS 28038, at *14 (E.D.N.Y. Mar. 4, 2016))).    
+Plaintiff’s lists of allegations against FTC and NES (Opp. Br. pp. 9-10 and 11-12, 
+respectively) merely repeat her allegations stated within Counts II and III of her Complaint.  
+However, those allegations merely are a recitation of the elements of the asserted negligence 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 9 of 16
+
+-5- 
+40918662v1
+causes of action.  Plaintiff ignores that she failed to allege in her Complaint any facts supporting 
+these recitations.   
+To the extent Plaintiff now suggests FTC is somehow vicariously liable for Decedent’s 
+alleged sexual assaults of Plaintiff (Opp. Br. p. 7), Plaintiff is wrong as a matter of law.  An 
+employer is not liable for an employee’s acts where the employee departs from her duties for 
+solely personal motives unrelated to the furtherance of the employer’s business. See, e.g., N. X. v. 
+Cabrini Med. Ctr., 97 N.Y.2d 247, 251 (2002) (“A sexual assault perpetrated by a hospital 
+employee is not in furtherance of hospital business and is a clear departure from the scope of 
+employment, having been committed for wholly personal motives” (citing Judith M. v. Sisters of 
+Charity Hosp., 93 N.Y.2d 932, 693 N.Y.S.2d 67, 715 N.E.2d 95 (1999))).4
+The issues in the cases cited by Plaintiff to support this new vicarious liability theory are 
+factually and procedurally distinguishable from this matter and thus have no bearing here. See 
+Horowitz v. 763 E. Assocs., LLC, 125 A.D.3d 808, 809 (1st Dept. 2015) (appeal from summary 
+judgment order in action brought by plaintiff, who allegedly fell through glass panel at building, 
+against building’s owner and manager); Rosenberg v. Equitable Life Assurance Soc’y, 79 N.Y.2d 
+663, 666 (1992) (appeal from Appellate Division order on judgment upon verdict in wrongful 
+death action arising from cardiac failure resulting from EKG ordered by defendant). 
+The state court cases Plaintiff relies on to support her negligence claim against FTC are 
+also factually and procedurally inapplicable, otherwise not germane to whether Plaintiff stated a 
+claim under the federal pleading standards (she did not) or do not support of Plaintiff’s positions 
+4 Plaintiff cites several slip and fall/defective condition cases in which employees and independent contractors sued 
+their employers. See Backiel v. Citibank, N.A., 299 A.D.2d 504, 504 (1st Dept. 2002) (office cleaner slipped and fell 
+after exiting  building owned by defendant); Brothers v. N.Y. State Elec. & Gas Corp., 11 N.Y.3d 251, 255 (2008) 
+(construction worker injured on jobsite); Blatt v. L’Pogee, Inc., 112 A.D.3d 869, 869 (1st Dept. 2013) (salesperson 
+allegedly tripped and fell on hazardous condition created by another salesperson). Such fact patters have nothing to 
+do with the issues in this action in which Plaintiff alleges various corporate entities are somehow liable to her 
+because Decedent allegedly sexually assaulted Plaintiff at Decedent’s residence.  
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 10 of 16
+
+-6- 
+40918662v1
+on this Motion. See Ronessa H. v. City of N.Y., 101 A.D.3d 947 (2nd Dept. 2012) (Appellate 
+Division reversed the Supreme Court’s denial of motion after trial and dismissed plaintiff’s 
+negligent supervision claim); Bumpus v. N.Y.C. Transit Auth., 47 A.D.3d 653 (2nd Dept. 2008) 
+(short form decision that provides no details concerning which of plaintiff’s allegations the court 
+deemed sufficient to state a claim); Kirkman by Kirkman v. Astoria Gen. Hosp., 204 A.D.2d 401, 
+402 (2d. Dept. 1994) (reaffirming the well-established legal principle, advocated by Defendants 
+here, that “there is no vicarious liability on the part of the employer for torts committed by the 
+employee solely for personal motives unrelated to the furtherance of the employers' business.” 
+(citations omitted)); Krystal G. v. Roman Catholic Diocese of Brooklyn, 933 N.Y.S.2d 515, 523 
+(Sup. Ct. Kings Cnty. 2011) (court found plaintiff stated negligent supervision claim because, 
+unlike Plaintiff here, the former specifically alleged what a defendant pastor did that showed he 
+knew or should have known of assistant pastor’s propensity to commit sexual abuse). 
+Plaintiff’s assertions that Plaintiff “need not explain the details of each defendant’s role 
+in the planning, funding and executing of defendants’ alleged joint [] scheme” (Opp. Br. 5),  and 
+that “Defendant [sic] argues that the law does not impose a duty to control the conduct of third 
+persons to prevent them from harming others” (Opp. Br. 7), are straw man arguments.  
+Defendants are not making these arguments. Nor are these the relevant issues on this Motion.   
+Rather, the issue here is whether Plaintiff has alleged “enough facts” to state plausible 
+negligence claims against any of the Corporate Defendants.  Twombly, 550 U.S. at 570.  Plaintiff 
+has failed to do so.   
+The cases Plaintiff cites to support these straw man arguments are factually and/or 
+procedurally distinguishable and thus present irrelevant issues.5  Other case law on which 
+5 See Tardibuono-Quigley v. HSBC Mortg. Corp. (USA), No. 15-CV-6940 (KMK), 2017 U.S. Dist. LEXIS 47982, at 
+*23 (S.D.N.Y. Mar. 30, 2017) (finding amended complaint provided enough information to put a party on notice of 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 11 of 16
+
+-7- 
+40918662v1
+Plaintiff relies to salvage her negligence claims against the Corporate Defendants stands for 
+uncontroversial principles not in dispute (e.g., what the pleadings standards are, which is not in 
+dispute, versus whether Plaintiff satisfied the standards, which is disputed).6
+b.
+CPLR § 215(8)(a) does not revive Plaintiff’s battery claims that expired over 
+a decade ago because the referenced criminal indictment did not arise from 
+Decedent’s alleged battery of Plaintiff. 
+Plaintiff argues in her Opposition Brief that, if the New York Child Victims Act is 
+declared unconstitutional, Plaintiff should nevertheless be permitted to pursue her first of two 
+duplicative battery claims because it would be timely under CPLR § 215(8)(a).  However, CPLR 
+§ 215(8)(a) is not applicable to this lawsuit.  
+CPLR § 215(8)(a) provides: 
+Whenever it is shown that a criminal action against the same defendant 
+has been commenced with respect to the event or occurrence from which a 
+claim governed by this section arises, the plaintiff shall have at least one 
+year from the termination of the criminal action as defined in section 1.20 
+of the criminal procedure law in which to commence the civil action, 
+notwithstanding that the time in which to commence such action has 
+already expired or has less than a year remaining. (emphasis added). 
+Here, the subject criminal indictment of Decedent (the “Indictment”), which Plaintiff 
+attaches to her Amended Complaint, was not commenced with respect to the battery of Plaintiff 
+its alleged role in servicing plaintiff’s mortgage); Precision Assocs. v. Panalpina World Transp., (Holding) Ltd., No. 
+CV-08-42 (JG) (VVP), 2013 U.S. Dist. LEXIS 177023 (E.D.N.Y. Sep. 20, 2013), at *61 adopted by 2014 U.S. Dist. 
+LEXIS 10345 (E.D.N.Y. Jan. 28, 2014) (finding complaint included “significant detail” establishing antitrust 
+misconduct involved knowledge and participation of corporate families); Hudak v. Berkley Grp., Inc., No. 3:13-cv-
+00089-WWE, 2014 U.S. Dist. LEXIS 8168, at *10-11 (D. Conn. Jan. 23, 2014) (finding FRCP 8 did not prohibit 
+plaintiff from collectively referring to multiple defendants in TCPA action alleging defendants engaged in 
+robocalling); Nallan v. Helmsley-Spear, Inc., 50 N.Y.2d 507, 518 (1980) (plaintiff shot by unknown assailant at 
+publicly accessible lobby of defendants’ building);  Provenzano v. Roslyn Gardens Tenants Corp., 190 A.D.2d 718, 
+(2nd Dept. 1993) (Appellate Division reversed trial court order and dismissed vicarious liability claims against 
+defendants).  
+6 See, e.g., Opp. Br. pp. 3 (citing Iqbal;  Twombly; I.B. Trading, Inc. v. Tripoint Glob. Equities, LLC, No. 17-CV-
+1962 (JGK), 2017 WL 5485318, at *1 (S.D.N.Y. Nov. 15, 2017); and Mills v. Polar Molecular Corp., 12 F.3d 1170, 
+1174 (2d Cir. 1993), to support generic assertions regarding pleadings standards), 6 (citing the same cases 
+Defendants cite in their Moving Brief to set forth the elements of a negligent security claim). 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 12 of 16
+
+-8- 
+40918662v1
+alleged in her Amended Complaint.  Indeed, Plaintiff does not allege she was one of the victims 
+referenced in the Indictment.   
+Nor could Plaintiff credibly assert she was one of the victims referenced in the 
+Indictment.  The Indictment describes acts and occurrences in 2002 – 2005 related to three 
+specific victims.  Plaintiff alleges torts predating that period.   
+Plaintiff’s reliance on her allegation that she “was subjected to the types of illegal sexual 
+acts detailed in the [Indictment]” (Compl. ¶ 44 (emphasis added)) is unconvincing for at least 
+two reasons. First, the statements in the Indictment showing it did not arise from Decedent’s 
+alleged battery of Plaintiff, and not Plaintiff’s allegation characterizing the Indictment, are 
+controlling.   
+Second, even assuming Plaintiff’s allegation is true, it merely suggests that she was also 
+victim of Decedent.  However, Plaintiff does not, either in this allegation or elsewhere in her 
+Amended Complaint, claim she was a victim of the occurrences charged in the Indictment.   
+New York courts have found that CPLR § 215(8)(a) was inapplicable in circumstances 
+where the subject civil action had a much clearer and closer nexus to a criminal action than the 
+relationship Plaintiff has attempted to create here between this action and the Indictment.  See 
+Christodoulou v. Terdeman, 262 AD2d 595, 596 (2d Dept. 1999) (“Contrary to the arguments 
+advanced by the plaintiff, [CPLR § 215(8)(a)] applies only to those claims which are based on 
+the events of February 26, 1993 and December 28, 1993, because it was only in connection with 
+the events of these two days that a criminal prosecution was commenced against the defendant”); 
+Gallina v. Thatcher, No. 2017-52980, 2018 N.Y. Misc. LEXIS 8435 (Sup. Ct. Dutchess Cnty. 
+Oct. 23, 2018) (finding CPLR § 215(8)(a) inapplicable where incidents charged in criminal 
+action and those alleged in civil action occurred on different dates). Cf. McElligott v. City of 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 13 of 16
+
+-9- 
+40918662v1
+N.Y., 15-cv-7107 (LGS), 2017 U.S. Dist. LEXIS 201829, at *13 (S.D.N.Y. Dec. 7, 2017) 
+(finding CPLR § 215(8)(a) was inapplicable to claims against civil defendants who were not 
+charged as co-defendants in criminal action brought against another civil defendant, 
+notwithstanding the same events gave rise both actions). 
+Gallina is especially instructive on this issue.  In Gallina, an individual sued an attorney 
+for battery and other claims based on the core allegation that, over the course of two years, the 
+attorney committed various acts of sexual misconduct against the plaintiff including sexual 
+assault Id. at *1.  It was uncontested that defendant had also been criminally charged with 
+forceable touching for other incidents that occurred with plaintiff in 2017. Id. at *3. The court 
+dismissed as time barred plaintiff’s battery counts based on incidents alleged to have occurred in 
+2016.  Id. at *2-3.    
+The court rejected plaintiff’s argument that CPLR § 215(8)(a) applied to the 2016 
+incidents, finding:  
+… Plaintiff argues that these 2016 incidents are events or occurrences 
+from which the “criminal action” commenced as to the February, March 
+and May 2017 incidents arose within the meaning of CPLR §215(8)(a). In 
+essence, Plaintiff argues that the July and October 2016 incidents are part 
+of the same ongoing course of events as the February, March and May 
+2017 incidents and should therefore be deemed timely commenced. 
+As noted by Defendant, the case law does not support Plaintiff's 
+interpretation of the tolling provision of CPLR §215(8)(a). The criminal 
+instruments provided by Plaintiff in opposition to Defendant's motion 
+demonstrate that Defendant was charged for incidents occurring on three 
+(3) specific dates — February 17, 2017, March 24, 2017 and May 16, 
+2017. Pursuant to CPLR §215(8)(a), tolling would apply only to claims 
+based on these dates, "because it was only in connection with the events of 
+these [three] days that a criminal prosecution was commenced against the 
+defendant." Christodoulou v. Terdeman, 262 AD2d 595, 596 [2d Dept. 
+1999]. As criminal charges were not commenced with respect to the July 
+2016 and October 2016 events, the tolling provisions of CPLR §215(8) do 
+not apply to the First, Second, Third and Fourth Causes of Action. 
+Accordingly, those Causes of Action are time-barred. 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 14 of 16
+
+-10- 
+40918662v1
+Id. at *3-4.   
+Here, Plaintiff asserts a much weaker connection between this action and the Indictment 
+than the one unsuccessfully asserted by the plaintiff in Gallina.  Therefore, the Court should 
+reject Plaintiff’s argument for the application of CPLR § 215(8)(a). 
+c.
+New York Law applies to Plaintiff’s claim for punitive damages because she 
+alleges the subject torts took place in New York. 
+Plaintiff does not dispute that New York law bars her claim for punitive damages as a 
+matter of law.  Instead, Plaintiff erroneously asserts that USVI law applies to this issue without 
+citing any legal authority to support that argument.7
+Plaintiff alleges the acts and omissions giving rise to her causes of action occurred in 
+New York (Compl. ¶¶ 15, 22).  Therefore, New York law applies to the issue of punitive 
+damages. See Starr Indem. & Liab. Co. v. Am. Claims Mgmt., 14-cv-0463-JMF, 2015 U.S. Dist. 
+LEXIS 60272, *7 (S.D.N.Y. May 7, 2015) (“Because punitive damages are conduct-regulating, 
+‘the law of the jurisdiction where the tort occurred will generally apply.’”) (quoting Deutsch v. 
+Novartis Pharms. Corp., 723 F. Supp. 2d 521, 524 (E.D.N.Y. 2010); Guidi v. Inter-Continental 
+Hotels Corp., No. 95-CV-9006, 2003 U.S. Dist. LEXIS 6390, at *1 (S.D.N.Y. Apr. 16, 2003)).8
+CONCLUSION 
+Based on the foregoing and the reasons set forth in Defendants’ Moving Brief, 
+Defendants respectfully request that the Court grant their Motion to Dismiss in its entirety 
+together with such other and further relief as the Court deems just and proper.   
+7 Nor does Plaintiff argue USVI law permits punitive damages against a decedent tortfeasor.  
+8 Plaintiff’s reliance on Doralee Estates, Inc. v. Cities Serv. Oil Co., 569 F.2d 716 (2d Cir. 1977), to support the 
+assertion that sex trafficking “is exactly the type of act for which punitive damages are permitted” (Opp. Br. 12), is 
+baseless.  Doralee has nothing to do with sex trafficking—it concerns an oil spill.  Nor does Doralee involve claims 
+against a decedent tortfeasor.   
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 15 of 16
+
+-11- 
+40918662v1
+Dated: New York, New York 
+January 2, 2020 
+Respectfully submitted, 
+TROUTMAN SANDERS LLP 
+875 Third Avenue 
+New York, New York 10022
+By:   /s/ Bennet J. Moskowitz
+    Bennet J. Moskowitz 
+Attorneys for Defendants 
+Case 1:19-cv-07625-AJN-DCF     Document 49     Filed 01/02/20     Page 16 of 16

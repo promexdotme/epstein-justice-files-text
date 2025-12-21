@@ -1,0 +1,576 @@
+METADATA_SOURCE: Court Records\Doe 1000 v. Indyke, No. 119-cv-10577 (S.D.N.Y. 2019)
+METADATA_FILENAME: 034.pdf
+----------------------------------------
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+JANE DOE 1000, 
+Plaintiff,  
+   v. 
+DARREN K. INDYKE and RICHARD D. KAHN, in 
+their capacities as the executors of the ESTATE OF 
+JEFFREY E. EPSTEIN, 
+Defendants.
+ Case No. 1:19-cv-10577-LJL-DCF 
+DEFENDANTS’ MEMORANDUM OF LAW IN SUPPORT 
+OF THEIR MOTION TO DISMISS PLAINTIFF’S COMPLAINT 
+TROUTMAN SANDERS LLP 
+875 Third Avenue 
+New York, New York 10022 
+Tel: 212-704-6000 
+Fax: 212-704-6288 
+Attorneys for Defendants 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 1 of 20
+
+TABLE OF CONTENTS
+Page
+i 
+41513378v2
+PRELIMINARY STATEMENT ................................................................................................... 1 
+STATEMENT OF ALLEGED FACTS ......................................................................................... 2 
+A. 
+Plaintiff Alleges Decedent Sexually Assaulted Her In And Around 1999, 
+When She Was An Adult ....................................................................................... 2 
+ARGUMENT ................................................................................................................................. 4 
+A. 
+Legal Standard: Plaintiff’s Legal Conclusions, Labels, And Formulaic 
+Recitations Of The Elements Of Her Causes Of Action Are Insufficient To 
+Revive Her Time-Deserved Claims ....................................................................... 4 
+B. 
+Plaintiff’s Claims Expired Many Years Ago And Must Be Dismissed ................. 4 
+C. 
+Plaintiff’s Attempts To Invoke Extraordinary Statute Of Limitations 
+Exceptions Fail....................................................................................................... 5 
+i. 
+CPLR § 215(8)(a) is inapplicable because the Indictment 
+concerned sex trafficking of minors, not adults such as Plaintiff .............. 5 
+ii. 
+Plaintiff fails to meet her burden to allege “extraordinary” 
+circumstances sufficient to justify tolling or equitable estoppel ................ 8 
+D. 
+Plaintiff’s Claim For Punitive Damages Must Be Dismissed Because They 
+Are Precluded By New York Law ....................................................................... 12 
+CONCLUSION ............................................................................................................................ 14 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 2 of 20
+
+ii 
+41513378v2
+TABLE OF AUTHORITIES 
+ 
+Page(s) 
+Cases 
+Abercrombie v. College, 
+438 F. Supp. 2d 243 (S.D.N.Y. 2006)................................................................................11, 12 
+Ashcroft v. Iqbal, 
+556 U.S. 662 (2009) ...................................................................................................................4 
+Bell Atl. Corp. v. Twombly, 
+550 U.S. 544 (2007) ...................................................................................................................4 
+Blissett v. Eisensmidt, 
+940 F. Supp. 449 (N.D.N.Y. 1996) ..........................................................................................13 
+Boos v. Runyon, 
+201 F.3d 178 (2d Cir. 2000).......................................................................................................9 
+Cerbone v. Int’l Ladies’ Garment Workers’ Union, 
+768 F.2d 45 (2d Cir. 1985).........................................................................................................9 
+Christodoulou v. Terdeman, 
+262 A.D.2d 595 (2d Dept. 1999)  ..............................................................................................6 
+Conklin v. Maidenbaum, 
+No. 12-cv- 3606, 2013 U.S. Dist. LEXIS 113975 (S.D.N.Y. Aug. 13, 2013) 
+(Ramos, J.) ...............................................................................................................................11 
+Crucible Materials Corp. v. N.Y. Power Auth., 
+50 A.D.3d 1353 (Third Dept. 2008) ..........................................................................................8 
+Dep’t of Econ. Dev. v. Arthur Andersen & Co., 
+747 F. Supp. 922 (S.D.N.Y. 1990) ..........................................................................................11 
+Deutsch v. Novartis Pharms. Corp., 
+723 F. Supp. 2d 521 (E.D.N.Y. 2010) .....................................................................................13 
+Fairley v. Collins, 
+No. 09-Civ-6894 (PGG), 2011 U.S. Dist. LEXIS 26536 (Mar. 15, 2011 
+S.D.N.Y.) (Gardephe, J.)............................................................................................................8 
+Gallina v. Thatcher, 
+No. 2017-52980, 2018 N.Y. Misc. LEXIS 8435 (Sup. Ct. Dutchess Cnty. Oct. 
+23, 2018) ................................................................................................................................6, 7 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 3 of 20
+
+TABLE OF AUTHORITIES
+(continued) 
+Page
+iii 
+41513378v2
+Graham v. Henderson, 
+224 F.R.D. 59 (N.D.N.Y. 2004)...............................................................................................13 
+Guidi v. Inter-Continental Hotels Corp., 
+No. 95-CV-9006 (LAP), 2003 U.S. Dist. LEXIS 6390 (S.D.N.Y. Apr. 16, 
+2003) ........................................................................................................................................13 
+In re Higgins, 
+270 B.R. 147 (Bankr. S.D.N.Y. 2001) .......................................................................................9 
+Johnson v. Nyack Hosp., 
+86 F.3d 8 (2d Cir. 1996).............................................................................................................9 
+Kashef v. BNP Paribas S.A., 
+925 F.3d 53 (2d Cir. 2019).........................................................................................................8 
+Kunica v. St. Jean Fin., 
+No. 97 Civ. 3804, 1998 U.S. Dist. LEXIS 11867 (S.D.N.Y. July 29, 1998) 
+(Sweet, J.).................................................................................................................................12 
+Lohr v. Byrd, 
+522 So. 2d 845 (Fla. 1988).......................................................................................................13 
+McElligott v. City of N.Y., 
+No. 15-cv-7107 (LGS), 2017 U.S. Dist. LEXIS 201829 (S.D.N.Y. Dec. 7, 
+2017) ..........................................................................................................................................6 
+Moll v. U.S. Life Title Ins. Co. of N.Y., 
+700 F. Supp. 1284 (S.D.N.Y. 1988).........................................................................................11 
+Poindexter v. Zacharzewski, 
+No. 18-14155, 2018 U.S. Dist. LEXIS 189861 (Nov. 5, 2018 S.D. Fla.) ...............................13 
+Purdy v. Consumers Distrib. Co., 
+648 F. Supp. 980 (S.D.N.Y. 1986) (Cedarbaum, J.) ................................................................12 
+Simons v. Marriott Corp., 
+No. 92 Civ. 3762 (SWK), 1993 U.S. Dist. LEXIS 14365 (S.D.N.Y. Oct. 12, 
+1993) ........................................................................................................................................12 
+SJB v. N.Y.C. Dep’t of Educ., 
+No. 03 Civ. 6653, 2004 U.S. Dist. LEXIS 13227 (S.D.N.Y. July 14, 2004) 
+(Buchwald, J.) ..........................................................................................................................12 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 4 of 20
+
+TABLE OF AUTHORITIES
+(continued) 
+Page
+iv 
+41513378v2
+Smith v. N.Y.C. Dep’t of Corr., 
+No. 09-civ-7639, 2010 U.S. Dist. LEXIS 137152 (S.D.N.Y. 2010) .........................................9 
+Starr Indem. & Liab. Co. v. Am. Claims Mgmt., 
+No. 14-cv-0463-JMF, 2015 U.S. Dist. LEXIS 60272 (S.D.N.Y. May 7, 2015)......................12 
+The Cookware Co. (USA), LLC v. Austin, 
+No. 15 Civ. 5796, 2016 U.S. Dist. LEXIS 177691 (S.D.N.Y. Dec. 8, 2016) 
+(Batts, J.) ..................................................................................................................................12 
+In re U.S. Lines, Inc., 
+318 F.3d 432 (2d Cir. 2003).......................................................................................................9 
+Viti v. Guardian Life Ins. Co. of Am., 
+No. 10-cv-2908 (ALC) (MHD), 2012 U.S. Dist. LEXIS 189633 (S.D.N.Y. 
+Oct. 5, 2012) ..............................................................................................................................9 
+Yesh Diamonds, Inc. v. Yashaya, 
+No. 09-CV-2016 (DLI) (RER), 2010 U.S. Dist. LEXIS 101744 (E.D.N.Y. 
+2010) ....................................................................................................................................9, 10 
+Statutes 
+EPTL § 11-3.2 (a)(1)......................................................................................................................13 
+Fla. Stat. § 95.11 (3)(O) ...............................................................................................................1, 4 
+2019 N.Y. Laws 315, 2019 N.Y ..................................................................................................5, 6 
+New York General Construction Law § 37-a ................................................................................13 
+New York Penal Law Article 130 ....................................................................................................3 
+Other Authorities 
+CPLR § 214(5) .............................................................................................................................1, 4 
+CPLR § 215(3) .............................................................................................................................1, 4 
+CPLR § 215(8)(a) .................................................................................................................. passim
+Federal Rule of Civil Procedure 12(b)(6) ....................................................................................1, 9 
+N.Y. C.P.L.R. § 213-c ..............................................................................................................3, 4, 5 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 5 of 20
+
+TABLE OF AUTHORITIES
+(continued) 
+Page
+v 
+41513378v2
+97 NY Jur Statutes § 185 .................................................................................................................7 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 6 of 20
+
+41513378v2
+Defendants Darren K. Indyke and Richard D. Kahn, as Co-Executors of the Estate of 
+Jeffrey E. Epstein (the “Co-Executors”), submit this memorandum of law in support of their 
+motion pursuant to Federal Rule of Civil Procedure 12(b)(6) to dismiss Plaintiff’s Complaint (ECF 
+No. 1) because it is time-barred, and Plaintiff’s claim for punitive damages because it is prohibited 
+by a New York statute and well-established Florida law. 
+PRELIMINARY STATEMENT
+This action is time-barred. Plaintiff alleges that, in or about 1999, when she was an adult, 
+Jefferey E. Epstein (“Decedent”), now deceased, committed sexual offenses against her in New 
+York and Florida. (Compl. ¶¶ 16, 38, 40, 42, 50, 55.) Plaintiff asserts two causes of action—battery 
+and intentional infliction of emotional distress—and demands punitive damages. (Id. ¶¶ 49-59, p. 
+13.) Plaintiff’s causes of action expired many years ago per New York’s one- and three-year 
+statutes of limitations (CPLR §§ 214(5), 215(3)) and Florida’s four-year statute of limitations (Fla. 
+Stat. § 95.11 (3)(O)). 
+In apparent recognition that her claims are time-barred, Plaintiff erroneously alleges that 
+(i) a New York statute of limitations enacted last year revives her claims, notwithstanding the 
+enacting law expressly and unequivocally provides it does not apply retroactively to claims that 
+are already time-barred, (ii) her claims are timely pursuant to CPLR § 215(8)(a),1 (iii) her claims 
+were equitably tolled, and (iv) the Co-Executors are equitably estopped from asserting a statute of 
+limitations defense. (Compl. ¶¶ 12-14.) Each of these arguments fails as a matter of law. 
+The 2019 New York law enacting a new, longer statute of limitations is very clear: it does 
+not apply retroactively except “where the applicable statute of limitations in effect on the date of 
+1 CPLR § 215(8)(a) provides: “Whenever it is shown that a criminal action against the same defendant has been 
+commenced with respect to the event or occurrence from which a claim governed by this section arises, the plaintiff 
+shall have at least one year from the termination of the criminal action … to commence the civil action.” (Emphasis 
+added.) 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 7 of 20
+
+2 
+such act or omission has not yet expired.” 2019 N.Y. Ch. 315, 2019 N.Y. SB 6574, §4. Plaintiff’s 
+causes of action expired many years before the new law went into effect.  
+Moreover, CPLR § 215(8)(a) does not apply here because Decedent’s criminal indictment 
+(the “Indictment”), which concerns alleged sexual trafficking of minors, has nothing to do with 
+Plaintiff, who alleges sexual assault when she was an adult. Plaintiff also fails to meet her burden 
+to allege extraordinary circumstances sufficient to justify tolling or equitable estoppel. 
+Plaintiff’s demands for punitive damages must also be dismissed as a matter of law. Both 
+New York and Florida law bar recovery of punitive damages from a decedent tortfeasor’s estate—
+i.e., exactly what Plaintiff is seeking here. 
+STATEMENT OF ALLEGED FACTS 
+A.
+Plaintiff Alleges Decedent Sexually Assaulted Her In And Around 1999, When 
+She Was An Adult 
+Plaintiff alleges she met Decedent in “late 1999” at his New York residence. (Compl. ¶ 
+38.) Plaintiff does not allege that she was a minor at this time. According to Plaintiff, she went to 
+Decedent’s residence to discuss modeling opportunities. (Id. ¶¶ 38-39.) Plaintiff alleges that, at 
+some point thereafter, she moved into an apartment owned by Decedent on 66th Street in 
+Manhattan. (Id. 40.)  
+Plaintiff further alleges that Decedent had “recruiters” who would call her to visit Decedent 
+at his residence to give him a massage. (Id.) Decedent allegedly sexually assaulted Plaintiff during 
+these massages. (Id.) Plaintiff also alleges, with no further details, that Decedent flew her to 
+Florida, where he sexually assaulted her again. (Id. ¶ 42.) Plaintiff also claims Decedent promised 
+her modeling opportunities “for years, up until the last time [she] saw Epstein,” but does not 
+provide even an approximate date identifying when that was or when the alleged abuse ended. (Id.
+¶ 45.)  
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 8 of 20
+
+3 
+Apparently recognizing that her claims are time-barred under applicable statutes of 
+limitations, Plaintiff alleges a few generic legal conclusions that also appear in other time-barred 
+complaints against the Co-Executors that Plaintiff’s counsel filed in this District on behalf of other 
+individuals. Thus, Plaintiff alleges in conclusory fashion: 
+
+This action has been timely filed pursuant to N.Y. C.P.L.R. § 215(8)(a), which provides 
+that a plaintiff shall have at least one year from the termination of a criminal action 
+against the same defendant to commence an action with respect to the event or 
+occurrence from which the criminal action arose. A criminal action against [Decedent] 
+with respect to the same sex trafficking enterprise from which Plaintiff’s claims arise 
+was terminated on August 29, 2019. (Id. ¶ 12.) 
+
+This action has also been timely filed pursuant to N.Y. C.P.L.R. § 213-c, which 
+provides that a plaintiff shall have 20 years to file civil claims “for physical, 
+psychological or other injury or condition suffered by such person as a result of conduct 
+which would constitute” certain sex crimes under New York Penal Law Article 130. 
+[Decedent] and Ghislaine Maxwell sexually assaulted Plaintiff by forcible compulsion 
+within 20 years of filing this Complaint, and that sexual assault constitutes one or more 
+sex crimes described in N.Y. C.P.L.R. § 213-C. (Id. ¶ 13.) 
+
+Any statute of limitations applicable to Plaintiff’s claims is tolled due to the continuous 
+and active deception, duress, threats of retaliation, and other forms of misconduct that 
+[Decedent] and his co-conspirators used to silence his many victims, including 
+Plaintiff. [Decedent]’s actions deprived Plaintiff of the opportunity to commence this 
+lawsuit before his death. Until his death, Plaintiff feared that [Decedent] and his co-
+conspirators would harm her or her family, or ruin her life, if she came forward. (Id. ¶ 
+14.) 
+
+Defendants are equitably estopped from asserting a statute of limitations defense. 
+Allowing Defendants to do so would be unjust. [Decedent] and his co-conspirators 
+intimidated each of his victims into silence by threatening their lives and their 
+livelihoods. They therefore prevented Plaintiff from commencing this lawsuit before 
+his death. By using threats, along with his wealth and power, Epstein was able to escape 
+punishment for his crimes against countless young women and underage girls for the 
+duration of his life. (Id. ¶15.) 
+These rote, non-specific allegations cannot rescue Plaintiff’s time-barred claims. 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 9 of 20
+
+4 
+ARGUMENT 
+A.
+Legal Standard: Plaintiff’s Legal Conclusions, Labels, And Formulaic 
+Recitations Of The Elements Of Her Causes Of Action Are Insufficient To 
+Revive Her Time-Deserved Claims 
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter, 
+accepted as true, to state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 
+662, 678 (2009). While a Court must normally accept as true all well-pleaded factual allegations 
+in a complaint and draw all inferences in a plaintiff’s favor, those principles are “inapplicable to 
+legal conclusions.” Id. at 678 (2009) (citing Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 556 
+(2007)). Thus, a pleading that offers only “labels and conclusions” or “a formulaic recitation of 
+the elements of a cause of action will not do.” Twombly, 550 U.S. at 555 (2007). 
+B.
+Plaintiff’s Claims Expired Many Years Ago And Must Be Dismissed 
+Plaintiff asserts causes of action for battery and intentional infliction of emotional distress 
+arising out of events starting in late 1999 and occurring in New York and Florida, all when Plaintiff 
+was an adult. Each cause of action is time-barred and must be dismissed.  
+Under New York law, causes of action sounding in battery must be commenced within one 
+year of accrual (CPLR § 215(3)); and claims sounding in personal injury, within three years (CPLR 
+§ 214(5)). Under Florida law, the statute of limitations for Plaintiff’s claims is four years. See Fla. 
+Stat. § 95.11(3)(O).  
+Plaintiff does not allege that she endured the alleged sexual assaults for a period of time 
+that would permit her to avoid these statutes of limitations. (See Compl. ¶¶ 2, 45.) Plaintiff’s failure 
+to allege when Decedent’s alleged sexual assaults ended is either a tacit admission that this action 
+is time-barred or a fatal pleading failure. In either event, this action must be dismissed. 
+In Plaintiff’s response to the Co-Executors’ pre-motion letter (ECF Doc. 25, § I), Plaintiff 
+erroneously claims the current 20-year statute of limitations in CPLR § 213-c applies to her claims. 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 10 of 20
+
+5 
+However, CPLR § 213-c is not a revival statute. CPLR § 213-c, which became effective as of 
+September 18, 2019, does not apply retroactively except “where the applicable statute of 
+limitations in effect on the date of such act or omission has not yet expired.” 2019 N.Y. Laws 315, 
+2019 N.Y. SB 6574, § 4.  
+Plaintiff does not allege—and did not argue in her pre-motion letter—that any of her claims 
+were timely as of September 18, 2019. Therefore, CPLR § 213-c does not apply. 
+Instead, Plaintiff argued in her pre-motion letter that, because the 2019 law rewriting CPLR 
+§ 213-c did not set forth the prohibition on retroactive application in the text of CPLR § 213-c 
+itself, Plaintiff should be able to invoke it. (ECF Doc. 25, § I.) That is wrong.  
+C.
+Plaintiff’s Attempts To Invoke Extraordinary Statute Of Limitations 
+Exceptions Fail 
+i.
+CPLR § 215(8)(a) is inapplicable because the Indictment concerned sex 
+trafficking of minors, not adults such as Plaintiff 
+Nor does CPLR § 215(8)(a) apply here. CPLR § 215(8)(a) provides: “Whenever it is shown 
+that a criminal action against the same defendant has been commenced with respect to the event 
+or occurrence from which a claim governed by this section arises, the plaintiff shall have at least 
+one year from the termination of the criminal action … to commence the civil action.” (emphasis 
+added.) 
+Decedent’s Indictment, which Plaintiff attaches to her Complaint, was not commenced 
+with respect to Plaintiff. Rather, the Indictment charges Decedent sexually abused “minor girls” 
+from 2002 to 2005 (Compl., Ex. A at ¶¶ 1, 20), stating throughout that it concerns sex trafficking 
+of minors. (Id. ¶¶ 2-4, 6, 8, 11-15, 18-20, 22.) Plaintiff does not allege she was a minor when 
+Decedent sexually assaulted her in or around 1999. Therefore, this action and the Indictment arise 
+from different occurrences. 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 11 of 20
+
+6 
+New York courts apply CPLR § 215(8)(a) narrowly. See Christodoulou v. Terdeman, 262 
+A.D.2d 595, 596 (2d Dept. 1999) (CPLR § 215(8)(a) applied only to claims based on events of 
+February 26, 1993 and December 28, 1993, because it was only in connection with events of those 
+two days that a criminal prosecution was commenced against defendant); Gallina v. Thatcher, No. 
+2017-52980, 2018 N.Y. Misc. LEXIS 8435 (Sup. Ct. Dutchess Cnty. Oct. 23, 2018) (CPLR § 
+215(8)(a) inapplicable where incidents charged in criminal action and those alleged in civil action 
+occurred on different dates); McElligott v. City of N.Y., No. 15-cv-7107 (LGS), 2017 U.S. Dist. 
+LEXIS 201829, at *13 (S.D.N.Y. Dec. 7, 2017) (CPLR § 215(8)(a) inapplicable to claims against 
+civil defendants not charged as co-defendants in criminal action, notwithstanding same events gave 
+rise to both actions). 
+Gallina is especially instructive. In that case, an individual sued an attorney for battery and 
+other claims based on the core allegation that, over the course of two years, the attorney committed 
+various sexual misconduct against the plaintiff, including sexual assault. 2018 N.Y. Misc. LEXIS 
+8435, at *1. Defendant had also been criminally charged with forceable touching for incidents that 
+occurred with the plaintiff in 2017. Id. at *3. The court dismissed as time-barred plaintiff’s battery 
+counts based on incidents alleged to have occurred in 2016. Id. at *2-3. 
+In doing so, the court rejected plaintiff’s argument that CPLR § 215(8)(a) applied to the 
+2016 incidents, finding: 
+Plaintiff argues that the July and October 2016 incidents are part of the same 
+ongoing course of events as the February, March and May 2017 incidents 
+and should therefore be deemed timely commenced … the case law does 
+not support Plaintiff’s interpretation of … CPLR §215(8)(a). The criminal 
+instruments … demonstrate that Defendant was charged for incidents 
+occurring on three (3) specific dates … Pursuant to CPLR §215(8)(a), 
+tolling would apply only to claims based on these dates, “because it was 
+only in connection with the events of these [three] days that a criminal 
+prosecution was commenced against the defendant.” Christodoulou v. 
+Terdeman, 262 AD2d 595, 596 [2d Dept. 1999]. As criminal charges were 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 12 of 20
+
+7 
+not commenced with respect to the July 2016 and October 2016 events, the 
+tolling provisions of CPLR §215(8) do not apply. 
+Id. at *3-4. 
+Here, Plaintiff asserts a more tenuous connection between this action and the Indictment 
+than the one unsuccessfully asserted by the plaintiff in Gallina (and the other cited cases). The 
+Court should therefore reject Plaintiff’s argument for the application of CPLR § 215(8)(a). 
+In Plaintiff’s response to the Co-Executors’ pre-motion letter (ECF No. 25, § I), Plaintiff 
+asserts two erroneous arguments for application of CPLR § 215(8)(a). First, Plaintiff argues that 
+CPLR § 215(8)(a) does not require the Indictment to expressly identify Plaintiff as one of 
+Decedent’s victims. This is a strawman argument: no one argues otherwise. 
+However, Plaintiff is required to show—but cannot show under the circumstances here—
+that this action and the Indictment arise from the same event. They do not. Not only does the 
+Indictment not refer to Plaintiff, it also does not refer to misconduct of the type that Plaintiff alleges 
+here. The Indictment could not be clearer: it concerns sex trafficking of minors. Plaintiff does not 
+allege she was a minor when Decedent sexually assaulted her. Nor does she allege anything 
+establishing she was a sex trafficking victim. 
+Second, Plaintiff urges a broad construction of CPLR § 215(8)(a) that effectively rewrites 
+it by rendering the limitation therein—“with respect to the event or occurrence from which a 
+claim governed by this section arises”—meaningless. Plaintiff effectively argues that, unless the 
+Indictment expressly rules out that it arises from the same event as this action, then Plaintiff is 
+entitled to invoke CPLR § 215(8)(a). That argument is contrary to basic principles of statutory 
+interpretation prohibiting a reading of a statute that would render its words meaningless (see 97 
+NY Jur Statutes § 185), the case law cited above, a plain reading of the Indictment and common 
+sense. 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 13 of 20
+
+8 
+Plaintiff cites a single case in support of this erroneous argument, Kashef v. BNP Paribas 
+S.A., 925 F.3d 53 (2d Cir. 2019). However, Kashef is distinguishable on its face, since the civil 
+and criminal actions in that case both arose out of the same conspiracy between BNP and Sudan 
+to violate U.S. sanctions. Kashef, 925 F.3d at 63. 
+Here, by contrast, Plaintiff’s allegations—that she was an adult whom Decedent sexually 
+assaulted—do not comport with the alleged scheme to traffic minors set forth repeatedly in the 
+Indictment. Nor does Plaintiff sufficiently set forth allegations establishing she was a trafficking 
+victim in any respect. Therefore, while Plaintiff may claim she, too, is a victim of Decedent, she 
+is not a victim by reason of the events giving rise to the Indictment. 
+Plaintiff also cites a Third Department case, Crucible Materials Corp. v. N.Y. Power Auth., 
+50 A.D.3d 1353 (Third Dept. 2008), to support her separate assertion that the Court must permit 
+her to invoke CPLR § 215(8)(a) based on statutory interpretation principles. Yet Crucible does not 
+concern CPLR § 215(8)(a). Further, in that case, the Third Department reaffirmed the principle 
+that, when interpreting a statute, courts “giv[e] clear effect to the plain meaning of the words 
+employed.” Crucible Materials Corp., 50 A.D.3d at 1355-56. This is exactly what the Co-
+Executors urge here and what Plaintiff argues against—namely, a proper interpretation of CPLR 
+§ 215(8)(a) that gives meaning to the words “with respect to the event or occurrence from which 
+a claim governed by this section arises.” The Court should reject Plaintiff’s attempt to rewrite the 
+statute. 
+ii.
+Plaintiff fails to meet her burden to allege “extraordinary” circumstances 
+sufficient to justify tolling or equitable estoppel 
+Plaintiff fails to meet her burden to allege extraordinary circumstances sufficient to justify 
+tolling or equitable estoppel. “Second Circuit cases discussing equitable tolling set a stringent 
+standard for its application.” Fairley v. Collins, No. 09-Civ-6894 (PGG), 2011 U.S. Dist. LEXIS 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 14 of 20
+
+9 
+26536, at *16 (Mar. 15, 2011 S.D.N.Y.) (Gardephe, J.) (finding equitable tolling did not apply and 
+granting defendants’ Fed. R. Civ. P. 12(b)(6) motion to dismiss complaint on statute of limitations 
+grounds). Equitable tolling only applies where a plaintiff is “prevented in some extraordinary way
+from exercising h[er] rights.” Viti v. Guardian Life Ins. Co. of Am., No. 10-cv-2908 (ALC) (MHD), 
+2012 U.S. Dist. LEXIS 189633, at *30 (S.D.N.Y. Oct. 5, 2012), adopted by, 2013 U.S. Dist. 
+LEXIS 174145 (S.D.N.Y. Dec. 11, 2013) (emphasis added) (citing Smith v. N.Y.C. Dep’t of Corr., 
+No. 09-civ-7639, 2010 U.S. Dist. LEXIS 137152, at *2 (S.D.N.Y. 2010); Johnson v. Nyack Hosp., 
+86 F.3d 8, 12 (2d Cir. 1996)).  
+Under this doctrine, a court may, “under compelling circumstances, make narrow 
+exceptions to the statute of limitations … ‘to prevent inequity.’” Id. (emphasis added) (citing Yesh 
+Diamonds, Inc. v. Yashaya, No. 09-CV-2016 (DLI) (RER), 2010 U.S. Dist. LEXIS 101744, at *2 
+(E.D.N.Y. 2010); In re U.S. Lines, Inc., 318 F.3d 432, 436 (2d Cir. 2003)). “That the doctrine is to 
+be employed only sparingly—in ‘extraordinary’ and ‘compelling’ circumstances—is reflected in 
+the fact that the plaintiff bears the burden of persuasion to show that tolling is justified.” Id. 
+(emphasis added) (citing Boos v. Runyon, 201 F.3d 178, 185 (2d Cir. 2000)). A late-filing party 
+seeking equitable tolling must also demonstrate she acted with “reasonable diligence” in pursuing 
+her claims during the period she seeks to toll. Id. at *32 (citation omitted). 
+Equitable estoppel only applies where a plaintiff knows her cause of action exists, but the 
+defendant’s conduct causes her to delay bringing suit. See Yesh, 2010 U.S. Dist. LEXIS 101744, 
+at *5 (citing Cerbone v. Int’l Ladies’ Garment Workers’ Union, 768 F.2d 45, 50 (2d Cir. 1985)). 
+“The rationale behind this equitable doctrine is to protect the person who brings their action after 
+it would normally be barred because she was ‘lulled’ into believing that she should delay pursuing 
+her cause of action.” Id. (quoting In re Higgins, 270 B.R. 147, 158 (Bankr. S.D.N.Y. 2001)). 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 15 of 20
+
+10 
+Equitable estoppel requires a plaintiff to show: “(i) the defendant made a definite misrepresentation 
+of fact, and had reason to believe that the plaintiff would rely on it; and (ii) the plaintiff reasonably 
+relied on that misrepresentation to h[er] detriment.” Id. (citation omitted). Tolling is inappropriate 
+where, as here, a plaintiff fails to articulate any acts by a defendant that prevented the plaintiff 
+from timely commencing suit. See id. at *6. 
+Plaintiff does not allege any particularized acts by Decedent that prevented her from 
+exercising her rights. Nor has Plaintiff alleged that (i) Decedent made a misrepresentation to her 
+and had reason to believe she would rely on it, or (ii) Plaintiff reasonably relied on it to her 
+detriment. Nor does Plaintiff allege any facts showing she acted with “reasonable diligence” in 
+pursuing her claims during the period she seeks to toll. Therefore, there is no “extraordinary” basis 
+alleged sufficient to toll the statute of limitations or estop the Co-Executors from asserting a statute 
+of limitations defense. 
+Plaintiff erroneously asserts in her pre-motion letter that her allegations in paragraphs 27, 
+40 and 43 of her Complaint constitute “extraordinary circumstances” sufficient to invoke these 
+doctrines. (ECF No. 13, § II.) However, Paragraph 27 does not even relate to Plaintiff. Rather, it 
+concerns general allegations of misconduct by Decedent related to other, unidentified alleged 
+victims. There is nothing alleged about why such misconduct prevented Plaintiff from filing this 
+action a long time ago.  
+Plaintiff’s reliance on paragraphs 40 and 43 is also misplaced. The allegations in those 
+paragraphs are that, during the period of the alleged assaults of Plaintiff, Decedent threatened her 
+and on a single occasion forced her to meet with an attorney who asked her “personal questions.” 
+However, Plaintiff does not allege that Decedent did anything after the alleged assaults ended to 
+prevent her from commencing this lawsuit. 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 16 of 20
+
+11 
+There are numerous court decisions in which stronger, clearer allegations are deemed 
+insufficient to justify equitable estoppel or tolling. See, e.g., Conklin v. Maidenbaum, No. 12-cv- 
+3606, 2013 U.S. Dist. LEXIS 113975, at *27 (S.D.N.Y. Aug. 13, 2013) (Ramos, J.) (finding 
+equitable tolling inapplicable and dismissing complaint notwithstanding that plaintiffs alleged they 
+reasonably relied on defendants’ representations over a period spanning more than ten months and 
+dozens of telephone calls). 
+Plaintiff alternatively argues in her pre-motion letter that her entitlement to equitable 
+estoppel and tolling are fact issues not subject to rulings by the Court on a motion to dismiss. (ECF 
+No. 25, § II.) Plaintiff misses the point. Where, as here, a plaintiff fails to allege facts that support 
+invocation of an exception to the statute of limitations, there is no issue of fact sufficient to defeat 
+a motion to dismiss on statute of limitations grounds: 
+If properly pled, allegations of equitable estoppel normally create questions 
+of fact which cannot be determined at a motion to dismiss…. However, 
+without adequate pleading, the issue is not properly raised and therefore 
+cannot defeat a motion to dismiss based on statute of limitations grounds. 
+See Dep’t of Econ. Dev. v. Arthur Andersen & Co., 747 F. Supp. 922, 943 
+(S.D.N.Y. 1990) (dismissing cause of action because plaintiff made no 
+allegation in complaint that “its failure to timely institute its third-party 
+action was due to its justified reliance upon a misrepresentation” by 
+opposing party); Moll v. U.S. Life Title Ins. Co. of N.Y., 700 F. Supp. 1284, 
+1293 (S.D.N.Y. 1988) (“Plaintiffs have not alleged that defendant caused 
+them to delay in bringing suit on a known cause of action. On the contrary, 
+plaintiffs repeatedly emphasize that they did not discover the alleged … 
+violations until long after the limitations period had expired. Equitable 
+estoppel is therefore not appropriate in this case.”). 
+Abercrombie v. College, 438 F. Supp. 2d 243 (S.D.N.Y. 2006) (emphasis added). 
+Here, as in Abercrombie, “Plaintiff has failed to allege any facts that would support 
+invocation of the equitable estoppel doctrine. First, Plaintiff does not identify the 
+misrepresentations or other facts demonstrating fraudulent concealment that could serve as the 
+basis for the claimed equitable estoppel. More particularly, Plaintiff has utterly failed to identify 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 17 of 20
+
+12 
+in the Complaint which statements led her to believe that she could delay bringing her lawsuit.” 
+Id. at 266. Nor does Plaintiff allege facts that would support invocation of equitable tolling. 
+D.
+Plaintiff’s Claim For Punitive Damages Must Be Dismissed Because They Are 
+Precluded By New York Law 
+Plaintiff’s claim for punitive damages fails as a matter of law because it is barred by statute 
+and well-established law. Courts in this District regularly grant motions to dismiss legally deficient 
+claims for punitive damages. See, e.g., The Cookware Co. (USA), LLC v. Austin, No. 15 Civ. 5796, 
+2016 U.S. Dist. LEXIS 177691, at *17 (S.D.N.Y. Dec. 8, 2016) (Batts, J.) (granting motion to 
+dismiss claim for punitive damages without leave to replead because allegations regarding 
+defendant’s bad-faith conduct were conclusory and did not rise to the required level of malice); 
+SJB v. N.Y.C. Dep’t of Educ., No. 03 Civ. 6653, 2004 U.S. Dist. LEXIS 13227, at *25-26 (S.D.N.Y. 
+July 14, 2004) (Buchwald, J.) (granting motion to dismiss punitive damages claims because 
+punitive damages were not statutorily available); Kunica v. St. Jean Fin., No. 97 Civ. 3804, 1998 
+U.S. Dist. LEXIS 11867, at *26 (S.D.N.Y. July 29, 1998) (Sweet, J.) (granting motion to dismiss 
+claim for punitive damages because, even if conduct alleged in complaint was true, it did not rise 
+to the level necessary to award punitive damages); Purdy v. Consumers Distrib. Co., 648 F. Supp. 
+980, 981, 984 (S.D.N.Y. 1986) (Cedarbaum, J.) (granting motion to dismiss claim for punitive 
+damages). 
+When determining what law applies, the court looks to the choice of law rules of the forum 
+state. Simons v. Marriott Corp., No. 92 Civ. 3762 (SWK), 1993 U.S. Dist. LEXIS 14365, at *15 
+(S.D.N.Y. Oct. 12, 1993). Under New York law, the law of the state where a tort occurs generally 
+applies to punitive damages. See Starr Indem. & Liab. Co. v. Am. Claims Mgmt., No. 14-cv-0463-
+JMF, 2015 U.S. Dist. LEXIS 60272, *7 (S.D.N.Y. May 7, 2015) (“Because punitive damages are 
+conduct-regulating, ‘the law of the jurisdiction where the tort occurred will generally apply.’”) 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 18 of 20
+
+13 
+(quoting Deutsch v. Novartis Pharms. Corp., 723 F. Supp. 2d 521, 524 (E.D.N.Y. 2010); Guidi v. 
+Inter-Continental Hotels Corp., No. 95-CV-9006 (LAP), 2003 U.S. Dist. LEXIS 6390, at *1 
+(S.D.N.Y. Apr. 16, 2003)). 
+Here, Plaintiff has alleged tortious conduct occurring in New York and Florida. (Compl. 
+¶¶ 40, 42.) New York Estates, Powers and Trusts Law provides: “No cause of action for injury to 
+person or property is lost because of the death of the person liable for the injury. For any injury, 
+an action may be brought or continued against the personal representative of the decedent, but 
+punitive damages shall not be awarded nor penalties adjudged in any such action brought to 
+recover damages for personal injury.” NY EPTL § 11-3.2 (a)(1) (emphasis added). “Also, ‘there 
+is a strong policy against the assessment of punitive damages against an estate on account of 
+wrongful conduct of the decedent.’” Graham v. Henderson, 224 F.R.D. 59, 63 (N.D.N.Y. 2004) 
+(quoting Blissett v. Eisensmidt, 940 F. Supp. 449, 457 (N.D.N.Y. 1996)). 
+New York General Construction Law § 37-a defines “personal injury” as including “an 
+assault, battery, false imprisonment, or other actionable injury to the person either of the plaintiff, 
+or of another.”  Here, Plaintiff seeks to recover damages for personal injuries, i.e., “battery” and 
+“intentional infliction of emotional distress,” which are actionable injuries to Plaintiff’s person. 
+Accordingly, Plaintiff may not recover against the Co-Executors for punitive damages based on 
+alleged torts that occurred in New York. 
+Nor are punitive damages available to Plaintiff under Florida law. Poindexter v. 
+Zacharzewski, No. 18-14155, 2018 U.S. Dist. LEXIS 189861, at *6 (Nov. 5, 2018 S.D. Fla.) (citing 
+Lohr v. Byrd, 522 So. 2d 845 (Fla. 1988)). “Florida law prohibits recovery of punitive damages 
+from the estate of a wrongdoer who is deceased.” Id. That is the law in most jurisdictions, as 
+reflected in the Restatement. See Restat. (Second) Of Torts § 908 cmt. a (punitive damages not 
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 19 of 20
+
+14 
+available against representatives of deceased tortfeasor). Even if Plaintiff’s claims somehow 
+survive, her claims for punitive damages must therefore be dismissed. 
+In her pre-motion letter, Plaintiff does not dispute that this prohibition on punitive damages 
+in personal injury actions against a decedent tortfeasor’s estate is black-letter New York and 
+Florida law. Rather, Plaintiff asks the Court to simply delay ruling on the issue of punitive damages 
+until after discovery. (ECF No. 25, § II.) However, as there are no facts alleged that would render 
+Plaintiff’s punitive damages claim proper, there is no reason to allow it to stand. 
+Plaintiff seeks to delay the inevitable so she may use the prospect of punitive damages—
+expressly prohibited as they may be—as (misplaced) leverage over the Co-Executors. This would 
+serve no legitimate purpose. It would also impede productive settlement discussions. Plaintiff’s 
+punitive damages claim, like the punitive damages claims in the cases cited above, should be 
+dismissed. 
+CONCLUSION 
+For the reasons stated above, Defendants respectfully request that the Court dismiss 
+Plaintiff’s Complaint, together with such other and further relief as the Court deems just and 
+proper. 
+Dated: New York, New York 
+February 28, 2020 
+By: /s/ Bennet J. Moskowitz
+ Bennet J. Moskowitz 
+ TROUTMAN SANDERS LLP 
+ 875 Third Avenue 
+ New York, New York 10022 
+Attorney for Defendants
+Case 1:19-cv-10577-LJL-DCF     Document 34     Filed 02/28/20     Page 20 of 20

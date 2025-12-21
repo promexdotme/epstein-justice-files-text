@@ -1,0 +1,808 @@
+METADATA_SOURCE: Court Records\Maxwell v. United States, No. 24-1073 (U.S. 2025) (petition for cert.)
+METADATA_FILENAME: 20250117133905126_22-1426.pdf
+----------------------------------------
+22-1426-cr 
+United States v. Maxwell 
+ 
+ 
+ 
+In the 
+United States Court of Appeals 
+for the Second Circuit 
+ 
+ 
+ 
+ 
+AUGUST TERM 2023 
+ 
+No. 22-1426-cr 
+ 
+UNITED STATES OF AMERICA, 
+Appellee, 
+ 
+v. 
+ 
+GHISLAINE MAXWELL, also known as Sealed Defendant 1,  
+Defendant-Appellant. 
+ 
+ 
+ 
+ 
+On Appeal from the United States District Court for the Southern 
+District of New York 
+ 
+ 
+ 
+ 
+ARGUED: MARCH 12, 2024 
+DECIDED: SEPTEMBER 17, 2024 
+ 
+ 
+ 
+ 
+Before: CABRANES, WESLEY, and LOHIER, Circuit Judges. 
+ 
+ 
+ 
+ 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page1 of 26
+
+2 
+Defendant Ghislaine Maxwell appeals her June 29, 2022, 
+judgment of conviction in the United States District Court for the 
+Southern District of New York (Alison J. Nathan, Judge). Maxwell was 
+convicted of conspiracy to transport minors with intent to engage in 
+criminal sexual activity in violation of 18 U.S.C. § 371; transportation 
+of a minor with intent to engage in criminal sexual activity in violation 
+of 18 U.S.C. § 2423(a); and sex trafficking of a minor in violation of 18 
+U.S.C. § 1591(a) and (b)(2). She was principally sentenced to 
+concurrent terms of imprisonment of 60 months, 120 months, and 240 
+months, respectively, to be followed by concurrent terms of 
+supervised release. 
+On appeal, the questions presented are whether (1) Jeffrey 
+Epstein’s Non-Prosecution Agreement with the United States 
+Attorney’s Office for the Southern District of Florida barred Maxwell’s 
+prosecution by the United States Attorney’s Office for the Southern 
+District of New York; (2) a second superseding indictment of March 
+29, 2021, complied with the statute of limitations; (3) the District Court 
+abused its discretion in denying Maxwell’s Rule 33 motion for a new 
+trial based on the claimed violation of her Sixth Amendment right to a 
+fair and impartial jury; (4) the District Court’s response to a jury note 
+resulted in a constructive amendment of, or prejudicial variance from, 
+the allegations in the second superseding indictment; and (5) 
+Maxwell’s sentence was procedurally reasonable.  
+Identifying no errors in the District Court’s conduct of this 
+complex case, we AFFIRM the District Court’s June 29, 2022, judgment 
+of conviction.  
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page2 of 26
+
+3 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ANDREW ROHRBACH, Assistant United States 
+Attorney (Maurene Comey, Alison Moe, 
+Lara Pomerantz, Won S. Shin, Assistant 
+United States Attorneys, on the brief), for 
+Damian Williams, United States Attorney 
+for the Southern District of New York, New 
+York, NY, for Appellee. 
+ 
+  
+ 
+ 
+DIANA FABI SAMSON (Arthur L. Aidala, John 
+M. Leventhal, on the brief), Aidala Bertuna & 
+Kamins PC, New York, NY, for Defendant-
+Appellant. 
+ 
+ 
+ 
+JOSÉ A. CABRANES, Circuit Judge: 
+Defendant Ghislaine Maxwell appeals her June 29, 2022, 
+judgment of conviction in the United States District Court for the 
+Southern District of New York (Alison J. Nathan, Judge). Maxwell was 
+convicted of conspiracy to transport minors with intent to engage in 
+criminal sexual activity in violation of 18 U.S.C. § 371; transportation 
+of a minor with intent to engage in criminal sexual activity in violation 
+of 18 U.S.C. § 2423(a); and sex trafficking of a minor in violation of 18 
+U.S.C. § 1591(a) and (b)(2). The District Court imposed concurrent 
+terms of imprisonment of 60 months, 120 months, and 240 months, 
+respectively, to be followed by concurrent terms of supervised release 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page3 of 26
+
+4 
+of three years, three years, and five years, respectively. The District 
+Court also imposed a fine of $250,000 on each count for a total of 
+$750,000. 
+On appeal, the questions presented are (1) whether Jeffrey 
+Epstein’s Non-Prosecution Agreement (“NPA”) with the United States 
+Attorney’s Office for the Southern District of Florida (“USAO-SDFL”) 
+barred Maxwell’s prosecution by the United States Attorney’s Office 
+for the Southern District of New York (“USAO-SDNY”); (2) whether 
+Maxwell’s second superseding indictment of March 29, 2021 (the 
+“Indictment”) complied with the statute of limitations; (3) whether the 
+District Court abused its discretion in denying Maxwell’s Rule 33 
+motion for a new trial based on the claimed violation of her Sixth 
+Amendment right to a fair and impartial jury; (4) whether the District 
+Court’s response to a jury note resulted in a constructive amendment 
+of, or prejudicial variance from, the allegations in the Indictment; and 
+(5) whether Maxwell’s sentence was procedurally reasonable. 
+We hold that Epstein’s NPA did not bar Maxwell’s prosecution 
+by USAO-SDNY as the NPA does not bind USAO-SDNY.  We hold 
+that Maxwell’s Indictment complied with the statute of limitations as 
+18 U.S.C. § 3283 extended the time to bring charges of sexual abuse for 
+offenses committed before the date of the statute’s enactment. We 
+further hold that the District Court did not abuse its discretion in 
+denying Maxwell’s Rule 33 motion for a new trial based on one juror’s 
+erroneous answers during voir dire. We also hold that the District 
+Court’s response to a jury note did not result in a constructive 
+amendment of, or prejudicial variance from, the allegations in the 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page4 of 26
+
+5 
+Indictment. Lastly, we hold that Maxwell’s sentence is procedurally 
+reasonable. 
+Accordingly, we AFFIRM the District Court’s June 29, 2022, 
+judgment of conviction. 
+I.  BACKGROUND 1 
+Defendant Ghislaine Maxwell coordinated, facilitated, and 
+contributed to Jeffrey Epstein’s sexual abuse of women and underage 
+girls. Starting in 1994, Maxwell groomed numerous young women to 
+engage in sexual activity with Epstein by building friendships with 
+these young women, gradually normalizing discussions of sexual 
+topics and sexual abuse. Until about 2004, this pattern of sexual abuse 
+continued as Maxwell provided Epstein access to underage girls in 
+various locations in the United States. 
+1. Epstein’s Non-Prosecution Agreement  
+In September 2007, following state and federal investigations 
+into allegations of Epstein’s unlawful sexual activity, Epstein entered 
+into an NPA with USAO-SDFL. In the NPA, Epstein agreed to plead 
+guilty to one count of solicitation of prostitution, in violation of Florida 
+ 
+1 Unless otherwise noted, the following facts are drawn from the evidence presented at trial 
+and described in the light most favorable to the Government. See United States v. Litwok, 678 
+F.3d 208, 210-11 (2d Cir. 2012) (“Because this is an appeal from a judgment of conviction 
+entered after a jury trial, the [ ] facts are drawn from the trial evidence and described in the 
+light most favorable to the Government.”). 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page5 of 26
+
+6 
+Statutes § 796.07,2 and to one count of solicitation of minors to engage 
+in prostitution, in violation of Florida Statutes § 796.03.3  He agreed to 
+receive a sentence of eighteen months’ imprisonment on the two 
+charges. In consideration of Epstein’s agreement, the NPA states that 
+“the United States also agrees that it will not institute any criminal 
+charges against any potential co-conspirators of Epstein, including but 
+not limited to Sarah Kellen, Adriana Ross, Lesley Groff, or Nadia 
+Marcinkova.”4 
+2. Maxwell’s Indictment and Trial-Related Proceedings 
+The Indictment filed against Maxwell contained eight counts, 
+six of which proceeded to trial.5 Prior to the commencement of trial, 
+ 
+2 Florida Statutes § 796.07 provides in relevant part:  
+(2) It is unlawful:  
+(f) To solicit, induce, entice, or procure another to commit prostitution, 
+lewdness, or assignation. 
+3 Florida Statutes § 796.03, which has since been repealed, provided in relevant part: “A 
+person who procures for prostitution, or causes to be prostituted, any person who is under 
+the age of 18 years commits a felony of the second degree.” 
+4 A-178. 
+5 Count One charged Maxwell with conspiracy to entice minors to travel to engage in illegal 
+sex acts, in violation of 18 U.S.C. § 371. Count Two charged Maxwell with enticement of a 
+minor to travel to engage in illegal sex acts, in violation of 18 U.S.C. §§ 2422 and 2. Count 
+Three charged Maxwell with conspiracy to transport minors with intent to engage in 
+criminal sexual activity, in violation of 18 U.S.C. § 371. Count Four charged Maxwell with 
+transportation of a minor with intent to engage in criminal sexual activity, in violation of 18 
+U.S.C. §§ 2423(a) and 2. Count Five charged Maxwell with sex traﬃcking conspiracy, in 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page6 of 26
+
+7 
+prospective jurors completed a lengthy questionnaire, with several 
+questions raising issues relevant to the trial. Based on the completed 
+questionnaires, the parties selected prospective jurors to proceed to in-
+person voir dire. The District Court ultimately empaneled a jury. 
+During the four-and-a-half-week jury trial, the Government 
+presented evidence of the repeated sexual abuse of six girls. At the 
+conclusion of trial, on December 29, 2021, the jury found Maxwell 
+guilty on all but one count.6  
+Following the verdict, Juror 50 gave press interviews during 
+which he stated that he was a survivor of child sexual abuse.7 In his 
+answers to the written jury questionnaire, however, Juror 50 answered 
+“no” to three questions asking whether he or a friend or family 
+member had ever been the victim of a crime; whether he or a friend or 
+family member had ever been the victim of sexual harassment, sexual 
+abuse, or sexual assault; and whether he or a friend or family member 
+had ever been accused of sexual harassment, sexual abuse, or sexual 
+ 
+violation of 18 U.S.C. § 371. Count Six charged Maxwell with sex traﬃcking of a minor, in 
+violation of 18 U.S.C. §§ 1591(a), (b)(2), and 2. Counts Seven and Eight charged Maxwell 
+with perjury, in violation of 18 U.S.C. § 1623. The perjury charges were severed from the 
+remaining charges and ultimately dismissed at sentencing. 
+6 The jury found Maxwell guilty on Counts One, Three, Four, Five, and Six. Maxwell was 
+acquitted on Count Two. 
+7 Consistent with a juror anonymity order entered for trial, the parties and the District Court 
+referred to the jurors by pseudonym. 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page7 of 26
+
+8 
+assault.8 Upon learning of the interviews, the Government filed a letter 
+on January 5, 2022, requesting a hearing; Maxwell then moved for a 
+new trial under Federal Rule of Criminal Procedure 33. On March 8, 
+2022, the District Court held a hearing and Juror 50 testified—under 
+grant of immunity—that his answers to three questions related to 
+sexual abuse in the jury questionnaire were not accurate but that the 
+answers were an inadvertent mistake and that his experiences did not 
+affect his ability to be fair and impartial. Finding Juror 50’s testimony 
+to be credible, the District Court denied Maxwell’s motion for a new 
+trial in a written order.   
+Maxwell was subsequently sentenced to a term of 240 months’ 
+imprisonment to be followed by five years’ supervised release, and the 
+ 
+8 Question 2 asked “[h]ave you, or any of your relatives or close friends, ever been a victim 
+of a crime?” Question 48 asked “[h]ave you or a friend or family member ever been the 
+victim of sexual harassment, sexual abuse, or sexual assault? (This includes actual or 
+attempted sexual assault or other unwanted sexual advance, including by a stranger, 
+acquaintance, supervisor, teacher, or family member.)” Finally, Question 49 asked  
+[h]ave you or a friend or family member ever been accused of sexual harassment, 
+sexual abuse, or sexual assault? (This includes both formal accusations in a court of 
+law or informal accusations in a social or work setting of actual or attempted sexual 
+assault or other unwanted sexual advance, including by a stranger, acquaintance, 
+supervisor, teacher, or family member. 
+See A-299, A-310. 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page8 of 26
+
+9 
+District Court imposed a $750,000 fine and a $300 mandatory special 
+assessment. This appeal followed. 
+II.  DISCUSSION 
+1. The NPA Between Epstein and USAO-SDFL Did Not Bar 
+Maxwell’s Prosecution by USAO-SDNY 
+Maxwell sought dismissal of the charges in the Indictment on the 
+grounds that the NPA made between Epstein and USAO-SDFL 
+immunized her from prosecution on all counts as a third-party 
+beneficiary of the NPA. The District Court denied the motion, rejecting 
+Maxwell’s arguments. We agree. We review de novo the denial of a 
+motion to dismiss an indictment.9  
+In arguing that the NPA barred her prosecution by USAO-SDNY, 
+Maxwell cites the portion of the NPA in which “the United States [ ] 
+agree[d] that it w[ould] not institute any criminal charges against any 
+potential co-conspirators of Epstein.”10 We hold that the NPA with 
+USAO-SDFL does not bind USAO-SDNY. 
+It is well established in our Circuit that “[a] plea agreement binds 
+only the office of the United States Attorney for the district in which 
+the plea is entered unless it affirmatively appears that the agreement 
+ 
+9 See, e.g., United States v. Walters, 910 F.3d 11, 22 (2d Cir. 2018).  
+10 A-178. 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page9 of 26
+
+10 
+contemplates a broader restriction.”11 And while Maxwell contends 
+that we cannot apply Annabi to an agreement negotiated and executed 
+outside of this Circuit, we have previously done just that.12 Applying 
+Annabi, we conclude that the NPA did not bar Maxwell’s prosecution 
+by USAO-SDNY. There is nothing in the NPA that affirmatively shows 
+that the NPA was intended to bind multiple districts. Instead, where 
+the NPA is not silent, the agreement’s scope is expressly limited to the 
+Southern District of Florida. The NPA makes clear that if Epstein 
+fulfilled his obligations, he would no longer face charges in that district: 
+After timely fulfilling all the terms and conditions of the 
+Agreement, no prosecution for the offenses set out on pages 1 
+and 2 of this Agreement, nor any other offenses that have been 
+the subject of the joint investigation by the Federal Bureau of 
+Investigation and the United States Attorney's Office, nor any 
+ 
+11 United States v. Annabi, 771 F.2d 670, 672 (2d Cir. 1985). We recognize that circuits have 
+been split on this issue for decades. See United States v. Harvey, 791 F.2d 294, 303 (4th Cir. 
+1986); United States v. Gebbie, 294 F.3d 540, 550 (3d Cir. 2002). 
+12 See, e.g., United States v. Prisco, 391 F. App’x 920, 921 (2d Cir. 2010) (summary order) 
+(applying Annabi to plea agreement entered into in the District of New Jersey); United States 
+v. Gonzalez, 93 F. App’x 268, 270 (2d Cir. 2004) (summary order) (same, to agreement entered 
+into in the District of New Mexico). Nor does Annabi, as Maxwell contends, apply only 
+where subsequent charges are “suﬃciently distinct” from charges covered by an earlier 
+agreement. In Annabi, this Court rejected an interpretation of a prior plea agreement that 
+rested on the Double Jeopardy Clause, reasoning that even if the Double Jeopardy Clause 
+applied, the subsequent charges were “suﬃciently distinct” and therefore fell outside the 
+Clause’s protections. Annabi, 771 F.2d at 672. This Court did not, however, conclude that the 
+rule of construction it announced depended on the similarities between earlier and 
+subsequent charges. 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page10 of 26
+
+11 
+offenses that arose from the Federal Grand Jury investigation 
+will be instituted in this District, and the charges against Epstein 
+if any, will be dismissed.13  
+The only language in the NPA that speaks to the agreement’s scope is 
+limiting language.  
+ 
+The negotiation history of the NPA, just as the text, fails to show 
+that the agreement was intended to bind other districts. Under our 
+Court’s precedent, the negotiation history of an NPA can support an 
+inference that an NPA “affirmatively” binds other districts.14 Yet, the 
+actions of USAO-SDFL do not indicate that the NPA was intended to 
+bind other districts.  
+The United States Attorney’s Manual that was operable during 
+the negotiations of the NPA required that:  
+No district or division shall make any agreement, including any 
+agreement not to prosecute, which purports to bind any other 
+district(s) or division without the express written approval of 
+ 
+13 A-175 (emphasis added). The agreement’s scope is also limited in an additional section:  
+THEREFORE, on the authority of R. Alexander Acosta, United States Attorney for 
+the Southern District of Florida, prosecution in this District for these oﬀenses shall be 
+deferred in favor of prosecution by the State of Florida, provided that Epstein 
+abides by the following conditions and the requirements of this Agreement set forth 
+below.  
+Id. (emphasis added). 
+14 See United States v. Russo, 801 F.2d 624, 626 (2d Cir. 1986).   
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page11 of 26
+
+12 
+the United States Attorney(s) in each affected district and/or the 
+Assistant Attorney General of the Criminal Division.15 
+Nothing before us indicates that USAO-SDNY had been notified or 
+had approved of Epstein’s NPA with USAO-SDFL and intended to be 
+bound by it. And the Assistant Attorney General for the Criminal 
+Division stated in an interview with the Office of Professional 
+Responsibility that she “played no role” in the NPA, either by 
+reviewing or approving the agreement. 
+The history of the Office of the United States Attorney is instructive 
+as to the scope of their actions and duties. The Judiciary Act of 1789 
+created the Office of the United States Attorney, along with the office 
+of the Attorney General. More specifically, the Judiciary Act provided 
+for the appointment, in each district, of a “person learned in the law to 
+act as attorney for the United States in such district, who shall be sworn 
+or affirmed to the faithful execution of his office, whose duty it shall 
+be to prosecute in such district all delinquents for crimes and offences, 
+cognizable under the authority of the United States, and all civil 
+actions in which the United States shall be concerned.”16 The Judiciary 
+Act thus emphasized that U.S. Attorneys would enforce the law of the 
+United States but did not determine that the actions of one U.S. 
+Attorney could bind other districts, let alone the entire nation. In fact, 
+the phrase “in such district,” repeated twice, implies that the scope of 
+ 
+15 United States Attorney’s Manual § 9-27.641 (2007).  
+16 An Act to Establish the Judicial Courts of the United States, ch. 20, § 35, 1 Stat. 73, 92-93 
+(1789) (emphasis added). 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page12 of 26
+
+13 
+the actions and the duties of the U.S. Attorneys would be limited to 
+their own districts, absent any express exceptions. 
+Since 1789, while the number of federal districts has grown 
+significantly, the duties of a U.S. Attorney and their scope remain 
+largely unchanged. By statute, U.S. Attorneys, “within [their] district, 
+shall (1) prosecute for all offenses against the United States; (2) 
+prosecute or defend, for the Government, all civil actions, suits or 
+proceedings in which the United States is concerned.”17 Again, the 
+scope of the duties of a U.S. Attorney is cabined to their specific district 
+unless otherwise directed.18 
+ 
+In short, Annabi controls the result here.  Nothing in the text of 
+the NPA or its negotiation history suggests that the NPA precluded 
+USAO-SDNY from prosecuting Maxwell for the charges in the 
+ 
+17 28 U.S.C. § 547.  
+18 This does not suggest that there are no instances in which a U.S. Attorney’s powers do not 
+extend beyond their districts. For instance, under 28 U.S.C. § 515 a U.S. Attorney can 
+represent the Government or participate in proceedings in other districts, but only when 
+speciﬁcally directed by the Attorney General:  
+The Attorney General or any other oﬃcer of the Department of Justice, or any 
+attorney specially appointed by the Attorney General under law, may, when 
+speciﬁcally directed by the Attorney General, conduct any kind of legal proceeding 
+. . . which United States attorneys are authorized by law to conduct, whether or not 
+he is a resident of the district in which the proceeding is brought. 
+ 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page13 of 26
+
+14 
+Indictment. The District Court therefore correctly denied Maxwell’s 
+motion without an evidentiary hearing. 
+2. The Indictment Is Timely 
+Maxwell argues that Counts Three and Four of the Indictment 
+are untimely because they do not fall within the scope of offenses 
+involving the sexual or physical abuse or kidnapping of a minor and 
+thereby do not fall within the extended statute of limitations provided 
+by § 3283.19 Separately, Maxwell contends that the Government cannot 
+apply the 2003 amendment to § 3283 that extended the statute of 
+limitations to those offenses that were committed before the enactment 
+into law of the provision. On both points, we disagree and hold that 
+the District Court correctly denied Maxwell’s motions to dismiss the 
+charges as untimely. We review de novo the denial of a motion to 
+dismiss an indictment and the application of a statute of limitations.20 
+First, Counts Three and Four of the Indictment are offenses 
+involving the sexual abuse of minors. The District Court properly 
+applied Weingarten v. United States.21 In Weingarten, we explained that 
+Congress intended courts to apply § 3283 using a case-specific 
+ 
+19 18 U.S.C. § 3283 provides: “[n]o statute of limitations that would otherwise preclude 
+prosecution for an oﬀense involving the sexual or physical abuse, or kidnaping, of a child 
+under the age of 18 years shall preclude such prosecution during the life of the child, or for 
+ten years after the oﬀense, whichever is longer.”  
+20 United States v. Sampson, 898 F.3d 270, 276, 278 (2d Cir. 2018).  
+21 865 F.3d 48, 58-60 (2d Cir. 2017); see also United States v. Maxwell, 534 F. Supp. 3d 299, 313-
+14 (S.D.N.Y. 2021). 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page14 of 26
+
+15 
+approach as opposed to a “categorical approach.”22 We see no reason 
+to depart from our reasoning in Weingarten. Accordingly, the question 
+presented here is whether the charged offenses involved the sexual 
+abuse of a minor for the purposes of § 3283 based on the facts of the 
+case. Jane, one of the women who testified at trial, gave evidence that 
+she had been sexually abused when transported across state lines as a 
+minor. Counts Three and Four thus qualify as offenses, and § 3283 
+applies to those oﬀenses.  
+Second, Maxwell argues that Counts Three, Four, and Six of the 
+Indictment are barred by the statute of limitations because the 
+extended statute of limitations provided by the 2003 amendment to 
+§ 3283 does not apply to pre-enactment conduct. In Landgraf v. USI 
+Film Products, the Supreme Court held that a court, in deciding 
+whether a statute applies retroactively, must first “determine whether 
+Congress has expressly prescribed the statute’s proper reach.”23 If 
+Congress has done so, “the inquiry ends, and the court enforces the 
+ 
+22 The “categorical approach” is a method of statutory interpretation that requires courts to 
+look “only to the statutory deﬁnitions of the prior oﬀenses, and not to the particular facts 
+underlying those convictions” for sentencing and immigration purposes. Taylor v. United 
+States, 495 U.S. 575, 600 (1990). We properly reasoned in Weingarten that § 3283 met none of 
+the conditions listed by Taylor that might require application of the categorical approach. 
+See Weingarten, 865 F.3d at 58-60. First, “[t]he language of § 3283[] . . . reaches beyond the 
+oﬀense and its legal elements to the conduct ‘involv[ed]’ in the oﬀense.” Id. at 59-60. Second, 
+legislative history suggests that Congress intended § 3283 to be applied broadly. Id. at 60. 
+Third, a case-speciﬁc approach would not produce practical diﬃculties or potential 
+unfairness. Id.  
+23 511 U.S. 244, 280 (1994); see also Weingarten, 865 F.3d at 54-55.  
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page15 of 26
+
+16 
+statute as it is written.”24 If the statute “is ambiguous or contains no 
+express command regarding retroactivity, a reviewing court must 
+determine whether applying the statute to antecedent conduct would 
+create presumptively impermissible retroactive effects.”25 
+  
+Here, the inquiry is straightforward.  In 2003, Congress 
+amended § 3283 to provide: “No statute of limitations that would 
+otherwise preclude prosecution for an offense involving the sexual or 
+physical abuse, or kidnaping, of a child under the age of 18 years shall 
+preclude such prosecution during the life of the child.”26 The text of 
+§ 3283—that no statute of limitations that would otherwise preclude 
+prosecution of these offenses will apply—plainly requires that it 
+prevent the application of any statute of limitations that would 
+otherwise apply to past conduct.   
+The statutory text makes clear that Congress intended to extend 
+the time to bring charges of sexual abuse for pre-enactment conduct as 
+the prior statute of limitations was inadequate. This is enough to 
+conclude that the PROTECT Act’s amendment to § 3283 applies to 
+Maxwell’s conduct as charged in the Indictment. 
+ 
+24 In re Enter. Mortg. Acceptance Co., LLC, Sec. Litig., 391 F.3d 401, 406 (2d Cir. 2004) (citing 
+Landgraf, 511 U.S. at 280).  
+25 Weingarten, 865 F.3d at 55 (citation and internal quotation marks omitted). 
+26 PROTECT Act, Pub. L. No. 108-21, § 202, 117 Stat. 650, 660 (2003). 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page16 of 26
+
+17 
+3. The District Court Did Not Abuse Its Discretion in Denying 
+Maxwell’s Motion for a New Trial 
+Maxwell contends that she was deprived of her constitutional right 
+to a fair and impartial jury because Juror 50 failed to accurately 
+respond to several questions related to his history of sexual abuse as 
+part of the jury questionnaire during jury selection. Following a special 
+evidentiary hearing, the District Court denied Maxwell’s motion for a 
+new trial.  
+We review a District Court’s denial of a motion for a new trial for 
+abuse of discretion.27 We have been extremely reluctant to “haul jurors 
+in after they have reached a verdict in order to probe for potential 
+instances of bias, misconduct or extraneous influences.”28 While courts 
+can “vacate any judgment and grant a new trial if the interest of justice 
+so requires,” Fed. R. Crim. P. 33(a), they should do so “sparingly” and 
+only in “the most extraordinary circumstances.”29 A district court “has 
+ 
+27 See Rivas v. Brattesani, 94 F.3d 802, 807 (2d Cir. 1996). “[W]e are mindful that a judge has 
+not abused her discretion simply because she has made a diﬀerent decision than we would 
+have made in the ﬁrst instance.” United States v. Ferguson, 246 F.3d 129, 133 (2d Cir. 2001). 
+We have repeatedly explained that the term of art “abuse of discretion” includes errors of 
+law, a clearly erroneous assessment of the evidence, or “a decision that cannot be located 
+within the range of permissible decisions.” In re Sims, 534 F.3d 117, 132 (2d Cir. 2008) 
+(citation and internal quotation marks omitted).  
+28 United States v. Moon, 718 F.2d 1210, 1234 (2d Cir. 1983). 
+29 Ferguson, 246 F.3d at 134.  
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page17 of 26
+
+18 
+broad discretion to decide Rule 33 motions based upon its evaluation 
+of the proof produced” and is shown deference on appeal.30  
+A Rule 33 motion based on a juror’s alleged erroneous response 
+during voir dire is governed by McDonough Power Equipment, Inc. v. 
+Greenwood.31 Under McDonough, a party seeking a new trial “must first 
+demonstrate that a juror failed to answer honestly a material question 
+on voir dire, and then further show that a correct response would have 
+provided a valid basis for a challenge for cause.”32 
+The District Court applied the McDonough standard, found Juror 
+50’s testimony credible, and determined that Juror 50’s erroneous 
+responses during voir dire were “not deliberately incorrect” and that 
+“he would not have been struck for cause if he had provided accurate 
+responses to the questionnaire.”33 In fact, as the District Court noted, 
+Maxwell did not challenge the inclusion of other jurors who disclosed 
+past experience with sexual abuse, assault, or harassment. This is 
+ 
+30 United States v. Gambino, 59 F.3d 353, 364 (2d Cir. 1995) (citation and internal quotation 
+marks omitted). 
+31 464 U.S. 548 (1984).  
+32 Id. at 556. 
+33 A-340 (emphasis added). The Supreme Court reminds us that “[t]o invalidate the result 
+of a [ ] trial because of a juror’s mistaken, though honest response to a question, is to insist 
+on something closer to perfection than our judicial system can be expected to give.” 
+McDonough, 464 U.S. at 555. 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page18 of 26
+
+19 
+enough; the District Court did not abuse its discretion in denying 
+Maxwell’s motion for a new trial.34   
+4. The District Court’s Response to a Jury Note Did Not Result 
+in a Constructive Amendment of, or Prejudicial Variance 
+from, the Allegations in the Indictment 
+During jury deliberations, the jury sent the following jury note 
+regarding Count Four of the Indictment: 
+Under Count Four (4), if the defendant aided in the 
+transportation of Jane’s return flight, but not the flight to 
+New Mexico where/if the intent was for Jane to engage in 
+sexual activity, can she be found guilty under the second 
+element?35 
+The District Court determined that it would not respond to the note 
+directly because it was difficult to “parse factually and legally” and 
+instead referred the jury to the second element of Count Four.36 
+ 
+34 Nor did the District Court err in questioning Juror 50 rather than allowing the parties to 
+do so. In conducting a hearing on potential juror misconduct, “[w]e leave it to the district 
+court’s discretion to decide the extent to which the parties may participate in questioning 
+the witnesses, and whether to hold the hearing in camera.” United States v. Ianniello, 866 F.2d 
+540, 544 (2d Cir. 1989). And while Maxwell contends that the District Court improperly 
+limited questioning about Juror 50’s role in deliberations, she both waived that argument 
+below and fails to show here how any such questioning would not be foreclosed by Federal 
+Rule of Evidence 606(b).   
+35 A-238.  
+36 A-207-221. The District Court’s instruction on the second element of Count Four required 
+the jury to ﬁnd that “Maxwell knowingly transported Jane in interstate commerce with the 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page19 of 26
+
+20 
+Maxwell subsequently filed a letter seeking reconsideration of the 
+District Court’s response, claiming that this response resulted in a 
+constructive amendment or prejudicial variance. The District Court 
+declined to reconsider its response and denied Maxwell’s motion. 
+Maxwell appeals the District Court’s denial and argues that the 
+alleged constructive amendment is a per se violation of the Grand Jury 
+Clause of the Fifth Amendment. Specifically, Maxwell argues that 
+testimony about a witness’s sexual abuse in New Mexico presented the 
+jury with another basis for conviction, which is distinct from the 
+charges in the Indictment. Similarly, Maxwell argues that this 
+testimony resulted in a prejudicial variance from the Indictment.  We 
+disagree and affirm the District Court’s denial.  
+  
+We review the denial of a motion claiming constructive 
+amendment or prejudicial variance de novo.37 To satisfy the Fifth 
+Amendment’s Grand Jury Clause, “an indictment must contain the 
+elements of the offense charged and fairly inform the defendant of the 
+charge against which he must defend.”38 We have explained that to 
+prevail on a constructive amendment claim, a defendant must 
+demonstrate that “the terms of the indictment are in effect altered by 
+the presentation of evidence and jury instructions which so modify 
+essential elements of the offense charged that there is a substantial 
+ 
+intent that Jane engage in sexual activity for which any person can be charged with a 
+criminal oﬀense in violation of New York law.” A-205. 
+37 See United States v. Dove, 884 F.3d 138, 146, 149 (2d Cir. 2018). 
+38 United States v. Khalupsky, 5 F.4th 279, 293 (2d Cir. 2021). 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page20 of 26
+
+21 
+likelihood that the defendant may have been convicted of an offense 
+other than that charged in the indictment.”39 A constructive 
+amendment requires reversal.40 
+ 
+We cannot conclude that a constructive amendment resulted 
+from the evidence presented by the Government—namely, Jane’s 
+testimony—or that it can be implied from the jury note. We have 
+permitted significant flexibility in proof as long as a defendant was 
+“given notice of the core of criminality to be proven at trial.”41 In turn, 
+“[t]he core of criminality of an offense involves the essence of a crime, 
+in general terms; the particulars of how a defendant effected the crime 
+falls outside that purview.”42 
+ 
+We agree with the District Court that the jury instructions, the 
+evidence presented at trial, and the Government’s summation 
+captured the core of criminality. As the District Court noted, while the 
+jury note was ambiguous in one sense, it was clear that it referred to 
+the second element of Count Four of the Indictment. Therefore, the 
+District Court correctly directed the jury to that instruction, which 
+“accurately instructed that Count Four had to be predicated on finding 
+ 
+39 United States v. Mollica, 849 F.2d 723, 729 (2d Cir. 1988).  
+40 See United States v. D’Amelio, 683 F.3d 412, 417 (2d Cir. 2012).  
+41 United States v. Ionia Mgmt. S.A., 555 F.3d 303, 310 (2d Cir. 2009) (per curiam) (emphasis 
+omitted). 
+42 D'Amelio, 683 F.3d at 418 (internal quotation marks omitted). 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page21 of 26
+
+22 
+a violation of New York law.”43 It is therefore not “uncertain whether 
+[Maxwell] was convicted of conduct that was the subject of the grand 
+jury’s indictment.”44 
+ 
+We also cannot conclude that the evidence at trial prejudicially 
+varied from the Indictment. To allege a variance, a defendant “must 
+establish that the evidence offered at trial differs materially from the 
+evidence alleged in the indictment.”45 To prevail and win reversal, the 
+defendant must further show “that substantial prejudice occurred at 
+trial as a result” of the variance.46 “A defendant cannot demonstrate 
+that he has been prejudiced by a variance where the pleading and the 
+proof substantially correspond, where the variance is not of a character 
+that could have misled the defendant at the trial, and where the 
+variance is not such as to deprive the accused of his right to be 
+protected against another prosecution for the same offense.”47 
+ 
+For reasons similar to the ones noted above in the context of the 
+constructive amendment, the evidence at trial did not prove facts 
+ 
+43 A-387; see United States v. Parker, 903 F.2d 91, 101 (2d Cir. 1990) (“The trial judge is in the 
+best position to sense whether the jury is able to proceed properly with its deliberations, 
+and [ ] has considerable discretion in determining how to respond to communications 
+indicating that the jury is experiencing confusion.”) 
+44 United States v. Salmonese, 352 F.3d 608, 620 (2d Cir. 2003).   
+45 Dove, 884 F.3d at 149 
+46 Id. (citation and internal quotation marks omitted). 
+47 Salmonese, 352 F.3d at 621-22 (citation and internal quotation marks omitted); see also 
+Khalupsky, 5 F.4th at 294. 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page22 of 26
+
+23 
+“materially different” from the allegations in the Indictment.48 The 
+evidence indicated that Maxwell transported Jane to New York for 
+sexual abuse and conspired to do the same. Maxwell knew that the 
+evidence also included conduct in New Mexico.49 Furthermore, 
+Maxwell cannot demonstrate “substantial prejudice.” Maxwell 
+received—over three weeks before trial—notes of Jane’s interview 
+recording the abuse she suffered in New Mexico. This is enough to 
+conclude that Maxwell was not “unfairly and substantially” 
+prejudiced.50 
+5. Maxwell’s Sentence Was Procedurally Reasonable 
+Lastly, Maxwell argues that her sentence was procedurally 
+unreasonable because the District Court erred in applying a leadership 
+sentencing enhancement under the Sentencing Guidelines and 
+inadequately explained its above-Guidelines sentence.51  We disagree.   
+ 
+48 Dove, 884 F.3d at 149.  
+49 As the District Court found, “[t]he Indictment charged a scheme to sexually abuse 
+underage girls in New York. In service of this scheme, the Indictment alleged that Epstein 
+and the Defendant groomed the victims for abuse at various properties and in various 
+states, including Epstein’s ranch in New Mexico.” A-393. 
+50 See United States v. Lebedev, 932 F.3d 40, 54 (2d Cir. 2019) (concluding that a defendant was 
+not “unfairly and substantially” prejudiced because “[t]he government disclosed the 
+evidence and exhibits . . . four weeks prior to trial”). 
+51 At sentencing, the District Court calculated a Guidelines range of 188 to 235 months’ 
+imprisonment and sentenced Maxwell to a slightly above-Guidelines term of 240 months’ 
+imprisonment. 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page23 of 26
+
+24 
+We review a sentence for both procedural and substantive 
+reasonableness, which “amounts to review for abuse of discretion.”52  
+We have explained that procedural error is found when a district court 
+“fails to calculate (or improperly calculates) the Sentencing Guidelines 
+range, treats the Sentencing Guidelines as mandatory, fails to consider 
+the [Section] 3553(a) factors, selects a sentence based on clearly 
+erroneous facts, or fails adequately to explain the chosen sentence.”53 
+The District Court did none of that. It is important to emphasize that 
+the Sentencing Guidelines “are guidelines—that is, they are truly 
+advisory.”54 A District Court is “generally free to impose sentences 
+outside the recommended range” based on its own “informed and 
+individualized judgment.”55 
+With respect to the four-level leadership enhancement, the District 
+Court found that Maxwell “supervised” Sarah Kellen in part because 
+of testimony from two of Epstein’s pilots who testified that Kellen was 
+Maxwell’s assistant. The District Court found that testimony credible, 
+in part because it was corroborated by other testimony that Maxwell 
+was Epstein’s “number two and the lady of the house” in Palm Beach, 
+ 
+52 United States v. Cavera, 550 F.3d 180, 187 (2d Cir. 2008) (en banc). “Regardless of whether 
+the sentence imposed is inside or outside the Guidelines range, the appellate court must 
+review the sentence under an abuse-of-discretion standard.” Gall v. United States, 552 U.S. 
+38, 51 (2007).  
+53 United States v. Robinson, 702 F.3d 22, 38 (2d Cir. 2012). 
+54 Cavera, 550 F.3d at 189. 
+55 Id.  
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page24 of 26
+
+25 
+where much of the abuse occurred and where Kellen worked.56 We 
+therefore hold that the District Court did not err in applying the 
+leadership enhancement. 
+With respect to the length of the sentence, the District Court 
+properly discussed the sentencing factors when imposing the 
+sentence, and described, at length, Maxwell’s “pivotal role in 
+facilitating the abuse of the underaged girls through a series of 
+deceptive tactics.”57 The District Court recognized that the sentence 
+“must reflect the gravity of Ms. Maxwell’s conduct, of Ms. Maxwell’s 
+offense, the pivotal role she played in facilitating the offense, and the 
+significant and lasting harm it inflicted.”58 And the District Court 
+explained that “a very serious, a very significant sentence is necessary 
+to achieve the purposes of punishment” under 18 U.S.C. § 3553(a). In 
+sum, the District Court did not err by failing to adequately explain its 
+sentence.  
+ 
+CONCLUSION 
+To summarize, we hold as follows: 
+ 
+56 A-417. 
+57 SA-459. 
+58 SA-461. 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page25 of 26
+
+26 
+1.  The District Court did not err in holding that Epstein’s NPA 
+with USAO-SDFL did not bar Maxwell’s prosecution by USAO-
+SDNY. 
+2. The District Court did not err in holding that the Indictment 
+was filed within the statute of limitations.  
+3. The District Court did not abuse its discretion in denying 
+Maxwell’s Rule 33 motion for a new trial. 
+4. The District Court’s response to a jury note did not result in a 
+constructive amendment of, or prejudicial variance from, the 
+allegations in the Indictment.  
+5. The District Court’s sentence was procedurally reasonable.  
+For the foregoing reasons, we AFFIRM the District Court’s June 
+29, 2022, judgment of conviction. 
+ 
+Case 22-1426, Document 109-1, 09/17/2024, 3634097, Page26 of 26
+
+    UNITED STATES COURT OF APPEALS 
+FOR THE 
+SECOND CIRCUIT 
+                      _____________________________________________ 
+ 
+ 
+At a stated term of the United States Court of Appeals for the Second Circuit, held at the 
+Thurgood Marshall United States Courthouse, 40 Foley Square, in the City of New York, on the                
+25th day of November, two thousand twenty-four. 
+ 
+________________________________________ 
+United States of America,  
+ 
+                     Appellee, 
+ 
+v.  
+ 
+Ghislaine Maxwell, AKA Sealed Defendant 1,  
+ 
+                     Defendant - Appellant. 
+_______________________________________ 
+  
+ 
+ 
+ 
+ORDER 
+Docket No: 22-1426 
+                      
+Appellant, Ghislaine Maxwell, filed a petition for panel rehearing, or, in the alternative, 
+for rehearing en banc.  The panel that determined the appeal has considered the request for panel 
+rehearing, and the active members of the Court have considered the request for rehearing en banc. 
+ 
+            IT IS HEREBY ORDERED that the petition is denied. 
+ 
+ 
+ 
+ 
+ 
+ 
+FOR THE COURT: 
+Catherine O'Hagan Wolfe, Clerk 
+ 
+ 
+Case 22-1426, Document 120, 11/25/2024, 3637560, Page1 of 1

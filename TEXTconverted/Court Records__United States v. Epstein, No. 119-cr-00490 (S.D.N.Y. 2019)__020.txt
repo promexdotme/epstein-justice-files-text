@@ -1,0 +1,1394 @@
+METADATA_SOURCE: Court Records\United States v. Epstein, No. 119-cr-00490 (S.D.N.Y. 2019)
+METADATA_FILENAME: 020.pdf
+----------------------------------------
+1
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+------------------------------x 
+UNITED STATES OF AMERICA,               New York, N.Y. 
+ 
+           v.                           19 Cr. 490(RMB) 
+ 
+JEFFREY EPSTEIN, 
+ 
+               Defendant.
+      
+------------------------------x         Conference 
+ 
+                                        July 8, 2019 
+                                        1:20 p.m. 
+ 
+ 
+Before: 
+ 
+HON. HENRY B. PITMAN, 
+ 
+                                        Magistrate Judge 
+ 
+ 
+APPEARANCES 
+ 
+GEOFFREY S. BERMAN  
+     United States Attorney for the 
+     Southern District of New York 
+BY:  ALEXANDER ROSSMILLER   
+     ALISON J. MOE 
+     MAURENE R. COMEY 
+     Assistant United States Attorneys 
+ 
+STEPTOE & JOHNSON, LLP 
+     Attorneys for Defendant   
+BY:  REID H. WEINGARTEN 
+ 
+MARTIN G. WEINBERG 
+     Attorney for Defendant 
+ 
+MARC FERNICH 
+     Attorney for Defendant  
+ 
+ 
+Also Present: 
+ 
+Special Agent Amanda Young, FBI  
+Detective Paul Byrne, NYPD 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 1 of 24
+
+2
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+(Case called)
+THE DEPUTY CLERK:  Counsel, please state your name for
+the record.
+MR. ROSSMILLER:  Good afternoon, your Honor.  For the
+government, Alex Rossmiller, Alison Moe, and Maurene Comey.
+With us are Special Agent Amanda Young of the F.B.I. and
+Detective Paul Byrne, NYPD task force officer.
+THE COURT:  Okay.
+MR. WEINGARTEN:  Good afternoon, your Honor.  For
+Jeffrey Epstein, Reid Weingarten from the law firm of Steptoe &
+Johnson.
+MR. WEINBERG:  Good afternoon, your Honor.  Martin
+Weinberg.  I'm an attorney from Boston, Massachusetts; and,
+with your Honor's permission, I will be filing a pro hac vice
+to represent Mr. Epstein.
+THE COURT:  Okay.
+MR. FERNICH:  Good afternoon, your Honor.  Marc
+Fernich, New York, New York, also for Mr. Epstein.
+THE COURT:  All right.  I have spoken to Judge Berman.
+The matter has been referred to me for the initial appearance,
+arraignment, and bail.
+Mr. Epstein, my name is Magistrate Judge Pitman.  The
+purpose of this proceeding is to inform you of certain rights
+that you have, to inform you of the charges against you, to
+consider whether counsel should be appointed for you, and to
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 2 of 24
+
+3
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+decide under what conditions, if any, you should be released.
+Can I have the date and time of arrest, please? 
+MR. ROSSMILLER:  Yes, your Honor.  The defendant was
+arrested on Saturday, July 6, at approximately 5:30 p.m.
+THE COURT:  Thank you.
+Mr. Epstein, you have the right to remain silent.  You
+are not required to make any statements.  Even if you have made
+any statements to the authorities, you need not make any
+further statements.  Anything you do say can be used against
+you.
+You have the right to be released, either 
+conditionally or unconditionally, pending trial unless I find 
+that there are no conditions or combination of conditions that 
+would reasonably assure your presence in court and the safety 
+of the community.   
+You have the right to be represented by counsel during 
+all court proceedings, including this one, and during all 
+questioning by the authorities.  If you cannot afford an 
+attorney, I will appoint one to represent you.   
+It is my understanding that you are being represented 
+by retained counsel.  I want to advise you that the right to 
+the appointment of counsel is an ongoing right that you possess 
+throughout these proceedings.  If at any time you are unable to 
+continue with retained counsel for financial reasons, you can 
+apply to the court at any time for the appointment of counsel. 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 3 of 24
+
+4
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+Do you understand that?
+THE DEFENDANT:  Yes, your Honor.
+THE COURT:  Mr. Epstein, you are charged in an
+indictment in two counts.
+Count One charges you with a sex trafficking 
+conspiracy in violation of Title 18 United States Code § 371.   
+Count Two charges with you with the substantive 
+offense of sex trafficking in violation of Title 18 United 
+States Code § 1591. 
+Mr. Weingarten, are you going to be lead counsel here
+today?  
+MR. WEINGARTEN:  Yes, your Honor.
+THE COURT:  Mr. Weingarten, have you received a copy
+of the indictment?
+MR. WEINGARTEN:  Yes, your Honor.
+THE COURT:  Have you reviewed it with your client?  
+MR. WEINGARTEN:  Yes, your Honor.
+THE COURT:  Do you waive its reading?  
+MR. WEINGARTEN:  Yes, your Honor.  
+THE COURT:  Mr. Epstein, how do you plead?
+THE DEFENDANT:  Not guilty, your Honor.
+THE COURT:  Because the defendant has been indicted,
+there will be no preliminary hearing, and that takes us to the
+question of bail.  In that regard, I have received the Pretrial
+Services report.  I have also received a letter from the
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 4 of 24
+
+5
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+government dated July 8, 2019.
+I take it all counsel have the same documents? 
+MR. WEINGARTEN:  Yes, your Honor.
+THE COURT:  I will hear from the government first, and
+then I will hear from defense counsel.
+MR. ROSSMILLER:  Yes, your Honor.  
+The government intends to seek detention, and I am 
+happy to explain the reasons why.  Would the court prefer that 
+I speak from the table or from the podium? 
+THE COURT:  Whatever your pleasure is.
+MR. ROSSMILLER:  Your Honor, the defendant poses an
+extraordinary risk of flight and danger presented by him.
+Given the charges and the characteristics of the defendant, he
+simply cannot reasonably be expected to appear in court if he
+is granted bail.  Accordingly, the government joins the
+recommendation of Pretrial Services that the defendant be
+detained pending trial for a number of reasons.
+Starting with the conduct alleged, the defendant is 
+charged with trafficking minors for sex acts, as the court 
+explained, in violation of 18 United States Code § 591, and is 
+charged with a count of conspiracy to traffic minors for sex 
+acts in violation of 18 U.S.C. 371.   
+In particular, the indictment charges that the 
+defendant engaged in a years-long scheme to sexually abuse 
+underage girls, paying minor girls to themselves be abused, and 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 5 of 24
+
+6
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+also paying certain victims to recruit other girls to be 
+subject to the defendant's sexual abuse.   
+The indictment alleges that the defendant undertook 
+this conduct at at least two locations, including his mansion 
+in Manhattan and his estate in Palm Beach, Florida.  In both 
+locations, victims were initially recruited to provide massages 
+to the defendant, which would be performed nude or partially 
+nude, would become increasingly sexual in nature, and would 
+typically include one or more sex acts, including contact with 
+the victims' genitals.  These victims, who were often 
+particularly vulnerable, were as young as 14, and the defendant 
+knew he was abusing underage girls.  The indictment further 
+alleges that the defendant perpetrated these crimes by working 
+with others, including employees and associates who facilitated 
+these abusive encounters.   
+Regarding the defendant himself, your Honor, he is 
+extraordinarily wealthy, mobile, and unattached to the Southern 
+District of New York.  He maintains at least six residences in 
+the United States and abroad, including the ownership of a 
+private island in the U.S. Virgin Islands and a residence in 
+Paris, France.  Among other things, the defendant owns two 
+private jets and routinely uses them to travel abroad.  He is a 
+man of nearly infinite means, your Honor; and, as set forth in 
+our submission, he has tremendous incentives to use those means 
+to flee prosecution. 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 6 of 24
+
+7
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+The government notes as an initial matter that this is
+a presumption case because sex trafficking is charged; and,
+moreover, each of the four factors to be considered in the
+detention analysis strongly militates towards pretrial
+detention.
+So starting with the nature and seriousness of the
+offense, as previously discussed, the nature and circumstances
+of the crime are the most serious crime that this court sees.
+The defendant is alleged to have spent years sexually abusing
+minors in multiple locations and with dozens of victims.
+The seriousness of the charge is also reflected in the 
+potential penalties, which include up to 45 combined years of 
+incarceration on Counts One and Two, and the likelihood of a 
+substantial period of incarceration is supported by the fact 
+that the government's evidence is strong.  There are multiple 
+individual identified victims in the indictment, numerous 
+specified overt acts, and dozens of overall victims alleged.   
+In order to protect the privacy of the victims, your 
+Honor, I'm not going to go into detail about particular 
+victims, but we can say that information provided by victims 
+has been detailed, it has been credible, and it has been 
+corroborated by other witnesses and contemporaneous documents 
+and records, including from a recent search of the defendant's 
+Manhattan mansion, as I will discuss further in a moment. 
+Separately, your Honor, in just the last 36 hours,
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 7 of 24
+
+8
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+that is, post charge, we have been contacted by multiple
+attorneys and several additional individuals who have
+identified themselves as victims and are interested in speaking
+with the government, none of whom the government has previously
+spoken with.
+Your Honor, the defendant is 66 years old.  He is 
+charged with appalling crimes, and those charges are supported 
+by significant evidence, including victim and witness testimony 
+and damning record evidence.  He faces the very real prospect 
+of spending the rest of his life in prison.  He has every 
+motivation in the world to flee, and he has the means to do it.   
+And I will note for the court that this is a case 
+where the government has really put its money where its mouth 
+is on the risk of flight.  This district took extraordinary 
+efforts to maintain the covert status of its investigation for 
+many months due to the risk of flight of the defendant -- not a 
+single media report, not a single public statement, no appeals 
+for victims to come forward because of precisely the flight 
+risks we are discussing now.   
+Turning to the characteristics of the defendant, your 
+Honor, some individuals who face significant charges lack the 
+means to flee.  Not this defendant.  As set forth in the 
+government's submission, in the defendant's most recent sex 
+offender registration, he lists six residences worth tens or 
+hundreds of millions of dollars, including a residence abroad.   
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 8 of 24
+
+9
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+The defendant has refused to answer any questions 
+about his income or assets for the Pretrial Services report, so 
+the scope of his wealth and his assets remains entirely 
+concealed to the government and to the court.  But the 
+defendant certainly has access to endless means to flee, 
+including two private jets.  He has no meaningful family ties, 
+and any argument that his properties would keep him in the 
+United States ignores his ability to simply leave those 
+properties behind in favor of moving beyond the reach of U.S. 
+authorities to live off his extensive wealth abroad, extensive 
+wealth, I should add, that the court doesn't even have any 
+accounting of.  He travels abroad extensively, has a residence 
+in France, and all of those factors further contribute to the 
+risk of flight. 
+With respect to danger and obstruction, again, this is
+a presumption case, and not only is the defendant charged with
+the sexual abuse of minors, he has previously pled guilty to
+solicitation of an underage girl.  This court knows that
+defendants are routinely detained in this district when facing
+such charges and that this is not an unusual position for the
+government to take.
+It is further concerning that there are credible 
+allegations from the prior investigation that the defendant or 
+his agents engaged in witness tampering and harassment, and in 
+fact there is evidence that he was contemplating pleading 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 9 of 24
+
+10
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+guilty to that kind of offense in Florida.  Those allegations 
+include verbal harassment, evasion of legal process, and 
+forcing off the road the father of an individual relevant to 
+that investigation. 
+THE COURT:  Can you elaborate on that last point about
+forcing somebody off the road?
+MR. ROSSMILLER:  Your Honor, what we have is the
+record evidence from an underlying civil dispute in Florida
+that discusses this incident and discusses it in the context of
+a potential plea of the defendant to obstruction or harassment
+charges.  The government sets before this court that if the
+defendant was willing to undertake such measure simply as a
+result of an investigation, the potential for dangerous and
+obstructive activity in an indicted case is alarming and very
+real.
+Despite having been previously convicted of a sex
+offense involving an underage victim and being a registered sex
+offender, the defendant has continued to maintain a vast trove
+of lewd photography of young-looking women or girls at his
+mansion.  Your Honor, pursuant to judicially authorized
+warrants, law enforcement agents searched his home on Saturday
+and found at least hundreds, and perhaps thousands, of sexually
+suggestive photographs of nude females, many of whom appear to
+be underage.  
+I also want to note that the search revealed specific 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 10 of 24
+
+11
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+evidence from his home consistent with victim accounts.  Even 
+the room where the abuse occurred, your Honor, the massage 
+room, was still set up in the same way it was 15 years ago, 
+with a massage table and sex paraphernalia.   
+And with respect to the photographs -- 
+THE COURT:  When you say the evidence was consistent
+with victim accounts, is it limited to the massage table and
+massage room or is there something else?
+MR. ROSSMILLER:  Descriptions of the massage room and
+the massage table, that's correct, your Honor.
+THE COURT:  Okay.  All right.
+MR. ROSSMILLER:  With respect to the photographs, your
+Honor, some of those were found in a locked safe which also
+held electronic disks with labels that included the words
+"Young Miscellaneous Nudes 1" and "Girl Pics Nude."  
+Your Honor, this is not an individual who has left his 
+past behind.  He is a continuing danger to the community and an 
+extraordinary risk of flight and, for those reasons, the 
+government joins the pretrial recommendation that the defendant 
+be detained pending trial. 
+THE COURT:  All right.  Thank you.
+Mr. Weingarten. 
+MR. WEINGARTEN:  Thank you, your Honor.  I will use
+the podium, if that's okay.
+THE COURT:  That's fine.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 11 of 24
+
+12
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+MR. WEINGARTEN:  So your Honor, I would like to start
+by providing some context, and then I'm going to make a
+suggestion as to how we proceed.
+The beginning here is 2005 in Florida.  That's when an
+allegation was received by the local police that Mr. Epstein
+was engaged in sexual conduct for money, prostitution.
+Thereafter, there was a very sophisticated three-year
+investigation by law enforcement, including locals and feds,
+into Mr. Epstein's conduct.  Numerous girls were interviewed,
+employees were interviewed, and it is fair to say that a
+significant segment of the law enforcement community in Florida
+thought what we had in hand was simple prostitution.  There was
+no coercion.  There were no threats.  There was no violence.
+And it is also fair to say that a significant portion of the
+law enforcement community in Florida believed that a local
+misdemeanor was the appropriate sanction.
+Now, it is also --
+THE COURT:  Did you represent Mr. Epstein in the
+Florida investigation?
+MR. WEINGARTEN:  No, but I'm familiar with the
+records.
+THE COURT:  All right.
+MR. WEINGARTEN:  It is also true that there was a
+contrary view largely taken by the feds, and what ensued was a
+complex set of discussions and negotiations and finally an
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 12 of 24
+
+13
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+agreement, an agreement that was consummated and agreed to all
+the way up to main justice at a very, very high level.
+The agreement involved a plea in state court to 
+soliciting an underaged girl, which would require registration, 
+compensation paid to alleged victims, and an NPA from the feds, 
+in other words, a declination by the federal government, an 
+agreement that was approved all the way up in main justice and 
+it sure seemed like a global solution at the time to everyone 
+involved, including my client. 
+What happened since then?  Mr. Epstein continued a
+life of success, generosity, creativity and, more important, a
+law-abiding life from 2008 forward.  How do we know?  Because
+when you are in registration the way he is, every single night
+his whereabouts are known.  There is constant reporting,
+constant monitoring, and absolutely, to our knowledge, no
+complaints by anybody from that moment forward about his
+conduct until we have arrived in court here.
+Now, what has happened in court from that moment?
+There have been lawsuits, many of them ludicrous, dismissed out
+of hand.  But when something like this happens, a lot of stuff
+comes out of the woodwork, and there were lawsuits that
+Mr. Epstein settled also in the normal course.
+There was one particular litigation that leads to this 
+occasion, and that is, under the Crime Victims Rights Act, that 
+act simply says that victims have a right to be consulted by 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 13 of 24
+
+14
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+the United States, and there are alleged victims in this case 
+who complain that they were not, and there has been extensive 
+litigation in the Southern District of Florida before      
+Judge Marra on that very subject.  In fact, the judge concluded 
+that the prosecutors from the Southern District of Florida did 
+not adequately notify some of the victims about the ongoing 
+discussions and the consummation of the deal and, in 
+particular, the NPA.  The United States took the position that 
+they had no responsibility to do so, that they had treated the 
+victims properly, and that matter continues to this day. 
+The consequences of that matter are overwhelming,
+because the judge suggested, I think three times, that the NPA,
+the declination, could be voided.  And we think about that for
+a second.  So a defendant negotiates what he thinks is a global
+solution with the feds.  He does his time --
+THE COURT:  Does the nonprosecution agreement in
+Florida -- the nonprosecution agreements in the Southern
+District routinely say they are limited to the Southern
+District of New York.
+MR. WEINGARTEN:  Obviously --
+THE COURT:  Is there a similar provision in the
+Florida agreement?
+MR. WEINGARTEN:  I don't want to misstate.  It is not
+before me.  It is obviously going to be an important part of
+the pretrial motions.  What is for sure is that there was --
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 14 of 24
+
+15
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+the negotiation with the Southern District included
+negotiations with main justice.  What's also true is the
+investigation extended into the Southern District of New York
+and elsewhere in terms of girls being interviewed.
+So obviously your question is relevant and will be 
+part of the pretrial litigation for sure.  But what matters 
+here and for now is there certainly was a belief that there was 
+a global solution based upon the facts on the ground. 
+THE COURT:  Have you seen the Florida nonprosecution
+agreement?
+MR. WEINGARTEN:  Yes.
+THE COURT:  And --
+MR. WEINGARTEN:  I don't have it before me.  I don't
+want to make a specific representation and not be completely
+accurate.
+THE COURT:  Okay.  All right.  Go ahead.
+MR. WEINGARTEN:  The consequences of this are huge in
+that if in fact there is a negotiation with a defendant, the
+defendant does his time, the defendant pays his victim, and the
+defendant spends ten years on the registration list and
+prosecutors don't adequately notify the victims, how in the
+world can that deal be undone?  Every prosecutor in the world
+has to oppose that possibility.  No defense attorney in their
+right mind would negotiate a deal with that potential
+consequence.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 15 of 24
+
+16
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+So this is a huge problem for the department and what 
+solution ensues, and I suggest the solution that ensued is this 
+indictment.  To us, this indictment is essentially a do-over.  
+The allegations are from 2002 to 2005.  This is old stuff.  
+This is ancient stuff.  This is the very stuff that was 
+investigated by the feds in Florida, a sophisticated three-year 
+investigation.  Two of the alleged victims in this indictment 
+are from Florida.  The indictment here tracks the conduct that 
+was investigated in Florida back before the agreement was 
+reached.  Obviously we need to get discovery to find out just 
+how inextricably linked the investigation back in Florida is 
+with what's going on here.  We do know we are talking about 
+ancient conduct.  We do know we are talking about facts that 
+are from 2002 to 2005, facts that were known to the United 
+States prosecutors before they entered into the NPA, the 
+declination.  This is essentially a redo.  That's how it feels 
+to us.  And if we are correct, that should chill the blood of 
+every defense attorney who negotiates a deal with the United 
+States. 
+In addition, we have -- the central allegation here is
+trafficking, and obviously it is useful and relevant to make
+inquiry as to why the trafficking law was passed.  It is to
+cover abhorrent conduct, where young girls are kidnapped, they
+are fooled, they are forced to come usually to unfamiliar
+places, work in brothels where they service 15, 20 guys in a
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 16 of 24
+
+17
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+day.  They can't leave or else their families are threatened.
+This is dreadful conduct.
+I remember an occasion when the Attorney General Eric 
+Holder and I think Director Comey had a press conference 
+establishing this as a law enforcement priority.  Every 
+sensible person in the world would think that this is the exact 
+right thing law enforcement should do.   
+This is not this case.  There was no violence.  There 
+was no coercion.  There was no intimidation.  There is no 
+deception.  The bottom line, if you take a fair look at the 
+facts of this case as alleged and in the record, you may come 
+to the conclusion there was prostitution involved and maybe a 
+lot of it, but that doesn't mean that the person involved is a 
+pedophile, a rapist or, heaven knows, a trafficker.  Just -- 
+THE COURT:  Well, if the women involved were under 18,
+isn't that rape?
+MR. WEINGARTEN:  My understanding --
+THE COURT:  Legally they are incapable of consent, are
+they not?
+MR. WEINGARTEN:  Well, it could be statutory rape.  
+But what I am talking about is trafficking and why the 
+statute was passed, and obviously the statute was passed to 
+protect women from the horrors that occur in such settings, and 
+that is light years removed to what happened in this case. 
+So what about bond?  I would suggest that the
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 17 of 24
+
+18
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+traditional issues that we look at, the issues involved, let's
+start with that, we believe we have extremely powerful motions
+relating to the government seeking two bites at the apple and
+for due process reasons, double jeopardy reasons, we don't
+think that will stand.  We also think fundamentally what's at
+issue here is not trafficking.  That's not why the statute was
+passed.
+The risk to others, what we have here is at least ten
+years post incarceration in the State of Florida of conduct
+that has never been challenged by anyone until now.  The
+registration requirements are onerous.  He is under constant
+surveillance.  Law enforcement knows, if they choose to look,
+exactly where he is at any time.
+The risk of flight, what is true is from the moment of 
+Judge Marra's litigation in the Southern District of Florida, 
+the defendant knew that there would be challenges to the NPA.  
+From 2013 on, there were representations made in court that 
+that challenge was ongoing, and the defendant never sought to 
+flee, never anticipated a time when he would flee, continued to 
+live his law-abiding life.  So the risk of flight, I think, is 
+dramatically overstated in the government's presentation.   
+I think the traditional remedies that the court finds 
+appropriate in case after case -- a large cash bond; passport 
+relinquished; waiving extradition; a bracelet on; some form of 
+supervision that is adequate to guarantee his appearance, it 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 18 of 24
+
+19
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+will be child's play to find that; bonds from other people, 
+surety bonds from other people.   
+Because we have not had an opportunity to see our 
+client until today and because we have just received the 
+government's submission, what we would like to do is have the 
+opportunity to sit down and put together a bail package, a 
+coherent bail package in writing and provide it to the court.   
+I would point out on the obstruction allegation -- 
+THE COURT:  Let me ask you this -- sorry to interrupt
+you -- do you want to adjourn the detention hearing?  Under the
+statute, you have up to three days.
+MR. WEINGARTEN:  What I would like is to have until
+the end of the week to provide something in writing, a specific
+recommendation in writing.
+THE COURT:  So you want to adjourn a determination of
+bail?
+MR. WEINGARTEN:  Yes.
+THE COURT:  Is there any objection to that from the
+government?  The defendant is detained in the interim under
+3142(f).
+MR. WEINGARTEN:  Right.
+MR. ROSSMILLER:  Your Honor, we certainly don't object
+if the defendant is consenting to detention with leave to make
+a further application.
+I think the government would like at least a brief 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 19 of 24
+
+20
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+opportunity to respond to some of those points, to the extent 
+that the defense is arguing that Mr. Epstein should be granted 
+bail as a general matter and the court is going to consider 
+those arguments. 
+THE COURT:  Well, the court always considers the
+parties' arguments.  
+But let me just come back to Mr. Weingarten for a 
+minute.  Mr. Weingarten, under the Bail Reform Act you are 
+entitled to a continuance of three days, which I guess would 
+take us to Thursday. 
+MR. WEINGARTEN:  Right.
+THE COURT:  The other alternative, I guess, if you
+want to de facto extend that three days is consent to detention
+without prejudice.
+MR. WEINGARTEN:  We estimated that by Thursday we
+could get you something in writing and then appear back before
+you at your convenience.
+THE COURT:  Okay.  Do you want to schedule it -- well,
+I think Thursday's proceedings right now would be in front of
+Judge Berman unless he wants to send it back to me for bail,
+but do you want to put this down for detention hearing on
+Thursday?
+MR. WEINGARTEN:  Can I make one point that I don't
+want to forget that I think is extremely important?
+THE COURT:  Go ahead.
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 20 of 24
+
+21
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+MR. WEINGARTEN:  The last thing we did today was
+refuse to answer questions.  What we said at Pretrial is heaven
+forbid we make a mistake, and in terms of assets, we wanted to
+be precise.  So there was no refusal.  There was a request for
+time to supplement.  That was accepted.  And that's part of the
+reason we want to sit down and make sure we get our information
+correct to provide to the court.
+THE COURT:  All right.
+MR. WEINGARTEN:  Can I make one other point?
+THE COURT:  Sure.
+MR. WEINGARTEN:  In terms of the obstruction, I think
+it is such a significant part of our argument that the conduct
+at issue is ancient.  It is from 2002 to 2005.  So obviously if
+the defendant is a threat to obstruct justice, the court needs
+to take that into account.  The allegations raised -- and I
+just read them briefly because we just got the government's
+letter -- relate to negotiations between the feds and the
+defendant.  Back when the Southern District of Florida was
+attempting to find an appropriate remedy, there were
+discussions going back and forth:  Can we squeeze you into this
+statute?  And it didn't work, and it didn't work because there
+is no factual basis.  That is the reference to the alleged
+obstruction.  Not obstructive acts.  Instead, the feds in
+Florida agreed to the plea to the state offense because there
+was no appropriate statute that covered conduct that was
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 21 of 24
+
+22
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+proveable.  That is the answer to the obstruction issue.
+THE COURT:  All right.  So you want to adjourn the
+detention hearing until Thursday?
+MR. WEINGARTEN:  Yes.
+THE COURT:  All right.  Is there any objection to that
+from the government?  I think under the statute he is entitled
+to three days.
+MR. ROSSMILLER:  That is, of course, fine, your Honor.  
+I think we would like just a very brief opportunity to 
+respond to some of those arguments so that they don't sort of 
+hang with the court for three days unresponded to. 
+THE COURT:  All right.  Go ahead.
+MR. ROSSMILLER:  Just very briefly, your Honor, I
+think a lot of that discussion was entirely orthogonal to the
+issues here.  
+But just very briefly, with respect to the charges 
+here, there is simply no force required for underage victims.  
+A grand jury has properly returned an indictment, and these are 
+fact issues that are being presented in large part.   
+Certainly the concept of child prostitution is, 
+frankly, offensive and not recognized in federal law.  The idea 
+that children can consent to sex and be prostitutes is beyond 
+the realm of federal law which contemplates trafficking, which 
+is what has been charged here.  Mr. Weingarten is free to argue 
+to a jury that trafficking minors was only statutory rape or 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 22 of 24
+
+23
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+that those victims weren't treated as badly as the parade of 
+horribles he has in mind.  But for now the question is whether 
+the defendant's attendance can be assured.   
+And with respect to the nonprosecution agreement -- 
+THE COURT:  I'm not sure I would refer to something as
+only statutory rape.  The use of the word "only" before
+"statutory rape" I'm not sure sits well.  But go ahead.
+MR. ROSSMILLER:  And I agree, your Honor.
+With respect to the actual substance, the Southern
+District of Florida has represented in public filings that the
+nonprosecution agreement was limited to the Southern District
+of Florida, and we can litigate that in a motion to dismiss,
+but it is simply not relevant here.
+With respect to the statute of limitations, 
+Mr. Weingarten says that the conduct is old.  He did not say 
+that that it is beyond the statute of limitations because it is 
+not.   
+And, finally, it is not the same conduct.  Some of the 
+conduct overlaps.  Some of the conduct does not.  And in 
+particular, one of the two counts of the indictment is 
+predicated exclusively on New York victims.   
+So for all of those reasons, we just ask the court to 
+consider those responses as it awaits the defendant's filings 
+later this week. 
+MR. WEINGARTEN:  Can I just make one point to clarify?
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 23 of 24
+
+24
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+j782epsC kjc
+ 
+THE COURT:  Go ahead.
+MR. WEINGARTEN:  On the statutory rape thing, I had a
+senior moment.  There is no statutory rape because there is no
+penetration, and that is the answer to that question.
+THE COURT:  All right.
+We will set this down for a detention hearing on
+Thursday, July 11, for the continuation of the detention
+hearing.  Thursday, July 11, at 2 p.m.
+The defendant is detained at least until the 
+continuation of the detention hearing pursuant to 18 United 
+States Code 3142(f).   
+I have been advised by Judge Berman that he wants to 
+see counsel right after these proceedings.  Judge Berman's 
+courtroom is 17B.  So counsel and Mr. Epstein should go to 17B.   
+All right.  Anything else from the government? 
+MR. ROSSMILLER:  Your Honor, ordinarily we would ask
+to exclude speedy trial time, but I think because we are going
+directly to Judge Berman, we have no such application.
+THE COURT:  Mr. Weingarten, anything else?
+MR. WEINGARTEN:  No, thank you, your Honor.
+THE COURT:  Mr. Weingarten, anything else?
+MR. WEINGARTEN:  No, your Honor.
+THE COURT:  All right.  Thank you all.
+ 
+oOo 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:19-cr-00490-RMB     Document 20     Filed 07/16/19     Page 24 of 24

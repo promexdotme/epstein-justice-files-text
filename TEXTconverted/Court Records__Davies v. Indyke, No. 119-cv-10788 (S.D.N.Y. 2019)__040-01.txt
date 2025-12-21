@@ -1,0 +1,122 @@
+METADATA_SOURCE: Court Records\Davies v. Indyke, No. 119-cv-10788 (S.D.N.Y. 2019)
+METADATA_FILENAME: 040-01.pdf
+----------------------------------------
+ 
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ 
+ 
+JANE DOE 15, 
+ 
+Plaintiff,  
+-v-  
+ 
+DARREN K. INDYKE and RICHARD D. KAHN, 
+as Executors of the Estate of Jeffrey E. Epstein, 
+ 
+Defendants. 
+ 
+ 
+ 
+ 
+19 Civ. 10653 (PAE) 
+ 
+ORDER 
+ 
+ 
+ 
+PAUL A. ENGELMAYER, District Judge:  
+In this diversity action, plaintiff Jane Doe 15 (“Doe”)1 brings claims of battery, assault, 
+and intentional infliction of emotional distress against Darren K. Indyke and Richard D. Kahn, in 
+their capacities as co-executors of the estate of Jeffrey Epstein.  These claims arise from Doe’s 
+allegations of sexual trafficking and abuse perpetrated against her by Epstein in 2004, when she 
+was age 15.  Doe alleges that Doe visited Epstein’s Manhattan townhouse in New York City, 
+where Epstein’s secretary photographed her and groomed her for future sexual exploitation; on 
+Epstein’s behalf, the secretary later invited Doe to visit Epstein at his ranch in New Mexico, and 
+arranged Doe’s visit.  See Dkt. 1 (“Cmplt.”) ¶¶ 2–4, 25–26, 30–37.  Epstein’s sexual abuse of 
+Doe occurred during the visit to the New Mexico ranch that ensued.  Id. ¶¶ 5–6, 41–69. 
+The defendants have filed a partial motion to dismiss, directed solely at Doe’s prayer for 
+punitive damages.  They argue that New Mexico law governs Doe’s claims, and that under New 
+Mexico law, punitive damages are unavailable in a personal injury action against the personal 
+                                               
+1 Doe has been granted leave to proceed pseudonymously.  Dkt. 22. 
+ 
+Case 1:19-cv-10653-PAE-DCF   Document 39   Filed 04/30/20   Page 1 of 4
+Case 1:19-cv-10788-GHW-DCF     Document 40-1     Filed 04/30/20     Page 1 of 4
+
+ 
+2 
+ 
+representative of an estate.  See Dkt. 18 (motion); Dkt. 19 (memorandum of law in support); 
+Dkt. 34 (reply).  Doe opposes that motion.  Dkt. 29 (memorandum of law in opposition). 
+The Court grants defendants’ motion.  The Court’s analysis substantially tracks the 
+analysis in a memorandum and opinion it issued earlier this week granting a motion seeking the 
+same relief in another case in which a plaintiff has brought the same personal injury claims 
+against the executors arising from sexual abuse Epstein allegedly perpetrated on her.  See Mary 
+Doe v. Indyke and Kahn, 19 Civ. 10758 (PAE) (“Mary Doe”); see id. Dkt. 38 (“Mary Doe Op.”) 
+(issued April 28, 2020).  The Court here incorporates that decision by reference. 
+In Mary Doe, Epstein’s abuse was alleged to have occurred in his Manhattan townhouse.  
+The Court noted that the New York statute that authorizes personal injury actions against the 
+personal representative of the decedent precludes punitive damages in such actions, see Mary 
+Doe Op. at 4 (citing New York Estates, Powers and Trusts Law (“EPTL”) § 11-3.2(a)(1)), and 
+required dismissal of Mary Doe’s prayer for such damages, id. at 4–6.  The Court rejected Mary 
+Doe’s counter-arguments: that defendants’ motion was premature, id. at 6–7, and improperly 
+styled as a motion to dismiss, id. at 7–9, and that the law of the United States Virgin Islands 
+(“USVI”), where Epstein’s estate is being probated, applies, and permits punitive damages 
+against an estate in such an action, id. at 9–16.  As to the final argument, the Court noted that 
+under New York choice-of-law rules, the substantive law of the location of the tortious conduct 
+occurred generally applies as to punitive damages, and that there was no reason to depart from 
+that rule here, id. at 9–14.  In any event, the Court held, it is likely that, as a matter of common 
+law, the USVI—like New York, the majority of states, and Restatement (Second) of Torts 
+§ 908—would not allow imposition of punitive damages on a tortfeasor’s estate, id. at 14-16. 
+Case 1:19-cv-10653-PAE-DCF   Document 39   Filed 04/30/20   Page 2 of 4
+Case 1:19-cv-10788-GHW-DCF     Document 40-1     Filed 04/30/20     Page 2 of 4
+
+ 
+3 
+ 
+The parties in this case are represented by the same counsel as in Mary Doe, and make 
+substantially the same arguments for and against dismissal.  The one variation is that, because 
+Epstein’s abuse is alleged to have occurred at the New Mexico ranch, defendants argue that New 
+Mexico law applies.  See Dkt. 19 at 2–6; Dkt. 34 at 5–8.  But that, defendants argue, does not 
+change the result, because New Mexico common law as announced by the state supreme court, 
+like EPTL § 11-3.2(a)(1), bars punitive damages in a personal injury action against a tortfeasor’s 
+estate.  See Jaramillo v. Providence Wash. Ins. Co., 871 P.2d 1343, 1351–52 (N.M. 1994) 
+(canvassing laws; noting that “punishment and deterrence are not accomplished by enabling 
+recovery of punitive damages from the estate of deceased tortfeasors”; and adopting majority 
+rule that “[w]hen the tortfeasor cannot be punished for his culpable behavior, punitive damages 
+no longer have the desired effect and, therefore, the victim loses the legal entitlement to recover 
+those damages”); see also Barbara R. as next friend of S.R. v. Couch, No. 03 Civ. 1225 (MCA) 
+(WDS), 2006 WL 8443923, at *28 (D.N.M. Sept. 30, 2006) (citing Jaramillo and noting that 
+“[t]he rationale behind this rule is that ‘to punish the estate ignores the central purpose of 
+punitive damages, which is to punish the tortfeasor and to deter him from repeating the wrongful 
+act”).  Doe, for her part, does not dispute that New Mexico law mirrors New York law.  Instead, 
+in opposing dismissal, she makes the same three arguments as in Mary Doe.   
+The Court again finds punitive damages unavailable as a matter of law and plaintiffs’ 
+counter-arguments unavailing.  As to the third argument, relating to choice of law, unlike in 
+Mary Doe, there is indeed room for debate about which jurisdiction’s law applies.  But the 
+debate is between New York (where the grooming process began) and New Mexico (where the 
+sexual abuse occurred).  And under either state’s law, imposition of punitive damages on the 
+Case 1:19-cv-10653-PAE-DCF   Document 39   Filed 04/30/20   Page 3 of 4
+Case 1:19-cv-10788-GHW-DCF     Document 40-1     Filed 04/30/20     Page 3 of 4
+
+ 
+4 
+ 
+Epstein estate is squarely prohibited.  Doe does not have any stronger argument than did Mary 
+Doe that USVI law applies in her case, or, if it did, that it would permit such damages. 
+The Court, accordingly, grants defendants’ motion to dismiss the prayer for punitive 
+damages.  The Clerk of Court is respectfully directed to terminate the motion pending at Dkt. 18. 
+ 
+SO ORDERED. 
+____________________________ 
+Paul A. Engelmayer 
+United States District Judge 
+ 
+Dated: April 30, 2020 
+ 
+New York, New York 
+Case 1:19-cv-10653-PAE-DCF   Document 39   Filed 04/30/20   Page 4 of 4
+Case 1:19-cv-10788-GHW-DCF     Document 40-1     Filed 04/30/20     Page 4 of 4
+PaJA.

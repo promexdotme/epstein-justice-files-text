@@ -1,0 +1,426 @@
+METADATA_SOURCE: Court Records\VE v. Nine East 71st Street, No. 119-cv-07625 (S.D.N.Y. 2019)
+METADATA_FILENAME: 038.pdf
+----------------------------------------
+-i- 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - X
+VE, 
+Plaintiff, 
+v. 
+DARREN K. INDYKE AND RICHARD D. 
+KAHN, AS JOINT PERSONAL 
+REPRESENTATIVES OF THE ESTATE OF 
+JEFFREY E. EPSTEIN, NINE EAST 71st 
+STREET, CORPORATION, FINANCIAL 
+TRUST COMPANY, INC., NES, LLC, 
+Defendants.
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+: 
+Index No. 1:19-cv-07625-AJN 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - X
+DEFENDANTS’ MEMORANDUM OF LAW IN SUPPORT OF   
+THEIR MOTION TO DISMISS PLAINTIFF’S FIRST AMENDED COMPLAINT 
+TROUTMAN SANDERS LLP 
+875 Third Avenue 
+New York, New York 10022 
+Tel: 212-704-6000 
+Fax: 212-704-6288 
+Attorneys for Defendants
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 1 of 16
+
+-i- 
+PRELIMINARY STATEMENT .................................................................................................... 1
+I.          ALLEGED FACTS ................................................................................................ 2
+II. 
+ARGUMENT ......................................................................................................... 3
+a. 
+Legal Standard: Plaintiff’s legal conclusions and contradictory 
+allegations are not accepted as true. ........................................................... 3
+b. 
+Plaintiff’s first battery claim (Count I) is time barred and must be 
+dismissed. ................................................................................................... 4
+c. 
+Plaintiff’s first battery claim must be dismissed because it is 
+duplicative of Plaintiff’s second battery claim. ......................................... 4
+d. 
+Plaintiff’s negligence claims against the Corporate Defendants 
+must be dismissed because they are based on conclusory 
+statements and impermissible group pleading—not facts. ........................ 5
+i. 
+Plaintiff’s “negligent security” claim against Nine East 
+(Count III) must be dismissed because it is based on labels 
+and conclusions and is contradicted by Plaintiff’s own 
+allegations. ..................................................................................... 6
+ii. 
+Plaintiff’s negligence claim against FTC (Count IV) must 
+be dismissed because it is also based on labels and 
+conclusions and is otherwise contradicted by Plaintiff’s 
+own allegations. ............................................................................. 7
+iii. 
+Plaintiff’s negligence claim against NES (Count V) must be 
+dismissed because it is based on conclusory allegations 
+made largely “upon information and belief.” ................................ 9
+e. 
+Plaintiff's claims for punitive damages must be dismissed because 
+they are precluded by NY EPTL § 11-3.2. .............................................. 10
+CONCLUSION ............................................................................................................................. 11
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 2 of 16
+
+-ii- 
+TABLE OF AUTHORITIES 
+ 
+Page(s) 
+Cases 
+Ashcroft v. Iqbal, 
+556 U.S. 662 (2009) ...........................................................................................................3, 6, 8 
+Bell Atl. Corp. v. Twombly, 
+550 U.S. 544 (2007) .......................................................................................................3, 5, 6, 8 
+Gilford v. NYS Office of Mental Health, 
+No. 17-CV-8033 (JPO), 2019 U.S. Dist. LEXIS 38450 (S.D.N.Y. Mar. 11, 
+2019) ..........................................................................................................................................8 
+Man Zhang v. City of N.Y., 
+ 17-cv-5415, 2019 U.S. Dist. LEXIS 163485 (S.D.N.Y. Sep. 19, 2019) ..................................7 
+Ochre LLC v. Rockwell Architecture Planning & Design, 
+12-cv-2837, 2012 U.S. Dist. LEXIS 172208 (S.D.N.Y. Nov. 28, 2012)...................................5 
+Price v. L’Oreal USA, Inc., 
+17-cv-0614, 2017 U.S. Dist. LEXIS 165931 (S.D.N.Y. Oct. 5, 2017) ......................................4 
+Sofia v. Esposito, 
+17-cv-1829, 2018 U.S. Dist. LEXIS 60947 (S.D.N.Y. Apr. 10, 2018) ...........................6, 7, 10 
+Swan Media Grp., Inc. v. Staub, 
+841 F. Supp. 2d 804 (S.D.N.Y. 2012)........................................................................................5 
+Whitley v. Bowden, 
+No. 17-cv-3564 (KMK), 2018 WL 2170313 (S.D.N.Y. May 9, 2018) .............................3, 7, 9 
+Other Authorities 
+85 NY Jur Premises Liability § 212 (2)...…………………………………………………………5 
+CPLR § 208......................................................................................................................................4 
+CPLR § 214-g ..................................................................................................................................4 
+CPLR § 215(3) .................................................................................................................................4 
+Fed. R. Civ. P. 12(b)(6)....................................................................................................................1 
+New York Child Victims Act ..........................................................................................................1 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 3 of 16
+
+TABLE OF AUTHORITIES 
+(continued) 
+Page 
+-iii- 
+NY Estates, Powers And Trusts Law § 11-3.2 ..........................................................................2, 10 
+New York Penal Law Article 130 ............................................................................................3, 4, 9 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 4 of 16
+
+Defendants Darren K. Indyke and Richard D. Kahn, Co-Executors of the Estate of Jeffrey 
+E. Epstein (the “Estate”), Nine East 71st Street, Corporation (“Nine East”), Financial Trust 
+Company, Inc. (“FTC”), and NES, LLC (“NES”, and together with Nine East and FTC, the 
+“Corporate Defendants”; and the Corporate Defendants together with the Estate, the 
+“Defendants”)  respectfully submit this Memorandum of Law in Support of their Motion to 
+Dismiss Counts I and III - V of Plaintiff VE’s  (“Plaintiff”) First Amended Complaint1 (the 
+“Amended Complaint”) (Doc. # 3) 2 in their entity and Count II to the extent it is time barred 
+with prejudice pursuant to Federal Rule of Civil Procedure 12(b)(6). 
+PRELIMINARY STATEMENT 
+Plaintiff’s allegations, which are assumed to be true solely for purposes of this Motion, 
+present a discernable though partially time-barred battery claim against Decedent Jeffrey E. 
+Epstein (“Decedent”) and vague, conclusory negligence claims against the three Corporate 
+Defendants.  Plaintiff alleges Decedent sexually abused Plaintiff in 2001 when she was sixteen 
+years old. (Am. Compl. ¶ 46.) Plaintiff asserts five causes of action in her Complaint: two 
+duplicative battery claims against the Estate (Counts I and II) and a negligence claim against 
+each Corporate Defendant (Counts III – V, respectively).  The Estate, while preserving all rights 
+and legal positions, does not hereby seek to dismiss both claims against it in their entirety. 
+However, Plaintiff’s first battery claim should be dismissed for two reasons.  First, this 
+claim is outside the scope of the New York Child Victims Act (“CVA”) and thus completely 
+time barred.  Second, this cause of action is duplicative of and subsumed by Plaintiff’s second 
+battery claim.  The second battery cause of action is itself time barred to the extent it is based on 
+occurrences after Plaintiff turned 18.  
+1 Plaintiff amended her Complaint before completing service on Defendants.  
+2 A copy of Plaintiff’s Amended Complaint is attached as Exhibit A to the Declaration of Bennet J. Moskowitz 
+submitted herewith.  
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 5 of 16
+
+-2- 
+The Court should also dismiss Plaintiff’s negligence claims against the Corporate 
+Defendants because they are based on threadbare recitals of the elements of negligence causes of 
+action and conclusory statements, as well as impermissible group pleading.  Plaintiff effectively 
+concedes she did not have solid grounds to name the Corporate Defendants in this action,  
+alleging: “[s]hould discovery reveal that any of the currently named Defendants are not the 
+proper identity of the Companies identified as current Defendants, substitution of parties shall be 
+requested to ensure accuracy and correctness of pleading.” (Id. ¶ 15 (emphasis added).)   
+Plaintiff’s demands for punitive damages must also be dismissed.  New York Estates, 
+Powers And Trusts Law expressly provides punitive damages shall not be awarded nor penalties 
+adjudged in any personal injury action brought to recover damages from an estate. 
+I. 
+ALLEGED FACTS 
+Plaintiff alleges that in 2001 a minor identified only as “Plaintiff’s friend” – and not 
+anyone else, whether an employee of any Corporate Defendant or otherwise – “recruited” 
+Plaintiff, who was then 16 years old, to give a massage to Decedent at his personal residence. 
+(Am. Compl. ¶¶ 47-48.)  Plaintiff alleges the massage became a “sexual encounter” following 
+which Decedent paid Plaintiff money. (Id. ¶¶ 59 – 62.)  Plaintiff further alleges she returned to 
+Decedent’s residence “within days” where she experienced “another sexual assault” by 
+Decedent. (Id. ¶ 64.).  
+Based on these allegations related entirely to conduct allegedly committed by Decedent, 
+Plaintiff claims the Corporate Defendants are somehow liable to her.  Plaintiff alleges without 
+any supporting factual allegations that the Corporate Defendants “owed a duty to Plaintiff to treat 
+her in a non-negligent manner and not to commit, or conspire to commit, or cause to be 
+committed intentional, criminal, fraudulent, or tortious acts against Plaintiff.” (Id. ¶ 17.)    
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 6 of 16
+
+-3- 
+Aside from such conclusory recitals of elements of negligence causes of action, many 
+made “upon information and belief,” labels and group pleading that lumps the Corporate 
+Defendants together, Plaintiff does not allege any specific facts concerning Nine East and FTC 
+except the following innocuous background assertions: Nine East was a New York corporation 
+(id. ¶ 7) that owned or controlled Decedent’s personal residence where the alleged sexual 
+assaults took place (id. ¶¶ 7, 50); and FTC was a U.S. Virgin Islands Corporation conducting 
+business in New York (id. ¶ 8).  Further, and also excluding mere labels and conclusions, 
+Plaintiff’s sole specific factual allegations against NES are that it was a New York limited 
+liability company whose employee escorted Plaintiff into Decedent’s residence (id. ¶52)—but 
+not any specific facts suggesting let alone unequivocally stating the unidentified employee 
+witnessed or even knew about the alleged sexual assaults.  
+II.
+ARGUMENT 
+a.
+Legal Standard: Plaintiff’s legal conclusions and contradictory allegations 
+are not accepted as true. 
+Although the Court must normally accept as true all well-pleaded factual allegations in a 
+complaint and draw all inferences in a plaintiff’s favor, those principles are inapplicable to legal 
+conclusions. Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (citing Bell Atl. Corp. v. Twombly, 550 
+U.S. 544, 555, 556 (2007)).  Thus, a pleading that offers only “labels and conclusions” or “a 
+formulaic recitation of the elements of a cause of action will not do.” Twombly, 550 U.S. at 555 
+(2007).  Moreover, “‘[w]here [the] plaintiff’s own pleadings are internally inconsistent, a court is 
+neither obligated to reconcile nor accept the contradictory allegations in the pleadings as true in 
+deciding a motion to dismiss.’” Whitley v. Bowden, No. 17-cv-3564 (KMK), 2018 WL 2170313, 
+at *11 (S.D.N.Y. May 9, 2018) (quoting Carson Optical Inc. v. eBay Inc., 202 F. Supp. 3d 247, 
+255 (E.D.N.Y. 2016)). 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 7 of 16
+
+-4- 
+b.
+Plaintiff’s first battery claim (Count I) is time barred and must be dismissed. 
+Plaintiff’s first cause of action, which asserts a claim for battery separate and apart from 
+her claim for battery in violation of NY Penal Law § 130, expired over a decade ago.  Under 
+New York law, actions for battery must be commenced within one year (CPLR § 215(3)); and 
+actions for personal injury must be commenced within three years (CPLR § 214(5)).  However, 
+because Plaintiff alleges she was a minor at the time of the alleged battery, her time to file her 
+battery claim was tolled until she turned eighteen. CPLR § 208.  
+Plaintiff alleges the battery against her occurred in 2001 when she was sixteen years old. 
+(Compl. at ¶¶ 46-47, 51, 92.)  Therefore, Plaintiff turned eighteen in 2003.  Plaintiff’s battery 
+claim expired in 2004 (or, if considered a claim for personal injury, in 2006), long before she 
+filed this action in August 2019.  
+The CVA does not alter this result.  The CVA created a one-year period in which civil 
+claims alleging damages “suffered as a result of conduct which would constitute a sexual offense 
+as defined in article one hundred thirty of the penal law committed against a child less than 
+eighteen years of age” could be filed despite otherwise having expired. CPLR § 214-g (emphasis 
+added).  Thus, the CVA does not revive causes of action unless they are based on NY Penal Law 
+§130 offenses. Id.  Plaintiff’s Count I for battery, which is distinct from Plaintiff’s claim for 
+battery in violation of NY Penal Law § 130, is untimely and must be dismissed.  
+c.
+Plaintiff’s first battery claim must be dismissed because it is duplicative of 
+Plaintiff’s second battery claim. 
+Even assuming Count I states a NY Penal Law § 130 offense, which it does not, it must 
+be dismissed as entirely duplicative of Count II.  See Price v. L’Oreal USA, Inc., 17-cv-0614, 
+2017 U.S. Dist. LEXIS 165931, at *12 (S.D.N.Y. Oct. 5, 2017) (“Defendants’ motion to dismiss 
+the unjust enrichment claim under New York law (see Count V) is granted because it is 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 8 of 16
+
+-5- 
+duplicative of the other claims.”).  Counts I and II are based on the same alleged occurrences and 
+seek the same relief.  Therefore, it would serve no legitimate purpose to permit Plaintiff to 
+pursue both claims.  Count I should be dismissed for this additional reason.  
+d.
+Plaintiff’s negligence claims against the Corporate Defendants must be 
+dismissed because they are based on conclusory statements and 
+impermissible group pleading—not facts. 
+Plaintiff failed to allege “enough facts” to state any negligence claim against the 
+Corporate Defendants “that is plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 
+570 (2007) (emphasis added).  It is well-settled that Plaintiff must demonstrate grounds for relief 
+beyond mere “labels and conclusions.” Id. at 555.  Rather, to state a claim, Plaintiff’s Complaint 
+must set forth “[f]actual allegations [that are] … enough to raise a right to relief above the 
+speculative level.” Id.  “Though the Court must accept the factual allegations of a complaint as 
+true, it is ‘not bound to accept as true a legal conclusion couched as a factual allegation.’” Swan 
+Media Grp., Inc. v. Staub, 841 F. Supp. 2d 804, 806 (S.D.N.Y. 2012) (quoting Ashcroft v. Iqbal, 
+556 U.S. 662, 678 (2009)). 
+Additionally, “[w]here a complaint names multiple defendants, that complaint must 
+provide a plausible factual basis to distinguish the conduct of each of the defendants. … A 
+plaintiff cannot merely lump all the defendants together in each claim and provide no factual 
+basis to distinguish their conduct.” Ochre LLC v. Rockwell Architecture Planning & Design, 12-
+cv-2837, 2012 U.S. Dist. LEXIS 172208, at *16-17 (S.D.N.Y. Nov. 28, 2012) (citing Atuahene 
+v. City of Hartford, 10 Fed. App’x 33, 34 (2d Cir. 2001)). 
+With respect to the allegations against the Corporate Defendants, and as explained more 
+fully below, Plaintiff has not made factual allegations sufficient to “raise the right to relief above 
+the speculative level.” See Twombly, 550 U.S. at 555.  Besides generic conclusions that the 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 9 of 16
+
+-6- 
+Corporate Defendants “provided the opportunity” (Compl. ¶ 23), “collaborat[ed]” (id. ¶ 40), 
+gave “the necessary assistance” (id. ¶ 41) and the like, there are no alleged facts describing what 
+any of the Corporate Defendants’ employees or other agents did or failed to do that was 
+negligent or how such negligence proximately caused Plaintiff’s alleged damages.  Further, most 
+of Plaintiff’s allegations about the Corporate Defendants impermissibly lump their conduct 
+together. (See, e.g., id. ¶¶ 23, 37-44, 62-63.)  The Corporate Defendants cannot reasonably 
+prepare a response to such conclusory, vague claims, which are hereby further addressed in turn. 
+i.
+Plaintiff’s “negligent security” claim against Nine East (Count III) 
+must be dismissed because it is based on labels and conclusions and is 
+contradicted by Plaintiff’s own allegations.  
+Count III fails to state a claim because, aside from labels and conclusions, the Complaint 
+is devoid of any facts concerning Nine East except that it owned real property where torts against 
+Plaintiff allegedly took place—hardly enough to “raise the right to relief above the speculative 
+level.” See Twombly, 550 U.S. at 555.  Though far from clear, Plaintiff’s legal theory against 
+Nine East appears to be that, because Nine East owned Decedent’s New York residence where 
+the alleged torts took place, Nine East is necessarily liable to Plaintiff for Decedent’s alleged 
+conduct. This is not the law in New York. See 85 NY Jur Premises Liability § 212 (2) 
+(“Generally, the law does not impose a duty to control the conduct of third persons to prevent 
+them from harming others even where, as a practical matter, the defendant could have exercised 
+such control.”). 
+Moreover, to sufficiently allege a “negligent security” cause of action, the Plaintiff must 
+allege facts establishing: (i) Nine East owed Plaintiff a duty; (ii) Nine East breached that duty; 
+and (iii) injury to Plaintiff substantially caused by that breach.  Sofia v. Esposito, 17-cv-1829, 
+2018 U.S. Dist. LEXIS 60947, at *10 (S.D.N.Y. Apr. 10, 2018) (quoting Pasternack v. Lab. 
+Corp. of Am. Holdings, 807 F.3d 14, 19 (2d Cir. 2015)).   Other than conclusions reciting these 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 10 of 16
+
+-7- 
+elements, which are insufficient to state a claim, Iqbal, 556 U.S. at 678, Plaintiff does not allege 
+any facts establishing Nine East owed her a duty, how Nine East breached any duty or how any 
+such breach caused Plaintiff’s alleged damages.  
+There are no allegations connecting Plaintiff’s visits to Decedent’s personal residence 
+with any negligence on the part of any employees or other agents of Nine East.  Plaintiff does not 
+even identify any such employees or agents. 
+To the contrary, Plaintiff alleges her “friend,” not someone acting on behalf of Nine East, 
+caused Plaintiff to visit the real property owned by Nine East. (Compl. ¶¶ 47, 51-61.) Plaintiff 
+further alleges that she returned to the real property “within days” (id. ¶¶ 64-72) without 
+claiming that was at a specific person’s behest.   
+Plaintiff also alleges the “opulence of the mansion … facilitated [Plaintiff’s] further 
+cooperation with Decedent.” (Id. ¶ 63.)  Such allegations are inconsistent with any suggestion 
+that Nine East is liable to Plaintiff due to actions of Nine East’s agents.  The Court is not 
+obligated to reconcile or accept Plaintiff’s contradictory allegations as true. Whitley, 2018 WL 
+2170313, at *11 (S.D.N.Y. May 9, 2018).  Accordingly, Count III for negligent security against 
+Nine East must be dismissed for failure to state a claim. 
+ii.
+Plaintiff’s negligence claim against FTC (Count IV) must be dismissed 
+because it is also based on labels and conclusions and is otherwise 
+contradicted by Plaintiff’s own allegations. 
+Plaintiff’s negligence claim against FTC is similarly deficient. Plaintiff’s legal theory 
+concerning FTC appears to be that, because FTC employed Decedent when the alleged torts took 
+place, FTC is necessarily liable to Plaintiff—i.e., negligent supervision of an employee.  Under 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 11 of 16
+
+-8- 
+New York law, in addition to the elements of negligence,3 a plaintiff alleging negligent 
+supervision must show: (1) the tortfeasor and the defendant were in an employee-employer 
+relationship; (2) the employer knew or should have known of the employee’s propensity for the 
+conduct which caused the injury prior to the injury’s occurrence; and (3) the tort was committed 
+on the employer’s premises or with the employer’s chattels. Man Zhang v. City of N.Y., 17-cv-
+5415, 2019 U.S. Dist. LEXIS 163485, at *14 (S.D.N.Y. Sep. 19, 2019) (citing Green v. City of 
+Mount Vernon, 96 F. Supp. 3d 263, 297 (S.D.N.Y. 2015); Ehrens v. Lutheran Church, 385 F.3d 
+232, 235 (2d Cir. 2004)).   
+As with Count III, Count IV is supported by nothing more than mere labels and 
+conclusions regarding FTC’s so called negligent conduct.  For example, Plaintiff alleges the 
+sexual assaults occurred “during the course and scope of employment for [FTC]” (Compl. ¶ 111) 
+without asserting factual allegations as to how or why that was the case.  
+Plaintiff failed to allege any facts beyond labels and conclusions establishing FTC owed 
+Plaintiff any duty, breached that duty and that such breach injured her.  Nor does Plaintiff allege 
+specific facts showing FTC knew or should have known Decedent’s propensity for the conduct 
+that allegedly caused Plaintiff’s injuries.   
+Plaintiff’s allegation against FTC made “upon information and belief” -- that “at times 
+other employees of the Defendant corporation were coordinating these sexually explicit 
+massages for Epstein to engage in during business hours, while he was within the course and 
+scope of his employment for Defendant” -- fails to rescue Plaintiff’s cause of action against FTC.  
+In addition to being conclusory and thus otherwise failing to satisfy the pleading standards set 
+forth in Twombly and Iqbal, Plaintiff’s allegation does not raise a right to relief above 
+3 As explained above, under New York law, a plaintiff must establish the following elements to state a claim for 
+negligence: (i) a duty owed to the plaintiff by the defendant; (ii) breach of that duty; and (iii) injury substantially 
+caused by that breach. Sofia, 2018 U.S. Dist. LEXIS 60947 at *10. 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 12 of 16
+
+-9- 
+speculation. See Gilford v. NYS Office of Mental Health, No. 17-CV-8033 (JPO), 2019 U.S. Dist. 
+LEXIS 38450, at *14 (S.D.N.Y. Mar. 11, 2019) (“No matter what the pleading standard is, her 
+complaint must at least contain enough factual allegations that are not made upon information 
+and belief to ‘raise a right to relief above the speculative level.’” (emphasis added) (citing 
+Twombly, 550 U.S. at 555)). 
+Plaintiff’s allegations are also inconsistent with her legal theory that FTC is somehow 
+liable for Decedent’s misconduct.  Plaintiff alleges the torts occurred on Nine East’s premises, 
+not FTC’s premises.  Further, Plaintiff alleges Decedent sexually abused Plaintiff “intentionally 
+and for no legitimate purpose and for his own gratification,” (id. ¶ 72)—not that Decedent 
+performed the sexual acts in the course or scope of his employment by FTC.  As explained 
+above, the Court is neither obligated to reconcile nor accept such contradictory allegations as 
+true. Whitley, 2018 WL 2170313, at *11 (S.D.N.Y. May 9, 2018).   
+The most plausible reading of the Complaint is that FTC’s employment of Decedent had 
+nothing to do with his alleged sexual assaults of Plaintiff.  Without factual allegations explaining 
+how FTC acted negligently or how that negligence proximately caused Decedent’s alleged 
+injuries, the Complaint does not plausibly state a claim against FTC.  Therefore, Count IV must 
+be dismissed. 
+iii.
+Plaintiff’s negligence claim against NES (Count V) must be dismissed 
+because it is based on conclusory allegations made largely “upon 
+information and belief.” 
+Plaintiff’s claims against NES are especially deficient.  Plaintiff’s allegations against 
+NES are comprised of vague assertions made “upon information and belief” (see, e.g., Compl. ¶ 
+130 (“Upon information and belief, the employees of Defendant, NES, were compensated to 
+primarily, if not exclusively, procure or maintain each young female masseuse”; see also id. ¶¶ 
+127 – 129, 131) and conclusory recitals of elements of an unspecified negligence cause of action 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 13 of 16
+
+-10- 
+(see, e.g., Compl. ¶ 139 (“Defendant’s negligence was a proximate cause of the sexual offenses 
+committed against Plaintiff in violation of Article 130 of the NY Penal Law.”); see also id. ¶¶ 
+132 – 138, 140).  
+Aside from labels and conclusions, Plaintiff fails to allege facts establishing the elements 
+of a negligence claim against NES.  Thus, Plaintiff does not allege facts establishing NES owed 
+her a duty or breached such a duty.  Sofia, 2018 U.S. Dist. LEXIS 60947 at *10.  Nor does 
+Plaintiff allege any facts explaining how anything an NES employee or agent did or failed to do 
+proximately caused Plaintiff’s alleged damages. Id.   
+The only non-background fact Plaintiff alleges as to NES is a single ambiguous 
+allegation that one of its employees “escorted” Plaintiff into Decedent’s residence before the first 
+sexual assault occurred. (Id. ¶52.)  Plaintiff neither identifies the employee nor alleges the 
+employee saw or otherwise knew about the alleged sexual assault.  
+Plaintiff’s allegations are also incompatible with a cause of action against NES.  Plaintiff 
+alleges two instances of sexual assault by Decedent.  Plaintiff claims her “friend,” not an NES 
+employee, recruited Plaintiff to visit Decedent when the first assault allegedly occurred. (Id. ¶ 
+47.)  Plaintiff alleges the second assault took place “within days,” without alleging any 
+intervening factor such as conduct by an NES employee or otherwise. (Id. ¶ 64.)  As the 
+Complaint does not plausibly allege NES acted negligently or how such negligence was the 
+proximate cause of Plaintiff’s alleged injuries sustained as a result of alleged sexual assault 
+committed by Decedent, Count V must also be dismissed for failure to state a claim. 
+e.
+Plaintiff’s claims for punitive damages must be dismissed because they are 
+precluded by NY EPTL § 11-3.2.  
+Plaintiff may not recover punitive damages in this action as a matter of law.  New York 
+Estates, Powers And Trusts Law provides: “No cause of action for injury to person or property is 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 14 of 16
+
+-11- 
+lost because of the death of the person liable for the injury. For any injury, an action may be 
+brought or continued against the personal representative of the decedent, but punitive damages 
+shall not be awarded nor penalties adjudged in any such action brought to recover damages for 
+personal injury.” NY EPTL § 11-3.2 (a)(1) (emphasis added).  “Also, ‘there is a strong policy 
+against the assessment of punitive damages against an estate on account of wrongful conduct of 
+the decedent.’” Graham v. Henderson, 224 F.R.D. 59, 63 (N.D.N.Y. 2004) (quoting Blissett v. 
+Eisensmidt, 940 F. Supp. 449, 457 (N.D.N.Y. 1996)). 
+CONCLUSION 
+Based on the foregoing, Defendants respectfully request that the Court grant their Motion 
+to Dismiss in its entirety together with such other and further relief as the Court deems just and 
+proper.   
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 15 of 16
+
+-12- 
+Dated: New York, New York 
+November 29, 2019 
+Respectfully submitted, 
+TROUTMAN SANDERS LLP 
+875 Third Avenue 
+New York, New York 10022
+By:   /s/ Bennet J. Moskowitz
+    Bennet J. Moskowitz 
+Attorneys for Defendants 
+Case 1:19-cv-07625-AJN-DCF     Document 38     Filed 11/29/19     Page 16 of 16

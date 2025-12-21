@@ -1,0 +1,500 @@
+METADATA_SOURCE: Court Records\Maxwell v. United States, No. 24-1073 (U.S. 2025) (petition for cert.)
+METADATA_FILENAME: 20250728111721067_24-1073ReplyInSupportOfPetitionForWritOfCertiorari.pdf
+----------------------------------------
+No. 24-1073 
+WILSON-EPES PRINTING CO., INC.   –   (202) 789-0096   –   WASHINGTON, D.C. 20002 
+IN THE 
+Supreme Court of the United States 
+———— 
+GHISLAINE MAXWELL, AKA SEALED DEFENDANT 1, 
+Petitioner, 
+v. 
+UNITED STATES OF AMERICA, 
+Respondent. 
+———— 
+On Petition for Writ of Certiorari to the 
+United States Court of Appeals 
+for the Second Circuit 
+———— 
+REPLY IN SUPPORT OF  
+PETITION FOR WRIT OF CERTIORARI 
+———— 
+ 
+DAVID OSCAR MARKUS 
+Counsel of Record 
+MONA MARKUS 
+MARKUS/MOSS PLLC 
+40 N.W. Third Street 
+Penthouse One 
+Miami, FL 33128 
+(305) 379-6667 
+dmarkus@markuslaw.com 
+Counsel for Petitioner 
+July 28, 2025 
+
+(i) 
+TABLE OF CONTENTS 
+Page 
+TABLE OF AUTHORITIES ................................ 
+ii 
+REASONS FOR GRANTING THE PETITION .... 
+1 
+I. 
+The government concedes that the 
+circuits are split as to whether a promise 
+on behalf of the “United States” by a 
+United States Attorney’s office in one 
+district is binding upon other districts. ... 
+2 
+II. 
+The Second Circuit’s decision below is 
+wrong and violates the principles set 
+forth in this Court’s prior opinions. ......... 
+4 
+III. This case is an ideal vehicle for resolving 
+the split over this important and 
+recurring question. ................................... 
+11 
+CONCLUSION .................................................... 
+11 
+ 
+
+ii 
+ 
+TABLE OF AUTHORITIES 
+CASES 
+Page(s) 
+Prisco v. United States,  
+562 U.S. 1290 (2011), No. 10-7895 ........... 
+2 
+Santobello v. New York,  
+404 U.S. 257 (1971) ................................... 
+4, 6 
+Thomas v. INS,  
+35 F.3d 1332 (9th Cir. 1994) ..................... 
+2 
+United States v. Andreas,  
+216 F.3d 645 (7th Cir. 2000) ..................... 
+10 
+United States v. Annabi,  
+771 F.2d 670 (2d Cir. 1985) ...................... 
+3 
+United States v. Carmichael,  
+216 F.3d 224 (2d Cir. 2000) ...................... 
+6 
+United States v. Florida West Int’l Airways,  
+853 F.Supp.2d 1209 (S.D. Fla. 2012) ....... 
+10 
+United States v. Johnston,  
+199 F.3d 1015 (9th Cir. 1999) ................... 
+2 
+United States v. Maxwell,  
+118 F.4th 256 (2d. Cir. 2024) .................... 
+2 
+OTHER AUTHORITIES 
+ 
+Antonin Scalia & Bryan A. Garner, 
+Reading Law: The Interpretation of 
+Legal Texts (2012) .................................... 
+5 
+
+REASONS FOR GRANTING THE PETITION 
+This case presents a straightforward and important 
+question about the government’s obligation to honor 
+its promises in plea and non-prosecution agreements. 
+The petition asks whether a U.S. Attorney’s promise 
+made on behalf of “the United States” binds the entire 
+United States. The government’s Brief in Opposition 
+only underscores the importance of this question.  
+Most significantly, the government concedes a 
+circuit split on this issue, effectively admitting that 
+defendants’ rights hinge on the happenstance of 
+geography. Opp.13. Such an acknowledged conflict 
+among the circuits demands this Court’s intervention.  
+Rather than grapple with the core principles of plea 
+agreements, the government tries to distract by 
+reciting a lurid and irrelevant account of Jeffrey 
+Epstein’s misconduct. But this case is about what the 
+government promised, not what Epstein did. 
+Even more remarkably, the government advances an 
+interpretation of its non-prosecution agreement that 
+flips its plain meaning on its head. Promising “not to 
+prosecute” somehow meant preserving the right to 
+prosecute. That is not contract interpretation; it is 
+alchemy. Plea agreements are supposed to be strictly 
+construed against the government, yet here the 
+government isn’t even asking for the benefit of the 
+doubt; it is asking for a blank check to rewrite its own 
+promise after the fact. The government’s only real 
+argument is that the Second Circuit rule is correct on 
+the merits while the other circuits have it wrong. We 
+obviously disagree, but regardless, the Court should 
+grant certiorari so that all circuits employ that same rule. 
+ 
+
+2 
+This circuit split presents an exceptionally important 
+question. Plea and non-prosecution agreements resolve 
+nearly every federal case. They routinely include 
+promises that extend to others—co-conspirators, family 
+members, potential witnesses. If those promises mean 
+different things in different parts of the country, then 
+trust in our system collapses. The Court should grant 
+certiorari and restore consistency, and credibility, to 
+the government’s word. 
+I. The government concedes that the circuits 
+are split as to whether a promise on behalf 
+of the “United States” by a United States 
+Attorney’s office in one district is binding 
+upon other districts.  
+The government (like the Second Circuit in the 
+opinion below) agrees that there is a clear circuit split 
+on the precise question posed by this Petition. Opp.13;1 
+United States v. Maxwell, 118 F.4th 256, 263 n.11 
+(2d. Cir. 2024) (“recogniz[ing] that circuits have been 
+split on this issue for decades.”). As the Second Circuit 
+noted, this conflict is well-documented and longstanding. 
+Indeed, the government points out that litigants have 
+sought the Court’s clarification of this issue at least 
+as far back as 2011, when this Court denied certiorari 
+in Prisco v. United States, 562 U.S. 1290 (2011), No. 
+10-7895. 
+ 
+1 The United States argues that the split is 3-2 in favor of 
+Petitioner, not 4-2, claiming that that the “Ninth Circuit has not 
+expressly addressed the matter at issue here.” Opp.13. While not 
+express, the Ninth Circuit is pretty clear that it agrees with 
+Petitioner’s position, holding that a U.S. Attorney can bind other 
+districts and agencies, Thomas v. INS, 35 F.3d 1332 (9th Cir. 
+1994), and when in doubt, “the government must bear respon-
+sibility for any lack of clarity in those terms,” United States v. 
+Johnston, 199 F.3d 1015, 1020 (9th Cir. 1999). 
+
+3 
+The government seeks to minimize the split as of 
+“limited importance” because “the scope of a plea or 
+similar agreement is under the control of the parties 
+to the agreement.” Opp.14. This turns a blind eye 
+to the problem. The very premise of Petitioner’s 
+argument is that the parties to the NPA did seek to 
+control the scope of the relevant clauses by narrowing 
+the scope of immunity for Epstein through the use of 
+narrow language specifying enforceability only in the 
+Southern District of Florida, and then expanding the 
+scope of it as to his co-conspirators by using the broad 
+term “the United States.” (App. 30-31). While doing so, 
+Epstein’s lawyers were no doubt informed by how that 
+language was interpreted in the jurisdiction in which 
+they were practicing.  
+Yet by definition, the issue presented in this case 
+and every other like it only arises when the language 
+in question is being interpreted in a different 
+jurisdiction than the one where the agreement was 
+negotiated. Accordingly, uniformity in interpretation 
+of such a provision is unusually and particularly 
+compelling. The very nature of a clause of this nature 
+(unlike most other clauses in an agreement, which are 
+not cross-jurisdictional in nature) cries out for 
+nationwide symmetry. 
+The government also contends, rather bizarrely, that 
+“this is not itself a case that turns on any default rule.” 
+Opp.14. To the contrary, it is precisely the Second 
+Circuit’s default rule, adopted in United States v. 
+Annabi, 771 F.2d 670 (2d Cir. 1985), that doomed 
+Petitioner to stand trial on a case that would have been 
+dismissed outright in at least half the country. The 
+primary reason this Court should grant certiorari is to 
+create one single default rule across the country as to 
+
+4 
+what parties mean when they use the term “the 
+United States” without further qualification. 
+II. The Second Circuit’s decision below is wrong 
+and violates the principles set forth in this 
+Court’s prior opinions.  
+In attempting to defend the Second Circuit’s out-
+come, the government advances a series of contentions 
+about the Epstein NPA’s scope, the U.S. Attorney’s 
+authority, contract law doctrines, and canons of con-
+struction. Each lacks merit. 
+As the government acknowledges, Opp.8, the start-
+ing point in any contract is the text. Here, the text 
+could not be more clear. In exchange for Epstein’s 
+guilty plea and other penalties and concessions, 
+“the United States also agrees that it will not 
+institute any criminal charges against any potential 
+co-conspirators of Epstein, including but not limited 
+to [four names].” (emphasis added).  
+This promise is unqualified. It is not geographically 
+limited to the Southern District of Florida, it is not 
+conditioned on the co-conspirators being known by the 
+government at the time, it does not depend on what 
+any particular government attorney may have had in 
+his or her head about who might be a co-conspirator, 
+and it contains no other caveat or exception. This 
+should be the end of the discussion. See Santobello v. 
+New York, 404 U.S. 257 (1971) (“[W]hen a plea rests in 
+any significant degree on a promise or agreement of 
+the prosecutor, so that it can be said to be part of the 
+inducement or consideration, such promise must be 
+fulfilled.”) (ignored by the government in its opposition). 
+The government seeks to evade this straightforward 
+language by focusing on other clauses in the NPA and 
+on extrinsic context, Opp.8-10, but its efforts only 
+
+5 
+underscore that the plain meaning favors Petitioner. 
+First, the government notes (as did the Second Circuit) 
+that the NPA explicitly limited Epstein’s own immunity 
+to the Southern District of Florida, pointing to a clause 
+stating that after Epstein fulfilled the agreement, “no 
+prosecution for the offenses set out on pages 1 and 2 of 
+this Agreement… will be instituted in this District.” 
+(App. 26a). The government then urges the Court to 
+follow it through the looking glass, offering the 
+inexplicable suggestion that the absence of a similar 
+“in this District” qualifier in the co-conspirator clause 
+should be ignored as immaterial. Opp.9.  
+Of course, basic interpretive canons point in exactly 
+the opposite direction. When parties include an 
+express territorial limitation in one clause of a 
+contract and omit it in another, the omission must be 
+presumed intentional. Antonin Scalia & Bryan A. 
+Garner, Reading Law: The Interpretation of Legal 
+Texts (2012). As Justice Scalia and Bryan Garner have 
+explained, “a material variation in terms suggests a 
+variation in meaning.” Id. at 170. Here, the drafters 
+knew how to confine the promise to a single district – 
+they did so for Epstein’s personal non-prosecution 
+assurance. Yet when it came to Epstein’s “potential  
+co-conspirators,” the drafters chose broad, unqualified 
+language. In fact, not only did the parties use an 
+unrestricted jurisdictional clause for the co-conspirators, 
+they amended the document from a previous draft in 
+which the co-conspirator immunity was limited to the 
+Southern District of Florida, changing it to refer more 
+broadly to the “United States.” (Pet. 3; App. 95, 108-126).  
+The government’s interpretation cannot be correct 
+because it would render superfluous the phrase 
+“in this District” in the Epstein clause. If the “United 
+States” means just the Southern District of Florida, 
+
+6 
+why specify the district for Epstein? The only logical 
+inference is that the co-conspirator promise was 
+meant to reach more broadly, in line with its different 
+phrasing.2 At the very least there is a textual ambi-
+guity, and under Santobello and the contract inter-
+pretation principle contra proferentum, such ambigu-
+ity must be construed against the government as 
+the drafter and promisor. See, e.g., United States v. 
+Carmichael, 216 F.3d 224 (2d Cir. 2000) (“[W]e 
+‘construe plea agreements strictly against the Govern-
+ment.’”) (internal citation omitted); OPR report 
+(“OPR”) at 80, 166 (confirming that AUSA wrote the 
+specific language in question). Under any normal 
+reading of this contract, then, no federal charges can 
+be brought against any co-conspirator in any district 
+in the United States. 
+Reading the NPA “as a whole” means giving effect to 
+the deliberate difference in phrasing between the 
+Epstein-focused clause and the co-conspirator clause.3 
+ 
+2 It is not, as the government contends, “extremely strange” for 
+Epstein to have secured broader immunity for his co-conspirators 
+than he was getting for himself, Opp.9. Defendants always try to 
+get as many benefits in a plea agreement as they can – here, 
+Epstein was able to obtain an additional benefit for his co-
+conspirators that he was unable to secure for himself, no doubt 
+because the government attorneys “wouldn’t have been interested 
+in prosecuting anyone else.” OPR:70; see also OPR:80, 168. 
+Epstein “wanted to make sure that he’s the only one who takes 
+the blame for what happened.” OPR:167 (internal quotation 
+omitted). In addition, Epstein was concerned that if a co-conspirator 
+was charged elsewhere, he might be called to testify, opening him 
+up to potential charges in a different part of the country. This was 
+antithetical to the global resolution Epstein sought. 
+3 The government is right about one thing: the scope of a 
+particular agreement is under the control of the parties. Opp.14. 
+As the National Association of Criminal Defense Lawyers observes 
+in its amicus brief, federal prosecutors know well how to draft 
+
+7 
+It means recognizing that when the parties intended 
+to mean “only in the Southern District of Florida,” 
+they said so explicitly, and that their use of the 
+all-encompassing term “the United States” in the 
+co-conspirator clause was purposeful.  
+The government’s invocation of “context” and the 
+purported purpose of the NPA is no more persuasive. 
+The government suggests that a broad grant of 
+immunity cannot have been made because there 
+was no consultation with the Southern District of 
+New York. Opp.10. The record does not permit such a 
+conclusion, as the district court denied a hearing and 
+the Petitioner was not granted any discovery, so there 
+is no way to confirm who was consulted. But the record 
+is clear in any event that the NPA was signed on behalf 
+of the United States Attorney for the Southern District 
+of Florida, who was heavily involved in the negotiation 
+and approval process. In addition, representatives of 
+the Department of Justice were also actively involved 
+in the drafting and approval process, including the 
+Chief of the Child Exploitation and Obscenity Section 
+and the Principal Deputy Assistant Attorney General 
+for the Department’s Criminal Division. OPR:27, 28, 84. 
+If these officials failed to do what their internal 
+policy suggested was appropriate, it is irrelevant. The 
+provision in the U.S. Attorneys’ Manual advising U.S. 
+Attorneys not to bind other districts was relevant in 
+OPR’s review of the government attorneys’ actions 
+in this case. It does not inform the outcome here, 
+however, despite the government’s heavy reliance on it 
+ 
+agreements to limit their scope when that is what they intend, 
+and the burden is on them to be specific. When they decline to use 
+simple narrowing terms, this Court should make clear that the 
+broad language they use will be given its ordinary meaning. 
+
+8 
+throughout its brief. What a prosecutor should have 
+done is not relevant; whether or not the Southern 
+District of Florida should have prohibited the 
+Southern District of New York from prosecuting 
+Ghislaine Maxwell, it clearly did so. 
+Nor can the government’s appeal to context exclude 
+Petitioner from the clear “including but not limited to” 
+language which unmistakably signaled an intent to 
+cover all “potential coconspirators,” not just those 
+who were specifically named. Indeed, the broad 
+“including but not limited to” clause shows the parties 
+contemplated both known and unknown accomplices, 
+and it was the government who drafted in the “final 
+broad language,” intentionally declining to further 
+enumerate individuals. OPR:70,166. The purpose 
+was to assure Epstein that pleading guilty would 
+protect all his associates from federal prosecution4 – 
+effectively “closing” the federal case completely.5 That 
+purpose is perfectly consistent with the plain text; it is 
+the government’s after-the-fact spin that is inconsistent, 
+ 
+4 The government cherry picks snippets of testimony from 
+the OPR report, many of which are inconsistent with other 
+statements from the same government attorneys, or which offer 
+the perspective of those who admitted to unclear memories, or 
+who were on vacation or otherwise disengaged at the relevant 
+time. App.108, OPR: 36-37. There was a lengthy back-and-forth 
+negotiating process to the inclusion of this clause, some of it 
+recorded by the OPR report, some not. See OPR:36. None of this 
+is relevant; the document says what it says in plain language, 
+so the after-the-fact and self-serving statements of various 
+participants to the process should be ignored. 
+5 The OPR is riddled with statements reflecting that the 
+government was very concerned about the strength of its case, 
+that it had doubts it would result in a guilty verdict, and that 
+many of the alleged victims did not want any aspect of the case to 
+go to trial. See, e.g., OPR:28, 29, 36, 37, 14, 147. 
+
+9 
+attempting to import unwritten limits that the deal-
+makers did not include.  
+The government’s argument, across the board, is 
+essentially an appeal to what it wishes the agreement 
+had said, rather than what it actually says. Of course, 
+if wishful thinking were the standard, the whole NPA 
+would have been thrown out long ago. The government 
+has spent years lamenting that agreement, and 
+initiated a massive OPR investigation into its execution 
+which resulted in OPR’s conclusion that the attorneys 
+who negotiated it on behalf of the government did 
+many things contrary to internal government policy 
+and typical practice. (App.55) (district court order 
+noting OPR’s findings that the NPA was “unusual in 
+many respects, including its breadth, leniency, and 
+secrecy.”); see also, e.g., App. 99. 
+The entire co-conspirator provision itself (putting 
+aside the issue of the jurisdiction(s) in which it is 
+enforceable) was, according to OPR, unusual for such 
+an agreement (App. 125). But, as the amicus notes, the 
+fact that the deal was unconventional does not license 
+the government (or the courts) to rewrite it to conform 
+to ordinary or preferred governmental practice. Amicus 
+Br. 5. To the contrary, it underscores that Epstein’s 
+negotiators sought, and obtained, an expansive guarantee. 
+The government also suggests that Petitioner is not 
+entitled to enforce the NPA because she was not a 
+party to it and was not named in it. Opp.15. But as the 
+court below recognized and as hornbook contract law 
+dictates, Maxwell has standing to enforce the agreement 
+as a third party beneficiary. App.10. Petitioner falls 
+squarely within the class of persons – “any potential 
+co-conspirators of Epstein” – that the NPA expressly 
+protected. She is therefore an intended beneficiary 
+of the agreement, and she has standing to enforce it. 
+
+10 
+See, e.g., United States v. Andreas, 216 F.3d 645, 663 
+(7th Cir. 2000) (providing that individuals who are not 
+parties to a plea agreement may enforce it, like other 
+third-party beneficiaries, when the original parties 
+intended the contract to directly benefit them as third 
+parties).  
+Petitioner’s alleged status as Epstein’s co-conspirator 
+was the entire basis of her prosecution. The NPA’s 
+language demonstrates that the parties anticipated 
+that there were additional co-conspirators beyond 
+those already known. By using “including but not 
+limited to” before naming some individuals, the 
+government knowingly extended the benefit of the 
+bargain to other unnamed individuals who partici-
+pated in Epstein’s offenses. Whether the government 
+attorneys personally knew the identities of every such 
+person is beside the point; they certainly knew there 
+could be others (hence the language). Ghislaine Maxwell’s 
+name was well known to Epstein’s circle and was 
+referenced in public reporting at the time of the NPA. 
+But even if she had been entirely unknown, the broad 
+language of the NPA evidences an intent to cover 
+whoever might later be deemed a co-conspirator. 
+Accordingly, Petitioner can rely on the immunity 
+clause in the NPA. See, e.g., United States v. Florida 
+West Int’l Airways, 853 F.Supp.2d 1209, 1228 (S.D. Fla. 
+2012) (dismissing indictment against employee who 
+fell within the class of employees described in plea 
+agreement). 
+The government’s suggestion that it would have 
+drafted the agreement differently had it specifically 
+had Petitioner in mind is both unprovable and 
+irrelevant. If anything, the inclusion of specific names 
+alongside a general category shows the parties knew 
+some of the players and also wanted to cover any 
+
+11 
+others to prevent any federal prosecution of Epstein’s 
+circle. Whether or not this was wise, it was the deal, 
+and Petitioner is entitled to enforce it. 
+III. This case is an ideal vehicle for resolving 
+the split over this important and recurring 
+question. 
+It is hard to imagine a more compelling scenario for 
+this Court’s review: for decades now, the same federal 
+promise has yielded opposite results in different 
+jurisdictions, undermining the uniformity of federal 
+law and the integrity of plea bargains nationwide. This 
+Court’s review is warranted. 
+CONCLUSION 
+For the foregoing reasons, this Court should grant 
+the petition for certiorari. 
+Respectfully submitted, 
+ 
+DAVID OSCAR MARKUS 
+Counsel of Record 
+MONA MARKUS 
+MARKUS/MOSS PLLC 
+40 N.W. Third Street 
+Penthouse One 
+Miami, FL 33128 
+(305) 379-6667 
+dmarkus@markuslaw.com 
+Counsel for Petitioner 
+July 28, 2025 

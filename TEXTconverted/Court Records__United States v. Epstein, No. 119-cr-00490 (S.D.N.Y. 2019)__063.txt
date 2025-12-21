@@ -1,0 +1,110 @@
+METADATA_SOURCE: Court Records\United States v. Epstein, No. 119-cr-00490 (S.D.N.Y. 2019)
+METADATA_FILENAME: 063.pdf
+----------------------------------------
+Case 1:19-cr-00490-RMB     Document 63     Filed 07/22/25     Page 1 of 4
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+------------------------------------------------------------X 
+UNITED STATES OF AMERICA, 
+Government, 
+-against-
+JEFFREY EPSTEIN, 
+Defendant. 
+-------------------------------------------------------------X 
+EJLECTR:ClPHCALLY 
+19 CR. 490 (RMB) 
+ORDER 
+The Court has received a four page "United States' Motion to Unseal Grand Jury 
+Transcripts" filed with the S.D.N.Y. Clerk's Office on Friday evening, July 18, 2025. See ECF 
+No. 61 (Gov't Motion). The Gov't Motion requests that the Court "unseal the underlying grand 
+jury transcripts in United States v. Epstein, subject to appropriate redactions of victim-related and 
+other personal identifying information." Id. at 1-2. 
+The Court intends to resolve this motion expeditiously. However, the Court cannot rule 
+on the motion without additional submissions from the Government. Specifically: 
+Memorandum of law: Federal Rule of Criminal Procedure 6(e) codified the practice, 
+"'older than our Nation itself,' that proceedings before a grand jury shall generally remain 
+secret." In re Petition of Craig, 131 F.3d 99, 102 (2d Cir. 1997) (quoting In re Biaggi, 478 F.2d 
+489, 491 (2d Cir. 1973) (Friendly, C.J.)); see also Douglas Oil Co. of'Cal. v. Petrol Stops Nw., 
+441 U.S. 211,218 (1979). Rule 6(e)(3) lists exceptions to the rule of secrecy but these are not 
+invoked by the Government's Motion. The Second Circuit - but not many other circuits - has 
+recognized that there are ce1tain "special circumstances" in which release of grand jury records 
+may be appropriate, based upon a court's supervisory authority over grand juries it empanels .. 1 See 
+1 The Seventh Circuit agrees that a district cou1t may order the release of grand jury materials upon 
+a showing of special circumstances. See Carlson v. United States, 837 F.3d 753, 766-67 (7th Cir. 
+1 
+
+Case 1:19-cr-00490-RMB     Document 63     Filed 07/22/25     Page 2 of 4
+In re Craig, 131 F .3d at l 02; see also id. at 104 ("The discretion of a trial court in deciding whether 
+to make public the ordinarily secret proceedings of a grand jury investigation is one of the broadest 
+and most sensitive exercises of careful judgment that a trial judge can make."). The Second Circuit 
+has identified the following factors for district comis to weigh where considering applications for 
+disclosure: 
+• 
+the identity of the party seeking disclosure; 
+• 
+whether the defendant to the grand jury proceeding or the Government opposes the 
+disclosure; 
+• 
+why disclosure is being sought in the particular case; 
+• 
+what specific information is being sought for disclosure; 
+• 
+how long ago the grand jury proceedings took place; 
+• 
+the current status of the principals of the grand jury proceedings and that of their 
+families; 
+• 
+the extent to which the desired material has been previously made public; 
+• 
+whether witnesses to the grand jury proceedings who might be affected by 
+disclosure are still alive; and 
+• 
+[whether there is an] additional need for maintaining secrecy in the particular case 
+in question. 
+Id. at 106 (capitalization altered); see also Laws.' Comm.for 9/11 Inquiry, Inc. v. Garland, 43 
+F.4th 276,285 (2d Cir. 2022) (affirming district comi's application of those factors). 
+2016). Other circuits have taken a much narrower view ofa district court's authority. See, e.g., 
+McKeever v. Barr, 920 F.3d 842, 843, 850 (D.C. Cir. 2019), cert. denied, 140 S, Ct. 597 (2020); 
+Pitch v. United States, 953 F.3d 1226, 1241 (11th Cir. 2020) (en bane); United States v. McDougal, 
+559 F.3d 837, 841 (8th Cir. 2009); In re Grand Jury 89-4-72, 932 F.2d 481, 488 (6th Cir. 1991 ), 
+2 
+
+Case 1:19-cr-00490-RMB     Document 63     Filed 07/22/25     Page 3 of 4
+The Government's motion does not adequately address these factors. The Court 
+accordingly directs the Government to file a memorandum of law, no later than Tuesday, July 29, 
+2025, addressing with specificity these factors. The memorandum of law is to be no more than 25 
+pages, double spaced. In light of grand jury secrecy and victim-related issues and other personal 
+identifying information concerns, the Government is directed to file, on the public record, a 
+redacted version, and to file under seal the memorandum in unredacted form. 
+The Coutt also directs the Government to state in the memorandum whether, before filing 
+the instant motion, counsel for the Government reviewed the Epstein grand jury transcripts and 
+whether the Government provided notice to the victims of the motion to unseal. Following the 
+Court's ruling on the Government's motion, the Coutt will invite the Government's input as to 
+whether, and to what extent, these redactions are warranted. 
+Grand jmy transcripts: The Court has not received the grand jury transcripts that the 
+Government seeks to unseal. The Court directs the Government to submit to the Court under seal 
+the following materials no later than Tuesday, July 29, 2025: (I) an index of Epstein grand jury 
+transcript materials, including a brief summary, the number of pages, and dates; (2) a complete set 
+of Epstein grand jury transcripts; (3) a complete proposed redacted set of Epstein grand jury 
+transcripts (i.e., the transcripts in the form that the Government proposes to release them); and (4) 
+a description of any other Epstein grand jury materials, including, but not limited to, exhibits. 
+Submission from Epstein's Representative: The Coutt has not received any letter on 
+behalf of deceased defendant Epstein setting out any position vis-a-vis the proposed disclosure. 
+Any such letter is due on or before Tuesday, August 5, 2025. 
+Submission(s) from Victims: The Government may not have notified the victims. And, 
+the Coutt has not received any letters on behalf of the victims setting out their positions on grand 
+3 
+
+Case 1:19-cr-00490-RMB     Document 63     Filed 07/22/25     Page 4 of 4
+jury disclosure. Any such letters are due on or before Tuesday, August 5, 2025. See Gov't Motion 
+at I n.1 (This is a 2 page, undated, unsigned, U.S. Department of Justice and Federal Bureau of 
+Investigation memo. According to the Government, "Epstein harmed over one thousand victims. 
+Each suffered unique trauma. Sensitive information relating to these victims is intertwined 
+throughout the materials. This includes specific details such as victim names and likenesses, 
+physical descriptions, places ofbiith, associates, and employment history."). 
+SO ORDERED. 
+Dated: New York, New York 
+July 22, 2025 
+4 
+~ .l .. Jlf, 'F{.,.N..,. 
+RICHARD M. BERMAN, U.S.D.J. 

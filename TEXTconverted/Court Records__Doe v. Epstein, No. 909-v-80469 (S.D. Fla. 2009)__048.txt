@@ -1,0 +1,189 @@
+METADATA_SOURCE: Court Records\Doe v. Epstein, No. 909-v-80469 (S.D. Fla. 2009)
+METADATA_FILENAME: 048.pdf
+----------------------------------------
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF FLORIDA
+CASE NO. 09-cv-80469-Marra/Johnson
+JANE DOE II,
+          Plaintiff,
+vs.
+JEFFREY EPSTEIN,
+and SARAH KELLEN,
+Defendants.
+______________________/
+SARAH KELLEN’S REPLY TO PLAINTIFF’S RESPONSE IN OPPOSITION TO
+KELLEN’S MOTION TO SET ASIDE DEFAULT
+Defendant SARAH KELLEN, by and through undersigned counsel, and pursuant to the
+Federal Rules of Civil Procedure and Local Rule 7.1, replies to Plaintiff’s Memorandum Of Law In
+Opposition to Defendant Kellen’s Motion To Set Aside Default (DE 47) and states as follows:
+Ms. Kellen asks the Court to set aside default in this case because service of process was
+legally deficient under New York law, and, the entry of default was premature.  Moreover, Ms.
+Kellen asks the Court to set aside the default because she has a meritorious defense to the instant
+action which might affect the outcome, granting her motion to set aside the default would not result
+in prejudice to the non-defaulting party, and default in this action was not willful.
+Service of Process Was Legally Deficient Under New York Law
+It is undisputed by the parties that the purported service of process on Ms. Kellen in this
+action is pursuant to Federal Rule of Procedure 4(e)(1) which allows service “pursuant to the law
+of the state . . . in which effected.”  In this case, Plaintiff claims to have served Ms. Kellen in New
+York under section 308(4) of the New York Civil Practice Law and Rules (“CPLR”), which is
+1
+Case 9:09-cv-80469-KAM   Document 48   Entered on FLSD Docket 07/21/2009   Page 1 of 7
+
+colloquially known as “nail and mail service.”  This type of service is disfavored in New York.  In
+fact, New York’s highest court has construed the statutory requirements of nail and mail service
+“strictly” stating that “the liberalization of the requirements of service would jeopardize the primary
+statutory purpose of ensuring that defendants receive actual notice of the pendency of litigation
+against them.”  Feinstein v. Berger, 397 N.E.2d 1161, 1164 (1979). 
+1.
+Plaintiff Failed to Exercise Due Diligence
+ “It is well settled that ‘nail and mail’ service pursuant to CPLR 308(4) may be used only
+where personal service under CPLR 308(1) and (2) cannot be made with ‘due diligence.’” Silber v.
+Stein, 731 N.Y.S. 2d 227, 228 (N.Y. App. Div. 2001).  Plaintiff has the burden of showing due
+diligence for the purposes of CPLR 308(4).  See State Higher Educ. Servs. Corp. V. Cacia, 652
+N.Y.S. 2d 883 (N.Y. App. Div. 1997).   Courts strictly enforce the due diligence requirement “given
+the reduced likelihood that a summons served pursuant to the action will be received.” See
+Lemberger v. Khan, 794 N.Y.S. 2d 416 (N.Y. App. Div. 2005).   A plaintiff that resorts to using
+CPLR 308(4) should be prepared to make a detailed showing of the efforts constituting due
+diligence, inasmuch as rigid adherence to the requirement of due diligence is expected.  There is no
+set fast rule as to what constitutes due diligence.  Instead, courts consider the facts and
+circumstances of each case. Hanover New England v. MacDougall, 608 N.Y.S. 2d 561, 561-62
+(N.Y. App. Div. 1994).
+Here, Plaintiff fails to meet her burden of showing due diligence for the purposes of CPLR
+308(4).  In fact, the only reference Plaintiff makes to due diligence in her Response is the following
+phrase: “the process server, who made six (6) attempts to serve before being forced to resort to nail
+and mail service, valid under New York law.”  Importantly, all six attempts to serve Ms. Kellen
+2
+Case 9:09-cv-80469-KAM   Document 48   Entered on FLSD Docket 07/21/2009   Page 2 of 7
+
+occurred between April 14 and April 25, 2009, a span of eleven days. The process server states that
+on April 14, 2009, April 21, 2009 and April 24, 2009 he was informed by the doorman at Ms.
+Kellen’s apartment residence that Ms. Kellen was “out of town.”  Certainly, given the consistency
+of the statement that Ms. Kellen was out of town, the process server should have exercised due
+diligence and waited an appropriate period of time for Ms. Kellen to return to town.  His repeated
+attempts to serve Ms Kellen when he possessed knowledge that she was not at the residence speaks
+to his failure to exercise due diligence.  
+Notably, the case law Plaintiff relies upon in her Response clearly supports Ms. Kellen’s
+legal position.  Plaintiff relies upon  Maines Paper & Food Service, Inc., v. Boulevard Burgers, 52
+A.D. 3d 1150, 1152 (N.Y.S. App. Div. 2008)  to support her claim that the process servers efforts
+comply with New York Law.  However, Plaintiff fails to point out that Maines states that “due
+diligence  . . . refers to the quality of the efforts made to effect personal service . . . not to their
+quantity or frequency.”  Id.  Unlike the efforts in this case, in Maines the process server not only
+made repeated attempts to serve at the residence, he also spoke to neighbors, and sought out persons
+who worked with the individual, and he had counsel investigate the individual and research
+databases, credit applications, verify home addresses, and check with the Secretary of State as to
+property ownership. Id.  Here, Plaintiff’s process server efforts are merely six visits to Kellen’s
+residence when he knew she was out of town.  Plaintiff also cites Leviton v. Unger, 868 N.Y.S. 2d
+126 (N.Y.S. App. Div. 2008) in her Response.  However, once again Plaintiff fails to point out to
+the Court that in Leviton the court found that service of process by “nail and mail” was insufficient
+as a matter of law because the process server repeatedly went to the person’s residence on a day and
+time when the person was likely to be working or commuting, and statements by the process server
+3
+Case 9:09-cv-80469-KAM   Document 48   Entered on FLSD Docket 07/21/2009   Page 3 of 7
+
+as to his efforts to determine where the person worked were conclusory and ambiguous.  In this case,
+Plaintiff demonstrates significantly less due diligence that what was at issue in Leviton and Maines. 
+Accordingly, Plaintiff’s due diligence efforts fail as a matter of law. 
+2.
+The Entry of Default Was Premature
+Once the due diligence burden is met, the plain language of the New York “nail and mail”
+statute, CPLR 308(4) requires three steps for service to be complete: (1) the summons must be
+affixed to the door; (2) a copy of the summons and complaint must be served upon the person by
+mail; and (3) plaintiff must file “proof of service” with the court. See N.Y.C.P.L.R. 308(4).  The
+plain language of the New York statute states that plaintiff must fulfill each of these elements for
+service to be complete.
+In this case, Plaintiff did not file her proof of service as required by the “nail and mail”
+statute until June 12, 2009, when she attached the proof of service to her motion for default against
+Ms. Kellen (DE 37).  Only upon filing of this notice is service deemed complete by New York law. 
+Once service is complete the time in which to answer, appear or move is set by the Federal Rules
+of Civil Procedure.  Importantly, Plaintiff admits in her Response that the filing of the proof of
+service required under CPLR 308(4) “pertains solely to the time within which a defendant may
+answer.” (Plaintiff’s Response DE 47:2).  It is well settled New York law that “the failure to file
+proof of service merely enlarge[s] the defendant’s time to appear, answer or move.” Browning v.
+Nix, 47 Misc. 2d 709, 711 (N.Y.Sup. 1965).  Ms. Kellen acknowledges that Plaintiff’s failure to file
+a proof of service, standing by itself, does not defeat the efficacy of otherwise valid service.  The
+purpose of the filing of the proof of service under the nail and mail statute is to go an extra step so
+as to ensure that someone who has not been personally served has every opportunity to comply. Id. 
+4
+Case 9:09-cv-80469-KAM   Document 48   Entered on FLSD Docket 07/21/2009   Page 4 of 7
+
+Here, Ms. Kellen  had 20 days from June 12, 2009, specifically until July 2, 2009, in which
+to file a responsive pleading.  However, on June 17, 2009, the Court granted Plaintiff’s motion and
+entered a default.  Five days later, on June 23, 2009 Ms. Kellen moved to set aside the default (DE
+42).  Because the Order of Default was entered before the time in which Ms. Kellen had to file a
+responsive pleading expired the Order was premature, there was no default, and the Order should
+be vacated. 
+Importantly, soon after filing her Motion to Set Aside Default, Ms. Kellen, through counsel,
+commenced good faith efforts with Plaintiff to effect a waiver of service.  Counsel for Plaintiff was
+contacted by the undersigned by certified letter, email, and telephone. Plaintiff never responded.
+The Default Should Be Set Aside For Good Cause Shown
+Federal Rule of Civil Procedure 55(c) provides the standard for setting aside an entry of
+default. The rule states that “[f]or good cause shown the court may set aside an entry of default. Fed.
+R. Civ. P. 55( c).  The Eleventh Circuit holds that the standard for setting aside a default is different
+and less burdensome than the setting aside of a default judgment.  See E.E.O.C. v. Mike Smith
+Pontiac GMC, Inc., 896 F.2d 524, 527-28 (11th Cir. 1990).  Good cause is a liberal standard. Coon
+v. Grenier, 867 F.2d 73, 76 (1st Cir. 1989).   The relevant factors courts consider under “good
+cause”  include “whether (1) the default was willful, (2) a set-aside would prejudice plaintiff, and
+(3) the alleged defense was meritorious.” See Compania Interamericana Export-Import, S.A. v.
+Compania Dominicana De Aviacion, 88 F.3d 948, 951 (11 th Cir. 1996).  
+Here, even if the default was properly entered, all factors weigh in favor of setting it aside. 
+First, Ms. Kellen’s conduct was not willful. Willfulness is determined by considering whether the
+party intended to violate court rules and procedure and not merely whether the party failed to
+5
+Case 9:09-cv-80469-KAM   Document 48   Entered on FLSD Docket 07/21/2009   Page 5 of 7
+
+answer. Widmer-Baum v. Chandler-Halford, 162 F.R.D. 545 (N.D. Iowa 1995).  Situations where
+a party absconds to avoid liability have been found to be willful.  Good faith or the inadvertent
+failure to answer are not willful.  Commercial Bank of Kuwait v. Rafidain Bank, 15 F.3d 238, 27
+Fed. R. Serv. 3d 1353 (2d Cir. 1994). Here, there is no evidence that, prior to the default being
+entered, Ms. Kellen or her counsel knew she had been properly served under the New York “nail
+and mail” statute1, and that therefore a responsive pleading was due.  As set forth above, Plaintiff’s
+process server showed no due diligent efforts to provide actual notice to Ms. Kellen.  Instead, the
+process server merely repeatedly showed up to serve Ms. Kellen when he knew she was not at that
+location. 
+Second, Plaintiff will not be prejudiced by setting aside the default because litigation in this
+case has just begun. Plaintiff filed this case in late March 2009.  Litigation is in its early stages. See
+Feliciano v. Reliant Tooling Co., 691 F.2d 653, 656-57 (3rd Cir. 1982)(finding that plaintiff’s
+expenses, or delay in realizing satisfaction do not constitute sufficient prejudice).
+Third, Ms. Kellen has a meritorious defense to this action.  Ms. Kellen did not personally
+commit any sexual battery on the Plaintiff, nor did she conspire with Mr. Epstein to do so.  In fact,
+Plaintiff does not allege any physical contact with Ms. Kellen, nor does she allege that Ms. Kellen
+was present for any improper sexual touching.  At best, she alleges that Ms. Kellen arranged for
+Plaintiff to massage Mr. Epstein.  The evidence will show that Ms. Kellen was not aware of
+whatever happened (or would happen) privately between Mr. Epstein and Plaintiff.  As such,
+Plaintiff will not be able to prove Ms. Kellen’s knowledge or intent to commit any tortious conduct,
+nor her agreement to further such conduct.
+1Florida law does not permit this kind of service.
+6
+Case 9:09-cv-80469-KAM   Document 48   Entered on FLSD Docket 07/21/2009   Page 6 of 7
+
+Last, “[d]efaults are seen with disfavor because of the strong policy of determining cases on
+their merits.”  Florida’s Physician’s Ins. Co. V. Ehlers, 8 F.3d 780, 783(11th Cir. 1993)(internal
+citations omitted).  Long-standing Eleventh Circuit precedent holds that “[e]ntry of judgment by
+default is a drastic remedy which should be used only in extreme circumstances.”Wahl v. McIver,
+773 F.2d 1169, 1174 (11th Cir. 1984).    The facts and circumstances set forth in this case do not rise
+to an extreme circumstance.  Even if the Court finds that service was proper, Ms. Kellen should be
+afforded the opportunity to have this dispute determined on its merits. 
+For the foregoing reasons, Ms. Kellen respectfully requests that her Motion To Set Aside
+Default be granted.
+Dated: July 21, 2009
+Respectfully submitted,
+BRUCE E. REINHART, P.A.
+By: /s/ Denise Kalland
+DENISE KALLAND
+Florida Bar No. 39025
+250 S. Australian Avenue
+Suite 1400
+West Palm Beach, Florida 33401
+Tel:
+(561) 202-6360
+Fax:
+(561) 863-8691
+Dkalland@BruceReinhartLaw.com
+CERTIFICATE OF SERVICE
+THIS IS TO CERTIFY that on July 21, 2009, the undersigned served copies of Sarah
+KELLEN’S Reply to Plaintiff’s Memorandum of Law in Opposition to Defendant Kellen’s Motion
+to Set Aside Default by electronic CM/ECF filing to all counsel of record. 
+/s/Denise Kalland
+DENISE KALLAND
+7
+Case 9:09-cv-80469-KAM   Document 48   Entered on FLSD Docket 07/21/2009   Page 7 of 7

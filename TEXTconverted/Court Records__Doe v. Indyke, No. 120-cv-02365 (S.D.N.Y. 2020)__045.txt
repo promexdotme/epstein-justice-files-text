@@ -1,0 +1,1303 @@
+METADATA_SOURCE: Court Records\Doe v. Indyke, No. 120-cv-02365 (S.D.N.Y. 2020)
+METADATA_FILENAME: 045.pdf
+----------------------------------------
+ 
+ 
+ 
+ 
+ UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ 
+In re: 
+ 
+ 
+ 
+ 
+ 
+: 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Docket #1:20-cv-02365- 
+ DOE, JANE, 
+ 
+ 
+ 
+ 
+: LJL-DCF 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Plaintiff, 
+:  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  - against -  
+ 
+ 
+ 
+:  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ INDYKE, DARREN K. et al, 
+ 
+: New York, New York 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+August 26, 2021 
+   
+ 
+ 
+Defendants. 
+: 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+TELEPHONE CONFERENCE 
+------------------------------------- : 
+ 
+PROCEEDINGS BEFORE 
+THE HONORABLE JUDGE DEBRA C. FREEMAN, 
+ UNITED STATES DISTRICT COURT MAGISTRATE JUDGE 
+ 
+APPEARANCES: 
+ 
+For Plaintiff:  
+ 
+KAISER SAURBORN & MAIR, P.C.  
+ 
+ 
+ 
+ 
+ 
+BY:  DANIEL J. KAISER, ESQ. 
+ 
+ 
+ 
+ 
+ 
+30 Broad Street, Suite 37th Floor  
+ 
+ 
+ 
+ 
+ 
+New York, NY 10004  
+ 
+For Defendants: 
+ 
+TROUTMAN PEPPER HAMILTON SANDERS LLP 
+ 
+ 
+ 
+ 
+ 
+BY:  BENNET J. MOSKOWITZ, ESQ. 
+ 
+ 
+ 
+ 
+ 
+875 Third Avenue  
+ 
+ 
+ 
+ 
+ 
+New York, NY 10022  
+ 
+ 
+ 
+ 
+ 
+212-704-6087 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transcription Service: Carole Ludwig, Transcription Services 
+ 
+ 
+ 
+ 
+ 
+155 East Fourth Street #3C 
+ 
+ 
+ 
+ 
+ 
+New York, New York 10009 
+ 
+ 
+ 
+ 
+ 
+Phone:  (212) 420-0771 
+ 
+ 
+ 
+ 
+ 
+Email:  Transcription420@aol.com 
+ 
+Proceedings conducted telephonically and recorded by 
+electronic sound recording; 
+Transcript produced by transcription service. 
+ 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 1 of 22
+
+ 
+ 
+ 
+ 
+ 
+ 
+INDEX 
+ 
+                                                     
+E X A M I N A T I O N S 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Re- 
+ Re- 
+Witness 
+ 
+ 
+Direct 
+Cross 
+Direct 
+Cross 
+ 
+None 
+E X H I B I T S 
+ 
+Exhibit 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voir 
+Number  
+     Description 
+ 
+      
+ID 
+In 
+Dire 
+ 
+None             
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 2 of 22
+
+1                       
+PROCEEDINGS 
+3 
+HONORABLE DEBRA C. FREEMAN (THE COURT):   This is 
+2 
+Judge Freeman.  This should be Jane Doe versus Indyke et 
+3 
+al.  It is 20-civ-2365, a case before Judge Liman and 
+4 
+myself. 
+5 
+Could I have your appearances, please, for the 
+6 
+record, starting on plaintiff's side? 
+7 
+MR. DANIEL J. KAISER:  Daniel Kaiser of Kaiser 
+8 
+Saurborn & Mair, your Honor, representing Jane Doe. 
+9 
+THE COURT:  Okay.  And on defendants' side? 
+10 
+MR. BENNET MOSKOWITZ:  Good morning, your Honor. 
+11 
+Bennet Moskowitz, Troutman Pepper, representing the co-
+12 
+executors.  And I just discovered there was a kind of a 
+13 
+clerical error with the Proposed Scheduling Order filed last 
+14 
+week.  So I just wanted to put a note down that, when your 
+15 
+Honor pleases, I'd like to just note that for the record so we 
+16 
+can correct it. 
+17 
+ THE COURT:  That's fine.  Is there anyone else 
+18 
+currently on this call?  Do I have my clerk on?  Donna, are 
+19 
+you there? 
+20 
+THE CLERK:  I'm here, Judge. 
+21 
+THE COURT:  Okay.  Is there anyone else on the 
+22 
+line? 
+23 
+THE DEPUTY CLERK:  It's Aisha.  I'm on, too. 
+24 
+THE COURT:  Oh, my deputy's on, as well. 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 3 of 22
+
+1                       
+PROCEEDINGS 
+4 
+MR. JAMES HILL:  Good morning, your Honor.  This is 
+2 
+James Hill; I'm the reporter with ABC News, in listen-only 
+3 
+mode. 
+4 
+THE COURT:  Okay.  Anyone else on the line? 
+5 
+MALE:  A reporter from the New York Post. 
+6 
+THE COURT:  I'm sorry, say it again, please?   
+7 
+MALE:  A reporter from the New York Post on 
+8 
+listen-only mode. 
+9 
+THE COURT:  Okay.  All right.  I have a few things 
+10 
+in front of me.  First of all, I have the need to set a 
+11 
+Scheduling Order.  I also have a motion for plaintiff for 
+12 
+leave to proceed anonymously.  I also have a pro hac vice 
+13 
+application.  That pro hac application I have granted; it 
+14 
+just probably has not hit the docket yet.  But that one is 
+15 
+resolved.  I've also granted the motion to seal some papers 
+16 
+that were submitted in connection with the motion to 
+17 
+proceed anonymously.  So that's also newly hitting the 
+18 
+docket, my granting of that application. 
+19 
+With respect to a Scheduling Order, I'm wondering, 
+20 
+rather than to have a Scheduling Order that has everything 
+21 
+just based on a certain number of days after there is an 
+22 
+answer, waiting to see if there is an answer or if there is 
+23 
+a motion, if there is an answer, then I would propose to 
+24 
+set a schedule that has actual firm dates in it for things 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 4 of 22
+
+1                       
+PROCEEDINGS 
+5 
+so that we don't have this wait with the date that is 100 
+2 
+days after this or 120 days after that or whatever.  If 
+3 
+there is as motion, I think we ought to have a discussion 
+4 
+about whether discovery should proceed in light of the 
+5 
+motion and if so, to what extent.  There is not automatic 
+6 
+stay of discovery when a motion to dismiss is filed.  But 
+7 
+there can at times -- it can at times make sense to stay 
+8 
+discovery in whole or in part.  The default is that 
+9 
+discovery would go forward, but I think it would be worth 
+10 
+taking a look at any schedule in light of any motion that's 
+11 
+pending, to see what the basis of the motion is and to see 
+12 
+what sort of discovery would make sense. 
+13 
+So I'm thinking of potentially -- well, actually, 
+14 
+I think what I'd like to do is find out from defendants, do 
+15 
+you intend to file a motion? 
+16 
+MR. MOSKOWITZ:  We do, your Honor.  Essentially, 
+17 
+there are statute of limitations issues, number one; and, 
+18 
+number two, there's a request for punitive damages, which 
+19 
+your Honor likely recalls that that's an issue that's been 
+20 
+ruled on in several cases already.  So those are at least 
+21 
+the two grounds that I'm currently aware of that we plan to 
+22 
+move on. 
+23 
+THE COURT:  Have the rulings on the punitive 
+24 
+damages point been consistent? 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 5 of 22
+
+1                       
+PROCEEDINGS 
+6 
+MR. MOSKOWITZ:  They have, your Honor.  And to put 
+2 
+a finer point on it, it's somewhat different here due to 
+3 
+the fact that the plaintiff, as far as I'm aware, is 
+4 
+couching the claim solely as Trafficking Victim Protection 
+5 
+Act claims.  However, there was a ruling in at least one 
+6 
+prior case on that.  But punitive damages generally, yes, 
+7 
+have been repeatedly dismissed on motions to dismiss 
+8 
+insofar as they've been asserted against the Epstein 
+9 
+estate. 
+10 
+THE COURT:  And assuming you file this motion, 
+11 
+would you be looking for any stay of discovery in whole or 
+12 
+in part? 
+13 
+MR. MOSKOWITZ:  Well, your Honor, our position is 
+14 
+not that we would necessarily file a formal motion to stay; 
+15 
+but consistent with prior positions, what I would say is 
+16 
+this, which is that it would be a shame for discovery to go 
+17 
+forward at full speed and potentially spin out of control 
+18 
+if -- and I don't know this yet and this is something that 
+19 
+is up to plaintiff to tell us whenever they please -- or 
+20 
+not -- but if there's any prospect of discussing 
+21 
+exploration of a resolution outside of litigation -- and I 
+22 
+guess what I'd say to that, your Honor, since we haven't 
+23 
+spoken a bit of a while for -- based on our track record, 
+24 
+is, you know, as a general matter, the estate is in favor 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 6 of 22
+
+1                       
+PROCEEDINGS 
+7 
+of alternative dispute resolutions and settlements.  And, 
+2 
+of course, that's why we had the very successful Epstein 
+3 
+Victims' Compensation Program.  And as the Court may be 
+4 
+aware, the program's independent administrator recently 
+5 
+actually announced that the program has essentially 
+6 
+finished the front-end stage and is proceeding to wind 
+7 
+down.  It's awarded nearly 125 million to approximately 150 
+8 
+eligible claimants.  And that was roughly one year after it 
+9 
+launched.  You may recall that was back in June of 2020.  
+10 
+Ninety-two percent of eligible claimants accepted their 
+11 
+offers, and at the time of the announcement the program had 
+12 
+already paid out over 121 million to those claimants.   
+13 
+I can't go into on the estate side who or why 
+14 
+certain resolutions did not happen via the program; 
+15 
+however, again we are open as a general principle to 
+16 
+exploring with any claimants who wish to do so whether 
+17 
+there's a potential for resolution outside of litigation.  
+18 
+And that's true in this case as with any of the others that 
+19 
+remain. 
+20 
+MR. KAISER:  If I may, your Honor?  
+21 
+THE COURT:  Sure.  Who's this, please? 
+22 
+MR. KAISER:  Dan Kaiser.  Just on those points -- 
+23 
+I don't want to get into a lot of detail -- but the 
+24 
+victims' compensation fund was not successful, which 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 7 of 22
+
+1                       
+PROCEEDINGS 
+8 
+[indiscernible] like, you know, it's not necessarily 
+2 
+relevant, although I had explicit discussions with the 
+3 
+administrator, and she was very explicit with me on the 
+4 
+phone how politics, you know, restrained her and entered 
+5 
+into what she did or didn't do with my client.  So -- and I 
+6 
+don't want to get into the details about that, but she was 
+7 
+very, very openly acknowledged of that.  And we're very 
+8 
+happy to have settlement discussions.  We've never 
+9 
+disguised that.  We've been open to it.  If the other side 
+10 
+wants to, for example, engage a mediator to see whether it 
+11 
+can be resolved, then we're happy to explore that.  And if 
+12 
+they're saying that the continuance at this point of 
+13 
+discovery would interfere with that process, I'm happy to 
+14 
+preliminarily have discussions about resolution to see if 
+15 
+it could happen without the need for discovery.  I won't 
+16 
+get into the statute of limitations issues -- I'm not sure 
+17 
+what the merits of that are, but we'll deal with them at 
+18 
+another time.  But, again, your Honor, I'm happy to have 
+19 
+those discussions; and if they're going to be had, 
+20 
+particularly in this case and the context and posture of 
+21 
+it, it should happen sooner rather than later. 
+22 
+THE COURT:  Sure.  Just a quick question about the 
+23 
+statute of limitations issues, if that defense is 
+24 
+successful, would it resolve the entire case or only part 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 8 of 22
+
+1                       
+PROCEEDINGS 
+9 
+of the case? 
+2 
+MR. KAISER:  Well, I don't -- 
+3 
+MR. MOSKOWITZ:  I believe -- 
+4 
+THE COURT:  Mr. Moskowitz? 
+5 
+MR. KAISER:  Go ahead.  I'm sorry.  Go ahead. 
+6 
+MR. MOSKOWITZ:  No apologies.  I didn't know if 
+7 
+that question was more for me, your Honor -- 
+8 
+THE COURT:  This is Mr. Moskowitz? 
+9 
+MR. MOSKOWITZ:  Yeah.  I believe it's partial.  I 
+10 
+don't believe it's a total dismissal. 
+11 
+THE COURT:  All right.  So based on what I have 
+12 
+heard, my view is that, assuming the motion is made -- and 
+13 
+I accept that it likely will be -- that discovery should 
+14 
+still go forward, but it should go forward in part because 
+15 
+the case would not be fully resolved, anyway, even if the 
+16 
+motion were granted.  And so there's no reason to let 
+17 
+discovery be stalled.  But because of the parties' 
+18 
+expressed interest on both sides in pursuing settlement and 
+19 
+possibly because of the motion, discovery should be 
+20 
+scheduled with an eye toward what is practical.  So perhaps 
+21 
+there should be some time built in on the front end where 
+22 
+you can talk settlement; or perhaps it should be structured 
+23 
+so that certain things are done first that you know you 
+24 
+would likely have to do anyway but are not the most 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 9 of 22
+
+1                       
+PROCEEDINGS 
+10 
+burdensome things and some other things that you might have 
+2 
+to do down the road that perhaps are more burdensome, we 
+3 
+have it on a schedule, you know when you're going to do it 
+4 
+if you have to, but perhaps you kick it a little bit 
+5 
+further down so that you don't spend unnecessary time, 
+6 
+money and effort on discovery that may not be needed.   
+7 
+With respect to settlement, you have a number of 
+8 
+options.  One option is that you talk between you without 
+9 
+the aid of a third-party mediator or other dispute-
+10 
+resolution professional.  You just talk between counsel as 
+11 
+counsel and you see what you can do to try to negotiate a 
+12 
+resolution.  I have great confidence in lawyers' skills in 
+13 
+advancing the ball in settlement.  Here there were some 
+14 
+unusual circumstances where this program was set up and 
+15 
+obviously a lot of claims were put there instead of put 
+16 
+before counsel to try to work something out.  But at this 
+17 
+stage of the game it seems to me the first thing you should 
+18 
+do is have good-faith conversations between you and see 
+19 
+where you are. 
+20 
+If that is not successful, you have a number of 
+21 
+options with respect to mediation.  You could go to the 
+22 
+court's mediation program -- and I'm happy to send you 
+23 
+there.  You can come before me, and I'm happy to host you.  
+24 
+Or you could retain a private mediator of your choice 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 10 of 22
+
+1                       
+PROCEEDINGS 
+11 
+through whatever organizational or whatever individual 
+2 
+you're both comfortable with.  And I'm happy to have you do 
+3 
+that, as well, if that's something you should talk about.  
+4 
+But I do think that, if you're going to talk, the time to 
+5 
+talk is in fact sooner rather than later because I don't 
+6 
+want to see discovery stalled longer than necessary if the 
+7 
+case is not going to be resolved.  So if you build in some 
+8 
+time at the front end of the discovery schedule to talk 
+9 
+settlement, that means you should be talking settlement. 
+10 
+So I'm going to send you back to talk between 
+11 
+counsel about how you want to proceed with this.  I will 
+12 
+tell you that, if I have a conference before me on 
+13 
+settlement, I will require counsel to tell me that they've 
+14 
+tried as hard as they can on their own and they really do 
+15 
+need help, you know, that you're at impasse, you can't 
+16 
+think of anything else to do, you know, all the skills that 
+17 
+you have in settlement have been exhausted and you just 
+18 
+have no other idea how to proceed other than to ask for 
+19 
+outside help.  And then I am happy to try to help you break 
+20 
+through whatever log jam you've got.  I think even if 
+21 
+that's not a requirement for the mediation program or for 
+22 
+an outside mediator, it doesn't hurt to try on your own 
+23 
+first and get as far as you can and see whether you really 
+24 
+need the help or if so, to figure out exactly what the gap 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 11 of 22
+
+1                       
+PROCEEDINGS 
+12 
+between the parties' positions is and just how much work 
+2 
+has to be done to get there. 
+3 
+So what I'm thinking is this.  Let me send you 
+4 
+back to the well.  Propose a discovery plan that, A, has in 
+5 
+mind that a motion is coming and that the parties are 
+6 
+interested in talking settlement; and, B, has firm dates in 
+7 
+it instead of 30 days after this and 20 days after that and 
+8 
+so on.  I will tell you what I would generally put in a 
+9 
+scheduling order, and you can modify it as you think would 
+10 
+be appropriate.  And if I think it's reasonable, I'll 
+11 
+approve it.  I would want a date for initial disclosures.  
+12 
+Usually that comes pretty quickly.  Usually it's within a 
+13 
+couple of weeks after I issue my Scheduling Order.   
+14 
+Then once you get the information on the initial 
+15 
+disclosures, assuming there's information that still hasn't 
+16 
+already been informally exchanged, I'd want a date for 
+17 
+service of initial document requests and interrogatories, 
+18 
+just to make sure that ball is rolling.  I will let you go 
+19 
+outside Local Rule 33.3A, go straight to B with respect to 
+20 
+the kinds of interrogatories you serve, to save some time 
+21 
+because A is a lot like the initial disclosures under 26A, 
+22 
+and it seems to me that it doesn't make sense to object 
+23 
+just because interrogatories go outside that rule when you 
+24 
+can just serve a second set and be there anyway.  I'm not 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 12 of 22
+
+1                       
+PROCEEDINGS 
+13 
+talking about contention interrogatories.  Save those for 
+2 
+further down the pike.  I'm not talking about 
+3 
+interrogatories that are abusive or call for long, 
+4 
+narrative responses.  Use your judgment, please. 
+5 
+With respect to motions to amend or for joinder, 
+6 
+as soon as you reasonably have the idea as to whether 
+7 
+you've got the right claims and the right parties, let's 
+8 
+get that closed down so that something doesn't happen late 
+9 
+in the case that throws a monkey wrench into everything.  
+10 
+I'm looking for a deadline, a proposed deadline for motions 
+11 
+to amend or joinder.  If there's not going to be an 
+12 
+objection by your adversary, I'm not going to require the 
+13 
+motion.  So you've got to back up whatever deadline it is 
+14 
+in your head, think about drafting a proposed amended 
+15 
+pleading, sending it to your adversary saying would you 
+16 
+oppose this if I were to move to amend.  It doesn't have to 
+17 
+be consent; it just has to be I wouldn't object to it, I 
+18 
+wouldn't oppose it.  If there's not going to be an 
+19 
+opposition, let me know, and I'll just accept the amended 
+20 
+pleading for filing.  If there is going to be an objection, 
+21 
+I want a deadline in the Scheduling Order for motions to 
+22 
+amend or for joinder.  If you miss that deadline that's in 
+23 
+the Order, be aware it is an important deadline because if 
+24 
+you miss it, you're going to be in Rule 16 land with having 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 13 of 22
+
+1                       
+PROCEEDINGS 
+14 
+to show good cause why you couldn't meet a date in a 
+2 
+Scheduling Order, and that liberal amendment standard of 
+3 
+Rule 15 can go out the window if you can't show good cause 
+4 
+for missing the deadline.  So give me a deadline for 
+5 
+motions to amend or joinder.  If you think there might 
+6 
+really be an amendment and you're worried about the 
+7 
+deadline, put your hand in the air and ask to have it 
+8 
+extended before that date comes.  Don't find yourself with 
+9 
+a problem under Rule 16.  Obviously, if something comes up 
+10 
+late in the game that was honestly something that couldn't 
+11 
+have been anticipated, you'll have good cause for a late 
+12 
+motion to amend; but, you know, don't risk it if you can 
+13 
+possibly avoid that. 
+14 
+And then a deadline for the close of fact 
+15 
+discovery, I'm going to try not to micromanage you other 
+16 
+than getting that ball rolling on document requests and 
+17 
+interrogatories.  I'm not going to require you to set firm 
+18 
+dates for depositions or the like unless you start running 
+19 
+into problems and there's no other way to do it than to 
+20 
+have court-ordered dates.  I don't anticipate that. 
+21 
+With respect to any experts, generally what I 
+22 
+would do is I would say if you've got the affirmative 
+23 
+burden of proof on an issue, get your expert reports out 
+24 
+within 30 days of the close of fact discovery, rebuttal 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 14 of 22
+
+1                       
+PROCEEDINGS 
+15 
+reports 30 days after that, and then you'll have a small 
+2 
+window for expert depositions.  If there's something 
+3 
+unusual going on here, if you think that schedule does not 
+4 
+work, talk about it.  But that's what I would ordinarily 
+5 
+do. 
+6 
+And that's all I've got on that.  Does that sound 
+7 
+reasonable for you to go back and talk and see what you can 
+8 
+come up with? 
+9 
+MR. MOSKOWITZ:  Bennet Moskowitz.  Yes, your 
+10 
+Honor.  And if I could, before we close as far as 
+11 
+discussion, I did want to address that clerical issue 
+12 
+because, notwithstanding that we're not going to -- the 
+13 
+Court's not going to enter the proposal that was already 
+14 
+submitted, I do want to correct it for the docket. 
+15 
+THE COURT:  Sure.  I have it in front of me.  What 
+16 
+was it? 
+17 
+MR. MOSKOWITZ:  Yes.  It has the wrong signature 
+18 
+page.  It looks like a signature page from another action 
+19 
+against the estate. 
+20 
+THE COURT:  Oh, dear. 
+21 
+MR. MOSKOWITZ:  Apologies if that was on our end.  
+22 
+I'm not even certain yet.  We certainly filed the -- 
+23 
+THE COURT:  That's what happens when there are too 
+24 
+many cases.  All right, no problem. 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 15 of 22
+
+1                       
+PROCEEDINGS 
+16 
+MR. MOSKOWITZ:  We tried to reduce the number.  So 
+2 
+I would like to -- I don't know if the Court can remove 
+3 
+that from the docket or -- I just don't want to have it 
+4 
+hanging there.  You know, obviously, the other attorney 
+5 
+from the other case shouldn't be reflected on this docket. 
+6 
+THE COURT:  We can figure out something.  If you 
+7 
+want to just send a -- put a letter on the docket saying 
+8 
+that it's withdrawn.  I mean, it won't disappear from the 
+9 
+docket.  I mean, it's not something that would ordinarily 
+10 
+get sealed.  But you can write a letter and just indicate 
+11 
+that there's an error if you want to have the docket 
+12 
+reflect that. 
+13 
+MR. MOSKOWITZ:  Sure.   
+14 
+THE COURT:  Right?  I mean, for anyone on the call 
+15 
+who's listening in on mute who's a member of the press, 
+16 
+there's as document on the docket that has the wrong 
+17 
+signature page.  So please ignore it.   
+18 
+Anyway, just put some letter on the docket about 
+19 
+it, and I'll deal with it when I get that letter from you. 
+20 
+MR. MOSKOWITZ:  Understood.  Thank you, your 
+21 
+Honor. 
+22 
+THE COURT:  Okay.  That -- 
+23 
+MR. KAISER:  Your Honor --  
+24 
+THE COURT:  Yes. 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 16 of 22
+
+1                       
+PROCEEDINGS 
+17 
+MR. KAISER:  I'm sorry, your Honor.  It's Dan 
+2 
+Kaiser.  Just one point of clarification.  To the motion to 
+3 
+proceed anonymously still needs to be ruled upon, correct? 
+4 
+THE COURT:  Yes.  Yes.  I was just going to turn 
+5 
+to that. 
+6 
+MR. KAISER:  Okay.  Yes.  Okay. 
+7 
+THE COURT:  Anything else about scheduling? 
+8 
+By the way, you have some other things in the 
+9 
+Proposed Scheduling Order like a date to provide HIPAA 
+10 
+releases.  That's fine.  If you want to add some things in 
+11 
+there that you think are worth having in there that you 
+12 
+want to have, you know, the power of the court behind to 
+13 
+make sure things happen by a certain date, you can.  Those 
+14 
+things that I outlined for you are the things that I 
+15 
+require to be in a Scheduling Order, initial disclosures, 
+16 
+date to serve initial document requests and 
+17 
+interrogatories, deadline for amendment of pleadings and 
+18 
+joinder, deadline for fact discovery, and then the schedule 
+19 
+for expert discovery.  If there's something else in there 
+20 
+that you think would be helpful, you know, you can add it 
+21 
+in there by agreement.   
+22 
+And also, you can stipulate to modify an interim 
+23 
+dates in my Scheduling Order that you want if it all wraps 
+24 
+up at the same point in time.  I want to see it end the 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 17 of 22
+
+1                       
+PROCEEDINGS 
+18 
+same way.  If you agree that fact discovery can slide into 
+2 
+the period for expert discovery and you're in agreement it 
+3 
+can get done, it's okay.  If you agree that you can move 
+4 
+some other date in there because you're talking settlement 
+5 
+but you're still looking at the same end date, you don't 
+6 
+need leave of Court to do that; you can just stipulate to 
+7 
+that.  If it's the amendment deadline, let me know that 
+8 
+you're stipulating so that we don't have any confusion 
+9 
+there about what rule you're under if there's a motion that 
+10 
+comes in late.  Okay? 
+11 
+All right -- 
+12 
+MR. KAISER:  Yes, your Honor. 
+13 
+THE COURT:  -- with respect to the motion to 
+14 
+proceed anonymously, I've looked at the motion, I've looked 
+15 
+at what was put on the docket for the Court's view in 
+16 
+unredacted form, I've looked at the reply.  My inclination 
+17 
+at this point is to grant the motion to proceed 
+18 
+anonymously.  It may be revisited at a later date, but I 
+19 
+think at this juncture that is the better course, and so 
+20 
+I'm going to allow this case, like the other cases in the 
+21 
+court, to proceed with plaintiff as Jane Doe.  So I'm going 
+22 
+to grant that. 
+23 
+Is there anything else?   
+24 
+You know what, let me give you one other thing to 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 18 of 22
+
+1                       
+PROCEEDINGS 
+19 
+do, which is after -- I'm sorry, which is to put in the 
+2 
+Proposed Scheduling Order a date by which you'll send me a 
+3 
+joint status report on how things are going, both with 
+4 
+respect to the status of discovery and the status of your 
+5 
+settlement talks.  Just figure out what would be a logical 
+6 
+point in time to report back to me, and put in the date so 
+7 
+that I don't lose track of the case. 
+8 
+With respect to a status report on the settlement, 
+9 
+this is going to be a publicly filed document, so I really 
+10 
+don't want you to put your confidential settlement 
+11 
+discussions in the letter -- that's not the purpose of it, 
+12 
+and I don't really think that belongs on the public docket.  
+13 
+So what I mean by a status letter on settlement is the 
+14 
+following.  I've taken to saying this a lot in cases these 
+15 
+days when I ask for status reports on settlement.  From 
+16 
+best to worst, the best kind of status letter you can put 
+17 
+on the docket to the worst kind of status letter you can 
+18 
+put on the docket, the best is, "We have a resolution in 
+19 
+principle, Judge."  That's obviously great.  Next best is, 
+20 
+"We are talking seriously. Because of that -- and we think 
+21 
+we're optimistic -- we'd like a little bit more time to get 
+22 
+back to you.  We think maybe we need a little bit of 
+23 
+discovery; but, you know, we think this is going well."  
+24 
+And then propose how you want to proceed from there.  "We'd 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 19 of 22
+
+1                       
+PROCEEDINGS 
+20 
+like some further extensions on deadlines in light of 
+2 
+this," or, "We'd like another status report letter date," 
+3 
+or something.  Next is, "We've been talking seriously, and 
+4 
+we're having difficulty.  We really would like to try the 
+5 
+assistance of a mediator, you or the mediation program or 
+6 
+outside mediator," or whatever it is you want to propose; 
+7 
+you let me know.  Next is, "We've been talking seriously.  
+8 
+We're not getting anywhere.  We don't think we're going to 
+9 
+get anywhere.  We think this case has to be litigated.  We 
+10 
+think there's absolutely no hope."  If I see a letter like 
+11 
+that, I'll probably have another call with you and say, 
+12 
+"Are you sure there's nothing that can help you, because I 
+13 
+know both sides are interested."  And I'm usually more 
+14 
+optimistic than the parties when I get a letter like that.  
+15 
+The worst letter you can put on the docket is, "Even though 
+16 
+I know you're interested in settlement, we've done nothing 
+17 
+on this front.  We haven't been talking.  We haven't 
+18 
+advanced the ball at all since the last time we had a 
+19 
+conference two months ago.  It's been completely stagnant 
+20 
+on that front."  If you're interested in settlement, pursue 
+21 
+it; try to make progress and give me an actual progress 
+22 
+report.  Okay? 
+23 
+MR. KAISER:  Yes, your Honor. 
+24 
+MR. MOSKOWITZ:  Understood. 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 20 of 22
+
+1                       
+PROCEEDINGS 
+21 
+THE COURT:  Anything else for today? 
+2 
+MR. MOSKOWITZ:  Thank you, your Honor. 
+3 
+MR. KAISER:  Nothing for plaintiffs.  Nothing from 
+4 
+plaintiffs, your Honor. 
+5 
+THE COURT:  So get me a modified proposed 
+6 
+schedule.  I'll let you get the motion filed and take a 
+7 
+look at that motion.  It's supposed to come in, what, 
+8 
+September 7 -- was that the day?  What was the date I gave 
+9 
+you for a motion?  I don't remember.  Sixth, I think it 
+10 
+was -- 
+11 
+MR. KAISER:  Correct, September 6. 
+12 
+THE COURT:  September 6.  So how about you get me 
+13 
+a Proposed Scheduling Order in light of that motion by 
+14 
+September 10? 
+15 
+MR. MOSKOWITZ:  Sure. 
+16 
+MR. KAISER:  That works, your Honor. 
+17 
+THE COURT:  Okay.  All right, I'll look for 
+18 
+something on the docket by then. 
+19 
+Thank you, all. 
+20 
+(Whereupon, the matter is recessed.) 
+21 
+ 
+22 
+ 
+23 
+ 
+24 
+ 
+25 
+26 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 21 of 22
+
+1                       
+ 
+22 
+ 
+2 
+ 
+ 
+        C E R T I F I C A T E 
+3 
+ 
+4 
+I, Carole Ludwig, certify that the foregoing 
+5 
+transcript of proceedings in the case of Doe v. Indyke et 
+6 
+al, Docket # 20-cv-02365-LJL-DCF, was prepared using digital 
+7 
+transcription software and is a true and accurate record of 
+8 
+the proceedings. 
+9 
+ 
+10 
+ 
+11 
+ 
+12 
+ 
+13 
+Signature Carole Ludwig 
+14 
+ 
+ 
+ Carole Ludwig 
+15 
+ 
+16 
+ 
+17 
+Date:    September 3, 2021 
+18 
+ 
+19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+24 
+ 
+25 
+Case 1:20-cv-02365-LJL-DCF     Document 45     Filed 09/03/21     Page 22 of 22

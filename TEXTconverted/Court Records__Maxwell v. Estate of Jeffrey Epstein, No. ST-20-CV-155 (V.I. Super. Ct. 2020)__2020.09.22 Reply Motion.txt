@@ -1,0 +1,691 @@
+METADATA_SOURCE: Court Records\Maxwell v. Estate of Jeffrey Epstein, No. ST-20-CV-155 (V.I. Super. Ct. 2020)
+METADATA_FILENAME: 2020.09.22 Reply Motion.pdf
+----------------------------------------
+IN THE SUPERIOR COURT OF THE VIRGIN ISLANDS 
+DIVISION OF ST. THOMAS AND ST. JOHN 
+******************************** 
+ 
+ 
+GHISLAINE MAXWELL, 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+Plaintiff, 
+ 
+)  
+Case No. ST-20-CV-155 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+vs. 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ESTATE OF JEFFREY E. EPSTEIN, DARREN 
+) 
+K. INDYKE, in his capacity as EXECUTOR OF 
+) 
+THE ESTATE OF JEFFREY E. EPSTEIN,  
+) 
+RICHARD D. KAHN, in his capacity as 
+ 
+) 
+EXECUTOR OF THE ESTATE OF JEFFREY E. ) 
+EPSTEIN, and NES, LLC, a New York Limited 
+) 
+Liability Company, 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+ 
+ 
+Defendant.  
+ 
+) 
+__________________________________________) 
+ 
+ 
+GOVERNMENT OF THE UNITED STATES VIRGIN ISLANDS’  
+REPLY BRIEF IN SUPPORT OF MOTION TO INTERVENE 
+ 
+ 
+The Government of the United States Virgin Islands (“Government”), by and through its 
+undersigned counsel, hereby submits this Reply Brief in support of its motion for an order 
+permitting the Government to intervene in this action as of right pursuant to V.I. R. Civ. P. 24(a) 
+or else by leave pursuant to V.I. R. Civ. P. 24(b).  The Government states in further support of its 
+motion as follows. 
+PRELIMINARY STATEMENT 
+ 
+The Government moves to intervene in this action by Plaintiff Ghislaine Maxwell seeking 
+indemnification and advancement of legal expenses from Defendants the Estate of Jeffrey E. 
+Epstein and its Co-Executors—Darren K. Indyke and Richard D. Kahn—on two distinct but 
+closely related grounds.  First, the Government has an interest in preserving Epstein Estate funds 
+to satisfy a judgment in its pending action against Defendants alleging that Epstein and others 
+IN THE SUP.ERJOR COURT 
+OFTHE VIRGI 
+ISLAND 
+FILED 
+September 22, 2020 
+TAMARA CHARLES 
+CLERK OF THE COURT 
+
+2 
+ 
+engaged in a criminal sex-trafficking enterprise in the Virgin Islands for which the Government 
+seeks forfeiture, divestiture, disgorgement, and payment of civil penalties and damages under the 
+Criminally Influenced and Corrupt Organizations Act (“CICO”), 14 V.I.C. §§ 601 et seq.  Second, 
+the Government has an investigatory interest in Maxwell’s involvement with Epstein’s criminal 
+sex-trafficking and sexual abuse conduct pursuant to its authority under CICO, 14 V.I.C. § 612, 
+which Maxwell has thwarted by resisting and evading service of the Government’s investigatory 
+subpoena, even while she has invoked the jurisdiction of the Virgin Islands Courts to obtain 
+indemnification for the very same alleged conduct. 
+ 
+Maxwell opposes the Government’s motion to intervene on numerous grounds, none of 
+which have merit.  First, Maxwell contends she lacks sufficient notice of the Government’s claims 
+because it failed to attach a pleading as required by V.I. R. Civ. P. 24(c).  This is incorrect.  The 
+Government attached as Exhibit A to its motion the Amended Complaint in its CICO action setting 
+forth all of its claims against Defendants and the factual bases therefor.  The CICO Complaint 
+serves Rule 24’s purpose of giving the parties notice of what the Government’s claims and interests 
+are.  See, e.g., U.S. v. Metro St. Louis Sewer Dist., 589 F.3d 829, 834 (8th Cir. 2009) (“Appellees 
+argue that MIEC’s failure to submit a pleading is sufficient to deny its motion to intervene, but we 
+conclude that the statement of interest satisfies Rule 24(c) because it provides sufficient notice to 
+the court and the parties of MIEC’s interests.”); Massachusetts v. Microsoft Corp., 373 F.3d 1199, 
+1236 n.19 (D.C. Cir. 2004) (“The Government and Microsoft make no claim they had inadequate 
+notice of the intervenors’ appeal, and we find no reason to bar intervention based solely upon this 
+technical [lack of pleading] defect, if defect it be.”).  Maxwell and the Epstein Estate have ample 
+notice of the Government’s claims and interests. 
+
+3 
+ 
+ 
+Second, Maxwell argues that the Government’s pending CICO claims against Defendants 
+do not provide a sufficient interest because they are contingent, not yet having been litigated to 
+judgment.  Maxwell relies almost entirely on federal court cases within the Third Circuit for this 
+argument.  These cases are not controlling.  See Bruni v. Alger, 71 V.I. 71, 76 n.11 (Super. Ct. 
+2019) (decisions interpreting federal rules of procedure are persuasive, not binding, authority as to 
+analogous Virgin Islands Rules provisions).  Here, far more persuasive are decisions in at least six 
+other federal Circuits rejecting the Third Circuit’s analysis and holding that a pending claim may 
+provide a sufficient interest for intervention in the defendant’s coverage action.  See, e.g., Utahns 
+for Better Transp. v. U.S. Dept. of Tramsp., 295 F.3d 1111, 1115-16 (10th Cir. 2002) (“The threat 
+of economic injury from the outcome of litigation undoubtedly gives a petitioner the requisite 
+interest [in intervention as of right].”); Security Ins. Co. v. Schipporeit, Inc., 69 F.3d 1377, 1380-
+81 (7th Cir. 1995); Teague v. Baker, 931 F.2d 259, 261 (4th Cir. 1991); TIG Specialty Ins. Co. v. 
+Fin. Web.com, Inc., 208 F.R.D. 336, 338 (M.D. Fla. 2002); St. Paul Fire & Marine Ins. Co. v. 
+Summit-Warren Ind’s Co., 143 F.R.D. 129, 134 (N.D. Ohio 1992); New Hampshire Ins. Co. v. 
+Greaves, 110 F.R.D. 549, 552 (D.R.I. 1986).  The Government has a clear and sufficient interest 
+in the outcome of this action. 
+ 
+Third, Maxwell argues that intervention is unnecessary because the Government’s interest 
+in ensuring availability of the Epstein Estate’s funds is secured by the Government’s Criminal 
+Activity Liens placed pursuant to 14 V.I.C. § 610.  This is incorrect because the Government’s 
+Criminal Activity Liens under CICO are limited to Epstein’s funds or property situated or owned 
+in the Virgin Islands, see 14 V.I.C. § 610(e)(1)-(2), and because the Epstein Estate is fighting 
+enforcement of the Government’s Liens at every turn.  See Exhibit M hereto (Letter of Counsel 
+for Epstein Estate and Co-Executors to Probate Court, Sept. 15, 2020) at 2 (“[W]e urgently ask the 
+
+4 
+ 
+Court to . . . issue an Order for the Attorney General to release the liens on the Estate’s FirstBank 
+account in the amount [$7,200,000] requested in the Estate’s correspondence with the Attorney 
+General.”). 
+ 
+Finally, Maxwell argues that the Government’s interest in the outcome of this case is 
+adequately protected by the Epstein Estate’s interest in protecting its own funds.  This, too, is 
+incorrect.  Numerous of the above-cited federal courts reject the same argument that the parties to 
+a coverage action can adequately represent the interests of a tort claimant.  See, e.g., Security Ins., 
+69 F.3d at 1381; Teague, 931 F.3d at 262.  Here, the Epstein Estate and its Co-Executors clearly 
+are inadequate to represent the Government’s interest in preserving Estate funds because 
+• Maxwell herself pleads that “Indyke, in his capacity as Executor of the Estate, also 
+made assurances to Maxwell that Maxwell’s legal fees and obligations would be 
+reimbursed by Epstein and the Estate . . . .”  Complaint, ¶ 21; and 
+ 
+• Indyke and Kahn admit that “the Estate is indemnifying certain current and former 
+employees of and professionals on behalf of one or more defendants in the Attorney 
+General’s suit.”  Ex. M (Letter of Counsel for Epstein Estate and Co-Executors to 
+Probate Court, Sept. 15, 2020) at 2. 
+ 
+There thus is no question that the Co-Executors are not acting to preserve Estate funds.  The 
+Government’s interest in preservation thus is not adequately represented by the Epstein Estate or 
+its Co-Executors, the Defendants in the Government’s CICO enforcement action. 
+For all of these reasons and as set forth more fully below, the Court should grant the 
+Government’s motion to intervene. 
+ARGUMENT 
+A. 
+The Motion Gives Ample Notice of the Government’s Claims and Interests. 
+ 
+Maxwell begins her opposition by arguing that the Government’s motion to intervene is 
+“procedurally defective” because it does not attach a pleading as required by Rule 24(c) and that, 
+because of this alleged failure, the motion “does not adequately provide notice to Plaintiff of the 
+
+5 
+ 
+precise nature of [the Government’s] claims.”  Opposition at 3-4.  This argument is factually 
+and/or legally incorrect. 
+Rule 24 provides that a motion to intervene “must state the grounds for intervention and be 
+accompanied by a pleading that sets out the claim or defense for which intervention is sought.”  
+V.I. R. Civ. P. 24(c).  The Government satisfied this requirement by attaching as Exhibit A to its 
+motion its First Amended Complaint in its CICO action against Defendants the Epstein Estate and 
+its Co-Executors and others.  The CICO Complaint is 54 pages, contains 114 paragraphs of factual 
+allegations, and states 24 separate counts setting forth the legal grounds for each item of relief the 
+Government seeks from Defendants.  The Government also attached as Exhibit B its CICO 
+Subpoena Duces Tecum, the service of which Maxwell previously resisted and evaded, which 
+states clearly that the Government is seeking documents from her related to “the rape, abuse, 
+exploitation and trafficking of young women and underage girls by Jeffrey E. Epstein and his 
+associates” in violation of Virgin Islands law.  Maxwell does not even address the Government’s 
+submission of its CICO Complaint or Subpoena, let alone explain how or why they do not satisfy 
+the Rule’s requirement of a pleading to give notice of interest. 
+Since Maxwell ignores the Government’s attached CICO Complaint and Subpoena, she 
+does not address whether or how Rule 24(c) contemplates something different.  But even if it did, 
+this would be purely a matter of form, not substance, because the CICO Complaint and subpoena 
+clearly satisfy the pleading provision’s purpose—to give the litigating parties notice of the 
+intervening party’s claims and interest.  See generally In re L.O.F., 62 V.I. 655, 665 (2015) (“It is 
+a settled rule that in the construction of statutes an interpretation is never to be adopted that would 
+defeat the purpose of the enactment.”) (internal quotation marks and citation omitted). 
+
+6 
+ 
+This is the conclusion reached by numerous federal circuit courts of appeal in applying the 
+identical pleading provision of Fed. R. Civ. P. 24(c).  See Peaje Invs. LLC v. Garcia-Padilla, 845 
+F.3d 505, 515 (1st Cir. 2017) (“Accordingly, denial of a motion to intervene based solely on the 
+movant’s failure to attach a pleading, absent prejudice to any party, constitutes an abuse of 
+discretion.”); Metro St. Louis, supra, 569 F.3d at 834 (“[T]he statement of interest satisfies Rule 
+24(c) because it provides sufficient notice to the court and the parties of MIEC’s interests.”); 
+Providence Baptist Church v. Hillandale Comm., Ltd., 425 F.3d 309, 314 (6th Cir. 2005) 
+(“Furthermore, neither party has ever claimed that any prejudice would result from granting the 
+motion to intervene despite the failure to attach a pleading; the parties are clearly on notice as to 
+Hillandale Committee’s position and arguments.”); Mass. v. Microsoft, supra, 373 F.3d at 1236 
+n.19 (“The Government and Microsoft make no claim they had inadequate notice of the 
+intervenors’ appeal, and we find no reason to bar intervention based solely upon this technical 
+defect, if defect it be.”). 
+Since Maxwell cannot plausibly claim lack of notice of the Government’s interests in 
+preservation of the Epstein Estate’s funds and in service of its CICO investigatory subpoena, her 
+argument for denial of intervention based upon Rule 24(c) fails and should be rejected. 
+B. 
+The Government Has a Clear and Sufficient Interest in the Outcome of this 
+Action. 
+ 
+Maxwell next argues that the Government’s interest in preservation of Epstein Estate funds 
+is insufficient for intervention because the interest is “contingent” until a judgment is entered in 
+the Government’s CICO action against the Estate.  The Court should reject this argument because 
+it relies upon an overly rigid and stringent conception of the “interest” that supports intervention 
+as of right under Rule 24(a)(2). 
+
+7 
+ 
+Maxwell cites as support for her argument decisions of the U.S. Court of Appeals for the 
+Third Circuit and the U.S. District Court for the District of the Virgin Islands, which was bound 
+by Third Circuit precedent.  See Opposition at 6-7 (citing Mountain Top Condo Ass’n v. Dave 
+Stabbert Master Builder, Inc., 72 F.3d 261, 366 (3d Cir. 1995); Gen. Star Indem. Co. v. V.I. Port 
+Auth., 224 F.R.D. 372, 375-76 (D.V.I. 2004)).  These decisions, however, both applying Federal 
+Rule 24, are not controlling on this Court’s application of Virgin Islands Rule 24.  See, e.g., Bruni 
+v. Alger, supra, 71 V.I. at 76 n.11 (decisions applying Federal Rules of Civil Procedure are 
+persuasive, not binding authority, as to analogous Virgin Islands Rules). 
+Here, the Court should not find the Third Circuit’s interpretation of Federal Rule 24 
+persuasive because it is contrary to decisions of courts in at least six other federal circuits—the 
+First, Fourth, Sixth, Seventh, Tenth, and Eleventh Circuits—which find that the holder of a 
+pending claim may have a sufficient interest to intervene in a related coverage case.  See Utahns 
+for Better Transp., supra, 295 F.3d at 1115 (“The threat of economic injury from the outcome of 
+litigation undoubtedly gives a petition the requisite interest” to intervene); Security Ins. Co., supra, 
+69 F.3d at 1380-81 (affirming grant of intervention by tort claimant in coverage action); Teague, 
+supra, 931 F.2d at 261 (“[O]ther [courts] have allowed intervention in a dispute between an insurer 
+and its insured even when the intervenor’s interest is contingent on the outcome of other litigation.  
+We find the reasoning of this latter authority persuasive.”) (citations omitted); TIG Specialty Ins. 
+Co., supra, 208 F.R.D. at 338 (potential deprivation of source of recovery if intervenor prevails on 
+its claim is a sufficient interest); St. Paul Fire & Marine, supra, 143 F.R.D. at 134 (“There is 
+nothing in the wording or history of Rule 24 which indicates intent to exclude would be intervenors 
+whose interest in the pending litigation is not yet vested.”) (quoting New Hampshire Ins. Co., 
+supra, 110 F.R.D. at 552); see also Romero v. Bd. of Cty. Comm’rs, 313 F.R.D. 133, 140 (D.N.M. 
+
+8 
+ 
+2016) (“[T]he Tenth Circuit and numerous other Courts of Appeal have permitted intervenors with 
+a contingent interest to intervene.”). 
+In Teague, supra, the U.S. Court of Appeals for the Fourth Circuit held that class action 
+plaintiffs seeking to intervene in a coverage action involving the class action defendant had a 
+sufficient interest because they “stand to gain or lose by the direct legal operation of the district 
+court’s judgment” in the coverage case.  931 F.2d at 261.  That same conclusion applies here.  If 
+this Court rules that the Epstein Estate must indemnify Maxwell for claims related to her 
+relationship with Epstein and to “advance” her attorneys’ fees (while she is in prison awaiting trial 
+on federal criminal charges), then the Government stands to lose funds for the satisfaction of a 
+judgment in its CICO action against the Epstein Estate. 
+Maxwell also argues that the Government’s separate but related investigatory interest under 
+CICO as to her involvement with Epstein’s conduct is not sufficient to support intervention.  See 
+Opposition at 12-14.  Maxwell focuses primarily on the Government’s ability to enforce its CICO 
+subpoena by other means, rather than on the investigatory interest itself.  The Government’s 
+interest is established by statute, 14 V.I.C. § 612(a), and involves the same subject matter as this 
+action—Maxwell’s relationship to the Epstein Enterprise’s conduct.  Compare Maxwell 
+Complaint, ¶ 1 (“This is an action for indemnification for and advancement of the attorneys’ fees, 
+security costs, costs to find safe accommodation, and all other expenses Maxwell has reasonably 
+incurred and will incur by reason of her employment relationship with Jeffrey E. Epstein 
+(‘Epstein’) and his affiliated businesses . . . .”); with Gov’t Ex. B (CICO Subpoena) (seeking 
+documents from Maxwell related to “the rape, abuse, exploitation and trafficking of young women 
+and underage girls by Jeffrey E. Epstein and his associates” in violation of Virgin Islands law).  
+This related interest thus provides an additional basis supporting the Government’s intervention. 
+
+9 
+ 
+Based on the substantial weight and persuasive force of the foregoing authority applying 
+the analogous federal rules provision, the Court should hold that the Government’s pending CICO 
+claims against the Epstein Estate provide it with a clear and sufficient interest to intervene to ensure 
+preservation of Estate funds.  
+C. 
+The Government’s Interest in Preserving Epstein Estate Funds for Payment 
+of a Judgment May Be Impaired Absent Allowance of Intervention. 
+ 
+Maxwell separately argues that the Government’s interest in preservation of Epstein Estate 
+funds will not be impaired by any judgment or resolution of this action because the Government 
+has placed Criminal Activity Liens on certain Estate assets pursuant to 14 V.I.C. § 610.  See 
+Opposition at 10-11.  The Court should reject this argument because it ignores the difference in 
+scope between all Epstein Estate assets and those covered by the Government’s Criminal Activity 
+Liens. 
+CICO’s Criminal Activity Lien provisions permit the Government to place liens upon a 
+CICO defendant’s property that is “situated in the Territory of the Virgin Islands” or its “beneficial 
+interest” that is “located in the Territory of the Virgin Islands.”  14 V.I.C. § 610(e)(1)-(2).  Maxwell 
+acknowledges this territorial limitation.  See Opposition at 10 (“These liens cover all real and 
+personal property located in the Virgin Islands in the name or under the signatory authority of 
+the Estate.”) (emphasis in original). 
+The Government’s claims for forfeiture, divestiture, maximum civil penalties per violation, 
+treble and punitive damages, and disgorgement of ill-gotten gains under CICO, see Ex. A-CICO 
+Complaint at 53-54 (Prayer for Relief), are not so limited.  See 14 V.I.C. § 607(c), (e) (provisions 
+for awarding damages and civil penalties, without territorial limit). 
+Since the Epstein Estate assets covered by the Government’s Criminal Activity Liens are 
+not co-extensive with the relief the Government may obtain through a judgment on its CICO 
+
+10 
+ 
+claims, the Court should reject Maxwell’s argument that the Liens alone are sufficient to secure 
+the Government’s interests without intervention. 
+Although the foregoing suffices to reject Maxwell’s argument, it also bears emphasis that 
+Defendants the Epstein Estate and its Co-Executors are resisting and seeking to evade the 
+Government’s Criminal Activity Liens at every turn.  As just one example, even though the 
+Attorney General and the Superior Court in the CICO action have sole and exclusive authority to 
+release funds covered by the Liens, see 14 V.I.C. § 610(r) (Attorney General’s authority), (t) 
+(CICO Court’s authority), the Co-Executors repeatedly have asked and currently are asking the 
+Probate Court to order release of over $7,000,000 covered by the Government’s Criminal Activity 
+Liens.  See Ex. M hereto (Letter of Counsel for Epstein Estate and Co-Executors to Probate Court, 
+Sept. 15, 2020) at 2 (“[W]e urgently ask the Court to . . . issue an Order for the Attorney General 
+to release the liens on the Estate’s FirstBank account in the amount [$7,200,000] requested in the 
+Estate’s correspondence with the Attorney General.”).  While these requests have no legal merit, 
+their existence is at least relevant to Maxwell’s assertion that the Government’s interest are 
+absolutely secured by the Criminal Activity Liens. 
+Maxwell also argues that the Government’s investigatory interest under CICO as to her 
+involvement with Epstein’s conduct will not be impaired absent intervention because the 
+Government may protect this interest by other means—by enforcing its CICO subpoena in the 
+state where she resides.  See Opposition at 14 (citing 14 V.I.C. § 612(k)).  In so arguing, Maxwell 
+admits that she avoided service of the Government’s CICO Subpoena by refusing to authorize her 
+attorney in the Virgin Islands to accept service.  See Opposition at 14 (Government’s subpoenas 
+“were served to persons who did not have authority to accept them.”).  She also does not deny that 
+she resisted or evaded service in the, previously unknown, state where she resided prior to her 
+----
+
+11 
+ 
+arrest.  See Gov’t Motion at 4-6.  She also does not consent to service or to a court’s personal 
+jurisdiction over her as a citizen of New York where she is imprisoned.  She has, however, 
+consented to this Court’s jurisdiction over her claims related to her relationship with Jeffrey 
+Epstein.  This action in this Court thus is the one venue in which the Government’s investigatory 
+interest is certain not to be impaired. 
+For all of these reasons, the Court should reject Maxwell’s argument and should hold that 
+the Government’s interests in preservation of Epstein Estate funds and in advancement of its 
+investigation of Maxwell may be impaired absent intervention. 
+D. 
+The Epstein Estate Does Not Adequately Represent the Government’s 
+Interests. 
+ 
+Maxwell also argues that the Government may not intervene because the Epstein Estate 
+and its Co-Executors, in her telling, share and thus adequately represent the Government’s interest 
+in preserving Estate funds.  See Opposition at 15-17 (“To the extent that the Government is 
+concerned with the dissipation of the Estate’s assets, the Trustees adequately represent the 
+Government’s interest here.”).  They do not. 
+Maxwell’s own Complaint allegations undercut this argument.  As one of the grounds for 
+her alleged right to indemnification and advancement of legal costs, Maxwell alleges that separate 
+and apart from Epstein’s promises, Defendant “Indyke, in his capacity as an Executor of the Estate, 
+also made assurances to Maxwell that Maxwell’s legal fees and obligations would be reimbursed 
+by Epstein and the Estate, and that Maxwell’s legal fees and expenses would be paid going 
+forward.”  Complaint, ¶ 21 (emphasis added).  How this promise by Indyke squares with his 
+“fiduciary duties to all who may have a beneficial interest in the estate,” Opposition at 15, or to 
+otherwise preserve Epstein Estate funds, Maxwell does not say. 
+
+12 
+ 
+Nonetheless, her allegation that Indyke is offering up Epstein Estate funds for the legal 
+defense of persons not specifically identified as Estate beneficiaries is borne out by Indyke and 
+Kahn’s recent admission to the Probate Court that this is exactly what they are doing.  Their 
+counsel’s September 15, 2020 letter to the Probate Court acknowledges that “the Estate is 
+indemnifying certain current and former employees of and professionals on behalf of one or more 
+defendants in the Attorney General’s suit.”  Ex. M hereto (Sept. 15, 2020 letter) at 2.  Specifically, 
+the Government has learned that the Estate is paying the legal fees for an immigration attorney it 
+believes may have obtained visas for Epstein’s trafficking victims.  Paying the legal fees of 
+individuals alleged to have participated in Epstein’s trafficking enterprise demonstrates the 
+Estate’s interest in preventing the disclosure of information relevant to the Government’s case in 
+the Government’s case, and belies Maxwell’s assertion that the Government’s and the Estate’s 
+interests in preservation of funds are perfectly aligned. 
+At risk of stating the obvious, the Estate of Jeffrey E. Epstein and its Co-Executors are not 
+adequate representatives for the Government’s interest in preserving the availability of Estate 
+funds to satisfy a CICO action judgment based upon Epstein’s sex-trafficking and other related 
+criminal conduct.  The Court therefore should grant the Government intervention as of right under 
+Rule 24(a). 
+E. 
+The Government Also Satisfies Rule 24(b)’s Requirements for Permissive 
+Intervention. 
+ 
+Maxwell’s arguments for denying permissive intervention pursuant to V.I. R. Civ. P. 24(b) 
+also have no merit and should be rejected if intervention as of right is denied (which it should not 
+be). 
+Maxwell first argues that permissive intervention should be denied because the 
+Government’s claims do not share “a common question of law or fact,” V.I. R. Civ. P. 24(b)(1)(B), 
+
+13 
+ 
+with the claims in her indemnification action.  See Opposition at 17.  This is incorrect.  The 
+Government’s CICO claims against Defendants, its investigated claims against Maxwell, and 
+Maxwell’s claims against Defendants all present the common question of:  Who is liable to pay a 
+judgment on the Government’s CICO claims against Defendants (and/or Maxwell) for their 
+involvement in or connection to the rape, abuse, exploitation, and trafficking of young women and 
+underage girls by Epstein and his associates? 
+Numerous federal courts have addressed the question of whether a tort claim and an 
+indemnification claim present a common question of law or fact, and concluded that they do.  See 
+Security Ins. Co., supra, 69 F.3d at 1381 (common question and independent jurisdiction 
+requirements “are clearly met in this case”); Nationwide Mut. Ins. Co. v. Nat’l REO Mgmt., Inc., 
+205 F.R.D. 1, 6 (D.D.C. 2000) (“Thus, while the insurance contract may not be an issue in the 
+underlying case in Superior Court, the factual similarities between the two cases are enough to 
+establish a common question of fact.  Specifically, both the present case and the underlying case 
+arise from alleged carbon monoxide emissions from a furnace in the defendant’s building that 
+began on February 23, 1995.  In addition, neither case can be decided without determining the 
+source of the applicant’s injuries.  Accordingly, for purposes of [Federal] Rule 24(b), the court 
+finds a common question of fact in the present lawsuit and the underlying lawsuit in Superior 
+Court.”).  This Court should hold the same here. 
+Maxwell’s next and final argument is that the Government’s intervention will cause undue 
+delay and prejudice because the Government “proposes to inject legal issues that diverge 
+substantially from those involved in this indemnification action.”  Opposition at 18.  Not so. 
+The only such issues Maxwell identifies are those “concerning the Government’s intent to 
+conduct a criminal investigation of Plaintiff within the context of this civil action.”  Id.  This 
+
+14 
+ 
+question, however, would be answered by the intervention itself.  Once intervention is granted, the 
+Government will seek to:  (a) oppose unauthorized expenditures of Epstein Estate’s funds, which 
+Maxwell contends already is or should be the Estate’s position, see Opposition at 16; and (b) 
+enforce its investigatory subpoena against Maxwell, which raises a discrete question clearly 
+answered under 14 V.I.C. § 612(a), as Maxwell also appears to recognize (but nonetheless wants 
+to be answered in any other court where she has not yet consented to jurisdiction), see Opposition 
+at 13-14. 
+At bottom, the only thing the Government’s intervention threatens is to provide facts 
+answering the questions already raised by Maxwell’s indemnification claim in this action.  
+Maxwell seeks indemnification from the Epstein Estate based upon her purported “prior 
+employment relationship” with Epstein and his businesses in connection with any claim “related 
+to Epstein, his affiliated businesses, and his alleged victims.”  Complaint, ¶ 1 (emphasis added).  
+The Epstein Estate’s Co-Executors already are “indemnifying certain current and former 
+employees of and professionals on behalf of” Epstein’s companies.  Ex. M (Sept. 15, 2020 letter 
+to Probate Court).  Only the Government stands at the ready to determine: 
+• what actual conduct by Epstein and Maxwell is at issue in connection with claims 
+by Epstein’s “alleged victims;” 
+ 
+• whether the criminal sex-trafficking and sexual abuse conduct that is alleged would 
+fall within the scope of any purported employment relationship; and/or 
+ 
+• whether, employment relationship or no, it is a legitimate expenditure of Epstein 
+Estate funds to provide legal representation to persons connected to an alleged 
+criminal sex-trafficking enterprise instead of preserving funds for the Estate’s true 
+beneficiaries and claimants. 
+ 
+Thus, rather than unduly complicate this litigation, the Government’s intervention would guide it 
+towards a fact-based resolution of the issues Maxwell’s indemnification claims actually present. 
+----
+
+15 
+ 
+ 
+For each of these reasons, the Court should grant permissive intervention under Rule 24(b) 
+if intervention as of right under Rule 24(a) is denied (which it should not be). 
+CONCLUSION 
+ 
+For all of the reasons set forth herein and in the moving papers, the Court should grant the 
+Government’s motion to intervene as of right under Rule 24(a) or else by permission under Rule 
+24(b).  
+ 
+Respectfully submitted, 
+ 
+ 
+ 
+ 
+ 
+ 
+DENISE N. GEORGE, ESQUIRE 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTORNEY GENERAL 
+ 
+ 
+ 
+ 
+ 
+Dated: September 22, 2020  
+By: 
+/S/ Carol Thomas-Jacobs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAROL THOMAS-JACOBS, ESQ. 
+ 
+ 
+ 
+ 
+ 
+ 
+Chief Deputy Attorney General 
+ 
+ 
+ 
+ 
+ 
+ 
+Virgin Islands Department of Justice 
+ 
+ 
+ 
+ 
+ 
+ 
+Office of the Attorney General 
+ 
+ 
+ 
+ 
+ 
+ 
+3438 Kronprindsens Gade 
+ 
+ 
+ 
+ 
+ 
+ 
+St. Thomas, U.S. Virgin Islands 00802 
+ 
+ 
+ 
+ 
+ 
+ 
+Email: carol.jacobs@doj.vi.gov  
+ 
+ 
+ 
+ 
+ 
+ 
+(340) 774-5666 ext. 10101 
+ 
+ 
+
+16 
+ 
+ 
+CERTIFICATE OF SERVICE 
+ 
+IT IS HEREBY CERTIFIED that the foregoing Reply Brief in Support of Motion to 
+Intervene complies with the word and page requirements of V.I.R. Civ. P. 6-1(e) and a true and 
+correct copy of the Motion was served via regular mail, postage prepaid, with a courtesy copy sent 
+by email to counsel of record on September 22, 2020 to: 
+ 
+ 
+KYLE R. WALDNER, ESQ. 
+ 
+QUINTAIROS, PRIETO, WOOD & BOYER, P.A. 
+ 
+9300 S. Dadeland Blvd., 4th Floor 
+ 
+Miami, FL 33156 
+ 
+E-mail: kwaldner@qpwblaw.com 
+ 
+ 
+DAVID CATTIE, ESQ. 
+ 
+THE CATTIE LAW FIRM, P.C. 
+ 
+1710 Kongens Gade 
+St. Thomas, V.I., 00802 
+e-mail:  david.cattie@cattie-law.com  
+ 
+CHRISTOPHER ALLEN KROBLIN, ESQ. 
+ANDREW W. HEYMANN, ESQ., 
+WILLIAM BLUM, ESQ. 
+SHARI D’ANDRADE, ESQ. 
+KELLERHALS FERGUSON KROBLIN PLLC 
+Royal Palms Professional Building 
+9053 Estate Thomas, Suite 101 
+St. Thomas, V.I. 00802-3602 
+Email: ckroblin@kellfer.com   
+aheymann@solblum.com   
+wblum@solblum.com  
+sdandrade@kellfer.com   
+mwhalen@kellfer.com  
+ 
+ANDREW TOMBACK 
+McLaughlin & Stern, LLP 
+260 Madison Avenue 
+New York, New York 10016 
+United States 
+Email: ATomback@mclaughlinstern.com 
+ 
+ 
+ 
+
+17 
+ 
+DANIEL WEINER 
+MARC A. WEINSTEIN 
+HUGHES HUBBARD & REID, LLP 
+One Battery Park Plaza 
+New York, NY 10004-1482 
+United States 
+Email: daniel.weiner@hugheshubbard.com 
+ 
+marc.weinstein@hugheshubbard.com 
+ 
+ 
+ 
+/S/ Carol Thomas-Jacobs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAROL THOMAS-JACOBS, ESQ. 
+ 
+ 
+ 
+ 
+ 
+ 
+Chief Deputy Attorney General 
+ 
+ 
+ 
+ 
+ 
+ 
+Virgin Islands Department of Justice 
+ 
+ 
+ 
+ 
+ 
+ 
+Office of the Attorney General 
+ 
+ 
+ 
+ 
+ 
+ 
+3438 Kronprindsens Gade 
+ 
+ 
+ 
+ 
+ 
+ 
+St. Thomas, U.S. Virgin Islands 00802 
+ 
+ 
+ 
+ 
+ 
+ 
+Email: carol.jacobs@doj.vi.gov  
+ 
+ 
+ 
+ 
+ 
+ 
+(340) 774-5666 ext. 10101 

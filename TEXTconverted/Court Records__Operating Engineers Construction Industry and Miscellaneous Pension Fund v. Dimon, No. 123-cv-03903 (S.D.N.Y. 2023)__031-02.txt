@@ -1,0 +1,548 @@
+METADATA_SOURCE: Court Records\Operating Engineers Construction Industry and Miscellaneous Pension Fund v. Dimon, No. 123-cv-03903 (S.D.N.Y. 2023)
+METADATA_FILENAME: 031-02.pdf
+----------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT 2 
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 1 of 20
+
+#2014-001 
+UNITED STATES OF AMERICA  
+DEPARTMENT OF THE TREASURY  
+COMPTROLLER OF THE CURRENCY  
+) 
+In the Matter of: 
+) 
+) 
+AA-EC-13-109 
+JPMorgan Chase Bank, N.A. 
+) 
+Columbus, OH 
+) 
+) 
+JPMorgan Bank and Trust Company, N.A. 
+) 
+San Francisco, CA 
+) 
+) 
+Chase Bank USA, N.A. 
+) 
+Wilmington, DE 
+) 
+) 
+) 
+CONSENT ORDER FOR THE ASSESSMENT OF A CIVIL MONEY PENALTY 
+The Comptroller of the Currency of the United States of America (“Comptroller”), 
+through his national bank examiners and other staff of the Office of the Comptroller of the 
+Currency (“OCC”), has conducted examinations of JPMorgan Chase Bank, N.A., Columbus, 
+Ohio; JPMorgan Bank and Trust Company, N.A., San Francisco, California; and Chase Bank 
+USA, N.A., Wilmington, Delaware (collectively referred to as “Bank”).  The OCC has identified 
+deficiencies in the Bank’s Bank Secrecy Act/anti-money laundering (“BSA/AML”) compliance 
+program, resulting in violations of 31 U.S.C. § 5318(i) and its implementing regulation,  
+31 C.F.R. § 1010.610(a), (b) and (c); 12 U.S.C. § 1818(s) and its implementing regulation,  
+12 C.F.R. § 21.21(c); and 12 C.F.R. § 21.11(c) and (d).  The Bank is also the subject of a prior 
+OCC Consent Cease and Desist Order issued on January 14, 2013 (“January 2013 Order”).   
+Examinations conducted subsequent to the issuance of the January 2013 Order have 
+revealed additional deficiencies in the Bank’s BSA/AML compliance program, which resulted in 
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 2 of 20
+
+the citation of additional violations of law and regulation.  The Bank has been notified of the 
+findings of these examinations.  
+The Bank, by and through its duly elected and acting Boards of Directors, has executed a 
+“Stipulation and Consent to the Issuance of a Consent Order for the Assessment of a Civil 
+Money Penalty,” dated January 7, 2014, that is accepted by the Comptroller (“Stipulation”).  By 
+this Stipulation, which is incorporated herein by reference, the Bank has consented to the 
+issuance of this Consent Order for the Assessment of a Civil Money Penalty (“Consent Order”) 
+by the Comptroller. 
+On January 6, 2014, the Bank entered into a Deferred Prosecution Agreement (“DPA”) 
+with the United States Attorney’s Office for the Southern District of New York.  In the DPA, the 
+Bank admitted to certain facts concerning the failure to file a Suspicious Activity Report 
+(“SAR”) in the United States on Bernard L. Madoff Investment Securities, LLC (“Madoff”). 
+ARTICLE I 
+COMPTROLLER’S FINDINGS 
+The Comptroller finds the following: 
+The Comptroller incorporates the following findings from Article I of the January 2013 
+Order: 
+(1) 
+The OCC’s examination findings establish that the Bank has deficiencies in its 
+BSA/AML compliance program.  These deficiencies have resulted in the failure to correct a 
+previously reported problem and a BSA/AML compliance program violation under 
+12 U.S.C. § 1818(s) and its implementing regulation, 12 C.F.R. § 21.21 (BSA Compliance 
+2  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 3 of 20
+
+Program).  In addition, the Bank has violated 12 C.F.R. § 21.11 (Suspicious Activity Report 
+Filings). 
+(2) 
+The Bank has failed to adopt and implement a compliance program that 
+adequately covers the required BSA/AML program elements due to an inadequate system of 
+internal controls and ineffective independent testing.  The Bank did not develop adequate due 
+diligence on customers, particularly in the Commercial and Business Banking Unit, a repeat 
+problem, and failed to file all necessary SARs related to suspicious customer activity. 
+(3) 
+The Bank failed to correct previously identified systemic weaknesses in the 
+adequacy of customer due diligence and the effectiveness of monitoring in light of the 
+customers’ cash activity and business type, constituting a deficiency in its BSA/AML 
+compliance program and resulting in a violation of 12 U.S.C. § 1818(s)(3)(B). 
+(4) 
+Some of the critical deficiencies in the elements of the Bank’s BSA/AML 
+compliance program, resulting in a violation of 12 U.S.C. § 1818(s)(3)(A) and 12 C.F.R. § 21.21, 
+include the following: 
+(a) 
+The Bank has an inadequate system of internal controls and independent testing. 
+(b) 
+The Bank has less than satisfactory risk assessment processes that do not provide 
+an adequate foundation for management’s efforts to identify, manage, and control risk. 
+(c) 
+The Bank has systemic deficiencies in its transaction monitoring systems, due 
+diligence processes, risk management, and quality assurance programs. 
+(d) 
+The Bank does not have enterprise-wide policies and procedures to ensure that 
+foreign branch suspicious activity involving customers of other bank branches is effectively 
+communicated to other affected branch locations and applicable AML operations staff.  The 
+3  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 4 of 20
+
+Bank also does not have enterprise-wide policies and procedures to ensure that on a risk basis, 
+customer transactions at foreign branch locations can be assessed, aggregated, and monitored. 
+(e) 
+The Bank has significant shortcomings in SAR decision-making protocols and an 
+ineffective method for ensuring that referrals and alerts are properly documented, tracked, and 
+resolved. 
+(5) 
+The Bank failed to identify significant volumes of suspicious activity and file the 
+required SARs concerning suspicious customer activities, in violation of 12 C.F.R. § 21.11.  In 
+some of these cases, the Bank self-identified the issues and is engaged in remediation. 
+(6) 
+The Bank’s internal controls, including filtering processes and independent 
+testing, with respect to Office of Foreign Asset Control (“OFAC”) compliance are inadequate. 
+The Comptroller further finds, for purposes of this Consent Order: 
+(7) 
+The Bank has not established adequate BSA/AML and due diligence programs for 
+its foreign branches, offices, or affiliates in violation of 31 U.S.C. § 5318(i) (implementing 
+Section 312 of the USA PATRIOT Act, Pub. L. No. 107-56, § 312(a), 115 Stat. 272, 312 
+(2001)), and 12 C.F.R. § 21.21(c). This violation includes the Bank's failure to conduct 
+suspicious activity monitoring of transactions between the Bank and certain of the Bank's 
+affiliates. 
+(8) 
+The Bank did not establish and implement an adequate BSA/AML program for 
+correspondent banking and remote deposit capture (“RDC”) and international cash letter (“ICL”) 
+products or adequate internal controls, including the Bank’s due diligence programs, in the 
+correspondent banking and RDC/ICL areas. Inadequate controls resulted in certain special 
+accommodation clients in the Bank that operated outside of the normal AML monitoring and 
+OFAC screening controls. For these reasons, the Bank is in violation of 31 U.S.C. § 5318(i),  
+4  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 5 of 20
+
+12 U.S.C. § 1818(s), 12 C.F.R. § 21.21(c), and 31 C.F.R. § 1010.610(a), (b), and (c).  These 
+failures also caused the Bank to fail to file SARs and to do so timely in violation of 12 C.F.R.  
+§ 21.11(c) and (d). 
+(9) 
+The Bank has failed to correct previously reported problems in several areas, 
+including Asia Private Banking, and with respect to one of its correspondent bank relationships, 
+resulting in additional violations of 12 U.S.C. § 1818(s).  
+(10)
+ The Bank’s SAR filing processes and procedures for SAR filing in the areas of 
+Chase Auto Finance and Student Lending were inadequate, and the Bank further failed in certain 
+instances to file SARs related to suspected fraud by employees, resulting in violations of  
+12 C.F.R. § 21.11(c). 
+(11) 
+Between 2006 and 2008, the Bank created, sold and made a secondary market for 
+structured products that provided customers access to Madoff’s investment strategy through 
+several “feeder funds.” Prior to Bernard L. Madoff’s arrest, the Bank developed concerns about 
+Madoff and a distributor of Madoff-linked investments created by the Bank.  These concerns 
+caused the Bank’s London branch to file a suspicious activity report with the United Kingdom’s 
+Serious Organised Crime Agency on October 29, 2008.  Aware that Madoff was a client of the 
+Bank in the U.S., U.K.-based Bank employees conveyed these concerns to U.S.-based Bank 
+employees.  Despite the fact that these concerns caused the Bank to file a suspicious activity 
+report in the U.K., the Bank did not file a SAR in the U.S. based on these concerns.  The failure 
+to file a SAR on this activity and to do so timely is significant and a violation of 12 C.F.R.  
+§ 21.11(c) and (d). 
+(12)
+ﾭ
+­
+chartered affiliate of a Venezuelan bank. Although the Bank filed SARs relating to this 
+5  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 6 of 20
+
+correspondent account, the Bank did not investigate additional suspicious activity, totaling over 
+$2 billion, pertaining to counterparties that flowed through the account at the Bank.  The failure 
+to file SARs on this activity and to do so timely is significant and in violation of 12 C.F.R.  
+§ 21.11(c) and (d). 
+(13) 
+From 2004 to 2010, the Bank failed to adequately monitor, investigate and file 
+SARs on approximately $450 million of suspicious bulk cash transactions in an account at the 
+Bank for another of its correspondents. The failure to file SARs on this activity and to do so 
+timely is significant and in violation of 12 C.F.R. § 21.11(c) and (d). 
+(14) 
+From February 2013 to March 2013, the Bank failed to adequately monitor and 
+file a supplemental SAR on ongoing activity relating to $471,680 in suspicious transactions in an 
+account at the Bank for a third correspondent.  The failure to file SARs on this activity and to do 
+so timely is significant and in violation of 12 C.F.R. § 21.11(c) and (d). 
+ARTICLE II 
+ORDER FOR A CIVIL MONEY PENALTY 
+Pursuant to the authority vested in him by the Federal Deposit Insurance Act, 12 U.S.C.  
+§ 1818(i), the Comptroller orders, and the Bank consents to, the following: 
+(1) 
+The Bank shall make payment of a civil money penalty in the total amount of 
+three hundred and fifty million dollars ($350,000,000), which shall be paid upon the execution of 
+this Consent Order: 
+(a)  
+If a check is the selected method of payment, the check shall be made 
+payable to the Treasurer of the United States and shall be delivered to: 
+6  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 7 of 20
+
+Comptroller of the Currency, P.O. Box 979012, St. Louis, Missouri 
+63197-9000. 
+(b)  
+If a wire transfer is the selected method of payment, it shall be sent in 
+accordance with instructions provided by the Comptroller.   
+(c)  
+The docket number of this case (AA-EC-13-109) shall be entered on the 
+payment document or wire confirmation and a photocopy of the payment 
+document or confirmation of the wire transfer shall be sent immediately, 
+by overnight delivery, to the Director of Enforcement and Compliance, 
+Office of the Comptroller of the Currency, 400 7th Street, S.W., 
+Washington, D.C. 20219. 
+(2) 
+This Consent Order shall be enforceable to the same extent and in the same 
+manner as an effective and outstanding order that has been issued and has become final pursuant 
+to 12 U.S.C. § 1818(h) and (i). 
+ARTICLE III  
+OTHER PROVISIONS  
+(1) 
+This Consent Order is intended to be, and shall be construed to be, a final order 
+issued pursuant to 12 U.S.C. § 1818(i)(2), and expressly does not form, and may not be 
+construed to form, a contract binding on the Comptroller or the United States. 
+(2) 
+This Consent Order constitutes a settlement of the civil money penalty proceeding 
+against the Bank contemplated by the Comptroller, based on the violations of law and regulation 
+described in the Comptroller’s Findings set forth in Article I of this Consent Order.  The OCC 
+releases and discharges the Bank from all potential liability for a civil money penalty that has 
+7  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 8 of 20
+
+been or might have been asserted by the Comptroller based solely on the violations of law and 
+regulation as described in the referenced findings, to the extent known to the Comptroller as of 
+the effective date of the Consent Order. Provided, however, that nothing in the Stipulation or 
+this Consent Order shall prevent the Comptroller from instituting enforcement actions against the 
+Bank or any of its institution-affiliated parties, including, without limitation, assessment of civil 
+money penalties, based on any other findings, including, but not limited to, findings related to 
+required look backs or reviews conducted by or on behalf of the Bank.  The violations of law and 
+regulation described in Article I of this Consent Order may be utilized by the Comptroller in 
+other future enforcement actions against the Bank or its institution-affiliated parties, including, 
+without limitation, to establish a pattern or practice of violations or unsafe and unsound 
+practices, or the continuation of a pattern or practice of violations or unsafe or unsound practices.  
+Nothing in this Consent Order shall preclude or affect any right of the Comptroller to determine 
+and ensure compliance with the terms and provisions of the Stipulation or this Consent Order. 
+(3) 
+The terms of this Consent Order, including this paragraph, are not subject to 
+amendment or modification by any extraneous expression, prior agreements, or prior 
+arrangements between the parties, whether oral or written. 
+8  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 9 of 20
+
+IT IS SO ORDERED, this 7th day of January 2014. 
+/s/ 
+Morris R. Morgan 
+Deputy Comptroller 
+Large Bank Supervision 
+9  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 10 of 20
+
+UNITED STATES OF AMERICA  
+DEPARTMENT OF THE TREASURY  
+COMPTROLLER OF THE CURRENCY  
+) 
+In the Matter of: 
+) 
+) 
+AA-EC-13-109 
+JPMorgan Chase Bank, N.A. 
+) 
+Columbus, OH 
+) 
+) 
+JPMorgan Bank and Trust Company, N.A. 
+) 
+San Francisco, CA 
+) 
+) 
+Chase Bank USA, N.A. 
+) 
+Wilmington, DE 
+) 
+) 
+) 
+STIPULATION AND CONSENT TO THE ISSUANCE OF A CONSENT ORDER FOR 
+THE ASSESSMENT OF A CIVIL MONEY PENALTY 
+The Comptroller of the Currency of the United States of America (“Comptroller”), based 
+upon information derived from the exercise of his regulatory and supervisory responsibilities, 
+intends to initiate a civil money penalty (“CMP”) proceeding against JPMorgan Chase Bank, 
+N.A., Columbus, Ohio; JPMorgan Bank and Trust Company, N.A., San Francisco, California; 
+and Chase Bank USA, N.A., Wilmington, Delaware (collectively referred to as “Bank”), 
+pursuant to 12 U.S.C. § 1818(i), based on serious deficiencies in the Bank’s Bank Secrecy 
+Act/anti-money laundering (“BSA/AML”) compliance program and violations of Suspicious 
+Activity Reporting laws and regulations. 
+In the interest of cooperation and to avoid additional costs associated with administrative 
+and judicial proceedings with respect to the above matter, and without an adjudication on the 
+merits, the Bank, through its duly elected and acting Boards of Directors (“Boards”), has agreed 
+to execute this Stipulation and Consent to the Issuance of a Consent Order for the Assessment of 
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 11 of 20
+
+a Civil Money Penalty (“Stipulation”), that is accepted by the Comptroller, through his duly 
+authorized representative. 
+In consideration of the above premises, it is stipulated by the Bank that: 
+ARTICLE I  
+JURISDICTION  
+(1) 
+The Bank is a national banking association chartered and examined by the 
+Comptroller pursuant to the National Bank Act of 1864, as amended, 12 U.S.C. § 1 et seq. 
+(2) 
+The Comptroller is “the appropriate Federal banking agency” regarding the Bank 
+pursuant to 12 U.S.C. §§ 1813(q) and 1818(i). 
+(3) 
+The Bank is an “insured depository institution” within the meaning of 12 U.S.C. 
+§ 1818(i). 
+ARTICLE II  
+CONSENT  
+(1) 
+The Bank consents and agrees to issuance of the accompanying Consent Order for 
+the Assessment of a Civil Money Penalty (“Consent Order”) by the Comptroller.   
+(2) 
+The terms and provisions of the Consent Order apply to JPMorgan Chase Bank, 
+N.A., Columbus, Ohio; JPMorgan Bank and Trust Company, N.A., San Francisco, California; 
+and Chase Bank USA, N.A., Wilmington, Delaware; and all their subsidiaries, even though those 
+subsidiaries are not named as parties to the Consent Order. 
+(3) 
+The Bank consents and agrees that the Consent Order shall be deemed an “order 
+issued with the consent of the depository institution” pursuant to 12 U.S.C. § 1818(h)(2), and 
+2  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 12 of 20
+
+consents and agrees that the Consent Order shall become effective upon its execution by the 
+Comptroller through his authorized representative, and shall be fully enforceable by the 
+Comptroller pursuant to 12 U.S.C. § 1818(i).   
+(4) 
+Notwithstanding the absence of mutuality of obligation, or of consideration, or of 
+a contract, the Comptroller may enforce any of the commitments or obligations herein 
+undertaken by the Bank under his supervisory powers, including 12 U.S.C. § 1818(i), and not as 
+a matter of contract law.  The Bank expressly acknowledges that neither the Bank nor the 
+Comptroller has any intention to enter into a contract. 
+(5) 
+The Bank expressly acknowledges that no separate promise or inducement of any 
+kind has been made by the Comptroller, or by his agents or employees, to cause or induce the 
+Bank to consent to the issuance of the Consent Order and/or execute this Stipulation. 
+(6) 
+The Bank expressly acknowledges that no officer or employee of the Comptroller 
+has statutory or other authority to bind the United States, the United States Treasury Department, 
+the Comptroller, or any other federal bank regulatory agency or entity, or any officer or 
+employee of any of those entities to a contract affecting the Comptroller’s exercise of his 
+supervisory responsibilities. 
+(7) 
+The Consent Order constitutes a settlement of the CMP proceeding against the 
+Bank contemplated by the Comptroller, based on the violations of law and regulation described 
+in the Comptroller’s Findings set forth in Article I of the Consent Order.  The OCC releases and 
+discharges the Bank from all potential liability for a CMP that has been or might have been 
+asserted by the Comptroller based solely on the violations of law and regulation as described in 
+the referenced findings, to the extent known to the Comptroller as of the effective date of the 
+Consent Order. Provided, however, that nothing in this Stipulation or the Consent Order shall 
+3  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 13 of 20
+
+prevent the Comptroller from instituting enforcement actions against the Bank or any of its 
+institution-affiliated parties, including, without limitation, assessment of CMPs, based on any 
+other findings, including, but not limited to, findings related to required look backs or reviews 
+conducted by or on behalf of the bank. The violations of law and regulation described in Article 
+I of the Consent Order may be utilized by the Comptroller in other future enforcement actions 
+against the Bank or its institution-affiliated parties, including, without limitation, to establish a 
+pattern or practice of violations or unsafe and unsound practices, or the continuation of a pattern 
+or practice of violations or unsafe or unsound practices.  Nothing in the Consent Order shall 
+preclude or affect any right of the Comptroller to determine and ensure compliance with the 
+terms and provisions of this Stipulation, the Consent Order, or the prior OCC Consent Cease and 
+Desist Order issued on January 14, 2013 (“January 2013 Order”). 
+ARTICLE III  
+WAIVERS  
+(1) 
+The Bank, by executing this Stipulation and consenting to the Consent Order, 
+waives: 
+(a)  
+Any and all rights to the issuance of a Notice of Charges pursuant to 
+12 U.S.C. § 1818(i); 
+(b)  
+Any and all procedural rights available in connection with the issuance of 
+the Consent Order; 
+(c)  
+Any and all rights to a hearing and a final agency decision pursuant to  
+12 U.S.C. § 1818(i) and 12 C.F.R. Part 19; 
+4  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 14 of 20
+
+(d)  
+Any and all rights to seek any type of administrative or judicial review of 
+the Consent Order; 
+(e)  
+Any and all claims for fees, costs or expenses against the Comptroller, or 
+any of his agents or employees, related in any way to this enforcement 
+matter or the Consent Order, whether arising under common law or under 
+the terms of any statute, including, but not limited to, the Equal Access to 
+Justice Act, 5 U.S.C. § 504 and 28 U.S.C. § 2412; 
+(f)  
+Any and all rights to assert this proceeding, this Stipulation, consent to the 
+issuance of the Consent Order, and/or the issuance of the Consent Order, 
+as the basis for a claim of double jeopardy in any pending or future 
+proceeding brought by the United States Department of Justice or any 
+other governmental entity; and 
+(g)  
+Any and all rights to challenge or contest the validity of the Consent 
+Order. 
+ARTICLE IV  
+CLOSING  
+(1) 
+The provisions of this Stipulation and the Consent Order shall not inhibit, estop, 
+bar, or otherwise prevent the Comptroller from taking any other action affecting the Bank if, at 
+any time, he deems it appropriate to do so to fulfill the responsibilities placed upon him by the 
+several laws of the United States of America. 
+(2) 
+Nothing in this Stipulation or the Consent Order shall preclude any proceedings 
+brought by the Comptroller to enforce the terms of the Consent Order or the January 2013 Order, 
+5  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 15 of 20
+
+and nothing in this Stipulation or the Consent Order constitutes, nor shall the Bank contend that 
+it constitutes, a release, discharge, compromise, settlement, dismissal, or resolution of any 
+actions, or in any way affects any actions that may be or have been brought by any other 
+representative of the United States or an agency thereof, including, without limitation, the United 
+States Department of Justice. 
+(3) 
+The terms of this Stipulation and the Consent Order are not subject to amendment 
+or modification by any extraneous expression, prior agreements or prior arrangements between 
+the parties, whether oral or written. 
+6  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 16 of 20
+
+IN TESTIMONY WHEREOF, the undersigned, as the duly elected and acting Board of 
+Directors of JPMorgan Chase Bank, N.A., Columbus, OH, have hereunto set their hands on 
+behalf of the Bank. 
+/s/ 
+James S. Crown  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 7, 2014 
+Date 
+/s/ 
+Laban P. Jackson, Jr. 
+January 7, 2014 
+Date 
+/s/ 
+Marianne Lake  
+January 7, 2014 
+Date 
+/s/ 
+William C. Weldon 
+January 7, 2014 
+Date 
+/s/ 
+Matthew E. Zames
+January 7, 2014 
+Date 
+7  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 17 of 20
+
+IN TESTIMONY WHEREOF, the undersigned, as the duly elected and acting Board of 
+Directors of JPMorgan Bank and Trust Company, N.A., San Francisco, CA, have hereunto set 
+their hands on behalf of the Bank. 
+/s/ 
+January 7, 2014 
+Brent L. Barton 
+Date 
+/s/ 
+January 7, 2014 
+John J. Hyland 
+Date 
+/s/ 
+January 7, 2014 
+Kelly A. Mathieson 
+Date 
+/s/ 
+January 7, 2014 
+Jennifer A. Piepszak 
+Date 
+/s/ 
+January 7, 2014 
+Daniel J. Riner 
+Date 
+8  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 18 of 20
+
+IN TESTIMONY WHEREOF, the undersigned, as the duly elected and acting Board of 
+Directors of Chase Bank USA, N.A., Wilmington, DE, have hereunto set their hands on behalf of 
+the Bank. 
+/s/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 7, 2014 
+Raymond Fischer 
+Date 
+/s/ 
+January 7, 2014 
+Catherine M. Hogan 
+Date 
+/s/ 
+January 7, 2014 
+Matthew Kane 
+Date 
+/s/ 
+January 7, 2014 
+James K. Paterson  
+Date 
+/s/ 
+January 7, 2014 
+Samuel Todd Maclin 
+Date 
+/s/
+ January 7, 2014 
+Eileen M. Serra 
+Date 
+/s/ 
+January 7, 2014 
+John C. Marion 
+Date 
+9  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 19 of 20
+
+Accepted by: 
+THE COMPTROLLER OF THE CURRENCY 
+/s/ 
+January 7, 2017 
+By: 
+Morris R. Morgan 
+Date 
+Deputy Comptroller 
+Large Bank Supervision 
+10  
+Case 1:23-cv-03903-JSR     Document 31-2     Filed 07/20/23     Page 20 of 20

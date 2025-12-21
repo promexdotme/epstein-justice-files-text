@@ -1,0 +1,144 @@
+METADATA_SOURCE: Court Records\Helm v. Indyke, No. 119-cv-10476 (S.D.N.Y. 2019)
+METADATA_FILENAME: 013.pdf
+----------------------------------------
+ 
+ 
+ 
+Telephone: (212) 446-2300 
+Email: jischiller@bsfllp.com 
+ 
+January 29, 2020 
+VIA ECF 
+The Honorable Paul G. Gardephe 
+District Court Judge 
+United States District Court  
+Southern District of New York  
+40 Foley Square 
+New York, NY 10007 
+ 
+Re:      Helm v. Indyke et al., 
+Case No. 19-cv-10476 
+Dear Judge Gardephe, 
+Pursuant to Individual Rule IV(A), Plaintiff Teresa Helm hereby responds to Defendants’ 
+request for a pre-motion conference in connection with their anticipated motion to dismiss.  Dkt. 
+12.  Plaintiff’s claims are timely under New York’s statutes of limitation and the doctrine of 
+equitable estoppel, and Defendants’ proposed motion “to dismiss” Plaintiff’s request for punitive 
+damages is procedurally improper.  For the following reasons, the Court should deny Defendants’ 
+anticipated motion in its entirety. 
+I. 
+Plaintiff’s Claims Are Timely Under New York Law. 
+Plaintiff’s claims are timely under New York’s CPLR § 215(8)(a), which provides: 
+“Whenever it is shown that a criminal action against the same defendant has been commenced 
+with respect to the event or occurrence from which a claim governed by this section arises, the 
+plaintiff shall have at least one year from the termination of the criminal action . . . to commence 
+the civil action.”  (Emphasis added).  Here, Epstein’s criminal action in this District terminated on 
+August 29, 2019.  Compl. ¶ 35.  Because Plaintiff filed the Complaint less than three months later, 
+the action is timely under CPLR § 215(8)(a).  Defendants’ arguments against CPLR § 215(8)(a)’s 
+application to these facts are meritless.  
+First, Defendants’ argument that CPLR § 215(8)(a) does not apply because Plaintiff was 
+not named as a victim in Epstein’s indictment is incorrect.  New York courts have held that CPLR 
+§ 215(8)(a) is “plain, clear and unambiguous” that it does not require that the plaintiff be “the 
+victim or the specific person upon whom the crime had been committed.”  Clemens v. Nealon, 202 
+A.D.2d 747, 749 (N.Y. App. Div. 1994).     
+Second, Defendants’ narrow construction of § 215(8)(a)’s “event or occurrence” language 
+is improper, especially in light of the breadth of Epstein’s indictment.  The charges were not limited 
+to crimes committed against specific victims.  For example, the overt acts alleged for the sex 
+trafficking conspiracy charge were enticing and recruiting multiple victims, “including minor 
+victims identified herein.”  Compl., Ex. A (S.D.N.Y Indictment) ¶ 22(a) (emphasis added).  As 
+another example, the Indictment’s sex trafficking count charged Epstein with the sex trafficking 
+Case 1:19-cv-10476-PGG-DCF   Document 13   Filed 01/29/20   Page 1 of 3
+BSF 
+BO IES 
+SC HILLER 
+FLEXN ER 
+BOIES SCHILLER FLEXNER LLP 
+55 Hudson Yards, New York, NY 10001 I (t) 212.446.2300 I (f) 212.446.2350 I www.bsfllp.com 
+
+ 
+ 
+ 
+of “numerous individuals . . . including but not limited to Minor Victim-1.”  Id. ¶ 24.  Nor did the 
+Indictment describe the sex trafficking conspiracy as exclusively targeting minor victims—it 
+explicitly acknowledged that some victims were not underage at the time of the sexual abuse.  Id. 
+¶ 11 (“[Epstein] knew that many of his New York victims were underage.”).   The Indictment was 
+targeted at Epstein’s sex-trafficking scheme as a whole, and that scheme is the event or occurrence 
+from which Plaintiff’s civil claims arose.  Because Plaintiff’s claims arise out of this common 
+scheme, they fall within CPLR § 215(8)(a). 
+A recent Second Circuit opinion is instructive.  In Kashef v. BNP Paribas S.A., the Court 
+held that BNP Paribas’s (BNPP) guilty plea conceding “knowledge of the atrocities being 
+committed in Sudan and of the consequences of providing Sudan access to U.S. financial markets” 
+allowed victims who were the victims of the atrocities in Sudan to bring a civil action against 
+BNPP pursuant to § 215(8)(a).  925 F.3d 53, 56–57, 62 (2d Cir. 2019).  The “event or occurrence” 
+in that case, like the one here, was a broad scheme spanning many years, rather than a single event 
+(such as the rape of one victim on a specified date).  The Court therefore analyzed the “event or 
+occurrence” on a general level as “BNPP’s conspiracy with Sudan to violate U.S. sanctions” for 
+humanitarian violations, id. at 62–63, and held that the victims of those humanitarian violations 
+could bring claims subject to CPLR § 213(8)(a).  Just as BNPP’s general conspiracy to violate 
+sanctions was the relevant event or occurrence in Kashef, Epstein’s wide-spread sex trafficking 
+scheme is the event or occurrence at issue in Plaintiff’s case for the purposes of applying 
+CPLR § 215(8)(a). 
+The cases Defendants cite are inapposite because the criminal charges in those cases were 
+much narrower than Epstein’s, and related to events that occurred on specified dates.  See 
+Christodoulou v. Terdeman, 262 A.D.2d 595, 596 (N.Y. App. Div. 1999) (prosecution commenced 
+only in connection with events on February 26, 1993 and December 28, 1993); Gallina v. Thatcher, 
+No. 2017-52980, 2018 N.Y. Misc. LEXIS 8435, at *3 (Sup. Ct. Oct. 23, 2018) (indictment 
+“charged [the defendant] for incidents occurring on three (3) specific dates”).  Epstein’s S.D.N.Y 
+Indictment was much broader, covering sexual abuse that occurred “over the course of many years” 
+“from at least in or about 2002, up to and including at least in or about 2005.”  S.D.N.Y. 
+Indictment ¶¶ 1–2, 8, 20, 24 (emphases added).  Plaintiff’s claims are therefore timely under CPLR 
+§ 215(8)(a) because the scheme the S.D.N.Y Indictment targeted is the event or occurrence from 
+which Plaintiff’s civil claims arise. 
+Finally, principles of statutory interpretation require the Court to construe CPLR 
+§ 215(8)(a) liberally.  New York courts “liberally construe remedial statutes in favor of the 
+intended beneficiaries and consider the mischief sought to be remedied and favor the construction 
+which will suppress the evil and advance the remedy.”  Crucible Materials Corp. v. N.Y. Power 
+Auth., 50 A.D.3d 1353, 1356 (N.Y. App. Div. 2008) (internal quotation marks omitted).  Narrowly 
+construing § 215(8)(a) to foreclose Plaintiff’s claims as untimely would violate that principle.  
+II. 
+Plaintiff Has Sufficiently Pled Facts Supporting Equitable Estoppel and Tolling. 
+Even if Plaintiff’s claims were otherwise time-barred under New York’s statutes of 
+limitation (they are not), they would still be timely under the doctrine of equitable estoppel.  
+Defendants assert that Plaintiff “fails to meet her burden to allege extraordinary circumstances 
+sufficient to justify tolling or equitable estoppel.”  Dkt. 12 at 3.  But the Complaint alleges in detail 
+Case 1:19-cv-10476-PGG-DCF   Document 13   Filed 01/29/20   Page 2 of 3
+BSF 
+
+ 
+ 
+ 
+the methods of intimidation and control that Jeffrey Epstein and his co-conspirators used to deter 
+their victims from seeking justice.  Equitable estoppel applies “where it would be unjust to allow 
+a defendant to assert a statute of limitations defense,” Zumpano v. Quinn, 849 N.E.2d 926, 929 
+(N.Y. 2006), due to “deception, concealment, threats, or other misconduct,” Zoe G. v. Frederick 
+F.G., 208 A.D.2d 675, 675 (N.Y. App. Div. 1994).  The Complaint alleges that Epstein and his 
+co-conspirators manipulated their victims using “financial power, promises, and threats to ensure 
+that the victim returned as directed and remained compliant with their demands;” made clear to 
+Plaintiff “that he was incredibly wealthy, powerful, and regularly in contact with world leaders;” 
+and attempted to contact Plaintiff after her sexual assault.  Compl. ¶¶ 26, 52, 53.  The allegations 
+concerning Epstein’s purposeful silencing of his victims (and Plaintiff specifically) easily provide 
+the requisite “extraordinary circumstances” for equitable tolling. 
+Because equitable estoppel and equitable tolling are fact-specific doctrines, Defendants’ 
+attempt to resolve the issue at motion to dismiss is inappropriate, and any motion challenging 
+whether or not those doctrines apply should be reserved until after the parties have conducted 
+discovery.  See, e.g., Carelock v. United States, 2015 WL 5000816, at *8 (S.D.N.Y. Aug. 20, 2015). 
+III. 
+The Court Should Address Punitive Damages After Discovery   
+Federal Rule 12(b)(6) allows a defendant to file a motion to dismiss for “failure to state a 
+claim upon which relief can be granted.”  Defendants’ request for the Court to dismiss Plaintiff’s 
+claim for punitive damages does not relate to either of Plaintiff’s clams (battery and intentional 
+infliction of emotion distress) and does not relate to the sufficiency of the allegations in the 
+Complaint.  The issue of what type of damages to which Plaintiff is entitled should therefore be 
+dealt with at a later stage of this litigation.  See, e.g., Okyere v. Palisades Collection, LLC, 961 F. 
+Supp. 2d 522, 536 (S.D.N.Y. 2013) (denying “motion to ‘dismiss’ plaintiff’s request for punitive 
+damages as procedurally premature”). 
+Respectfully submitted, 
+ 
+/s/ Joshua I. Schiller 
+ 
+David Boies, Esq. 
+Joshua I. Schiller, Esq. 
+Sigrid S. McCawley, Esq. 
+cc:  Counsel of Record (via ECF) 
+ 
+Case 1:19-cv-10476-PGG-DCF   Document 13   Filed 01/29/20   Page 3 of 3
+BSF 

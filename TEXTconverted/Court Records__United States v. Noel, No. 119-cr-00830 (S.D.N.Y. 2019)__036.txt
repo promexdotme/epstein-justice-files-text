@@ -1,0 +1,267 @@
+METADATA_SOURCE: Court Records\United States v. Noel, No. 119-cr-00830 (S.D.N.Y. 2019)
+METADATA_FILENAME: 036.pdf
+----------------------------------------
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 1 of 9
+UNITED STA TES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+UNITED STATES OF AMERICA, 
+-against-
+TOVA NOEL and MICHAEL THOMAS, 
+Defendants. 
+ANALISA TORRES, District Judge: 
+USDCSDNY 
+DOCUMENT 
+ELECTRONICALLY FILED 
+DOC#: 
+DATEFILED: 
+6/9/2020 
+19 Cr. 830-2 (AT) 
+ORDER 
+On November 19, 2019, Defendant Michael Thomas was charged with one count of 
+conspiring to defraud the United States in violation of 18 U.S.C. § 371, and three counts of 
+making false statements with the intent to impede, obstruct, or influence the investigation or 
+proper administration of a matter within the jurisdiction of a department or agency of the United 
+States in violation of 18 U.S.C. § 100l(a)(3). ECF No. 1. The indictment alleges that Thomas, 
+in his capacity as a correctional officer at the Metropolitan Correctional Center (the "MCC"), 
+along with another officer, co-Defendant Tova Noel, submitted several false "count slips" on the 
+night of August 9, 2019 and the morning of August 10, 2019, certifying that he conducted counts 
+of the inmates he was supervising in the MCC's Special Housing Unit ("SHU"), even though he 
+did not conduct those counts. Id. tj[tj[ 16, 30, 36, 38, 40. During that time period, one of the 
+inmates in the SHU-Jeffrey Epstein-hanged himself in his cell. Id. tj[tj[ 1, 2fr27. 
+Thomas now moves to compel the Government to produce evidence in connection with 
+the trial scheduled to begin on January 4, 2021. Motion, ECF No. 33. Thomas seeks three 
+categories of information: (1) "[t]he report of the Inspector General" for the United States 
+Department of Justice related to Epstein's death, and "any and all supplemental memorandums, 
+written statements, photos, videos, and incident reports" obtained by the Inspector General's 
+investigation, id, at 5; (2) "[a]ny and all internal investigative reports created by the [Bureau of 
+
+2 
+ 
+Prisons (the “BOP”)] as to both [D]efendants, including[] any and all supporting memorandums, 
+written statements, photos, videos, and incident reports,” id. at 6; and (3) “any and all reports, 
+memorandums, written statements, photos, videos, and incident reports created, manufactured, or 
+possessed by any investigative or disciplinary agencies[] participating in the investigation of the 
+[D]efendants, allied with the prosecution, and to which the prosecution has access,” id. at 7. 
+  For the reasons stated below, Thomas’ motion is DENIED. 
+DISCUSSION 
+ 
+The Government has already produced “surveillance video going back to July 5, 
+2019 . . . ; count slips, thirty minute round forms, and staffing rosters for the three-week period 
+surrounding Epstein’s suicide; internal MCC phone records; employee files and staffing history 
+for Noel and Thomas; and a wide range of written [BOP] policies and regulations,” as well as 
+“statements for all of the witnesses interviewed during the investigation.”  Gov’t Opp. at 8–9, 
+ECF No. 35. 
+Thomas argues that he is entitled to additional discovery on two grounds:  (1) Rule 16 of 
+the Federal Rules of Criminal Procedure, and (2) the constitutional guarantee of due process as 
+expressed by the Supreme Court’s decisions in Brady v. Maryland, 373 U.S. 83 (1963), and 
+Giglio v. United States, 405 U.S. 150 (1972).  Motion at 1. 
+I. 
+Legal Standards 
+A. Rule 16 
+Rule 16 requires the Government to “permit the defendant to inspect and to copy or 
+photograph books, papers, documents, data, photographs, tangible objects, buildings or places, or 
+copies or portions of any of these items, if the item is within the government’s possession, 
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 2 of 9
+
+3 
+ 
+custody, or control and:  (i) the item is material to preparing the defense; (ii) the [G]overnment 
+intends to use the item in its case-in-chief at trial; or (iii) the item was obtained from or belongs 
+to the defendant.”  Fed. R. Crim. P. 16(a)(1)(E).  “Evidence is material if it could be used to 
+counter the [G]overnment’s case or to bolster a defense.”  United States v. Ulbricht, 858 F.3d 71, 
+109 (2d Cir. 2017) (internal quotation marks and citation omitted), abrogated on other grounds 
+by Carpenter v. United States, 138 S. Ct. 2206 (2018).  “In order to compel the Government to 
+produce certain evidence, a defendant must make a prima facie showing of materiality, and must 
+offer more than the conclusory allegation that the requested evidence is material.”  United States 
+v. Abdalla, 317 F. Supp. 3d 786, 790 (S.D.N.Y. 2018) (internal quotation marks and citation 
+omitted).  “There must be some indication that the pretrial disclosure of the disputed evidence 
+would enable the defendant significantly to alter the quantum of proof in his favor.”  United 
+States v. Urena, 989 F. Supp. 2d 253, 261 (S.D.N.Y. 2013) (internal quotation marks, citation, 
+and alterations omitted). 
+ 
+Evidence is “within the [G]overnment’s possession, custody, or control” if “(1) it has 
+actually reviewed [the evidence], or (2) [the evidence is] in the possession, custody, or control of 
+a government agency so closely aligned with the prosecution so as to be considered part of the 
+prosecution team.”  United States v. Finnerty, 411 F. Supp. 2d 428, 432 (S.D.N.Y. 2006).  
+“Legal ownership of the requested documents or things is not determinative, nor is actual 
+possession necessary if the party has control of the items.  Control has been defined to include 
+the legal right to obtain the documents requested upon demand.  The term ‘control’ is broadly 
+construed.”  United States v. Stein, 488 F. Supp. 2d 350, 361 (S.D.N.Y. 2007) (internal quotation 
+marks and citation omitted) (collecting cases). 
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 3 of 9
+
+4 
+ 
+ 
+If the Government represents that it “it has fully complied with [its Rule 16] obligations 
+and will continue to do so,” the defendant must put forward some “compelling demonstration to 
+the contrary” by pointing to a “specific failure by the Government to comply with its disclosure 
+obligations” in order to justify a motion to compel.  United States v. Minaya, 395 F. Supp. 2d 28, 
+34 (S.D.N.Y. 2005). 
+B. Brady/Giglio 
+Under the Supreme Court’s decision in Brady v. Maryland, the Government “has a 
+constitutional duty to disclose evidence favorable to an accused when such evidence is material 
+to guilt or punishment,” and as elaborated in Giglio v. United States, that obligation extends to 
+“not only exculpatory material, but also information that could be used to impeach a key 
+[G]overnment witness.”  United States v. Coppa, 267 F.3d 132, 135 (2d Cir. 2001).  “Evidence is 
+material within the meaning of Brady when there is a reasonable probability that, had the 
+evidence been disclosed, the result of the proceeding would have been different.”  Turner v. 
+United States, 137 S. Ct. 1885, 1893 (2017) (internal quotation marks, citations, and alteration 
+omitted)); see also Coppa, 267 F.3d at 135 (“[T]he prosecutor must disclose evidence if, without 
+such disclosure, a reasonable probability will exist that the outcome of a trial in which the 
+evidence had been disclosed would have been different.”). 
+“The prosecution’s obligation to disclose Brady material extends to any material in the 
+possession of any entity that has acted as an ‘arm of the prosecutor’ in a given case.”  United 
+States v. Middendorf, No. 18 Cr. 36, 2018 WL 3956494, at *4 (S.D.N.Y. Aug. 17, 2018) 
+(quoting United States v. Blaszczak, 308 F. Supp. 3d 736, 741 (S.D.N.Y. 2018)).  “A 
+prosecutor’s duty to review documents in the possession, custody, or control of another agency 
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 4 of 9
+
+5 
+ 
+arises where the Government conducts a joint investigation with another agency.”  United States 
+v. Collins, 409 F. Supp. 3d 228, 239 (S.D.N.Y. 2019) (internal quotation marks and citation 
+omitted).  In determining whether the prosecution has conducted a joint investigation, courts in 
+this district look to a number of non-exhaustive factors, “including whether the other agency:  (1) 
+participated in the prosecution’s witness interviews, (2) was involved in presenting the case to 
+the grand jury, (3) reviewed documents gathered by or shared documents with the prosecution, 
+(4) played a role in the development of prosecutorial strategy, or (5) accompanied the 
+prosecution to court proceedings.”  Id. (internal quotation marks and citation omitted). 
+As under Rule 16, if the Government has represented that it is aware of and has complied 
+with its Brady and Giglio obligations, a defendant must make a “particularized showing that 
+materials exist requiring disclosure” in order to sustain a motion to compel.  United States v. 
+Juliano, No. 99 Cr. 1197, 2000 WL 640644, at *2 (S.D.N.Y. May 18, 2000); see United States v. 
+Evanchik, 413 F.2d 950, 953 (2d Cir. 1969) (“[T]he assurance by the [G]overnment that it has in 
+its possession no undisclosed evidence that would tend to exculpate defendant justifies the denial 
+of a motion for inspection that does not make some particularized showing of materiality and 
+usefulness.”) 
+II. 
+Inspector General Materials 
+Thomas seeks disclosure of both the investigatory materials from the Department of 
+Justice Office of the Inspector General’s (“OIG”) investigation regarding Epstein’s death, and a 
+draft of the Inspector General’s report arising from that investigation.  Motion at 5.  The 
+Government concedes that attorneys from OIG participated in the Government’s investigation 
+that led to the indictment of Thomas.  Gov’t Opp. at 3, 19.  But, the Government represents that 
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 5 of 9
+
+6 
+ 
+it has already delivered to Thomas all of the materials gathered by OIG personnel in the course 
+of investigating this case, and that “it is the prosecution’s understanding that [OIG] attorneys 
+have not conducted any additional interviews or otherwise discovered any potential Brady 
+material.”  Id. at 23–24.  Thomas has not identified any specific material that might be in OIG’s 
+possession that has not been disclosed. 
+The Court, therefore, has no basis to compel the Government to disclose additional 
+evidence underlying the Inspector General’s report.  “[C]ourts in this circuit have repeatedly 
+denied requests for discovery orders where the [G]overnment represents that it has produced 
+discovery to defendants pursuant to Rule 16 and has made a good faith representation to the 
+defense that it recognizes and has complied with its obligations under Brady and its progeny.”  
+United States v. Garcia-Pena, No. 17 Cr. 363, 2018 WL 6985220, at *6 (S.D.N.Y. Dec. 19, 
+2018) (internal quotation marks, citation, and alterations omitted); see also, e.g., United States v. 
+Blondet, No. 16 Cr. 387, 2019 WL 5690711, at *5 (“[T]o the extent that these motions seek 
+evidence pursuant to Brady [], Giglio [], and their progeny, they are [denied] on the basis of the 
+Government’s good-faith representation that it has complied with its obligations and will 
+continue to do so.” (citations omitted)); United States v. Goode, No. 16 Cr. 529, 2018 WL 
+919928, at *18 (S.D.N.Y. Feb. 15, 2018) (“The Government represents that it has complied with 
+Rule 16 obligations; the Rule 16 requests are therefore moot.” (citation omitted)). 
+As for the draft Inspector General’s report itself, the Government reports that “attorneys 
+from [OIG] responsible for writing the [r]eport have not yet completed a draft, and do not 
+anticipate completing the [r]eport in the near term,” and so “there are no drafts of the [r]eport to 
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 6 of 9
+
+7 
+ 
+disclose.”  Gov’t Opp. at 21–22.  The Court cannot grant a motion to compel the Government to 
+produce a report that, at the time of this order, does not exist.1   
+Accordingly, Thomas’ motion to compel disclosure of materials related to the Inspector 
+General’s investigation is DENIED. 
+III. 
+BOP Materials 
+Thomas also seeks disclosure of “reports generated by investigators within the [BOP] 
+regarding” Epstein’s death, and “any and all documents, reports, witness statements and 
+disciplinary records of any and all MCC employees who have engaged in conduct” similar to 
+that alleged against Thomas.  Motion at 6.  However, Thomas has adduced no evidence that the 
+Government reviewed information arising from a BOP investigation.  Nor has he shown that 
+BOP officials “participated in the prosecution’s witness interviews,” were “involved in 
+presenting the case to the grand jury,” “reviewed documents gathered by or shared documents 
+with the prosecution,” “played a role in the development of prosecutorial strategy,” 
+“accompanied the prosecution to court proceedings,” or in any other way played a role in the 
+investigation that led to the charges against him.  Collins, 409 F. Supp. 3d at 239 (internal 
+quotation marks, citation, and alteration omitted).  There is, therefore, no evidence that BOP 
+personnel participated in the criminal investigation that led to Thomas’ indictment.  Thus, the 
+Court concludes that the BOP was not part of the prosecution team for purposes of Rule 16 and 
+Brady.  
+ 
+To be sure, the BOP is a component of the Department of Justice, but that fact standing 
+alone is not sufficient to make the BOP an arm of the prosecution.  “The court cannot find that 
+                                               
+1 Because the Court denies Thomas’ motion on the ground that no material exists to disclose, it does not address 
+whether the Inspector General’s report might contain information material to his defense, nor whether it is protected 
+by the deliberative process privilege.  See Gov’t Opp. at 12–15, 22–23. 
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 7 of 9
+
+8 
+ 
+the government is in constructive possession of the materials where, as here, defendant has not 
+presented any evidence suggesting that the BOP was involved in the investigation or prosecution 
+of this case.”  United States v. Rivera, No. 13 Cr. 149, 2015 WL 1540517, at *3 (E.D.N.Y. Apr. 
+7, 2015); see, e.g., United States v. Merlino, 349 F.3d 144, 155 (3d Cir. 2003) (holding that 
+Government did not violate Brady obligation in failing to turn over tapes in BOP possession 
+because “the BOP was not part of the prosecutorial arm of the federal government as it was not 
+at all involved in either the investigation or the prosecution of the defendants”); United States v. 
+Battle, 264 F. Supp. 2d 1088, 1201–02 (N.D. Ga. 2003) (“Defendant implies that because the 
+BOP employees are connected with the Department of Justice that the prosecution team 
+constructively possessed exculpatory information that could have been within the knowledge of 
+BOP staff. . . . Even if the Court assumes that some members of the BOP staff did possess 
+favorable information that alone does not impute knowledge to the prosecution team.” (citing 
+United States v. Avellino, 136 F.3d 249, 255 (2d Cir. 1998)). 
+ 
+Accordingly, Thomas’ motion to compel the Government to disclose evidence in the 
+possession of the BOP is DENIED. 
+IV. 
+Other Materials 
+Finally, Thomas seeks disclosure of information that he argues will tend to show that the 
+conduct for which he is being prosecuted was:  “1) rampant throughout the BOP; 2) made with 
+knowledge and acquiescence by the leadership of the BOP; 3) made as a result of BOP policies 
+that forced the defendant to engage in conduct for which he is now being charged criminally, 
+and; 4) made in a manner which contains a possible discriminatory application of BOP policies 
+by [G]overnment prosecutors.”  Motion at 7.  But Thomas has not provided support for his 
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 8 of 9
+
+9 
+ 
+assertion that the Government, or any other agency that has operated as an arm of the 
+prosecution, is in possession or control of evidence that relates to the prevalence of falsifying 
+count slips in federal correctional facilities, or BOP leadership’s tolerance of such practices. 
+Moreover, to the extent that Thomas is seeking discovery in support of a selective 
+prosecution defense, he has not met the “rigorous” standard that applies for obtaining discovery 
+in aid of such a claim.  United States v. Armstrong, 517 U.S. 456, 468 (1996).  “[A] defendant 
+who seeks discovery on a claim of selective prosecution must show some evidence of both 
+discriminatory effect and discriminatory intent.”  United States v. Bass, 536 U.S. 862, 863 
+(2002).  Though Thomas claims that BOP supervisors may have acquiesced in his submission of 
+false count slips in this case, and that other BOP employees have submitted false documents in 
+other circumstances, he has not presented any evidence that those officers differed from him in 
+any protected characteristic—for example, that they were of a different race, sex, or ethnicity.  
+See Motion at 10.  Nor has Thomas put forward any evidence of a discriminatory motive for his 
+prosecution.  
+Accordingly, Thomas’ motion to compel the Government to disclose evidence that the 
+submission of false count slips was widespread and tolerated at the BOP, and for discovery 
+related to selective prosecution, is DENIED. 
+CONCLUSION 
+ 
+For the reasons stated, Thomas’ motion to compel is DENIED.  The Clerk of Court is 
+directed to terminate the motion at ECF No. 33. 
+SO ORDERED. 
+ 
+Dated: June 9, 2020 
+ 
+ 
+ 
+ 
+New York, New York 
+ 
+ 
+ 
+Case 1:19-cr-00830-AT     Document 36     Filed 06/09/20     Page 9 of 9
+ANALISA TORRES 
+United States District Judge 

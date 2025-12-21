@@ -1,0 +1,180 @@
+METADATA_SOURCE: Court Records\Doe 1000 v. Indyke, No. 119-cv-10577 (S.D.N.Y. 2019)
+METADATA_FILENAME: 025.pdf
+----------------------------------------
+ 
+ 
+ 
+ 
+Telephone: (212) 446-2300 
+Email: jischiller@bsfllp.com 
+ 
+January 31, 2020 
+VIA ECF 
+The Honorable Lorna G. Schofield 
+District Court Judge 
+United States District Court  
+Southern District of New York  
+40 Foley Square 
+New York, NY 10007 
+ 
+Re:      Jane Doe 1000 v. Indyke et al., Case No. 19-cv-10577 
+Dear Judge Schofield, 
+Pursuant to Individual Rules III.A.1 and III.C.2, Plaintiff Jane Doe 1000 hereby responds 
+to Defendants’ request for a pre-motion conference in connection with their anticipated motion to 
+dismiss.  Dkt. 24.  Plaintiff’s claims are timely under New York’s statutes of limitation and the 
+doctrine of equitable estoppel, and Defendants’ proposed motion “to dismiss” Plaintiff’s request 
+for punitive damages is procedurally improper.  For the following reasons, the Court should deny 
+Defendants’ anticipated motion in its entirety.1 
+I. 
+Plaintiff’s Claims Are Timely Under New York Law. 
+Plaintiff’s claims are timely under New York’s CPLR § 215(8)(a), which provides: 
+“Whenever it is shown that a criminal action against the same defendant has been commenced 
+with respect to the event or occurrence from which a claim governed by this section arises, the 
+plaintiff shall have at least one year from the termination of the criminal action . . . to commence 
+the civil action.”  (Emphasis added).  Here, Epstein’s criminal action in this District terminated on 
+August 29, 2019.  Compl. ¶ 36.  Because Plaintiff filed the Complaint less than three months later, 
+the action is timely under CPLR 215(8)(a).  Defendants’ arguments against CPLR § 215(8)(a)’s 
+application to these facts are meritless.  
+First, Defendants’ argument that CPLR § 215(8)(a) does not apply because Plaintiff was 
+not named as a victim in Epstein’s indictment is incorrect.  New York courts have held that CPLR 
+§ 215(8)(a) is “plain, clear and unambiguous” that it does not require that the plaintiff be “the 
+victim or the specific person upon whom the crime had been committed.”  Clemens v. Nealon, 202 
+A.D.2d 747, 749 (N.Y. App. Div. 1994).     
+Second, Defendants’ narrow construction of § 215(8)(a)’s “event or occurrence” language 
+is improper, especially in light of the breadth of Epstein’s indictment.  The charges were not limited 
+to crimes committed against specific victims.  For example, the overt acts alleged for the sex 
+trafficking conspiracy charge were enticing and recruiting multiple victims, “including minor 
+                                                 
+1 To the extent the Court allows Defendants to file a motion to dismiss, Plaintiff requests 30 days from the 
+date of Defendants’ motion to file an opposition, with Defendants’ reply brief due 10 days thereafter. 
+Case 1:19-cv-10577-LJL-DCF     Document 25     Filed 01/31/20     Page 1 of 4
+BSF 
+BOIES 
+SCHILLER 
+FLEXNER 
+BOIES SCHILLER FLEXNER LLP 
+55 Hudson Yards, New York. NY 10001 I (t) 212.446.2300 I (f) 212.446.2350 I www.bsfllp.com 
+
+ 
+ 
+victims identified herein.”  Compl., Ex. A (S.D.N.Y Indictment) ¶ 22(a) (emphasis added).  As 
+another example, the Indictment’s sex trafficking count charged Epstein with the sex trafficking 
+of “numerous individuals . . . including but not limited to Minor Victim-1.”  Id. ¶ 24.  Nor did the 
+Indictment describe the sex trafficking conspiracy as exclusively targeting minor victims—it 
+explicitly acknowledged that some victims were not underage at the time of the sexual abuse.  Id. 
+¶ 11 (“[Epstein] knew that many of his New York victims were underage.”).  The Indictment was 
+targeted at Epstein’s sex-trafficking scheme as a whole, and that scheme is the event or occurrence 
+from which Plaintiff’s civil claims arose.  See Kashef v. BNP Paribas S.A., 925 F.3d 53, 56–57, 
+62 (2d Cir. 2019) (guilty plea conceding “knowledge of the atrocities being committed in Sudan” 
+allowed victims of the atrocities in Sudan use 215(8)(a) because causes of action arose out of 
+defendant’s general conspiracy with Sudan to violate U.S. sanctions put in place to stop atrocities).  
+Because Plaintiff’s claims arise out of this common scheme, they fall within CPLR § 215(8)(a).    
+The cases Defendants cite are inapposite because the criminal charges in those cases were 
+much narrower than Epstein’s, and related to events that occurred on specified dates.  See 
+Christodoulou v. Terdeman, 262 A.D.2d 595, 596 (N.Y. App. Div. 1999) (prosecution commenced 
+only in connection with events on two dates); Gallina v. Thatcher, No. 2017-52980, 2018 N.Y. 
+Misc. LEXIS 8435, at *3 (Sup. Ct. Oct. 23, 2018) (indictment “charged [the defendant] for 
+incidents occurring on three (3) specific dates”).  Epstein’s Indictment was much broader, covering 
+sexual abuse that occurred “over the course of many years” “from at least in or about 2002, up to 
+and including at least in or about 2005.”  S.D.N.Y. Indictment ¶¶1–2, 8, 20, 24 (emphases added).  
+Plaintiff’s claims are therefore timely under CPLR § 215(8)(a) because the scheme the S.D.N.Y. 
+Indictment targeted is the event or occurrence from which Plaintiff’s civil claims arise. 
+Plaintiff’s claims are also timely under CPLR § 213-c, which provides for a twenty year 
+limitations period for “all civil claims or causes of action brought by any person for physical, 
+psychological or other injury or condition suffered by such person as a result of conduct which 
+would constitute rape” or other enumerated sex crimes.  The Complaint alleges that Epstein 
+sexually assaulted Plaintiff by forcible compulsion multiple times within the past twenty years.  
+See Compl. ¶ 50, 51.  Plaintiff’s claims fall squarely within CPLR § 213-c’s coverage.  Defendants’ 
+assertion that CPLR § 213-c does not apply because “the 20-year SOL does not apply 
+retroactively” is meritless.  CPLR § 213-c’s text contains no such limitation, and was revised last 
+year (increasing the limitations period from 5 to 20 years) specifically to allow claims such as 
+Plaintiff’s to proceed.  See June 17, 2019, New York Committee Report, 2019 NY S.B. 6574 (NS) 
+(noting that “victims who have suffered in silence for decades have bravely spoken about their 
+abuse, and have also laid bare the state’s limited ability to prosecute their abusers due to the 
+passage of time” and that “this bill would increase the time period in which the victim could bring 
+a civil suit for these offenses to twenty years”).    
+Defendants also assert that Plaintiff’s claims are untimely under New York’s borrowing 
+statute, CPLR § 202.  This argument fails for two reasons.  First, CPLR § 202 only applies to non-
+residents who are injured outside of New York, and the controlling date for determining a 
+plaintiff’s residence is the date on which the cause of action accrued, not the date on which the 
+action was commenced.  See, e.g., DeMartino v. Rivera, 148 A.D.2d 568, 570 (N.Y. App. Div. 
+1989).  Under the borrowing statute, the phrases “resident” and “domicile” are not synonymous. 
+“Rather, the determination of whether a plaintiff is a New York resident, for purposes of CPLR 
+202, turns on whether [she] has a significant connection with some locality in the State as the result 
+Case 1:19-cv-10577-LJL-DCF     Document 25     Filed 01/31/20     Page 2 of 4
+BSF 
+
+ 
+ 
+of living there for some length of time during the course of a year.”  Antone v. Gen. Motors Corp., 
+473 N.E.2d 742, 746 (N.Y. 1984).  The fact that Plaintiff currently lives in New Jersey is irrelevant.  
+At the time of her repeated sexual assaults, Plaintiff was a resident of New York—she lived in 
+Epstein’s apartment building on 66th Street in Manhattan, where he housed other victims.  Compl. 
+¶ 40.  When Plaintiff escaped Epstein, she stayed in New York and moved into a Salvation Army 
+apartment.  Compl. ¶ 46.  Because Plaintiff had a significant connection with New York at the 
+time her cause of action accrued, she was a resident of New York, and CPLR § 202 does not apply.   
+Second, even if New York’s borrowing statute did apply and Plaintiff’s claims were 
+otherwise untimely, they would still not be barred because CPLR § 215(8)(a) provides for civil 
+actions 
+to 
+commence 
+within 
+“one 
+year 
+from 
+the 
+termination 
+of 
+the 
+criminal 
+action . . . notwithstanding that the time in which to commence such action has already expired.”  
+II. 
+Plaintiff Has Sufficiently Pled Facts Supporting Equitable Estoppel and Tolling. 
+Even if Plaintiff’s claims were otherwise time-barred under New York’s statutes of 
+limitation (they are not), they would still be timely under the doctrine of equitable estoppel.  
+Defendants assert that Plaintiff “fails to meet her burden to allege extraordinary circumstances 
+sufficient to justify tolling or equitable estoppel.”  Dkt. 24 at 2.  But the Complaint alleges in detail 
+the methods of intimidation and control that Jeffrey Epstein and his co-conspirators used to deter 
+their victims from seeking justice.  Equitable estoppel applies “where it would be unjust to allow 
+a defendant to assert a statute of limitations defense,” Zumpano v. Quinn, 849 N.E.2d 926, 929 
+(N.Y. 2006), due to “deception, concealment, threats, or other misconduct,” Zoe G. v. Frederick 
+F.G., 208 A.D.2d 675, 675 (N.Y. App. Div. 1994).  The Complaint alleges that Epstein and his 
+co-conspirators manipulated victims using “financial power, promises, and threats;” that Plaintiff 
+was “terrified of Epstein, who repeatedly threatened her and made representations about his 
+wealth, power, and connections;” and that Epstein forced Plaintiff to meet with a prominent lawyer 
+who gathered information about Plaintiff’s family’s financial situation that Epstein later used “to 
+intimidate her and to keep her compliant in his sex-trafficking scheme.”  Compl. ¶¶ 27, 40, 43.  
+The allegations concerning Epstein’s purposeful silencing of his victims (and Plaintiff specifically) 
+easily provide the requisite “extraordinary circumstances” for equitable tolling. 
+Because equitable estoppel and equitable tolling are fact-specific doctrines, Defendants’ 
+attempt to resolve the issue with a motion to dismiss is inappropriate, and any motion challenging 
+whether or not those doctrines apply should be reserved until after discovery.  See, e.g., Carelock 
+v. United States, 2015 WL 5000816, at *8 (S.D.N.Y. Aug. 20, 2015). 
+III. 
+The Court Should Address Punitive Damages After Discovery   
+Federal Rule 12(b)(6) allows a defendant to file a motion to dismiss for “failure to state a 
+claim upon which relief can be granted.”  Defendants’ request for the Court to dismiss Plaintiff’s 
+claim for punitive damages does not relate to either of Plaintiff’s clams (battery and intentional 
+infliction of emotion distress) and does not relate to the sufficiency of the allegations in the 
+Complaint.  The issue of what type of damages to which Plaintiff is entitled should therefore be 
+dealt with at a later stage of this litigation.  See, e.g., Okyere v. Palisades Collection, LLC, 961 F. 
+Supp. 2d 522, 536 (S.D.N.Y. 2013) (denying “motion to ‘dismiss’ plaintiff’s request for punitive 
+damages as procedurally premature”). 
+ 
+Case 1:19-cv-10577-LJL-DCF     Document 25     Filed 01/31/20     Page 3 of 4
+BSF 
+
+ 
+ 
+Respectfully submitted, 
+ 
+/s/ Joshua I. Schiller 
+ 
+David Boies, Esq. 
+Joshua I. Schiller, Esq. 
+Sigrid S. McCawley, Esq. 
+cc:  Counsel of Record (via ECF) 
+ 
+ 
+Case 1:19-cv-10577-LJL-DCF     Document 25     Filed 01/31/20     Page 4 of 4
+BSF 
