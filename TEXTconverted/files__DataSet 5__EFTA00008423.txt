@@ -1,5 +1,0 @@
-METADATA_SOURCE: files\DataSet 5
-METADATA_FILENAME: EFTA00008423.pdf
-----------------------------------------
-cioNe 40/4, 
-EFTA00008423

@@ -1,4 +1,0 @@
-METADATA_SOURCE: files\DataSet 5
-METADATA_FILENAME: EFTA00008435.pdf
-----------------------------------------
-EFTA00008435
