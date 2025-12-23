@@ -1,4 +1,4 @@
-# Jeffrey Epstein Justice Files - Plain Text Corpus
+# Jeffrey Epstein Justice Files - CONTAINS MANY UNREDACTED -Plain Text Corpus
 
 This repository contains the plain text versions of the released court documents regarding the Jeffrey Epstein/Ghislaine Maxwell cases, originally sourced from the [United States Department of Justice](https://www.justice.gov/).
 
